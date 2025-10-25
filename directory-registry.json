@@ -1,14 +1,22 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-10-25T21:47:25.876403Z",
+  "lastUpdated": "2025-10-25T21:47:34.716439Z",
   "stats": {
     "totalDirectories": 0,
-    "totalRepos": 0,
+    "totalRepos": 1,
     "avgDirectoriesPerRepo": 0,
     "totalListings": 0
   },
   "directories": {},
-  "repos": {},
+  "repos": {
+    "offren-directories-batch-001": {
+      "created": "2025-10-25T21:47:32.337182Z",
+      "directoryCount": 0,
+      "status": "active",
+      "sizeMB": 0.001,
+      "batchNumber": 1
+    }
+  },
   "config": {
     "maxDirectoriesPerRepo": 100,
     "maxRepoSizeMB": 800,

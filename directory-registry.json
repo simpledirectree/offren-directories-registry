@@ -1,11 +1,11 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-10-25T21:59:28.573401Z",
+  "lastUpdated": "2025-10-26T01:41:39.945073Z",
   "stats": {
-    "totalDirectories": 1,
+    "totalDirectories": 2,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1.0,
-    "totalListings": 2
+    "avgDirectoriesPerRepo": 2.0,
+    "totalListings": 7
   },
   "directories": {
     "test-mobile-dog-groomers": {
@@ -15,12 +15,20 @@
       "status": "active",
       "listingsCount": 2,
       "opportunityScore": 85
+    },
+    "plumbing-services": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-10-26T01:41:39.501239Z",
+      "lastUpdated": "2025-10-26T01:41:39.501273Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 95
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-10-25T21:47:32.337182Z",
-      "directoryCount": 1,
+      "directoryCount": 2,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

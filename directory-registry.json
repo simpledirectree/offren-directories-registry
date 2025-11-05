@@ -1,1 +1,41 @@
-
+{
+  "version": "1.0",
+  "lastUpdated": "2025-11-05T23:23:47.743924Z",
+  "stats": {
+    "totalDirectories": 1,
+    "totalRepos": 1,
+    "avgDirectoriesPerRepo": 1.0,
+    "totalListings": 10,
+    "aiEnhancedDirectories": 1
+  },
+  "directories": {
+    "spanish-speaking-ngwalk-in-lawyers-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-05T23:23:47.743924Z",
+      "lastUpdated": "2025-11-05T23:23:47.743924Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    }
+  },
+  "repos": {
+    "offren-directories-batch-001": {
+      "created": "2025-11-05T23:23:47.743924Z",
+      "directoryCount": 1,
+      "status": "active",
+      "sizeMB": 0.001,
+      "batchNumber": 1
+    }
+  },
+  "config": {
+    "maxDirectoriesPerRepo": 100,
+    "maxRepoSizeMB": 800,
+    "autoCreateNewRepos": true,
+    "routerUrl": "https://simpledirectree.com"
+  }
+}

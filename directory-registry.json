@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-05T23:19:55.845016Z",
+  "lastUpdated": "2025-11-05T23:20:04.878728Z",
   "stats": {
-    "totalDirectories": 2,
+    "totalDirectories": 3,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2.0,
-    "totalListings": 20,
-    "aiEnhancedDirectories": 2
+    "avgDirectoriesPerRepo": 3.0,
+    "totalListings": 30,
+    "aiEnhancedDirectories": 3
   },
   "directories": {
     "mobile-dog-grooming": {
@@ -34,12 +34,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "emergency-plumbers": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-05T23:20:04.878728Z",
+      "lastUpdated": "2025-11-05T23:20:04.878728Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:15:11.456973Z",
-      "directoryCount": 2,
+      "directoryCount": 3,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

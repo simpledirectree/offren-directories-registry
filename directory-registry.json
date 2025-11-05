@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-05T07:12:27.944893Z",
+  "lastUpdated": "2025-11-05T20:28:53.054602Z",
   "stats": {
-    "totalDirectories": 6,
+    "totalDirectories": 7,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 6.0,
-    "totalListings": 33,
-    "aiEnhancedDirectories": 3
+    "avgDirectoriesPerRepo": 7.0,
+    "totalListings": 43,
+    "aiEnhancedDirectories": 4
   },
   "directories": {
     "test-mobile-dog-groomers": {
@@ -72,12 +72,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "dog-groomer-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-05T20:28:53.054602Z",
+      "lastUpdated": "2025-11-05T20:28:53.054602Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-10-25T21:47:32.337182Z",
-      "directoryCount": 6,
+      "directoryCount": 7,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

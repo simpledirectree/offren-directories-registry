@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T17:33:17.024817+00:00Z",
+  "lastUpdated": "2025-11-06T17:33:35.709427+00:00Z",
   "stats": {
-    "totalDirectories": 2194,
+    "totalDirectories": 2195,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2194.0,
-    "totalListings": 21288,
-    "aiEnhancedDirectories": 2194
+    "avgDirectoriesPerRepo": 2195.0,
+    "totalListings": 21298,
+    "aiEnhancedDirectories": 2195
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2194,
+      "directoryCount": 2195,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -28722,6 +28722,19 @@
       "status": "active",
       "listingsCount": 5,
       "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "hindu-owned-contract-law-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T17:33:35.709427+00:00Z",
+      "lastUpdated": "2025-11-06T17:33:35.709427+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

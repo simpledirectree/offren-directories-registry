@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T07:46:30.345572+00:00Z",
+  "lastUpdated": "2025-11-06T07:46:49.615276+00:00Z",
   "stats": {
-    "totalDirectories": 542,
+    "totalDirectories": 543,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 542.0,
-    "totalListings": 5153,
-    "aiEnhancedDirectories": 542
+    "avgDirectoriesPerRepo": 543.0,
+    "totalListings": 5163,
+    "aiEnhancedDirectories": 543
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 542,
+      "directoryCount": 543,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -7243,6 +7243,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T07:46:30.345572+00:00Z",
       "lastUpdated": "2025-11-06T07:46:30.345572+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "lgbt-owned-mobile-grooming-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T07:46:49.615276+00:00Z",
+      "lastUpdated": "2025-11-06T07:46:49.615276+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

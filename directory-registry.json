@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T11:56:44.481107+00:00Z",
+  "lastUpdated": "2025-11-06T11:57:06.766965+00:00Z",
   "stats": {
-    "totalDirectories": 1235,
+    "totalDirectories": 1236,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1235.0,
-    "totalListings": 11928,
-    "aiEnhancedDirectories": 1235
+    "avgDirectoriesPerRepo": 1236.0,
+    "totalListings": 11938,
+    "aiEnhancedDirectories": 1236
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1235,
+      "directoryCount": 1236,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -16252,6 +16252,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T11:56:44.481107+00:00Z",
       "lastUpdated": "2025-11-06T11:56:44.481107+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "female-owned-laboratory-testing-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T11:57:06.766965+00:00Z",
+      "lastUpdated": "2025-11-06T11:57:06.766965+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

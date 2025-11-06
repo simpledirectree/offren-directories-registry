@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T04:59:15.140532Z",
+  "lastUpdated": "2025-11-06T04:59:33.863154Z",
   "stats": {
-    "totalDirectories": 239,
+    "totalDirectories": 240,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 239.0,
-    "totalListings": 2198,
-    "aiEnhancedDirectories": 239
+    "avgDirectoriesPerRepo": 240.0,
+    "totalListings": 2206,
+    "aiEnhancedDirectories": 240
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 239,
+      "directoryCount": 240,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -3307,6 +3307,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-3d-animation-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T04:59:33.863154Z",
+      "lastUpdated": "2025-11-06T04:59:33.863154Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

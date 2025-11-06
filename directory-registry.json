@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T04:12:13.391095Z",
+  "lastUpdated": "2025-11-06T04:12:31.238837Z",
   "stats": {
-    "totalDirectories": 92,
+    "totalDirectories": 93,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 92.0,
-    "totalListings": 817,
-    "aiEnhancedDirectories": 92
+    "avgDirectoriesPerRepo": 93.0,
+    "totalListings": 827,
+    "aiEnhancedDirectories": 93
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 92,
+      "directoryCount": 93,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -1393,6 +1393,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T04:12:13.391095Z",
       "lastUpdated": "2025-11-06T04:12:13.391095Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-24-hour-fitness-centers-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T04:12:31.238837Z",
+      "lastUpdated": "2025-11-06T04:12:31.238837Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

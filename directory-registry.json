@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T14:50:08.710997+00:00Z",
+  "lastUpdated": "2025-11-06T14:50:27.831231+00:00Z",
   "stats": {
-    "totalDirectories": 1719,
+    "totalDirectories": 1720,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1719.0,
-    "totalListings": 16674,
-    "aiEnhancedDirectories": 1719
+    "avgDirectoriesPerRepo": 1720.0,
+    "totalListings": 16684,
+    "aiEnhancedDirectories": 1720
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1719,
+      "directoryCount": 1720,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -22544,6 +22544,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T14:50:08.710997+00:00Z",
       "lastUpdated": "2025-11-06T14:50:08.710997+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "atheist-owned-optical-retail-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T14:50:27.831231+00:00Z",
+      "lastUpdated": "2025-11-06T14:50:27.831231+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

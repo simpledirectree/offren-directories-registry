@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T14:42:06.268297+00:00Z",
+  "lastUpdated": "2025-11-06T14:42:25.817044+00:00Z",
   "stats": {
-    "totalDirectories": 1695,
+    "totalDirectories": 1696,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1695.0,
-    "totalListings": 16435,
-    "aiEnhancedDirectories": 1695
+    "avgDirectoriesPerRepo": 1696.0,
+    "totalListings": 16444,
+    "aiEnhancedDirectories": 1696
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1695,
+      "directoryCount": 1696,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -22235,6 +22235,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "middle-eastern-owned-logistics-consulting-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T14:42:25.817044+00:00Z",
+      "lastUpdated": "2025-11-06T14:42:25.817044+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T09:30:38.631583+00:00Z",
+  "lastUpdated": "2025-11-06T09:30:57.493095+00:00Z",
   "stats": {
-    "totalDirectories": 841,
+    "totalDirectories": 842,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 841.0,
-    "totalListings": 8070,
-    "aiEnhancedDirectories": 841
+    "avgDirectoriesPerRepo": 842.0,
+    "totalListings": 8073,
+    "aiEnhancedDirectories": 842
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 841,
+      "directoryCount": 842,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -11133,6 +11133,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "lgbt-owned-property-management-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T09:30:57.493095+00:00Z",
+      "lastUpdated": "2025-11-06T09:30:57.493095+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

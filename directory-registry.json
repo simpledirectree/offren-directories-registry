@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T03:47:12.653305Z",
+  "lastUpdated": "2025-11-06T03:47:32.875722Z",
   "stats": {
-    "totalDirectories": 18,
+    "totalDirectories": 19,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 18.0,
-    "totalListings": 157,
-    "aiEnhancedDirectories": 18
+    "avgDirectoriesPerRepo": 19.0,
+    "totalListings": 167,
+    "aiEnhancedDirectories": 19
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 18,
+      "directoryCount": 19,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -431,6 +431,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T03:47:12.653305Z",
       "lastUpdated": "2025-11-06T03:47:12.653305Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-24-7-monitoring-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T03:47:32.875722Z",
+      "lastUpdated": "2025-11-06T03:47:32.875722Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

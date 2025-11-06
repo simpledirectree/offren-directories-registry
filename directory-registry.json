@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T08:20:48.375961+00:00Z",
+  "lastUpdated": "2025-11-06T08:21:07.468478+00:00Z",
   "stats": {
-    "totalDirectories": 642,
+    "totalDirectories": 643,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 642.0,
-    "totalListings": 6132,
-    "aiEnhancedDirectories": 642
+    "avgDirectoriesPerRepo": 643.0,
+    "totalListings": 6142,
+    "aiEnhancedDirectories": 643
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 642,
+      "directoryCount": 643,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -8543,6 +8543,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T08:20:48.375961+00:00Z",
       "lastUpdated": "2025-11-06T08:20:48.375961+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "indian-american-owned-digital-advertising-management-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T08:21:07.468478+00:00Z",
+      "lastUpdated": "2025-11-06T08:21:07.468478+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T12:15:57.663227+00:00Z",
+  "lastUpdated": "2025-11-06T12:16:18.875732+00:00Z",
   "stats": {
-    "totalDirectories": 1285,
+    "totalDirectories": 1286,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1285.0,
-    "totalListings": 12426,
-    "aiEnhancedDirectories": 1285
+    "avgDirectoriesPerRepo": 1286.0,
+    "totalListings": 12436,
+    "aiEnhancedDirectories": 1286
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1285,
+      "directoryCount": 1286,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -16908,6 +16908,19 @@
       "aiEnhanced": true,
       "researchSources": [
         "fallback"
+      ],
+      "competition": "medium"
+    },
+    "disabled-owned-personal-training-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T12:16:18.875732+00:00Z",
+      "lastUpdated": "2025-11-06T12:16:18.875732+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
       ],
       "competition": "medium"
     }

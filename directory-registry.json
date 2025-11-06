@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T14:03:24.391739+00:00Z",
+  "lastUpdated": "2025-11-06T14:03:47.929588+00:00Z",
   "stats": {
-    "totalDirectories": 1587,
+    "totalDirectories": 1588,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1587.0,
-    "totalListings": 15373,
-    "aiEnhancedDirectories": 1587
+    "avgDirectoriesPerRepo": 1588.0,
+    "totalListings": 15383,
+    "aiEnhancedDirectories": 1588
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1587,
+      "directoryCount": 1588,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -20831,6 +20831,19 @@
       "status": "active",
       "listingsCount": 1,
       "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "agnostic-owned-email-security-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T14:03:47.929588+00:00Z",
+      "lastUpdated": "2025-11-06T14:03:47.929588+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T17:58:07.815151+00:00Z",
+  "lastUpdated": "2025-11-06T17:58:26.417752+00:00Z",
   "stats": {
-    "totalDirectories": 2266,
+    "totalDirectories": 2267,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2266.0,
-    "totalListings": 22008,
-    "aiEnhancedDirectories": 2266
+    "avgDirectoriesPerRepo": 2267.0,
+    "totalListings": 22018,
+    "aiEnhancedDirectories": 2267
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2266,
+      "directoryCount": 2267,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -29655,6 +29655,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T17:58:07.815151+00:00Z",
       "lastUpdated": "2025-11-06T17:58:07.815151+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "japanese-american-owned-dance-fitness-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T17:58:26.417752+00:00Z",
+      "lastUpdated": "2025-11-06T17:58:26.417752+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

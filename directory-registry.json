@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T10:58:15.624450+00:00Z",
+  "lastUpdated": "2025-11-06T10:58:38.381127+00:00Z",
   "stats": {
-    "totalDirectories": 1079,
+    "totalDirectories": 1080,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1079.0,
-    "totalListings": 10406,
-    "aiEnhancedDirectories": 1079
+    "avgDirectoriesPerRepo": 1080.0,
+    "totalListings": 10416,
+    "aiEnhancedDirectories": 1080
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1079,
+      "directoryCount": 1080,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -14224,6 +14224,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T10:58:15.624450+00:00Z",
       "lastUpdated": "2025-11-06T10:58:15.624450+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "immigrant-owned-franchise-tax-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T10:58:38.381127+00:00Z",
+      "lastUpdated": "2025-11-06T10:58:38.381127+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

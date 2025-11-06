@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T23:41:48.610254+00:00Z",
+  "lastUpdated": "2025-11-06T23:42:04.191412+00:00Z",
   "stats": {
-    "totalDirectories": 29,
+    "totalDirectories": 30,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 29.0,
-    "totalListings": 266,
-    "aiEnhancedDirectories": 29
+    "avgDirectoriesPerRepo": 30.0,
+    "totalListings": 276,
+    "aiEnhancedDirectories": 30
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -385,12 +385,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-copywriting-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T23:42:04.191412+00:00Z",
+      "lastUpdated": "2025-11-06T23:42:04.191412+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 29,
+      "directoryCount": 30,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

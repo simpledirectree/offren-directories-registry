@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T06:15:05.820549+00:00Z",
+  "lastUpdated": "2025-11-06T06:15:30.171752+00:00Z",
   "stats": {
-    "totalDirectories": 272,
+    "totalDirectories": 273,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 272.0,
-    "totalListings": 2510,
-    "aiEnhancedDirectories": 272
+    "avgDirectoriesPerRepo": 273.0,
+    "totalListings": 2520,
+    "aiEnhancedDirectories": 273
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 272,
+      "directoryCount": 273,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -3733,6 +3733,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T06:15:05.820549+00:00Z",
       "lastUpdated": "2025-11-06T06:15:05.820549+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "hebrew-speaking-mail-handling-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T06:15:30.171752+00:00Z",
+      "lastUpdated": "2025-11-06T06:15:30.171752+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

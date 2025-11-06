@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:28:32.584109+00:00Z",
+  "lastUpdated": "2025-11-06T15:29:03.675121+00:00Z",
   "stats": {
-    "totalDirectories": 1830,
+    "totalDirectories": 1831,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1830.0,
-    "totalListings": 17774,
-    "aiEnhancedDirectories": 1830
+    "avgDirectoriesPerRepo": 1831.0,
+    "totalListings": 17784,
+    "aiEnhancedDirectories": 1831
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1830,
+      "directoryCount": 1831,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -23987,6 +23987,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T15:28:32.584109+00:00Z",
       "lastUpdated": "2025-11-06T15:28:32.584109+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "jewish-owned-journey-mapping-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:29:03.675121+00:00Z",
+      "lastUpdated": "2025-11-06T15:29:03.675121+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

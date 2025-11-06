@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T22:21:42.913432+00:00Z",
+  "lastUpdated": "2025-11-06T22:24:31.837454+00:00Z",
   "stats": {
-    "totalDirectories": 2425,
+    "totalDirectories": 2426,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2425.0,
-    "totalListings": 23515,
-    "aiEnhancedDirectories": 2425
+    "avgDirectoriesPerRepo": 2426.0,
+    "totalListings": 23525,
+    "aiEnhancedDirectories": 2426
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2425,
+      "directoryCount": 2426,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -31722,6 +31722,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T22:21:42.913432+00:00Z",
       "lastUpdated": "2025-11-06T22:21:42.913432+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "catholic-owned-illustration-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T22:24:31.837454+00:00Z",
+      "lastUpdated": "2025-11-06T22:24:31.837454+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

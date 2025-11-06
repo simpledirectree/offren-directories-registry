@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T04:56:24.492146Z",
+  "lastUpdated": "2025-11-06T04:56:42.829188Z",
   "stats": {
-    "totalDirectories": 230,
+    "totalDirectories": 231,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 230.0,
-    "totalListings": 2117,
-    "aiEnhancedDirectories": 230
+    "avgDirectoriesPerRepo": 231.0,
+    "totalListings": 2127,
+    "aiEnhancedDirectories": 231
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 230,
+      "directoryCount": 231,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -3187,6 +3187,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T04:56:24.492146Z",
       "lastUpdated": "2025-11-06T04:56:24.492146Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-3d-animation-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T04:56:42.829188Z",
+      "lastUpdated": "2025-11-06T04:56:42.829188Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

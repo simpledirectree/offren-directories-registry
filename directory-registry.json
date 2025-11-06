@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T21:57:27.396341+00:00Z",
+  "lastUpdated": "2025-11-06T21:58:35.731815+00:00Z",
   "stats": {
-    "totalDirectories": 2404,
+    "totalDirectories": 2405,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2404.0,
-    "totalListings": 23315,
-    "aiEnhancedDirectories": 2404
+    "avgDirectoriesPerRepo": 2405.0,
+    "totalListings": 23325,
+    "aiEnhancedDirectories": 2405
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2404,
+      "directoryCount": 2405,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -31449,6 +31449,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T21:57:27.396341+00:00Z",
       "lastUpdated": "2025-11-06T21:57:27.396341+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "buddhist-owned-foreign-language-tutoring-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T21:58:35.731815+00:00Z",
+      "lastUpdated": "2025-11-06T21:58:35.731815+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

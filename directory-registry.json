@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T04:01:43.786687Z",
+  "lastUpdated": "2025-11-06T04:02:06.890512Z",
   "stats": {
-    "totalDirectories": 62,
+    "totalDirectories": 63,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 62.0,
-    "totalListings": 542,
-    "aiEnhancedDirectories": 62
+    "avgDirectoriesPerRepo": 63.0,
+    "totalListings": 552,
+    "aiEnhancedDirectories": 63
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 62,
+      "directoryCount": 63,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -1003,6 +1003,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T04:01:43.786687Z",
       "lastUpdated": "2025-11-06T04:01:43.786687Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-24-hour-fitness-centers-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T04:02:06.890512Z",
+      "lastUpdated": "2025-11-06T04:02:06.890512Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

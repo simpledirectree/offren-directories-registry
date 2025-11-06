@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T17:59:05.113119+00:00Z",
+  "lastUpdated": "2025-11-06T17:59:27.020646+00:00Z",
   "stats": {
-    "totalDirectories": 2269,
+    "totalDirectories": 2270,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2269.0,
-    "totalListings": 22038,
-    "aiEnhancedDirectories": 2269
+    "avgDirectoriesPerRepo": 2270.0,
+    "totalListings": 22048,
+    "aiEnhancedDirectories": 2270
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2269,
+      "directoryCount": 2270,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -29694,6 +29694,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T17:59:05.113119+00:00Z",
       "lastUpdated": "2025-11-06T17:59:05.113119+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "disabled-owned-hatha-yoga-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T17:59:27.020646+00:00Z",
+      "lastUpdated": "2025-11-06T17:59:27.020646+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

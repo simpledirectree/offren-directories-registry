@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T04:13:48.430054Z",
+  "lastUpdated": "2025-11-06T04:14:08.552406Z",
   "stats": {
-    "totalDirectories": 97,
+    "totalDirectories": 98,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 97.0,
-    "totalListings": 863,
-    "aiEnhancedDirectories": 97
+    "avgDirectoriesPerRepo": 98.0,
+    "totalListings": 873,
+    "aiEnhancedDirectories": 98
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 97,
+      "directoryCount": 98,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -1458,6 +1458,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T04:13:48.430054Z",
       "lastUpdated": "2025-11-06T04:13:48.430054Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-24-hour-fitness-centers-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T04:14:08.552406Z",
+      "lastUpdated": "2025-11-06T04:14:08.552406Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

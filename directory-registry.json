@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T11:40:37.031078+00:00Z",
+  "lastUpdated": "2025-11-06T11:40:56.942376+00:00Z",
   "stats": {
-    "totalDirectories": 1191,
+    "totalDirectories": 1192,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1191.0,
-    "totalListings": 11499,
-    "aiEnhancedDirectories": 1191
+    "avgDirectoriesPerRepo": 1192.0,
+    "totalListings": 11509,
+    "aiEnhancedDirectories": 1192
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1191,
+      "directoryCount": 1192,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -15680,6 +15680,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T11:40:37.031078+00:00Z",
       "lastUpdated": "2025-11-06T11:40:37.031078+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "muslim-owned-pet-trainers-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T11:40:56.942376+00:00Z",
+      "lastUpdated": "2025-11-06T11:40:56.942376+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

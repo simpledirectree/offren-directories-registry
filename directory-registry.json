@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T14:23:46.938288+00:00Z",
+  "lastUpdated": "2025-11-06T14:24:06.743956+00:00Z",
   "stats": {
-    "totalDirectories": 1642,
+    "totalDirectories": 1643,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1642.0,
-    "totalListings": 15913,
-    "aiEnhancedDirectories": 1642
+    "avgDirectoriesPerRepo": 1643.0,
+    "totalListings": 15923,
+    "aiEnhancedDirectories": 1643
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1642,
+      "directoryCount": 1643,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -21543,6 +21543,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T14:23:46.938288+00:00Z",
       "lastUpdated": "2025-11-06T14:23:46.938288+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "hebrew-speaking-sports-performance-training-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T14:24:06.743956+00:00Z",
+      "lastUpdated": "2025-11-06T14:24:06.743956+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

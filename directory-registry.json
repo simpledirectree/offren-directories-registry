@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T08:26:59.664638+00:00Z",
+  "lastUpdated": "2025-11-06T08:27:20.869636+00:00Z",
   "stats": {
-    "totalDirectories": 660,
+    "totalDirectories": 661,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 660.0,
-    "totalListings": 6307,
-    "aiEnhancedDirectories": 660
+    "avgDirectoriesPerRepo": 661.0,
+    "totalListings": 6315,
+    "aiEnhancedDirectories": 661
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 660,
+      "directoryCount": 661,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -8780,6 +8780,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "lgbt-owned-optometry-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T08:27:20.869636+00:00Z",
+      "lastUpdated": "2025-11-06T08:27:20.869636+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

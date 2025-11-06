@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T12:35:10.769618+00:00Z",
+  "lastUpdated": "2025-11-06T12:35:37.911931+00:00Z",
   "stats": {
-    "totalDirectories": 1342,
+    "totalDirectories": 1343,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1342.0,
-    "totalListings": 12981,
-    "aiEnhancedDirectories": 1342
+    "avgDirectoriesPerRepo": 1343.0,
+    "totalListings": 12991,
+    "aiEnhancedDirectories": 1343
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1342,
+      "directoryCount": 1343,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -17643,6 +17643,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T12:35:10.769618+00:00Z",
       "lastUpdated": "2025-11-06T12:35:10.769618+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "german-speaking-ceramic-coating-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T12:35:37.911931+00:00Z",
+      "lastUpdated": "2025-11-06T12:35:37.911931+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

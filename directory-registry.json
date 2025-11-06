@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:26:31.268522+00:00Z",
+  "lastUpdated": "2025-11-06T15:26:50.449688+00:00Z",
   "stats": {
-    "totalDirectories": 1824,
+    "totalDirectories": 1825,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1824.0,
-    "totalListings": 17714,
-    "aiEnhancedDirectories": 1824
+    "avgDirectoriesPerRepo": 1825.0,
+    "totalListings": 17724,
+    "aiEnhancedDirectories": 1825
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1824,
+      "directoryCount": 1825,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -23909,6 +23909,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T15:26:31.268522+00:00Z",
       "lastUpdated": "2025-11-06T15:26:31.268522+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "cuban-american-owned-day-of-wedding-coordination-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:26:50.449688+00:00Z",
+      "lastUpdated": "2025-11-06T15:26:50.449688+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

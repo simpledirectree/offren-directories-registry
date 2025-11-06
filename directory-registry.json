@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T10:01:15.754832+00:00Z",
+  "lastUpdated": "2025-11-06T10:01:35.624235+00:00Z",
   "stats": {
-    "totalDirectories": 928,
+    "totalDirectories": 929,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 928.0,
-    "totalListings": 8917,
-    "aiEnhancedDirectories": 928
+    "avgDirectoriesPerRepo": 929.0,
+    "totalListings": 8927,
+    "aiEnhancedDirectories": 929
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 928,
+      "directoryCount": 929,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -12264,6 +12264,19 @@
       "status": "active",
       "listingsCount": 2,
       "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "chinese-speaking-javascript-development-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T10:01:35.624235+00:00Z",
+      "lastUpdated": "2025-11-06T10:01:35.624235+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:04:19.407703+00:00Z",
+  "lastUpdated": "2025-11-06T15:04:40.772247+00:00Z",
   "stats": {
-    "totalDirectories": 1761,
+    "totalDirectories": 1762,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1761.0,
-    "totalListings": 17094,
-    "aiEnhancedDirectories": 1761
+    "avgDirectoriesPerRepo": 1762.0,
+    "totalListings": 17104,
+    "aiEnhancedDirectories": 1762
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1761,
+      "directoryCount": 1762,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -23090,6 +23090,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T15:04:19.407703+00:00Z",
       "lastUpdated": "2025-11-06T15:04:19.407703+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "chinese-american-owned-diversity-training-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:04:40.772247+00:00Z",
+      "lastUpdated": "2025-11-06T15:04:40.772247+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

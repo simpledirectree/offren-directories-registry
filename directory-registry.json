@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T16:34:36.388364+00:00Z",
+  "lastUpdated": "2025-11-06T16:34:58.463915+00:00Z",
   "stats": {
-    "totalDirectories": 2022,
+    "totalDirectories": 2023,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2022.0,
-    "totalListings": 19632,
-    "aiEnhancedDirectories": 2022
+    "avgDirectoriesPerRepo": 2023.0,
+    "totalListings": 19642,
+    "aiEnhancedDirectories": 2023
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2022,
+      "directoryCount": 2023,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -26483,6 +26483,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T16:34:36.388364+00:00Z",
       "lastUpdated": "2025-11-06T16:34:36.388364+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "hawaiian-native-owned-boilers-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T16:34:58.463915+00:00Z",
+      "lastUpdated": "2025-11-06T16:34:58.463915+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T10:43:44.060596+00:00Z",
+  "lastUpdated": "2025-11-06T10:44:05.678884+00:00Z",
   "stats": {
-    "totalDirectories": 1041,
+    "totalDirectories": 1042,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1041.0,
-    "totalListings": 10026,
-    "aiEnhancedDirectories": 1041
+    "avgDirectoriesPerRepo": 1042.0,
+    "totalListings": 10036,
+    "aiEnhancedDirectories": 1042
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1041,
+      "directoryCount": 1042,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -13730,6 +13730,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T10:43:44.060596+00:00Z",
       "lastUpdated": "2025-11-06T10:43:44.060596+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "chinese-american-owned-minor-appliance-installation-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T10:44:05.678884+00:00Z",
+      "lastUpdated": "2025-11-06T10:44:05.678884+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T08:37:23.451730+00:00Z",
+  "lastUpdated": "2025-11-06T08:37:45.052831+00:00Z",
   "stats": {
-    "totalDirectories": 690,
+    "totalDirectories": 691,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 690.0,
-    "totalListings": 6589,
-    "aiEnhancedDirectories": 690
+    "avgDirectoriesPerRepo": 691.0,
+    "totalListings": 6599,
+    "aiEnhancedDirectories": 691
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 690,
+      "directoryCount": 691,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -9167,6 +9167,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T08:37:23.451730+00:00Z",
       "lastUpdated": "2025-11-06T08:37:23.451730+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "hindu-owned-retail-cleaning-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T08:37:45.052831+00:00Z",
+      "lastUpdated": "2025-11-06T08:37:45.052831+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

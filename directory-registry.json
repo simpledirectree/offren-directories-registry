@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T06:42:47.272666+00:00Z",
+  "lastUpdated": "2025-11-06T06:43:04.597628+00:00Z",
   "stats": {
-    "totalDirectories": 354,
+    "totalDirectories": 355,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 354.0,
-    "totalListings": 3316,
-    "aiEnhancedDirectories": 354
+    "avgDirectoriesPerRepo": 355.0,
+    "totalListings": 3320,
+    "aiEnhancedDirectories": 355
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 354,
+      "directoryCount": 355,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -4802,6 +4802,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "black-owned-tire-balancing-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T06:43:04.597628+00:00Z",
+      "lastUpdated": "2025-11-06T06:43:04.597628+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

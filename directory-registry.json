@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T04:39:15.152122Z",
+  "lastUpdated": "2025-11-06T04:39:32.719875Z",
   "stats": {
-    "totalDirectories": 176,
+    "totalDirectories": 177,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 176.0,
-    "totalListings": 1609,
-    "aiEnhancedDirectories": 176
+    "avgDirectoriesPerRepo": 177.0,
+    "totalListings": 1619,
+    "aiEnhancedDirectories": 177
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 176,
+      "directoryCount": 177,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -2485,6 +2485,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T04:39:15.152122Z",
       "lastUpdated": "2025-11-06T04:39:15.152122Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-2d-animation-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T04:39:32.719875Z",
+      "lastUpdated": "2025-11-06T04:39:32.719875Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

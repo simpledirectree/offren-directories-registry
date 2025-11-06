@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T11:33:51.080407+00:00Z",
+  "lastUpdated": "2025-11-06T11:34:10.523965+00:00Z",
   "stats": {
-    "totalDirectories": 1174,
+    "totalDirectories": 1175,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1174.0,
-    "totalListings": 11339,
-    "aiEnhancedDirectories": 1174
+    "avgDirectoriesPerRepo": 1175.0,
+    "totalListings": 11344,
+    "aiEnhancedDirectories": 1175
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1174,
+      "directoryCount": 1175,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -15462,6 +15462,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "minors-owned-science-tutoring-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T11:34:10.523965+00:00Z",
+      "lastUpdated": "2025-11-06T11:34:10.523965+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:50:36.331407+00:00Z",
+  "lastUpdated": "2025-11-06T15:50:55.558366+00:00Z",
   "stats": {
-    "totalDirectories": 1894,
+    "totalDirectories": 1895,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1894.0,
-    "totalListings": 18397,
-    "aiEnhancedDirectories": 1894
+    "avgDirectoriesPerRepo": 1895.0,
+    "totalListings": 18407,
+    "aiEnhancedDirectories": 1895
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1894,
+      "directoryCount": 1895,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -24819,6 +24819,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T15:50:36.331407+00:00Z",
       "lastUpdated": "2025-11-06T15:50:36.331407+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "atheist-owned-bariatric-surgery-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:50:55.558366+00:00Z",
+      "lastUpdated": "2025-11-06T15:50:55.558366+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

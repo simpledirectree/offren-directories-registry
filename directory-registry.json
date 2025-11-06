@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T04:31:17.848413Z",
+  "lastUpdated": "2025-11-06T04:31:36.326819Z",
   "stats": {
-    "totalDirectories": 151,
+    "totalDirectories": 152,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 151.0,
-    "totalListings": 1387,
-    "aiEnhancedDirectories": 151
+    "avgDirectoriesPerRepo": 152.0,
+    "totalListings": 1397,
+    "aiEnhancedDirectories": 152
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 151,
+      "directoryCount": 152,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -2160,6 +2160,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T04:31:17.848413Z",
       "lastUpdated": "2025-11-06T04:31:17.848413Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-2d-animation-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T04:31:36.326819Z",
+      "lastUpdated": "2025-11-06T04:31:36.326819Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

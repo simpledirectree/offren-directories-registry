@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T04:08:19.447310Z",
+  "lastUpdated": "2025-11-06T04:08:39.456099Z",
   "stats": {
-    "totalDirectories": 82,
+    "totalDirectories": 83,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 82.0,
-    "totalListings": 726,
-    "aiEnhancedDirectories": 82
+    "avgDirectoriesPerRepo": 83.0,
+    "totalListings": 729,
+    "aiEnhancedDirectories": 83
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 82,
+      "directoryCount": 83,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -1266,6 +1266,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-24-hour-fitness-centers-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T04:08:39.456099Z",
+      "lastUpdated": "2025-11-06T04:08:39.456099Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

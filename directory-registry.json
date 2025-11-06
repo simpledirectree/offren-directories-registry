@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T07:31:19.321002+00:00Z",
+  "lastUpdated": "2025-11-06T07:31:40.048570+00:00Z",
   "stats": {
-    "totalDirectories": 496,
+    "totalDirectories": 497,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 496.0,
-    "totalListings": 4698,
-    "aiEnhancedDirectories": 496
+    "avgDirectoriesPerRepo": 497.0,
+    "totalListings": 4708,
+    "aiEnhancedDirectories": 497
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 496,
+      "directoryCount": 497,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -6645,6 +6645,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T07:31:19.321002+00:00Z",
       "lastUpdated": "2025-11-06T07:31:19.321002+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "lgbt-owned-remarketing-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T07:31:40.048570+00:00Z",
+      "lastUpdated": "2025-11-06T07:31:40.048570+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

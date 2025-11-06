@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T14:28:01.657571+00:00Z",
+  "lastUpdated": "2025-11-06T14:28:23.827628+00:00Z",
   "stats": {
-    "totalDirectories": 1655,
+    "totalDirectories": 1656,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1655.0,
-    "totalListings": 16035,
-    "aiEnhancedDirectories": 1655
+    "avgDirectoriesPerRepo": 1656.0,
+    "totalListings": 16045,
+    "aiEnhancedDirectories": 1656
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1655,
+      "directoryCount": 1656,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -21712,6 +21712,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T14:28:01.657571+00:00Z",
       "lastUpdated": "2025-11-06T14:28:01.657571+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "non-religious-owned-email-security-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T14:28:23.827628+00:00Z",
+      "lastUpdated": "2025-11-06T14:28:23.827628+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

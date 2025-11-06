@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T12:33:48.216708+00:00Z",
+  "lastUpdated": "2025-11-06T12:34:08.535425+00:00Z",
   "stats": {
-    "totalDirectories": 1338,
+    "totalDirectories": 1339,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1338.0,
-    "totalListings": 12941,
-    "aiEnhancedDirectories": 1338
+    "avgDirectoriesPerRepo": 1339.0,
+    "totalListings": 12951,
+    "aiEnhancedDirectories": 1339
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1338,
+      "directoryCount": 1339,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -17591,6 +17591,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T12:33:48.216708+00:00Z",
       "lastUpdated": "2025-11-06T12:33:48.216708+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "french-speaking-pet-cremation-services-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T12:34:08.535425+00:00Z",
+      "lastUpdated": "2025-11-06T12:34:08.535425+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

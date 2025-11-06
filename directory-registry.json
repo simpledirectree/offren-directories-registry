@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T16:17:17.687215+00:00Z",
+  "lastUpdated": "2025-11-06T16:17:41.420652+00:00Z",
   "stats": {
-    "totalDirectories": 1971,
+    "totalDirectories": 1972,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1971.0,
-    "totalListings": 19135,
-    "aiEnhancedDirectories": 1971
+    "avgDirectoriesPerRepo": 1972.0,
+    "totalListings": 19145,
+    "aiEnhancedDirectories": 1972
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1971,
+      "directoryCount": 1972,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -25823,6 +25823,19 @@
       "status": "active",
       "listingsCount": 4,
       "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "greek-speaking-business-formation-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T16:17:41.420652+00:00Z",
+      "lastUpdated": "2025-11-06T16:17:41.420652+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

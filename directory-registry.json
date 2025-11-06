@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T23:32:38.842272+00:00Z",
+  "lastUpdated": "2025-11-06T23:35:48.179814+00:00Z",
   "stats": {
-    "totalDirectories": 17,
+    "totalDirectories": 18,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 17.0,
-    "totalListings": 154,
-    "aiEnhancedDirectories": 17
+    "avgDirectoriesPerRepo": 18.0,
+    "totalListings": 164,
+    "aiEnhancedDirectories": 18
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -229,12 +229,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-ethnic-catering-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T23:35:48.179814+00:00Z",
+      "lastUpdated": "2025-11-06T23:35:48.179814+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 17,
+      "directoryCount": 18,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

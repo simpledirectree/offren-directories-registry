@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T04:24:45.047110Z",
+  "lastUpdated": "2025-11-06T04:25:03.393728Z",
   "stats": {
-    "totalDirectories": 131,
+    "totalDirectories": 132,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 131.0,
-    "totalListings": 1187,
-    "aiEnhancedDirectories": 131
+    "avgDirectoriesPerRepo": 132.0,
+    "totalListings": 1197,
+    "aiEnhancedDirectories": 132
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 131,
+      "directoryCount": 132,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -1900,6 +1900,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T04:24:45.047110Z",
       "lastUpdated": "2025-11-06T04:24:45.047110Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-24-7-soc-monitoring-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T04:25:03.393728Z",
+      "lastUpdated": "2025-11-06T04:25:03.393728Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T12:14:18.157580+00:00Z",
+  "lastUpdated": "2025-11-06T12:14:39.553956+00:00Z",
   "stats": {
-    "totalDirectories": 1283,
+    "totalDirectories": 1284,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1283.0,
-    "totalListings": 12406,
-    "aiEnhancedDirectories": 1283
+    "avgDirectoriesPerRepo": 1284.0,
+    "totalListings": 12416,
+    "aiEnhancedDirectories": 1284
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1283,
+      "directoryCount": 1284,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -16876,6 +16876,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T12:14:18.157580+00:00Z",
       "lastUpdated": "2025-11-06T12:14:18.157580+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "indian-american-owned-ghost-kitchen-delivery-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T12:14:39.553956+00:00Z",
+      "lastUpdated": "2025-11-06T12:14:39.553956+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T17:49:35.069607+00:00Z",
+  "lastUpdated": "2025-11-06T17:49:55.619268+00:00Z",
   "stats": {
-    "totalDirectories": 2240,
+    "totalDirectories": 2241,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2240.0,
-    "totalListings": 21748,
-    "aiEnhancedDirectories": 2240
+    "avgDirectoriesPerRepo": 2241.0,
+    "totalListings": 21758,
+    "aiEnhancedDirectories": 2241
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2240,
+      "directoryCount": 2241,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -29317,6 +29317,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T17:49:35.069607+00:00Z",
       "lastUpdated": "2025-11-06T17:49:35.069607+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "bengali-speaking-audit-preparation-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T17:49:55.619268+00:00Z",
+      "lastUpdated": "2025-11-06T17:49:55.619268+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

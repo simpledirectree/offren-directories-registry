@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T06:42:08.716772+00:00Z",
+  "lastUpdated": "2025-11-06T06:42:28.108146+00:00Z",
   "stats": {
-    "totalDirectories": 352,
+    "totalDirectories": 353,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 352.0,
-    "totalListings": 3296,
-    "aiEnhancedDirectories": 352
+    "avgDirectoriesPerRepo": 353.0,
+    "totalListings": 3306,
+    "aiEnhancedDirectories": 353
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 352,
+      "directoryCount": 353,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -4773,6 +4773,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T06:42:08.716772+00:00Z",
       "lastUpdated": "2025-11-06T06:42:08.716772+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "khmer-speaking-market-analysis-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T06:42:28.108146+00:00Z",
+      "lastUpdated": "2025-11-06T06:42:28.108146+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

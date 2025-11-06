@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T12:41:36.196039+00:00Z",
+  "lastUpdated": "2025-11-06T12:41:56.749426+00:00Z",
   "stats": {
-    "totalDirectories": 1360,
+    "totalDirectories": 1361,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1360.0,
-    "totalListings": 13161,
-    "aiEnhancedDirectories": 1360
+    "avgDirectoriesPerRepo": 1361.0,
+    "totalListings": 13171,
+    "aiEnhancedDirectories": 1361
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1360,
+      "directoryCount": 1361,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -17877,6 +17877,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T12:41:36.196039+00:00Z",
       "lastUpdated": "2025-11-06T12:41:36.196039+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "bengali-speaking-personal-concierge-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T12:41:56.749426+00:00Z",
+      "lastUpdated": "2025-11-06T12:41:56.749426+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

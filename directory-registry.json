@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T21:30:19.040326+00:00Z",
+  "lastUpdated": "2025-11-06T21:31:02.490054+00:00Z",
   "stats": {
-    "totalDirectories": 2373,
+    "totalDirectories": 2374,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2373.0,
-    "totalListings": 23033,
-    "aiEnhancedDirectories": 2373
+    "avgDirectoriesPerRepo": 2374.0,
+    "totalListings": 23043,
+    "aiEnhancedDirectories": 2374
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2373,
+      "directoryCount": 2374,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -31046,6 +31046,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T21:30:19.040326+00:00Z",
       "lastUpdated": "2025-11-06T21:30:19.040326+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "arabic-speaking-technical-writing-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T21:31:02.490054+00:00Z",
+      "lastUpdated": "2025-11-06T21:31:02.490054+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

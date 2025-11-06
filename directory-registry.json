@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T10:38:36.155329+00:00Z",
+  "lastUpdated": "2025-11-06T10:39:03.256821+00:00Z",
   "stats": {
-    "totalDirectories": 1030,
+    "totalDirectories": 1031,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1030.0,
-    "totalListings": 9916,
-    "aiEnhancedDirectories": 1030
+    "avgDirectoriesPerRepo": 1031.0,
+    "totalListings": 9926,
+    "aiEnhancedDirectories": 1031
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1030,
+      "directoryCount": 1031,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -13587,6 +13587,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T10:38:36.155329+00:00Z",
       "lastUpdated": "2025-11-06T10:38:36.155329+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "japanese-speaking-hitch-installation-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T10:39:03.256821+00:00Z",
+      "lastUpdated": "2025-11-06T10:39:03.256821+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

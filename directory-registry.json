@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T04:43:14.442462Z",
+  "lastUpdated": "2025-11-06T04:43:33.970713Z",
   "stats": {
-    "totalDirectories": 188,
+    "totalDirectories": 189,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 188.0,
-    "totalListings": 1728,
-    "aiEnhancedDirectories": 188
+    "avgDirectoriesPerRepo": 189.0,
+    "totalListings": 1738,
+    "aiEnhancedDirectories": 189
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 188,
+      "directoryCount": 189,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -2641,6 +2641,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T04:43:14.442462Z",
       "lastUpdated": "2025-11-06T04:43:14.442462Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-2d-animation-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T04:43:33.970713Z",
+      "lastUpdated": "2025-11-06T04:43:33.970713Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T05:01:13.083637Z",
+  "lastUpdated": "2025-11-06T05:01:33.105736Z",
   "stats": {
-    "totalDirectories": 245,
+    "totalDirectories": 246,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 245.0,
-    "totalListings": 2256,
-    "aiEnhancedDirectories": 245
+    "avgDirectoriesPerRepo": 246.0,
+    "totalListings": 2266,
+    "aiEnhancedDirectories": 246
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 245,
+      "directoryCount": 246,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -3382,6 +3382,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T05:01:13.083637Z",
       "lastUpdated": "2025-11-06T05:01:13.083637Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-3d-animation-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T05:01:33.105736Z",
+      "lastUpdated": "2025-11-06T05:01:33.105736Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

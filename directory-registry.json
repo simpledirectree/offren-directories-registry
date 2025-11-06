@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T14:00:11.664122+00:00Z",
+  "lastUpdated": "2025-11-06T14:00:31.969704+00:00Z",
   "stats": {
-    "totalDirectories": 1578,
+    "totalDirectories": 1579,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1578.0,
-    "totalListings": 15292,
-    "aiEnhancedDirectories": 1578
+    "avgDirectoriesPerRepo": 1579.0,
+    "totalListings": 15302,
+    "aiEnhancedDirectories": 1579
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1578,
+      "directoryCount": 1579,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -20711,6 +20711,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T14:00:11.664122+00:00Z",
       "lastUpdated": "2025-11-06T14:00:11.664122+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "agnostic-owned-garden-photography-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T14:00:31.969704+00:00Z",
+      "lastUpdated": "2025-11-06T14:00:31.969704+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

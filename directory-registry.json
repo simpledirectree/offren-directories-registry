@@ -8,188 +8,187 @@
     "totalListings": 137,
     "aiEnhancedDirectories": 16
   },
-    "african-american-owned-24-7-monitoring-in-alabama": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:03:26.055674Z",
-      "lastUpdated": "2025-11-06T01:03:26.055674Z",
-      "status": "active",
-      "listingsCount": 10,
-      "opportunityScore": 80,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-alaska": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:03:45.019972Z",
-      "lastUpdated": "2025-11-06T01:03:45.019972Z",
-      "status": "active",
-      "listingsCount": 3,
-      "opportunityScore": 50,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-arizona": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:04:07.118409Z",
-      "lastUpdated": "2025-11-06T01:04:07.118409Z",
-      "status": "active",
-      "listingsCount": 10,
-      "opportunityScore": 80,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-arkansas": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:04:28.526203Z",
-      "lastUpdated": "2025-11-06T01:04:28.526203Z",
-      "status": "active",
-      "listingsCount": 10,
-      "opportunityScore": 80,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-california": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:04:48.800413Z",
-      "lastUpdated": "2025-11-06T01:04:48.800413Z",
-      "status": "active",
-      "listingsCount": 5,
-      "opportunityScore": 70,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-colorado": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:05:11.681748Z",
-      "lastUpdated": "2025-11-06T01:05:11.681748Z",
-      "status": "active",
-      "listingsCount": 10,
-      "opportunityScore": 80,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-connecticut": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:05:33.470656Z",
-      "lastUpdated": "2025-11-06T01:05:33.470656Z",
-      "status": "active",
-      "listingsCount": 10,
-      "opportunityScore": 80,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-delaware": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:05:55.838833Z",
-      "lastUpdated": "2025-11-06T01:05:55.838833Z",
-      "status": "active",
-      "listingsCount": 10,
-      "opportunityScore": 80,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-florida": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:06:18.439553Z",
-      "lastUpdated": "2025-11-06T01:06:18.439553Z",
-      "status": "active",
-      "listingsCount": 10,
-      "opportunityScore": 80,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-georgia": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:06:36.727098Z",
-      "lastUpdated": "2025-11-06T01:06:36.727098Z",
-      "status": "active",
-      "listingsCount": 4,
-      "opportunityScore": 50,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-hawaii": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:06:57.623805Z",
-      "lastUpdated": "2025-11-06T01:06:57.623805Z",
-      "status": "active",
-      "listingsCount": 10,
-      "opportunityScore": 80,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-idaho": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:07:18.915412Z",
-      "lastUpdated": "2025-11-06T01:07:18.915412Z",
-      "status": "active",
-      "listingsCount": 10,
-      "opportunityScore": 80,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-illinois": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:07:40.524582Z",
-      "lastUpdated": "2025-11-06T01:07:40.524582Z",
-      "status": "active",
-      "listingsCount": 10,
-      "opportunityScore": 80,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    },
-    "african-american-owned-24-7-monitoring-in-indiana": {
-      "repo": "offren-directories-batch-001",
-      "created": "2025-11-06T01:08:00.340609Z",
-      "lastUpdated": "2025-11-06T01:08:00.340609Z",
-      "status": "active",
-      "listingsCount": 5,
-      "opportunityScore": 70,
-      "aiEnhanced": true,
-      "researchSources": [
-        "pollinations_ai"
-      ],
-      "competition": "medium"
-    }
+  "african-american-owned-24-7-monitoring-in-alabama": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:03:26.055674Z",
+    "lastUpdated": "2025-11-06T01:03:26.055674Z",
+    "status": "active",
+    "listingsCount": 10,
+    "opportunityScore": 80,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-alaska": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:03:45.019972Z",
+    "lastUpdated": "2025-11-06T01:03:45.019972Z",
+    "status": "active",
+    "listingsCount": 3,
+    "opportunityScore": 50,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-arizona": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:04:07.118409Z",
+    "lastUpdated": "2025-11-06T01:04:07.118409Z",
+    "status": "active",
+    "listingsCount": 10,
+    "opportunityScore": 80,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-arkansas": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:04:28.526203Z",
+    "lastUpdated": "2025-11-06T01:04:28.526203Z",
+    "status": "active",
+    "listingsCount": 10,
+    "opportunityScore": 80,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-california": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:04:48.800413Z",
+    "lastUpdated": "2025-11-06T01:04:48.800413Z",
+    "status": "active",
+    "listingsCount": 5,
+    "opportunityScore": 70,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-colorado": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:05:11.681748Z",
+    "lastUpdated": "2025-11-06T01:05:11.681748Z",
+    "status": "active",
+    "listingsCount": 10,
+    "opportunityScore": 80,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-connecticut": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:05:33.470656Z",
+    "lastUpdated": "2025-11-06T01:05:33.470656Z",
+    "status": "active",
+    "listingsCount": 10,
+    "opportunityScore": 80,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-delaware": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:05:55.838833Z",
+    "lastUpdated": "2025-11-06T01:05:55.838833Z",
+    "status": "active",
+    "listingsCount": 10,
+    "opportunityScore": 80,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-florida": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:06:18.439553Z",
+    "lastUpdated": "2025-11-06T01:06:18.439553Z",
+    "status": "active",
+    "listingsCount": 10,
+    "opportunityScore": 80,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-georgia": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:06:36.727098Z",
+    "lastUpdated": "2025-11-06T01:06:36.727098Z",
+    "status": "active",
+    "listingsCount": 4,
+    "opportunityScore": 50,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-hawaii": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:06:57.623805Z",
+    "lastUpdated": "2025-11-06T01:06:57.623805Z",
+    "status": "active",
+    "listingsCount": 10,
+    "opportunityScore": 80,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-idaho": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:07:18.915412Z",
+    "lastUpdated": "2025-11-06T01:07:18.915412Z",
+    "status": "active",
+    "listingsCount": 10,
+    "opportunityScore": 80,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-illinois": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:07:40.524582Z",
+    "lastUpdated": "2025-11-06T01:07:40.524582Z",
+    "status": "active",
+    "listingsCount": 10,
+    "opportunityScore": 80,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
+  },
+  "african-american-owned-24-7-monitoring-in-indiana": {
+    "repo": "offren-directories-batch-001",
+    "created": "2025-11-06T01:08:00.340609Z",
+    "lastUpdated": "2025-11-06T01:08:00.340609Z",
+    "status": "active",
+    "listingsCount": 5,
+    "opportunityScore": 70,
+    "aiEnhanced": true,
+    "researchSources": [
+      "pollinations_ai"
+    ],
+    "competition": "medium"
   },
   "repos": {
     "offren-directories-batch-001": {

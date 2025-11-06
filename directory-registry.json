@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T12:00:18.173576+00:00Z",
+  "lastUpdated": "2025-11-06T12:00:38.710155+00:00Z",
   "stats": {
-    "totalDirectories": 1244,
+    "totalDirectories": 1245,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1244.0,
-    "totalListings": 12016,
-    "aiEnhancedDirectories": 1244
+    "avgDirectoriesPerRepo": 1245.0,
+    "totalListings": 12026,
+    "aiEnhancedDirectories": 1245
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1244,
+      "directoryCount": 1245,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -16369,6 +16369,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T12:00:18.173576+00:00Z",
       "lastUpdated": "2025-11-06T12:00:18.173576+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "chinese-speaking-strategy-development-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T12:00:38.710155+00:00Z",
+      "lastUpdated": "2025-11-06T12:00:38.710155+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

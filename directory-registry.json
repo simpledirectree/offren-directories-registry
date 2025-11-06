@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T22:57:36.119697+00:00Z",
+  "lastUpdated": "2025-11-06T22:58:17.263932+00:00Z",
   "stats": {
-    "totalDirectories": 2453,
+    "totalDirectories": 2454,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2453.0,
-    "totalListings": 23787,
-    "aiEnhancedDirectories": 2453
+    "avgDirectoriesPerRepo": 2454.0,
+    "totalListings": 23797,
+    "aiEnhancedDirectories": 2454
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2453,
+      "directoryCount": 2454,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -32086,6 +32086,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T22:57:36.119697+00:00Z",
       "lastUpdated": "2025-11-06T22:57:36.119697+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "chinese-speaking-external-auditing-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T22:58:17.263932+00:00Z",
+      "lastUpdated": "2025-11-06T22:58:17.263932+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

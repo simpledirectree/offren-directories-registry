@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T23:23:08.785794+00:00Z",
+  "lastUpdated": "2025-11-06T23:23:48.976552+00:00Z",
   "stats": {
-    "totalDirectories": 7,
+    "totalDirectories": 8,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 7.0,
-    "totalListings": 61,
-    "aiEnhancedDirectories": 7
+    "avgDirectoriesPerRepo": 8.0,
+    "totalListings": 68,
+    "aiEnhancedDirectories": 8
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -99,12 +99,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-wine-bars-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T23:23:48.976552+00:00Z",
+      "lastUpdated": "2025-11-06T23:23:48.976552+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 7,
+      "directoryCount": 8,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

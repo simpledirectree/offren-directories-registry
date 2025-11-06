@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:27:54.751117+00:00Z",
+  "lastUpdated": "2025-11-06T15:28:14.511401+00:00Z",
   "stats": {
-    "totalDirectories": 1828,
+    "totalDirectories": 1829,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1828.0,
-    "totalListings": 17754,
-    "aiEnhancedDirectories": 1828
+    "avgDirectoriesPerRepo": 1829.0,
+    "totalListings": 17764,
+    "aiEnhancedDirectories": 1829
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1828,
+      "directoryCount": 1829,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -23961,6 +23961,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T15:27:54.751117+00:00Z",
       "lastUpdated": "2025-11-06T15:27:54.751117+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "hispanic-owned-self-defense-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:28:14.511401+00:00Z",
+      "lastUpdated": "2025-11-06T15:28:14.511401+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

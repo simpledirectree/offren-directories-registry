@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T23:00:56.186131+00:00Z",
+  "lastUpdated": "2025-11-06T23:02:04.032911+00:00Z",
   "stats": {
-    "totalDirectories": 2457,
+    "totalDirectories": 2458,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2457.0,
-    "totalListings": 23827,
-    "aiEnhancedDirectories": 2457
+    "avgDirectoriesPerRepo": 2458.0,
+    "totalListings": 23837,
+    "aiEnhancedDirectories": 2458
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2457,
+      "directoryCount": 2458,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -32138,6 +32138,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T23:00:56.186131+00:00Z",
       "lastUpdated": "2025-11-06T23:00:56.186131+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "agnostic-owned-garden-tool-sharpening-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T23:02:04.032911+00:00Z",
+      "lastUpdated": "2025-11-06T23:02:04.032911+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

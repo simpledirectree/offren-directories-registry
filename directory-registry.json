@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T11:57:27.687715+00:00Z",
+  "lastUpdated": "2025-11-06T11:58:05.080245+00:00Z",
   "stats": {
-    "totalDirectories": 1237,
+    "totalDirectories": 1238,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1237.0,
-    "totalListings": 11946,
-    "aiEnhancedDirectories": 1237
+    "avgDirectoriesPerRepo": 1238.0,
+    "totalListings": 11956,
+    "aiEnhancedDirectories": 1238
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1237,
+      "directoryCount": 1238,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -16281,6 +16281,19 @@
       "status": "active",
       "listingsCount": 8,
       "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "female-owned-educational-app-development-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T11:58:05.080245+00:00Z",
+      "lastUpdated": "2025-11-06T11:58:05.080245+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

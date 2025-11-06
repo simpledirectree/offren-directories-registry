@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:52:55.883813+00:00Z",
+  "lastUpdated": "2025-11-06T15:53:32.835687+00:00Z",
   "stats": {
-    "totalDirectories": 1901,
+    "totalDirectories": 1902,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1901.0,
-    "totalListings": 18467,
-    "aiEnhancedDirectories": 1901
+    "avgDirectoriesPerRepo": 1902.0,
+    "totalListings": 18469,
+    "aiEnhancedDirectories": 1902
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1901,
+      "directoryCount": 1902,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -24913,6 +24913,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "latino-owned-hair-styling-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:53:32.835687+00:00Z",
+      "lastUpdated": "2025-11-06T15:53:32.835687+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

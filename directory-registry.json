@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T23:23:48.976552+00:00Z",
+  "lastUpdated": "2025-11-06T23:26:59.027661+00:00Z",
   "stats": {
-    "totalDirectories": 8,
+    "totalDirectories": 9,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 8.0,
-    "totalListings": 68,
-    "aiEnhancedDirectories": 8
+    "avgDirectoriesPerRepo": 9.0,
+    "totalListings": 78,
+    "aiEnhancedDirectories": 9
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -112,12 +112,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-body-wraps-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T23:26:59.027661+00:00Z",
+      "lastUpdated": "2025-11-06T23:26:59.027661+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 8,
+      "directoryCount": 9,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

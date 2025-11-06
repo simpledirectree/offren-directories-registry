@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T08:02:17.925020+00:00Z",
+  "lastUpdated": "2025-11-06T08:02:38.418757+00:00Z",
   "stats": {
-    "totalDirectories": 588,
+    "totalDirectories": 589,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 588.0,
-    "totalListings": 5610,
-    "aiEnhancedDirectories": 588
+    "avgDirectoriesPerRepo": 589.0,
+    "totalListings": 5620,
+    "aiEnhancedDirectories": 589
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 588,
+      "directoryCount": 589,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -7841,6 +7841,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T08:02:17.925020+00:00Z",
       "lastUpdated": "2025-11-06T08:02:17.925020+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "immigrant-owned-software-selection-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T08:02:38.418757+00:00Z",
+      "lastUpdated": "2025-11-06T08:02:38.418757+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

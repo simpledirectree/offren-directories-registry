@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T06:19:57.114182+00:00Z",
+  "lastUpdated": "2025-11-06T06:20:24.317408+00:00Z",
   "stats": {
-    "totalDirectories": 286,
+    "totalDirectories": 287,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 286.0,
-    "totalListings": 2650,
-    "aiEnhancedDirectories": 286
+    "avgDirectoriesPerRepo": 287.0,
+    "totalListings": 2660,
+    "aiEnhancedDirectories": 287
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 286,
+      "directoryCount": 287,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -3915,6 +3915,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T06:19:57.114182+00:00Z",
       "lastUpdated": "2025-11-06T06:19:57.114182+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "arabic-speaking-food-trucks-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T06:20:24.317408+00:00Z",
+      "lastUpdated": "2025-11-06T06:20:24.317408+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

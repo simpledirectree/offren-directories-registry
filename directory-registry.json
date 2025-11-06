@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T14:08:44.422141+00:00Z",
+  "lastUpdated": "2025-11-06T14:09:05.488013+00:00Z",
   "stats": {
-    "totalDirectories": 1600,
+    "totalDirectories": 1601,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1600.0,
-    "totalListings": 15495,
-    "aiEnhancedDirectories": 1600
+    "avgDirectoriesPerRepo": 1601.0,
+    "totalListings": 15505,
+    "aiEnhancedDirectories": 1601
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1600,
+      "directoryCount": 1601,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -21000,6 +21000,19 @@
       "status": "active",
       "listingsCount": 7,
       "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "millennial-owned-hiit-training-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T14:09:05.488013+00:00Z",
+      "lastUpdated": "2025-11-06T14:09:05.488013+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

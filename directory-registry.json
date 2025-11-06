@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T12:47:31.825255+00:00Z",
+  "lastUpdated": "2025-11-06T12:47:51.543747+00:00Z",
   "stats": {
-    "totalDirectories": 1377,
+    "totalDirectories": 1378,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1377.0,
-    "totalListings": 13331,
-    "aiEnhancedDirectories": 1377
+    "avgDirectoriesPerRepo": 1378.0,
+    "totalListings": 13341,
+    "aiEnhancedDirectories": 1378
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1377,
+      "directoryCount": 1378,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -18098,6 +18098,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T12:47:31.825255+00:00Z",
       "lastUpdated": "2025-11-06T12:47:31.825255+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "french-speaking-chimney-sweeping-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T12:47:51.543747+00:00Z",
+      "lastUpdated": "2025-11-06T12:47:51.543747+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

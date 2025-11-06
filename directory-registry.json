@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T11:25:26.351483+00:00Z",
+  "lastUpdated": "2025-11-06T11:25:47.964489+00:00Z",
   "stats": {
-    "totalDirectories": 1150,
+    "totalDirectories": 1151,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1150.0,
-    "totalListings": 11104,
-    "aiEnhancedDirectories": 1150
+    "avgDirectoriesPerRepo": 1151.0,
+    "totalListings": 11114,
+    "aiEnhancedDirectories": 1151
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1150,
+      "directoryCount": 1151,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -15147,6 +15147,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T11:25:26.351483+00:00Z",
       "lastUpdated": "2025-11-06T11:25:26.351483+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "american-indian-owned-emergency-roof-repairs-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T11:25:47.964489+00:00Z",
+      "lastUpdated": "2025-11-06T11:25:47.964489+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

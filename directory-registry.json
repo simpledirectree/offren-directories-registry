@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:32:24.998414+00:00Z",
+  "lastUpdated": "2025-11-06T15:32:44.644375+00:00Z",
   "stats": {
-    "totalDirectories": 1841,
+    "totalDirectories": 1842,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1841.0,
-    "totalListings": 17883,
-    "aiEnhancedDirectories": 1841
+    "avgDirectoriesPerRepo": 1842.0,
+    "totalListings": 17893,
+    "aiEnhancedDirectories": 1842
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1841,
+      "directoryCount": 1842,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -24130,6 +24130,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T15:32:24.998414+00:00Z",
       "lastUpdated": "2025-11-06T15:32:24.998414+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "armenian-speaking-ddos-protection-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:32:44.644375+00:00Z",
+      "lastUpdated": "2025-11-06T15:32:44.644375+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

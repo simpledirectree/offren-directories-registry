@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T13:41:01.205654+00:00Z",
+  "lastUpdated": "2025-11-06T13:41:23.981674+00:00Z",
   "stats": {
-    "totalDirectories": 1523,
+    "totalDirectories": 1524,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1523.0,
-    "totalListings": 14763,
-    "aiEnhancedDirectories": 1523
+    "avgDirectoriesPerRepo": 1524.0,
+    "totalListings": 14773,
+    "aiEnhancedDirectories": 1524
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1523,
+      "directoryCount": 1524,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -19996,6 +19996,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T13:41:01.205654+00:00Z",
       "lastUpdated": "2025-11-06T13:41:01.205654+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "japanese-american-owned-psychiatry-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T13:41:23.981674+00:00Z",
+      "lastUpdated": "2025-11-06T13:41:23.981674+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T13:17:57.192361+00:00Z",
+  "lastUpdated": "2025-11-06T13:18:17.965082+00:00Z",
   "stats": {
-    "totalDirectories": 1463,
+    "totalDirectories": 1464,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1463.0,
-    "totalListings": 14177,
-    "aiEnhancedDirectories": 1463
+    "avgDirectoriesPerRepo": 1464.0,
+    "totalListings": 14187,
+    "aiEnhancedDirectories": 1464
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1463,
+      "directoryCount": 1464,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -19216,6 +19216,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T13:17:57.192361+00:00Z",
       "lastUpdated": "2025-11-06T13:17:57.192361+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "japanese-american-owned-sat-prep-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T13:18:17.965082+00:00Z",
+      "lastUpdated": "2025-11-06T13:18:17.965082+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T11:41:15.704122+00:00Z",
+  "lastUpdated": "2025-11-06T11:41:36.532878+00:00Z",
   "stats": {
-    "totalDirectories": 1193,
+    "totalDirectories": 1194,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1193.0,
-    "totalListings": 11514,
-    "aiEnhancedDirectories": 1193
+    "avgDirectoriesPerRepo": 1194.0,
+    "totalListings": 11524,
+    "aiEnhancedDirectories": 1194
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1193,
+      "directoryCount": 1194,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -15709,6 +15709,19 @@
       "status": "active",
       "listingsCount": 5,
       "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "central-american-owned-event-breakdown-crews-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T11:41:36.532878+00:00Z",
+      "lastUpdated": "2025-11-06T11:41:36.532878+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

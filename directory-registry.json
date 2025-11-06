@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T08:03:19.205585+00:00Z",
+  "lastUpdated": "2025-11-06T08:03:37.897115+00:00Z",
   "stats": {
-    "totalDirectories": 591,
+    "totalDirectories": 592,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 591.0,
-    "totalListings": 5640,
-    "aiEnhancedDirectories": 591
+    "avgDirectoriesPerRepo": 592.0,
+    "totalListings": 5650,
+    "aiEnhancedDirectories": 592
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 591,
+      "directoryCount": 592,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -7880,6 +7880,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T08:03:19.205585+00:00Z",
       "lastUpdated": "2025-11-06T08:03:19.205585+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "muslim-owned-dog-walkers-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T08:03:37.897115+00:00Z",
+      "lastUpdated": "2025-11-06T08:03:37.897115+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

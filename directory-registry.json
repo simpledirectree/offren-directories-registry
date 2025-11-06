@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T13:05:50.257257+00:00Z",
+  "lastUpdated": "2025-11-06T13:06:11.507671+00:00Z",
   "stats": {
-    "totalDirectories": 1429,
+    "totalDirectories": 1430,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1429.0,
-    "totalListings": 13841,
-    "aiEnhancedDirectories": 1429
+    "avgDirectoriesPerRepo": 1430.0,
+    "totalListings": 13851,
+    "aiEnhancedDirectories": 1430
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1429,
+      "directoryCount": 1430,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -18774,6 +18774,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T13:05:50.257257+00:00Z",
       "lastUpdated": "2025-11-06T13:05:50.257257+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "khmer-speaking-health-coaching-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T13:06:11.507671+00:00Z",
+      "lastUpdated": "2025-11-06T13:06:11.507671+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

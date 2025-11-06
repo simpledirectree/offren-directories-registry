@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:55:14.268855+00:00Z",
+  "lastUpdated": "2025-11-06T15:55:35.852623+00:00Z",
   "stats": {
-    "totalDirectories": 1907,
+    "totalDirectories": 1908,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1907.0,
-    "totalListings": 18519,
-    "aiEnhancedDirectories": 1907
+    "avgDirectoriesPerRepo": 1908.0,
+    "totalListings": 18528,
+    "aiEnhancedDirectories": 1908
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1907,
+      "directoryCount": 1908,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -24991,6 +24991,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "lgbt-owned-utility-setup-coordination-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:55:35.852623+00:00Z",
+      "lastUpdated": "2025-11-06T15:55:35.852623+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T10:19:55.622133+00:00Z",
+  "lastUpdated": "2025-11-06T10:20:18.937560+00:00Z",
   "stats": {
-    "totalDirectories": 980,
+    "totalDirectories": 981,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 980.0,
-    "totalListings": 9427,
-    "aiEnhancedDirectories": 980
+    "avgDirectoriesPerRepo": 981.0,
+    "totalListings": 9437,
+    "aiEnhancedDirectories": 981
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 980,
+      "directoryCount": 981,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -12937,6 +12937,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T10:19:55.622133+00:00Z",
       "lastUpdated": "2025-11-06T10:19:55.622133+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "japanese-speaking-fat-reduction-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T10:20:18.937560+00:00Z",
+      "lastUpdated": "2025-11-06T10:20:18.937560+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

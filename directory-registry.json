@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T17:09:18.945064+00:00Z",
+  "lastUpdated": "2025-11-06T17:09:38.632654+00:00Z",
   "stats": {
-    "totalDirectories": 2122,
+    "totalDirectories": 2123,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2122.0,
-    "totalListings": 20597,
-    "aiEnhancedDirectories": 2122
+    "avgDirectoriesPerRepo": 2123.0,
+    "totalListings": 20607,
+    "aiEnhancedDirectories": 2123
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2122,
+      "directoryCount": 2123,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -27783,6 +27783,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T17:09:18.945064+00:00Z",
       "lastUpdated": "2025-11-06T17:09:18.945064+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "alaska-native-owned-pet-sitters-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T17:09:38.632654+00:00Z",
+      "lastUpdated": "2025-11-06T17:09:38.632654+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T11:30:21.439096+00:00Z",
+  "lastUpdated": "2025-11-06T11:30:41.875521+00:00Z",
   "stats": {
-    "totalDirectories": 1164,
+    "totalDirectories": 1165,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1164.0,
-    "totalListings": 11244,
-    "aiEnhancedDirectories": 1164
+    "avgDirectoriesPerRepo": 1165.0,
+    "totalListings": 11254,
+    "aiEnhancedDirectories": 1165
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1164,
+      "directoryCount": 1165,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -15329,6 +15329,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T11:30:21.439096+00:00Z",
       "lastUpdated": "2025-11-06T11:30:21.439096+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "korean-speaking-ipl-therapy-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T11:30:41.875521+00:00Z",
+      "lastUpdated": "2025-11-06T11:30:41.875521+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

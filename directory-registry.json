@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T18:10:50.581756+00:00Z",
+  "lastUpdated": "2025-11-06T18:11:11.829225+00:00Z",
   "stats": {
-    "totalDirectories": 2302,
+    "totalDirectories": 2303,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2302.0,
-    "totalListings": 22360,
-    "aiEnhancedDirectories": 2302
+    "avgDirectoriesPerRepo": 2303.0,
+    "totalListings": 22370,
+    "aiEnhancedDirectories": 2303
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2302,
+      "directoryCount": 2303,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -30126,6 +30126,19 @@
       "status": "active",
       "listingsCount": 5,
       "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "hmong-speaking-design-system-creation-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T18:11:11.829225+00:00Z",
+      "lastUpdated": "2025-11-06T18:11:11.829225+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T16:06:05.981209+00:00Z",
+  "lastUpdated": "2025-11-06T16:06:27.592607+00:00Z",
   "stats": {
-    "totalDirectories": 1939,
+    "totalDirectories": 1940,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1939.0,
-    "totalListings": 18827,
-    "aiEnhancedDirectories": 1939
+    "avgDirectoriesPerRepo": 1940.0,
+    "totalListings": 18837,
+    "aiEnhancedDirectories": 1940
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1939,
+      "directoryCount": 1940,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -25404,6 +25404,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T16:06:05.981209+00:00Z",
       "lastUpdated": "2025-11-06T16:06:05.981209+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "japanese-speaking-irrigation-repair-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T16:06:27.592607+00:00Z",
+      "lastUpdated": "2025-11-06T16:06:27.592607+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T13:23:49.907032+00:00Z",
+  "lastUpdated": "2025-11-06T13:24:09.999730+00:00Z",
   "stats": {
-    "totalDirectories": 1480,
+    "totalDirectories": 1481,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1480.0,
-    "totalListings": 14344,
-    "aiEnhancedDirectories": 1480
+    "avgDirectoriesPerRepo": 1481.0,
+    "totalListings": 14354,
+    "aiEnhancedDirectories": 1481
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1480,
+      "directoryCount": 1481,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -19440,6 +19440,19 @@
       "status": "active",
       "listingsCount": 7,
       "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "cuban-american-owned-medical-equipment-delivery-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T13:24:09.999730+00:00Z",
+      "lastUpdated": "2025-11-06T13:24:09.999730+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

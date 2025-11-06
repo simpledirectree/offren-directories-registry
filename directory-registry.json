@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T17:30:33.728291+00:00Z",
+  "lastUpdated": "2025-11-06T17:30:52.922584+00:00Z",
   "stats": {
-    "totalDirectories": 2186,
+    "totalDirectories": 2187,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2186.0,
-    "totalListings": 21213,
-    "aiEnhancedDirectories": 2186
+    "avgDirectoriesPerRepo": 2187.0,
+    "totalListings": 21223,
+    "aiEnhancedDirectories": 2187
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2186,
+      "directoryCount": 2187,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -28615,6 +28615,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T17:30:33.728291+00:00Z",
       "lastUpdated": "2025-11-06T17:30:33.728291+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "croatian-speaking-party-djs-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T17:30:52.922584+00:00Z",
+      "lastUpdated": "2025-11-06T17:30:52.922584+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T13:56:14.517365+00:00Z",
+  "lastUpdated": "2025-11-06T13:56:35.070430+00:00Z",
   "stats": {
-    "totalDirectories": 1567,
+    "totalDirectories": 1568,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1567.0,
-    "totalListings": 15182,
-    "aiEnhancedDirectories": 1567
+    "avgDirectoriesPerRepo": 1568.0,
+    "totalListings": 15192,
+    "aiEnhancedDirectories": 1568
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1567,
+      "directoryCount": 1568,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -20568,6 +20568,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T13:56:14.517365+00:00Z",
       "lastUpdated": "2025-11-06T13:56:14.517365+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "filipino-american-owned-plant-purchasing-assistance-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T13:56:35.070430+00:00Z",
+      "lastUpdated": "2025-11-06T13:56:35.070430+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T01:04:28.526203Z",
+  "lastUpdated": "2025-11-06T01:04:48.800413Z",
   "stats": {
-    "totalDirectories": 6,
+    "totalDirectories": 7,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 6.0,
-    "totalListings": 53,
-    "aiEnhancedDirectories": 6
+    "avgDirectoriesPerRepo": 7.0,
+    "totalListings": 58,
+    "aiEnhancedDirectories": 7
   },
   "directories": {
     "spanish-speaking-ngwalk-in-lawyers-in-alabama": {
@@ -86,12 +86,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-24-7-monitoring-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T01:04:48.800413Z",
+      "lastUpdated": "2025-11-06T01:04:48.800413Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 6,
+      "directoryCount": 7,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

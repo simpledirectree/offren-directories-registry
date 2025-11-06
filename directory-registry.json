@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T08:46:50.416430+00:00Z",
+  "lastUpdated": "2025-11-06T08:47:11.001364+00:00Z",
   "stats": {
-    "totalDirectories": 717,
+    "totalDirectories": 718,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 717.0,
-    "totalListings": 6859,
-    "aiEnhancedDirectories": 717
+    "avgDirectoriesPerRepo": 718.0,
+    "totalListings": 6869,
+    "aiEnhancedDirectories": 718
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 717,
+      "directoryCount": 718,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -9518,6 +9518,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T08:46:50.416430+00:00Z",
       "lastUpdated": "2025-11-06T08:46:50.416430+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "korean-speaking-audit-preparation-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T08:47:11.001364+00:00Z",
+      "lastUpdated": "2025-11-06T08:47:11.001364+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

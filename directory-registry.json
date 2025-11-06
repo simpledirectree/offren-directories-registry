@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T04:40:00.763677Z",
+  "lastUpdated": "2025-11-06T04:40:21.504812Z",
   "stats": {
-    "totalDirectories": 178,
+    "totalDirectories": 179,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 178.0,
-    "totalListings": 1629,
-    "aiEnhancedDirectories": 178
+    "avgDirectoriesPerRepo": 179.0,
+    "totalListings": 1639,
+    "aiEnhancedDirectories": 179
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 178,
+      "directoryCount": 179,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -2511,6 +2511,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T04:40:00.763677Z",
       "lastUpdated": "2025-11-06T04:40:00.763677Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-2d-animation-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T04:40:21.504812Z",
+      "lastUpdated": "2025-11-06T04:40:21.504812Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

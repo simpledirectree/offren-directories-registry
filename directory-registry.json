@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T16:13:21.851550+00:00Z",
+  "lastUpdated": "2025-11-06T16:13:43.286306+00:00Z",
   "stats": {
-    "totalDirectories": 1960,
+    "totalDirectories": 1961,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1960.0,
-    "totalListings": 19031,
-    "aiEnhancedDirectories": 1960
+    "avgDirectoriesPerRepo": 1961.0,
+    "totalListings": 19041,
+    "aiEnhancedDirectories": 1961
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1960,
+      "directoryCount": 1961,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -25677,6 +25677,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T16:13:21.851550+00:00Z",
       "lastUpdated": "2025-11-06T16:13:21.851550+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "armenian-speaking-waterproofing-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T16:13:43.286306+00:00Z",
+      "lastUpdated": "2025-11-06T16:13:43.286306+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T21:29:58.124138+00:00Z",
+  "lastUpdated": "2025-11-06T21:30:19.040326+00:00Z",
   "stats": {
-    "totalDirectories": 2372,
+    "totalDirectories": 2373,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2372.0,
-    "totalListings": 23023,
-    "aiEnhancedDirectories": 2372
+    "avgDirectoriesPerRepo": 2373.0,
+    "totalListings": 23033,
+    "aiEnhancedDirectories": 2373
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2372,
+      "directoryCount": 2373,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -31033,6 +31033,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T21:29:58.124138+00:00Z",
       "lastUpdated": "2025-11-06T21:29:58.124138+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "american-indian-owned-orthopedic-surgery-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T21:30:19.040326+00:00Z",
+      "lastUpdated": "2025-11-06T21:30:19.040326+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

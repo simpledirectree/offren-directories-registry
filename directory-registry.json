@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:04:40.772247+00:00Z",
+  "lastUpdated": "2025-11-06T15:05:02.866109+00:00Z",
   "stats": {
-    "totalDirectories": 1762,
+    "totalDirectories": 1763,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1762.0,
-    "totalListings": 17104,
-    "aiEnhancedDirectories": 1762
+    "avgDirectoriesPerRepo": 1763.0,
+    "totalListings": 17114,
+    "aiEnhancedDirectories": 1763
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1762,
+      "directoryCount": 1763,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -23103,6 +23103,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T15:04:40.772247+00:00Z",
       "lastUpdated": "2025-11-06T15:04:40.772247+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "lgbt-owned-bodybuilding-coaching-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:05:02.866109+00:00Z",
+      "lastUpdated": "2025-11-06T15:05:02.866109+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

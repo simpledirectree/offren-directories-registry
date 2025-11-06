@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T16:59:58.644915+00:00Z",
+  "lastUpdated": "2025-11-06T17:00:17.523688+00:00Z",
   "stats": {
-    "totalDirectories": 2094,
+    "totalDirectories": 2095,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2094.0,
-    "totalListings": 20333,
-    "aiEnhancedDirectories": 2094
+    "avgDirectoriesPerRepo": 2095.0,
+    "totalListings": 20338,
+    "aiEnhancedDirectories": 2095
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2094,
+      "directoryCount": 2095,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -27422,6 +27422,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "central-american-owned-invoice-processing-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T17:00:17.523688+00:00Z",
+      "lastUpdated": "2025-11-06T17:00:17.523688+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

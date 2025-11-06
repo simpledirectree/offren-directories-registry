@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T21:42:00.798062+00:00Z",
+  "lastUpdated": "2025-11-06T21:42:17.595699+00:00Z",
   "stats": {
-    "totalDirectories": 2385,
+    "totalDirectories": 2386,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2385.0,
-    "totalListings": 23139,
-    "aiEnhancedDirectories": 2385
+    "avgDirectoriesPerRepo": 2386.0,
+    "totalListings": 23149,
+    "aiEnhancedDirectories": 2386
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2385,
+      "directoryCount": 2386,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -31205,6 +31205,19 @@
       "status": "active",
       "listingsCount": 6,
       "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "central-american-owned-irrigation-repair-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T21:42:17.595699+00:00Z",
+      "lastUpdated": "2025-11-06T21:42:17.595699+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T09:02:37.431666+00:00Z",
+  "lastUpdated": "2025-11-06T09:02:58.047124+00:00Z",
   "stats": {
-    "totalDirectories": 762,
+    "totalDirectories": 763,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 762.0,
-    "totalListings": 7302,
-    "aiEnhancedDirectories": 762
+    "avgDirectoriesPerRepo": 763.0,
+    "totalListings": 7312,
+    "aiEnhancedDirectories": 763
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 762,
+      "directoryCount": 763,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -10103,6 +10103,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T09:02:37.431666+00:00Z",
       "lastUpdated": "2025-11-06T09:02:37.431666+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "chinese-american-owned-warehouse-labor-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T09:02:58.047124+00:00Z",
+      "lastUpdated": "2025-11-06T09:02:58.047124+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

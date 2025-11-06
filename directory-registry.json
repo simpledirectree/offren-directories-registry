@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T11:15:48.686672+00:00Z",
+  "lastUpdated": "2025-11-06T11:16:10.029373+00:00Z",
   "stats": {
-    "totalDirectories": 1124,
+    "totalDirectories": 1125,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1124.0,
-    "totalListings": 10848,
-    "aiEnhancedDirectories": 1124
+    "avgDirectoriesPerRepo": 1125.0,
+    "totalListings": 10858,
+    "aiEnhancedDirectories": 1125
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1124,
+      "directoryCount": 1125,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -14809,6 +14809,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T11:15:48.686672+00:00Z",
       "lastUpdated": "2025-11-06T11:15:48.686672+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "lgbt-owned-nursing-homes-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T11:16:10.029373+00:00Z",
+      "lastUpdated": "2025-11-06T11:16:10.029373+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

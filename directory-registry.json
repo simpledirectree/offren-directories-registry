@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T12:53:07.006730+00:00Z",
+  "lastUpdated": "2025-11-06T12:53:30.366867+00:00Z",
   "stats": {
-    "totalDirectories": 1393,
+    "totalDirectories": 1394,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1393.0,
-    "totalListings": 13488,
-    "aiEnhancedDirectories": 1393
+    "avgDirectoriesPerRepo": 1394.0,
+    "totalListings": 13498,
+    "aiEnhancedDirectories": 1394
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1393,
+      "directoryCount": 1394,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -18306,6 +18306,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T12:53:07.006730+00:00Z",
       "lastUpdated": "2025-11-06T12:53:07.006730+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "middle-eastern-owned-security-audits-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T12:53:30.366867+00:00Z",
+      "lastUpdated": "2025-11-06T12:53:30.366867+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

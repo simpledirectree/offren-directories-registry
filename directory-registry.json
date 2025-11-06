@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T11:22:23.164634+00:00Z",
+  "lastUpdated": "2025-11-06T11:22:44.279743+00:00Z",
   "stats": {
-    "totalDirectories": 1141,
+    "totalDirectories": 1142,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1141.0,
-    "totalListings": 11018,
-    "aiEnhancedDirectories": 1141
+    "avgDirectoriesPerRepo": 1142.0,
+    "totalListings": 11028,
+    "aiEnhancedDirectories": 1142
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1141,
+      "directoryCount": 1142,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -15030,6 +15030,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T11:22:23.164634+00:00Z",
       "lastUpdated": "2025-11-06T11:22:23.164634+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "middle-eastern-owned-due-diligence-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T11:22:44.279743+00:00Z",
+      "lastUpdated": "2025-11-06T11:22:44.279743+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

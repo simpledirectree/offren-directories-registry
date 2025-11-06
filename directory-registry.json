@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T21:00:15.505979+00:00Z",
+  "lastUpdated": "2025-11-06T21:00:31.763641+00:00Z",
   "stats": {
-    "totalDirectories": 2350,
+    "totalDirectories": 2351,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2350.0,
-    "totalListings": 22822,
-    "aiEnhancedDirectories": 2350
+    "avgDirectoriesPerRepo": 2351.0,
+    "totalListings": 22823,
+    "aiEnhancedDirectories": 2351
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2350,
+      "directoryCount": 2351,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -30750,6 +30750,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "female-owned-website-development-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T21:00:31.763641+00:00Z",
+      "lastUpdated": "2025-11-06T21:00:31.763641+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

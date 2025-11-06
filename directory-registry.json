@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T07:03:54.462353+00:00Z",
+  "lastUpdated": "2025-11-06T07:04:15.718338+00:00Z",
   "stats": {
-    "totalDirectories": 417,
+    "totalDirectories": 418,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 417.0,
-    "totalListings": 3924,
-    "aiEnhancedDirectories": 417
+    "avgDirectoriesPerRepo": 418.0,
+    "totalListings": 3934,
+    "aiEnhancedDirectories": 418
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 417,
+      "directoryCount": 418,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -5618,6 +5618,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T07:03:54.462353+00:00Z",
       "lastUpdated": "2025-11-06T07:03:54.462353+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "hawaiian-native-owned-hr-compliance-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T07:04:15.718338+00:00Z",
+      "lastUpdated": "2025-11-06T07:04:15.718338+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

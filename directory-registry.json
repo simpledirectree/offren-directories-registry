@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T14:25:45.332070+00:00Z",
+  "lastUpdated": "2025-11-06T14:26:04.573913+00:00Z",
   "stats": {
-    "totalDirectories": 1648,
+    "totalDirectories": 1649,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1648.0,
-    "totalListings": 15965,
-    "aiEnhancedDirectories": 1648
+    "avgDirectoriesPerRepo": 1649.0,
+    "totalListings": 15975,
+    "aiEnhancedDirectories": 1649
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1648,
+      "directoryCount": 1649,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -21621,6 +21621,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T14:25:45.332070+00:00Z",
       "lastUpdated": "2025-11-06T14:25:45.332070+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "hebrew-speaking-personal-shopping-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T14:26:04.573913+00:00Z",
+      "lastUpdated": "2025-11-06T14:26:04.573913+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

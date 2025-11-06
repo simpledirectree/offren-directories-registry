@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:54:33.985683+00:00Z",
+  "lastUpdated": "2025-11-06T15:54:54.679254+00:00Z",
   "stats": {
-    "totalDirectories": 1905,
+    "totalDirectories": 1906,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1905.0,
-    "totalListings": 18499,
-    "aiEnhancedDirectories": 1905
+    "avgDirectoriesPerRepo": 1906.0,
+    "totalListings": 18509,
+    "aiEnhancedDirectories": 1906
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1905,
+      "directoryCount": 1906,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -24962,6 +24962,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T15:54:33.985683+00:00Z",
       "lastUpdated": "2025-11-06T15:54:33.985683+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "agnostic-owned-magicians-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:54:54.679254+00:00Z",
+      "lastUpdated": "2025-11-06T15:54:54.679254+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

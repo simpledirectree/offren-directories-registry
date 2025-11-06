@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T10:06:09.059723+00:00Z",
+  "lastUpdated": "2025-11-06T10:06:30.747643+00:00Z",
   "stats": {
-    "totalDirectories": 942,
+    "totalDirectories": 943,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 942.0,
-    "totalListings": 9049,
-    "aiEnhancedDirectories": 942
+    "avgDirectoriesPerRepo": 943.0,
+    "totalListings": 9059,
+    "aiEnhancedDirectories": 943
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 942,
+      "directoryCount": 943,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -12443,6 +12443,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T10:06:09.059723+00:00Z",
       "lastUpdated": "2025-11-06T10:06:09.059723+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "bengali-speaking-eyebrow-tinting-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T10:06:30.747643+00:00Z",
+      "lastUpdated": "2025-11-06T10:06:30.747643+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

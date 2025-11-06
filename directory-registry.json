@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T18:21:26.196750+00:00Z",
+  "lastUpdated": "2025-11-06T19:48:11.016223+00:00Z",
   "stats": {
-    "totalDirectories": 2331,
+    "totalDirectories": 2332,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2331.0,
-    "totalListings": 22638,
-    "aiEnhancedDirectories": 2331
+    "avgDirectoriesPerRepo": 2332.0,
+    "totalListings": 22648,
+    "aiEnhancedDirectories": 2332
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2331,
+      "directoryCount": 2332,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -30500,6 +30500,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T18:21:26.196750+00:00Z",
       "lastUpdated": "2025-11-06T18:21:26.196750+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "central-american-owned-art-moving-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T19:48:11.016223+00:00Z",
+      "lastUpdated": "2025-11-06T19:48:11.016223+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

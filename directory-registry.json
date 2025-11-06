@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T23:27:13.411469+00:00Z",
+  "lastUpdated": "2025-11-06T23:27:53.762123+00:00Z",
   "stats": {
-    "totalDirectories": 10,
+    "totalDirectories": 11,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 10.0,
-    "totalListings": 88,
-    "aiEnhancedDirectories": 10
+    "avgDirectoriesPerRepo": 11.0,
+    "totalListings": 98,
+    "aiEnhancedDirectories": 11
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -138,12 +138,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-robotics-instruction-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T23:27:53.762123+00:00Z",
+      "lastUpdated": "2025-11-06T23:27:53.762123+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 10,
+      "directoryCount": 11,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

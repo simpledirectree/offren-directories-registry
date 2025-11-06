@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T18:00:24.278489+00:00Z",
+  "lastUpdated": "2025-11-06T18:00:42.106885+00:00Z",
   "stats": {
-    "totalDirectories": 2273,
+    "totalDirectories": 2274,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2273.0,
-    "totalListings": 22078,
-    "aiEnhancedDirectories": 2273
+    "avgDirectoriesPerRepo": 2274.0,
+    "totalListings": 22088,
+    "aiEnhancedDirectories": 2274
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2273,
+      "directoryCount": 2274,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -29746,6 +29746,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T18:00:24.278489+00:00Z",
       "lastUpdated": "2025-11-06T18:00:24.278489+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "buddhist-owned-dropshipping-setup-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T18:00:42.106885+00:00Z",
+      "lastUpdated": "2025-11-06T18:00:42.106885+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T13:35:45.283408+00:00Z",
+  "lastUpdated": "2025-11-06T13:36:05.795735+00:00Z",
   "stats": {
-    "totalDirectories": 1509,
+    "totalDirectories": 1510,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1509.0,
-    "totalListings": 14634,
-    "aiEnhancedDirectories": 1509
+    "avgDirectoriesPerRepo": 1510.0,
+    "totalListings": 14644,
+    "aiEnhancedDirectories": 1510
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1509,
+      "directoryCount": 1510,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -19814,6 +19814,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T13:35:45.283408+00:00Z",
       "lastUpdated": "2025-11-06T13:35:45.283408+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "gujarati-speaking-diesel-repair-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T13:36:05.795735+00:00Z",
+      "lastUpdated": "2025-11-06T13:36:05.795735+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

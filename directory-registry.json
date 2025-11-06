@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:37:40.883140+00:00Z",
+  "lastUpdated": "2025-11-06T15:38:00.298820+00:00Z",
   "stats": {
-    "totalDirectories": 1856,
+    "totalDirectories": 1857,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1856.0,
-    "totalListings": 18033,
-    "aiEnhancedDirectories": 1856
+    "avgDirectoriesPerRepo": 1857.0,
+    "totalListings": 18043,
+    "aiEnhancedDirectories": 1857
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1856,
+      "directoryCount": 1857,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -24325,6 +24325,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T15:37:40.883140+00:00Z",
       "lastUpdated": "2025-11-06T15:37:40.883140+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "jewish-owned-dermal-fillers-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:38:00.298820+00:00Z",
+      "lastUpdated": "2025-11-06T15:38:00.298820+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

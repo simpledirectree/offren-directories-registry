@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T17:33:35.709427+00:00Z",
+  "lastUpdated": "2025-11-06T17:33:54.793606+00:00Z",
   "stats": {
-    "totalDirectories": 2195,
+    "totalDirectories": 2196,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2195.0,
-    "totalListings": 21298,
-    "aiEnhancedDirectories": 2195
+    "avgDirectoriesPerRepo": 2196.0,
+    "totalListings": 21308,
+    "aiEnhancedDirectories": 2196
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2195,
+      "directoryCount": 2196,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -28732,6 +28732,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T17:33:35.709427+00:00Z",
       "lastUpdated": "2025-11-06T17:33:35.709427+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "korean-american-owned-driving-instruction-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T17:33:54.793606+00:00Z",
+      "lastUpdated": "2025-11-06T17:33:54.793606+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

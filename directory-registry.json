@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T23:38:56.637427+00:00Z",
+  "lastUpdated": "2025-11-06T23:39:36.359267+00:00Z",
   "stats": {
-    "totalDirectories": 24,
+    "totalDirectories": 25,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 24.0,
-    "totalListings": 216,
-    "aiEnhancedDirectories": 24
+    "avgDirectoriesPerRepo": 25.0,
+    "totalListings": 226,
+    "aiEnhancedDirectories": 25
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -320,12 +320,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-ayurvedic-medicine-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T23:39:36.359267+00:00Z",
+      "lastUpdated": "2025-11-06T23:39:36.359267+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 24,
+      "directoryCount": 25,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

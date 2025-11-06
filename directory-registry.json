@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T01:04:07.118409Z",
+  "lastUpdated": "2025-11-06T01:04:28.526203Z",
   "stats": {
-    "totalDirectories": 5,
+    "totalDirectories": 6,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 5.0,
-    "totalListings": 43,
-    "aiEnhancedDirectories": 5
+    "avgDirectoriesPerRepo": 6.0,
+    "totalListings": 53,
+    "aiEnhancedDirectories": 6
   },
   "directories": {
     "spanish-speaking-ngwalk-in-lawyers-in-alabama": {
@@ -73,12 +73,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-24-7-monitoring-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T01:04:28.526203Z",
+      "lastUpdated": "2025-11-06T01:04:28.526203Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 5,
+      "directoryCount": 6,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

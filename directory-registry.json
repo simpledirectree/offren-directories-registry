@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T16:59:00.031563+00:00Z",
+  "lastUpdated": "2025-11-06T16:59:18.291698+00:00Z",
   "stats": {
-    "totalDirectories": 2091,
+    "totalDirectories": 2092,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2091.0,
-    "totalListings": 20303,
-    "aiEnhancedDirectories": 2091
+    "avgDirectoriesPerRepo": 2092.0,
+    "totalListings": 20313,
+    "aiEnhancedDirectories": 2092
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2091,
+      "directoryCount": 2092,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -27380,6 +27380,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T16:59:00.031563+00:00Z",
       "lastUpdated": "2025-11-06T16:59:00.031563+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "greek-speaking-email-management-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T16:59:18.291698+00:00Z",
+      "lastUpdated": "2025-11-06T16:59:18.291698+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T17:51:10.363249+00:00Z",
+  "lastUpdated": "2025-11-06T17:51:29.880460+00:00Z",
   "stats": {
-    "totalDirectories": 2245,
+    "totalDirectories": 2246,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2245.0,
-    "totalListings": 21798,
-    "aiEnhancedDirectories": 2245
+    "avgDirectoriesPerRepo": 2246.0,
+    "totalListings": 21808,
+    "aiEnhancedDirectories": 2246
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2245,
+      "directoryCount": 2246,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -29382,6 +29382,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T17:51:10.363249+00:00Z",
       "lastUpdated": "2025-11-06T17:51:10.363249+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "haitian-creole-speaking-wedding-design-services-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T17:51:29.880460+00:00Z",
+      "lastUpdated": "2025-11-06T17:51:29.880460+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

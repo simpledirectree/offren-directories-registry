@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T16:14:02.416636+00:00Z",
+  "lastUpdated": "2025-11-06T16:14:22.556345+00:00Z",
   "stats": {
-    "totalDirectories": 1962,
+    "totalDirectories": 1963,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1962.0,
-    "totalListings": 19051,
-    "aiEnhancedDirectories": 1962
+    "avgDirectoriesPerRepo": 1963.0,
+    "totalListings": 19061,
+    "aiEnhancedDirectories": 1963
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1962,
+      "directoryCount": 1963,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -25703,6 +25703,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T16:14:02.416636+00:00Z",
       "lastUpdated": "2025-11-06T16:14:02.416636+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "korean-american-owned-website-design-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T16:14:22.556345+00:00Z",
+      "lastUpdated": "2025-11-06T16:14:22.556345+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

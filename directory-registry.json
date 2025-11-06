@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T23:20:02.106706+00:00Z",
+  "lastUpdated": "2025-11-06T23:20:56.804443+00:00Z",
   "stats": {
-    "totalDirectories": 2,
+    "totalDirectories": 3,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2.0,
-    "totalListings": 20,
-    "aiEnhancedDirectories": 2
+    "avgDirectoriesPerRepo": 3.0,
+    "totalListings": 28,
+    "aiEnhancedDirectories": 3
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -34,12 +34,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-janitorial-staff-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T23:20:56.804443+00:00Z",
+      "lastUpdated": "2025-11-06T23:20:56.804443+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2,
+      "directoryCount": 3,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

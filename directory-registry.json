@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T16:05:02.575033+00:00Z",
+  "lastUpdated": "2025-11-06T16:05:22.180923+00:00Z",
   "stats": {
-    "totalDirectories": 1936,
+    "totalDirectories": 1937,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1936.0,
-    "totalListings": 18797,
-    "aiEnhancedDirectories": 1936
+    "avgDirectoriesPerRepo": 1937.0,
+    "totalListings": 18807,
+    "aiEnhancedDirectories": 1937
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1936,
+      "directoryCount": 1937,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -25365,6 +25365,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T16:05:02.575033+00:00Z",
       "lastUpdated": "2025-11-06T16:05:02.575033+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "alaska-native-owned-day-labor-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T16:05:22.180923+00:00Z",
+      "lastUpdated": "2025-11-06T16:05:22.180923+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

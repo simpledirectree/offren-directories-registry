@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T21:49:37.484520+00:00Z",
+  "lastUpdated": "2025-11-06T21:50:06.266613+00:00Z",
   "stats": {
-    "totalDirectories": 2398,
+    "totalDirectories": 2399,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2398.0,
-    "totalListings": 23264,
-    "aiEnhancedDirectories": 2398
+    "avgDirectoriesPerRepo": 2399.0,
+    "totalListings": 23274,
+    "aiEnhancedDirectories": 2399
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2398,
+      "directoryCount": 2399,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -31371,6 +31371,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T21:49:37.484520+00:00Z",
       "lastUpdated": "2025-11-06T21:49:37.484520+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "central-american-owned-golf-courses-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T21:50:06.266613+00:00Z",
+      "lastUpdated": "2025-11-06T21:50:06.266613+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

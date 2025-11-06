@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T23:47:30.330850+00:00Z",
+  "lastUpdated": "2025-11-06T23:47:42.907261+00:00Z",
   "stats": {
-    "totalDirectories": 37,
+    "totalDirectories": 38,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 37.0,
-    "totalListings": 346,
-    "aiEnhancedDirectories": 37
+    "avgDirectoriesPerRepo": 38.0,
+    "totalListings": 354,
+    "aiEnhancedDirectories": 38
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -489,12 +489,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-meditation-instruction-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T23:47:42.907261+00:00Z",
+      "lastUpdated": "2025-11-06T23:47:42.907261+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 37,
+      "directoryCount": 38,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:24:52.196795+00:00Z",
+  "lastUpdated": "2025-11-06T15:25:11.219808+00:00Z",
   "stats": {
-    "totalDirectories": 1819,
+    "totalDirectories": 1820,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1819.0,
-    "totalListings": 17668,
-    "aiEnhancedDirectories": 1819
+    "avgDirectoriesPerRepo": 1820.0,
+    "totalListings": 17678,
+    "aiEnhancedDirectories": 1820
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1819,
+      "directoryCount": 1820,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -23844,6 +23844,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T15:24:52.196795+00:00Z",
       "lastUpdated": "2025-11-06T15:24:52.196795+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "male-owned-after-school-care-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:25:11.219808+00:00Z",
+      "lastUpdated": "2025-11-06T15:25:11.219808+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

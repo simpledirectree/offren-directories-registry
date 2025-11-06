@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T08:11:09.953839+00:00Z",
+  "lastUpdated": "2025-11-06T08:11:30.335927+00:00Z",
   "stats": {
-    "totalDirectories": 615,
+    "totalDirectories": 616,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 615.0,
-    "totalListings": 5877,
-    "aiEnhancedDirectories": 615
+    "avgDirectoriesPerRepo": 616.0,
+    "totalListings": 5887,
+    "aiEnhancedDirectories": 616
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 615,
+      "directoryCount": 616,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -8192,6 +8192,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T08:11:09.953839+00:00Z",
       "lastUpdated": "2025-11-06T08:11:09.953839+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "catholic-owned-hair-styling-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T08:11:30.335927+00:00Z",
+      "lastUpdated": "2025-11-06T08:11:30.335927+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

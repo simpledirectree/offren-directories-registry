@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T11:52:37.622690+00:00Z",
+  "lastUpdated": "2025-11-06T11:52:58.815855+00:00Z",
   "stats": {
-    "totalDirectories": 1224,
+    "totalDirectories": 1225,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1224.0,
-    "totalListings": 11818,
-    "aiEnhancedDirectories": 1224
+    "avgDirectoriesPerRepo": 1225.0,
+    "totalListings": 11828,
+    "aiEnhancedDirectories": 1225
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1224,
+      "directoryCount": 1225,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -16109,6 +16109,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T11:52:37.622690+00:00Z",
       "lastUpdated": "2025-11-06T11:52:37.622690+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "italian-speaking-gap-analysis-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T11:52:58.815855+00:00Z",
+      "lastUpdated": "2025-11-06T11:52:58.815855+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

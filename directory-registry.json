@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T16:09:55.734752+00:00Z",
+  "lastUpdated": "2025-11-06T16:10:15.191319+00:00Z",
   "stats": {
-    "totalDirectories": 1950,
+    "totalDirectories": 1951,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1950.0,
-    "totalListings": 18931,
-    "aiEnhancedDirectories": 1950
+    "avgDirectoriesPerRepo": 1951.0,
+    "totalListings": 18941,
+    "aiEnhancedDirectories": 1951
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1950,
+      "directoryCount": 1951,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -25547,6 +25547,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T16:09:55.734752+00:00Z",
       "lastUpdated": "2025-11-06T16:09:55.734752+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "christian-owned-custom-home-building-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T16:10:15.191319+00:00Z",
+      "lastUpdated": "2025-11-06T16:10:15.191319+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

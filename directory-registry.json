@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T04:51:05.979420Z",
+  "lastUpdated": "2025-11-06T04:51:24.798513Z",
   "stats": {
-    "totalDirectories": 213,
+    "totalDirectories": 214,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 213.0,
-    "totalListings": 1965,
-    "aiEnhancedDirectories": 213
+    "avgDirectoriesPerRepo": 214.0,
+    "totalListings": 1975,
+    "aiEnhancedDirectories": 214
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 213,
+      "directoryCount": 214,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -2966,6 +2966,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T04:51:05.979420Z",
       "lastUpdated": "2025-11-06T04:51:05.979420Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-3d-animation-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T04:51:24.798513Z",
+      "lastUpdated": "2025-11-06T04:51:24.798513Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

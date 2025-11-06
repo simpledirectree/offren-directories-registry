@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T10:34:02.940924+00:00Z",
+  "lastUpdated": "2025-11-06T10:34:25.200615+00:00Z",
   "stats": {
-    "totalDirectories": 1018,
+    "totalDirectories": 1019,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1018.0,
-    "totalListings": 9801,
-    "aiEnhancedDirectories": 1018
+    "avgDirectoriesPerRepo": 1019.0,
+    "totalListings": 9811,
+    "aiEnhancedDirectories": 1019
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1018,
+      "directoryCount": 1019,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -13434,6 +13434,19 @@
       "status": "active",
       "listingsCount": 7,
       "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "chinese-american-owned-commercial-kitchen-rentals-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T10:34:25.200615+00:00Z",
+      "lastUpdated": "2025-11-06T10:34:25.200615+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

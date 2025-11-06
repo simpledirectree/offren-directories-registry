@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T06:40:10.575287+00:00Z",
+  "lastUpdated": "2025-11-06T06:40:31.152654+00:00Z",
   "stats": {
-    "totalDirectories": 346,
+    "totalDirectories": 347,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 346.0,
-    "totalListings": 3236,
-    "aiEnhancedDirectories": 346
+    "avgDirectoriesPerRepo": 347.0,
+    "totalListings": 3246,
+    "aiEnhancedDirectories": 347
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 346,
+      "directoryCount": 347,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -4695,6 +4695,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T06:40:10.575287+00:00Z",
       "lastUpdated": "2025-11-06T06:40:10.575287+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "mexican-american-owned-heating-systems-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T06:40:31.152654+00:00Z",
+      "lastUpdated": "2025-11-06T06:40:31.152654+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

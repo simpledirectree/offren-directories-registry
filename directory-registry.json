@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T03:52:58.367997Z",
+  "lastUpdated": "2025-11-06T03:53:17.314031Z",
   "stats": {
-    "totalDirectories": 35,
+    "totalDirectories": 36,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 35.0,
-    "totalListings": 308,
-    "aiEnhancedDirectories": 35
+    "avgDirectoriesPerRepo": 36.0,
+    "totalListings": 318,
+    "aiEnhancedDirectories": 36
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 35,
+      "directoryCount": 36,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -652,6 +652,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T03:52:58.367997Z",
       "lastUpdated": "2025-11-06T03:52:58.367997Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-24-7-monitoring-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T03:53:17.314031Z",
+      "lastUpdated": "2025-11-06T03:53:17.314031Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

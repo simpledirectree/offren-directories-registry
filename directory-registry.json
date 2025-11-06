@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T07:15:11.612930+00:00Z",
+  "lastUpdated": "2025-11-06T07:15:31.952687+00:00Z",
   "stats": {
-    "totalDirectories": 451,
+    "totalDirectories": 452,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 451.0,
-    "totalListings": 4255,
-    "aiEnhancedDirectories": 451
+    "avgDirectoriesPerRepo": 452.0,
+    "totalListings": 4265,
+    "aiEnhancedDirectories": 452
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 451,
+      "directoryCount": 452,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -6060,6 +6060,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T07:15:11.612930+00:00Z",
       "lastUpdated": "2025-11-06T07:15:11.612930+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "millennial-owned-meal-prep-services-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T07:15:31.952687+00:00Z",
+      "lastUpdated": "2025-11-06T07:15:31.952687+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

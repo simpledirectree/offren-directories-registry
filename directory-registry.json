@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T03:51:24.816242Z",
+  "lastUpdated": "2025-11-06T03:51:44.146313Z",
   "stats": {
-    "totalDirectories": 30,
+    "totalDirectories": 31,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 30.0,
-    "totalListings": 270,
-    "aiEnhancedDirectories": 30
+    "avgDirectoriesPerRepo": 31.0,
+    "totalListings": 275,
+    "aiEnhancedDirectories": 31
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 30,
+      "directoryCount": 31,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -590,6 +590,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-24-7-monitoring-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T03:51:44.146313Z",
+      "lastUpdated": "2025-11-06T03:51:44.146313Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

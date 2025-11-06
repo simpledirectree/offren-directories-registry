@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T07:55:59.024638+00:00Z",
+  "lastUpdated": "2025-11-06T07:56:19.325586+00:00Z",
   "stats": {
-    "totalDirectories": 570,
+    "totalDirectories": 571,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 570.0,
-    "totalListings": 5430,
-    "aiEnhancedDirectories": 570
+    "avgDirectoriesPerRepo": 571.0,
+    "totalListings": 5440,
+    "aiEnhancedDirectories": 571
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 570,
+      "directoryCount": 571,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -7607,6 +7607,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T07:55:59.024638+00:00Z",
       "lastUpdated": "2025-11-06T07:55:59.024638+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "korean-american-owned-podcast-production-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T07:56:19.325586+00:00Z",
+      "lastUpdated": "2025-11-06T07:56:19.325586+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

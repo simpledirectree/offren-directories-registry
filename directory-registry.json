@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T22:09:23.103999+00:00Z",
+  "lastUpdated": "2025-11-06T22:12:54.682121+00:00Z",
   "stats": {
-    "totalDirectories": 2414,
+    "totalDirectories": 2415,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2414.0,
-    "totalListings": 23411,
-    "aiEnhancedDirectories": 2414
+    "avgDirectoriesPerRepo": 2415.0,
+    "totalListings": 23421,
+    "aiEnhancedDirectories": 2415
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2414,
+      "directoryCount": 2415,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -31579,6 +31579,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T22:09:23.103999+00:00Z",
       "lastUpdated": "2025-11-06T22:09:23.103999+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "african-american-owned-forensic-accounting-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T22:12:54.682121+00:00Z",
+      "lastUpdated": "2025-11-06T22:12:54.682121+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

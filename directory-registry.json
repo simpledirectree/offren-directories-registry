@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T21:28:12.916685+00:00Z",
+  "lastUpdated": "2025-11-06T21:29:58.124138+00:00Z",
   "stats": {
-    "totalDirectories": 2371,
+    "totalDirectories": 2372,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2371.0,
-    "totalListings": 23013,
-    "aiEnhancedDirectories": 2371
+    "avgDirectoriesPerRepo": 2372.0,
+    "totalListings": 23023,
+    "aiEnhancedDirectories": 2372
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2371,
+      "directoryCount": 2372,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -31020,6 +31020,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T21:28:12.916685+00:00Z",
       "lastUpdated": "2025-11-06T21:28:12.916685+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "armenian-speaking-competitive-intelligence-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T21:29:58.124138+00:00Z",
+      "lastUpdated": "2025-11-06T21:29:58.124138+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

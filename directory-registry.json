@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T17:12:26.873399+00:00Z",
+  "lastUpdated": "2025-11-06T17:12:44.345735+00:00Z",
   "stats": {
-    "totalDirectories": 2131,
+    "totalDirectories": 2132,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2131.0,
-    "totalListings": 20687,
-    "aiEnhancedDirectories": 2131
+    "avgDirectoriesPerRepo": 2132.0,
+    "totalListings": 20697,
+    "aiEnhancedDirectories": 2132
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2131,
+      "directoryCount": 2132,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -27900,6 +27900,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T17:12:26.873399+00:00Z",
       "lastUpdated": "2025-11-06T17:12:26.873399+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "hispanic-owned-comedians-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T17:12:44.345735+00:00Z",
+      "lastUpdated": "2025-11-06T17:12:44.345735+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

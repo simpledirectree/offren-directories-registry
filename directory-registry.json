@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T17:54:34.286696+00:00Z",
+  "lastUpdated": "2025-11-06T17:54:53.392579+00:00Z",
   "stats": {
-    "totalDirectories": 2255,
+    "totalDirectories": 2256,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2255.0,
-    "totalListings": 21898,
-    "aiEnhancedDirectories": 2255
+    "avgDirectoriesPerRepo": 2256.0,
+    "totalListings": 21908,
+    "aiEnhancedDirectories": 2256
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2255,
+      "directoryCount": 2256,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -29512,6 +29512,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T17:54:34.286696+00:00Z",
       "lastUpdated": "2025-11-06T17:54:34.286696+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "indian-american-owned-retained-recruiting-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T17:54:53.392579+00:00Z",
+      "lastUpdated": "2025-11-06T17:54:53.392579+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

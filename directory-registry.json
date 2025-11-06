@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T07:28:59.164008+00:00Z",
+  "lastUpdated": "2025-11-06T07:29:22.035563+00:00Z",
   "stats": {
-    "totalDirectories": 489,
+    "totalDirectories": 490,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 489.0,
-    "totalListings": 4628,
-    "aiEnhancedDirectories": 489
+    "avgDirectoriesPerRepo": 490.0,
+    "totalListings": 4638,
+    "aiEnhancedDirectories": 490
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 489,
+      "directoryCount": 490,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -6554,6 +6554,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T07:28:59.164008+00:00Z",
       "lastUpdated": "2025-11-06T07:28:59.164008+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "cuban-american-owned-account-based-marketing-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T07:29:22.035563+00:00Z",
+      "lastUpdated": "2025-11-06T07:29:22.035563+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

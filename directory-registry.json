@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T06:24:17.041279+00:00Z",
+  "lastUpdated": "2025-11-06T06:24:36.840254+00:00Z",
   "stats": {
-    "totalDirectories": 299,
+    "totalDirectories": 300,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 299.0,
-    "totalListings": 2780,
-    "aiEnhancedDirectories": 299
+    "avgDirectoriesPerRepo": 300.0,
+    "totalListings": 2790,
+    "aiEnhancedDirectories": 300
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 299,
+      "directoryCount": 300,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -4084,6 +4084,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T06:24:17.041279+00:00Z",
       "lastUpdated": "2025-11-06T06:24:17.041279+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "atheist-owned-mobile-rv-repair-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T06:24:36.840254+00:00Z",
+      "lastUpdated": "2025-11-06T06:24:36.840254+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

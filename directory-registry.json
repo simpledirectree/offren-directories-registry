@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:34:15.116354+00:00Z",
+  "lastUpdated": "2025-11-06T15:34:33.575438+00:00Z",
   "stats": {
-    "totalDirectories": 1846,
+    "totalDirectories": 1847,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1846.0,
-    "totalListings": 17933,
-    "aiEnhancedDirectories": 1846
+    "avgDirectoriesPerRepo": 1847.0,
+    "totalListings": 17943,
+    "aiEnhancedDirectories": 1847
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1846,
+      "directoryCount": 1847,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -24195,6 +24195,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T15:34:15.116354+00:00Z",
       "lastUpdated": "2025-11-06T15:34:15.116354+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "gen-x-owned-carpentry-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:34:33.575438+00:00Z",
+      "lastUpdated": "2025-11-06T15:34:33.575438+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

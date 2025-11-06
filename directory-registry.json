@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T21:41:19.270695+00:00Z",
+  "lastUpdated": "2025-11-06T21:42:00.798062+00:00Z",
   "stats": {
-    "totalDirectories": 2384,
+    "totalDirectories": 2385,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2384.0,
-    "totalListings": 23133,
-    "aiEnhancedDirectories": 2384
+    "avgDirectoriesPerRepo": 2385.0,
+    "totalListings": 23139,
+    "aiEnhancedDirectories": 2385
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2384,
+      "directoryCount": 2385,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -31192,6 +31192,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "american-indian-owned-composting-services-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T21:42:00.798062+00:00Z",
+      "lastUpdated": "2025-11-06T21:42:00.798062+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

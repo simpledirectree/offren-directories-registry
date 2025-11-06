@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T17:15:01.965690+00:00Z",
+  "lastUpdated": "2025-11-06T17:15:21.081742+00:00Z",
   "stats": {
-    "totalDirectories": 2139,
+    "totalDirectories": 2140,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2139.0,
-    "totalListings": 20767,
-    "aiEnhancedDirectories": 2139
+    "avgDirectoriesPerRepo": 2140.0,
+    "totalListings": 20777,
+    "aiEnhancedDirectories": 2140
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2139,
+      "directoryCount": 2140,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -28004,6 +28004,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T17:15:01.965690+00:00Z",
       "lastUpdated": "2025-11-06T17:15:01.965690+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "cuban-american-owned-fashion-rental-styling-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T17:15:21.081742+00:00Z",
+      "lastUpdated": "2025-11-06T17:15:21.081742+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

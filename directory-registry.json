@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T22:51:30.558352+00:00Z",
+  "lastUpdated": "2025-11-06T22:52:10.489091+00:00Z",
   "stats": {
-    "totalDirectories": 2449,
+    "totalDirectories": 2450,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2449.0,
-    "totalListings": 23747,
-    "aiEnhancedDirectories": 2449
+    "avgDirectoriesPerRepo": 2450.0,
+    "totalListings": 23757,
+    "aiEnhancedDirectories": 2450
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2449,
+      "directoryCount": 2450,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -32034,6 +32034,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T22:51:30.558352+00:00Z",
       "lastUpdated": "2025-11-06T22:51:30.558352+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "catholic-owned-mobile-auto-maintenance-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T22:52:10.489091+00:00Z",
+      "lastUpdated": "2025-11-06T22:52:10.489091+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

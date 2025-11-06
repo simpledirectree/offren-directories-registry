@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T11:51:39.022179+00:00Z",
+  "lastUpdated": "2025-11-06T11:51:57.672970+00:00Z",
   "stats": {
-    "totalDirectories": 1221,
+    "totalDirectories": 1222,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1221.0,
-    "totalListings": 11788,
-    "aiEnhancedDirectories": 1221
+    "avgDirectoriesPerRepo": 1222.0,
+    "totalListings": 11798,
+    "aiEnhancedDirectories": 1222
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1221,
+      "directoryCount": 1222,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -16070,6 +16070,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T11:51:39.022179+00:00Z",
       "lastUpdated": "2025-11-06T11:51:39.022179+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "greek-speaking-fire-performers-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T11:51:57.672970+00:00Z",
+      "lastUpdated": "2025-11-06T11:51:57.672970+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

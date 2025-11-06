@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T10:00:35.250707+00:00Z",
+  "lastUpdated": "2025-11-06T10:00:56.093574+00:00Z",
   "stats": {
-    "totalDirectories": 926,
+    "totalDirectories": 927,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 926.0,
-    "totalListings": 8905,
-    "aiEnhancedDirectories": 926
+    "avgDirectoriesPerRepo": 927.0,
+    "totalListings": 8915,
+    "aiEnhancedDirectories": 927
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 926,
+      "directoryCount": 927,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -12235,6 +12235,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T10:00:35.250707+00:00Z",
       "lastUpdated": "2025-11-06T10:00:35.250707+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "hebrew-speaking-mentoring-services-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T10:00:56.093574+00:00Z",
+      "lastUpdated": "2025-11-06T10:00:56.093574+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

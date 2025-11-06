@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T13:29:43.530192+00:00Z",
+  "lastUpdated": "2025-11-06T13:30:03.586660+00:00Z",
   "stats": {
-    "totalDirectories": 1493,
+    "totalDirectories": 1494,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1493.0,
-    "totalListings": 14474,
-    "aiEnhancedDirectories": 1493
+    "avgDirectoriesPerRepo": 1494.0,
+    "totalListings": 14484,
+    "aiEnhancedDirectories": 1494
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1493,
+      "directoryCount": 1494,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -19606,6 +19606,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T13:29:43.530192+00:00Z",
       "lastUpdated": "2025-11-06T13:29:43.530192+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "mexican-american-owned-ceiling-fans-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T13:30:03.586660+00:00Z",
+      "lastUpdated": "2025-11-06T13:30:03.586660+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

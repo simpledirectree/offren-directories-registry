@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T07:18:10.355359+00:00Z",
+  "lastUpdated": "2025-11-06T07:18:30.240202+00:00Z",
   "stats": {
-    "totalDirectories": 460,
+    "totalDirectories": 461,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 460.0,
-    "totalListings": 4345,
-    "aiEnhancedDirectories": 460
+    "avgDirectoriesPerRepo": 461.0,
+    "totalListings": 4355,
+    "aiEnhancedDirectories": 461
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 460,
+      "directoryCount": 461,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -6177,6 +6177,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T07:18:10.355359+00:00Z",
       "lastUpdated": "2025-11-06T07:18:10.355359+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "croatian-speaking-men-s-grooming-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T07:18:30.240202+00:00Z",
+      "lastUpdated": "2025-11-06T07:18:30.240202+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

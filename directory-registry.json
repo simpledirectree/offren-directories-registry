@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T08:50:33.655409+00:00Z",
+  "lastUpdated": "2025-11-06T08:50:54.343838+00:00Z",
   "stats": {
-    "totalDirectories": 728,
+    "totalDirectories": 729,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 728.0,
-    "totalListings": 6969,
-    "aiEnhancedDirectories": 728
+    "avgDirectoriesPerRepo": 729.0,
+    "totalListings": 6979,
+    "aiEnhancedDirectories": 729
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 728,
+      "directoryCount": 729,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -9661,6 +9661,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T08:50:33.655409+00:00Z",
       "lastUpdated": "2025-11-06T08:50:33.655409+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "muslim-owned-api-development-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T08:50:54.343838+00:00Z",
+      "lastUpdated": "2025-11-06T08:50:54.343838+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

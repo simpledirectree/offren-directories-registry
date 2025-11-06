@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T06:55:12.008155+00:00Z",
+  "lastUpdated": "2025-11-06T06:55:31.926932+00:00Z",
   "stats": {
-    "totalDirectories": 391,
+    "totalDirectories": 392,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 391.0,
-    "totalListings": 3664,
-    "aiEnhancedDirectories": 391
+    "avgDirectoriesPerRepo": 392.0,
+    "totalListings": 3674,
+    "aiEnhancedDirectories": 392
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 391,
+      "directoryCount": 392,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -5280,6 +5280,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T06:55:12.008155+00:00Z",
       "lastUpdated": "2025-11-06T06:55:12.008155+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "croatian-speaking-palliative-care-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T06:55:31.926932+00:00Z",
+      "lastUpdated": "2025-11-06T06:55:31.926932+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

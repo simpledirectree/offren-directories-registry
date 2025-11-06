@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T10:04:42.698935+00:00Z",
+  "lastUpdated": "2025-11-06T10:05:03.192668+00:00Z",
   "stats": {
-    "totalDirectories": 938,
+    "totalDirectories": 939,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 938.0,
-    "totalListings": 9009,
-    "aiEnhancedDirectories": 938
+    "avgDirectoriesPerRepo": 939.0,
+    "totalListings": 9019,
+    "aiEnhancedDirectories": 939
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 938,
+      "directoryCount": 939,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -12391,6 +12391,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T10:04:42.698935+00:00Z",
       "lastUpdated": "2025-11-06T10:04:42.698935+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "indian-american-owned-offer-in-compromise-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T10:05:03.192668+00:00Z",
+      "lastUpdated": "2025-11-06T10:05:03.192668+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

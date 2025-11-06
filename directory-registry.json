@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T23:42:04.191412+00:00Z",
+  "lastUpdated": "2025-11-06T23:43:57.876835+00:00Z",
   "stats": {
-    "totalDirectories": 30,
+    "totalDirectories": 31,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 30.0,
-    "totalListings": 276,
-    "aiEnhancedDirectories": 30
+    "avgDirectoriesPerRepo": 31.0,
+    "totalListings": 286,
+    "aiEnhancedDirectories": 31
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -398,12 +398,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-interior-cleaning-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T23:43:57.876835+00:00Z",
+      "lastUpdated": "2025-11-06T23:43:57.876835+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 30,
+      "directoryCount": 31,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

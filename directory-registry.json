@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T18:20:06.587028+00:00Z",
+  "lastUpdated": "2025-11-06T18:20:28.550334+00:00Z",
   "stats": {
-    "totalDirectories": 2327,
+    "totalDirectories": 2328,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2327.0,
-    "totalListings": 22603,
-    "aiEnhancedDirectories": 2327
+    "avgDirectoriesPerRepo": 2328.0,
+    "totalListings": 22613,
+    "aiEnhancedDirectories": 2328
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 2327,
+      "directoryCount": 2328,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -30448,6 +30448,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T18:20:06.587028+00:00Z",
       "lastUpdated": "2025-11-06T18:20:06.587028+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "khmer-speaking-learning-support-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T18:20:28.550334+00:00Z",
+      "lastUpdated": "2025-11-06T18:20:28.550334+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

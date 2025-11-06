@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T07:51:35.281251+00:00Z",
+  "lastUpdated": "2025-11-06T07:51:55.339820+00:00Z",
   "stats": {
-    "totalDirectories": 557,
+    "totalDirectories": 558,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 557.0,
-    "totalListings": 5303,
-    "aiEnhancedDirectories": 557
+    "avgDirectoriesPerRepo": 558.0,
+    "totalListings": 5313,
+    "aiEnhancedDirectories": 558
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 557,
+      "directoryCount": 558,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -7438,6 +7438,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T07:51:35.281251+00:00Z",
       "lastUpdated": "2025-11-06T07:51:35.281251+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "chinese-speaking-background-check-services-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T07:51:55.339820+00:00Z",
+      "lastUpdated": "2025-11-06T07:51:55.339820+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T23:51:32.725295+00:00Z",
+  "lastUpdated": "2025-11-06T23:51:45.465777+00:00Z",
   "stats": {
-    "totalDirectories": 41,
+    "totalDirectories": 42,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 41.0,
-    "totalListings": 382,
-    "aiEnhancedDirectories": 41
+    "avgDirectoriesPerRepo": 42.0,
+    "totalListings": 390,
+    "aiEnhancedDirectories": 42
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -541,12 +541,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-meditation-instruction-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T23:51:45.465777+00:00Z",
+      "lastUpdated": "2025-11-06T23:51:45.465777+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 41,
+      "directoryCount": 42,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

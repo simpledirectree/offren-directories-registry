@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T15:48:38.164247+00:00Z",
+  "lastUpdated": "2025-11-06T15:48:55.893599+00:00Z",
   "stats": {
-    "totalDirectories": 1888,
+    "totalDirectories": 1889,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1888.0,
-    "totalListings": 18346,
-    "aiEnhancedDirectories": 1888
+    "avgDirectoriesPerRepo": 1889.0,
+    "totalListings": 18347,
+    "aiEnhancedDirectories": 1889
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1888,
+      "directoryCount": 1889,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -24744,6 +24744,19 @@
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "disabled-owned-software-implementation-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T15:48:55.893599+00:00Z",
+      "lastUpdated": "2025-11-06T15:48:55.893599+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
       "aiEnhanced": true,
       "researchSources": [
         "pollinations_ai"

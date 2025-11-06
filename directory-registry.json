@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T11:59:09.516664+00:00Z",
+  "lastUpdated": "2025-11-06T11:59:30.024209+00:00Z",
   "stats": {
-    "totalDirectories": 1241,
+    "totalDirectories": 1242,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1241.0,
-    "totalListings": 11986,
-    "aiEnhancedDirectories": 1241
+    "avgDirectoriesPerRepo": 1242.0,
+    "totalListings": 11996,
+    "aiEnhancedDirectories": 1242
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1241,
+      "directoryCount": 1242,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -16330,6 +16330,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T11:59:09.516664+00:00Z",
       "lastUpdated": "2025-11-06T11:59:09.516664+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "haitian-creole-speaking-data-warehousing-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T11:59:30.024209+00:00Z",
+      "lastUpdated": "2025-11-06T11:59:30.024209+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

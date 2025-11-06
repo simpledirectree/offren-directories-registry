@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T14:49:11.761301+00:00Z",
+  "lastUpdated": "2025-11-06T14:49:31.193018+00:00Z",
   "stats": {
-    "totalDirectories": 1716,
+    "totalDirectories": 1717,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1716.0,
-    "totalListings": 16644,
-    "aiEnhancedDirectories": 1716
+    "avgDirectoriesPerRepo": 1717.0,
+    "totalListings": 16654,
+    "aiEnhancedDirectories": 1717
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1716,
+      "directoryCount": 1717,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -22505,6 +22505,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T14:49:11.761301+00:00Z",
       "lastUpdated": "2025-11-06T14:49:11.761301+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "mexican-american-owned-website-maintenance-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T14:49:31.193018+00:00Z",
+      "lastUpdated": "2025-11-06T14:49:31.193018+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

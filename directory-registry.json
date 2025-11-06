@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T12:38:06.109918+00:00Z",
+  "lastUpdated": "2025-11-06T12:38:26.082716+00:00Z",
   "stats": {
-    "totalDirectories": 1350,
+    "totalDirectories": 1351,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1350.0,
-    "totalListings": 13061,
-    "aiEnhancedDirectories": 1350
+    "avgDirectoriesPerRepo": 1351.0,
+    "totalListings": 13071,
+    "aiEnhancedDirectories": 1351
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 1350,
+      "directoryCount": 1351,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -17747,6 +17747,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T12:38:06.109918+00:00Z",
       "lastUpdated": "2025-11-06T12:38:06.109918+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "german-speaking-event-marketing-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T12:38:26.082716+00:00Z",
+      "lastUpdated": "2025-11-06T12:38:26.082716+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-06T10:07:13.342827+00:00Z",
+  "lastUpdated": "2025-11-06T10:07:36.905976+00:00Z",
   "stats": {
-    "totalDirectories": 945,
+    "totalDirectories": 946,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 945.0,
-    "totalListings": 9079,
-    "aiEnhancedDirectories": 945
+    "avgDirectoriesPerRepo": 946.0,
+    "totalListings": 9089,
+    "aiEnhancedDirectories": 946
   },
   "african-american-owned-24-7-monitoring-in-alabama": {
     "repo": "offren-directories-batch-001",
@@ -193,7 +193,7 @@
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-05T23:23:47.743924Z",
-      "directoryCount": 945,
+      "directoryCount": 946,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
@@ -12482,6 +12482,19 @@
       "repo": "offren-directories-batch-001",
       "created": "2025-11-06T10:07:13.342827+00:00Z",
       "lastUpdated": "2025-11-06T10:07:13.342827+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
+    },
+    "middle-eastern-owned-ombre-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-06T10:07:36.905976+00:00Z",
+      "lastUpdated": "2025-11-06T10:07:36.905976+00:00Z",
       "status": "active",
       "listingsCount": 10,
       "opportunityScore": 80,

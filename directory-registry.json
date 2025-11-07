@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T13:57:44.258600+00:00Z",
+  "lastUpdated": "2025-11-07T13:57:58.383893+00:00Z",
   "stats": {
-    "totalDirectories": 1517,
+    "totalDirectories": 1518,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1517.0,
-    "totalListings": 14302,
-    "aiEnhancedDirectories": 1516
+    "avgDirectoriesPerRepo": 1518.0,
+    "totalListings": 14312,
+    "aiEnhancedDirectories": 1517
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19728,12 +19728,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-tutors-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:57:58.383893+00:00Z",
+      "lastUpdated": "2025-11-07T13:57:58.383893+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1517,
+      "directoryCount": 1518,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

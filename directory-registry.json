@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:23:09.594986+00:00Z",
+  "lastUpdated": "2025-11-07T15:23:47.529317+00:00Z",
   "stats": {
-    "totalDirectories": 1606,
+    "totalDirectories": 1607,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1606.0,
-    "totalListings": 15153,
-    "aiEnhancedDirectories": 1605
+    "avgDirectoriesPerRepo": 1607.0,
+    "totalListings": 15154,
+    "aiEnhancedDirectories": 1606
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20885,12 +20885,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-php-development-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:23:47.529317+00:00Z",
+      "lastUpdated": "2025-11-07T15:23:47.529317+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1606,
+      "directoryCount": 1607,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

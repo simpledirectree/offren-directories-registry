@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:41:05.391735+00:00Z",
+  "lastUpdated": "2025-11-07T12:41:21.793052+00:00Z",
   "stats": {
-    "totalDirectories": 1444,
+    "totalDirectories": 1445,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1444.0,
-    "totalListings": 13653,
-    "aiEnhancedDirectories": 1443
+    "avgDirectoriesPerRepo": 1445.0,
+    "totalListings": 13663,
+    "aiEnhancedDirectories": 1444
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18779,12 +18779,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-educational-garden-tours-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:41:21.793052+00:00Z",
+      "lastUpdated": "2025-11-07T12:41:21.793052+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1444,
+      "directoryCount": 1445,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

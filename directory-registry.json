@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:59:34.404761+00:00Z",
+  "lastUpdated": "2025-11-07T05:59:49.278674+00:00Z",
   "stats": {
-    "totalDirectories": 752,
+    "totalDirectories": 753,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 752.0,
-    "totalListings": 7181,
-    "aiEnhancedDirectories": 752
+    "avgDirectoriesPerRepo": 753.0,
+    "totalListings": 7191,
+    "aiEnhancedDirectories": 753
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9784,12 +9784,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-trade-schools-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:59:49.278674+00:00Z",
+      "lastUpdated": "2025-11-07T05:59:49.278674+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 752,
+      "directoryCount": 753,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

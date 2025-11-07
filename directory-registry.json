@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:14:49.442173+00:00Z",
+  "lastUpdated": "2025-11-07T15:17:09.246613+00:00Z",
   "stats": {
-    "totalDirectories": 1595,
+    "totalDirectories": 1596,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1595.0,
-    "totalListings": 15044,
-    "aiEnhancedDirectories": 1594
+    "avgDirectoriesPerRepo": 1596.0,
+    "totalListings": 15054,
+    "aiEnhancedDirectories": 1595
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20742,12 +20742,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-adhd-support-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:17:09.246613+00:00Z",
+      "lastUpdated": "2025-11-07T15:17:09.246613+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1595,
+      "directoryCount": 1596,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

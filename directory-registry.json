@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:35:47.251529+00:00Z",
+  "lastUpdated": "2025-11-07T12:37:18.557834+00:00Z",
   "stats": {
-    "totalDirectories": 1441,
+    "totalDirectories": 1442,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1441.0,
-    "totalListings": 13623,
-    "aiEnhancedDirectories": 1440
+    "avgDirectoriesPerRepo": 1442.0,
+    "totalListings": 13633,
+    "aiEnhancedDirectories": 1441
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18740,12 +18740,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-performance-improvement-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:37:18.557834+00:00Z",
+      "lastUpdated": "2025-11-07T12:37:18.557834+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1441,
+      "directoryCount": 1442,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

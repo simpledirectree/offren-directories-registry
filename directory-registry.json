@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:52:07.672526+00:00Z",
+  "lastUpdated": "2025-11-07T05:52:24.869553+00:00Z",
   "stats": {
-    "totalDirectories": 725,
+    "totalDirectories": 726,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 725.0,
-    "totalListings": 6923,
-    "aiEnhancedDirectories": 725
+    "avgDirectoriesPerRepo": 726.0,
+    "totalListings": 6933,
+    "aiEnhancedDirectories": 726
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9433,12 +9433,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-24-7-monitoring-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:52:24.869553+00:00Z",
+      "lastUpdated": "2025-11-07T05:52:24.869553+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 725,
+      "directoryCount": 726,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

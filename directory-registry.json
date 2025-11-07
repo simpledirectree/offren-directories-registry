@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:04:34.140030+00:00Z",
+  "lastUpdated": "2025-11-07T01:06:04.818012+00:00Z",
   "stats": {
-    "totalDirectories": 126,
+    "totalDirectories": 127,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 126.0,
-    "totalListings": 1172,
-    "aiEnhancedDirectories": 126
+    "avgDirectoriesPerRepo": 127.0,
+    "totalListings": 1177,
+    "aiEnhancedDirectories": 127
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1646,12 +1646,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-family-law-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:06:04.818012+00:00Z",
+      "lastUpdated": "2025-11-07T01:06:04.818012+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 126,
+      "directoryCount": 127,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

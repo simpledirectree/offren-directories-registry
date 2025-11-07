@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T14:34:24.076288+00:00Z",
+  "lastUpdated": "2025-11-07T14:35:27.652666+00:00Z",
   "stats": {
-    "totalDirectories": 1557,
+    "totalDirectories": 1558,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1557.0,
-    "totalListings": 14685,
-    "aiEnhancedDirectories": 1556
+    "avgDirectoriesPerRepo": 1558.0,
+    "totalListings": 14686,
+    "aiEnhancedDirectories": 1557
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20248,12 +20248,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-specialty-plant-care-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T14:35:27.652666+00:00Z",
+      "lastUpdated": "2025-11-07T14:35:27.652666+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1557,
+      "directoryCount": 1558,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

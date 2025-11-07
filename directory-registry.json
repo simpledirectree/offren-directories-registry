@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:31:35.325734+00:00Z",
+  "lastUpdated": "2025-11-07T05:31:51.827353+00:00Z",
   "stats": {
-    "totalDirectories": 654,
+    "totalDirectories": 655,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 654.0,
-    "totalListings": 6234,
-    "aiEnhancedDirectories": 654
+    "avgDirectoriesPerRepo": 655.0,
+    "totalListings": 6244,
+    "aiEnhancedDirectories": 655
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8510,12 +8510,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-trade-show-support-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:31:51.827353+00:00Z",
+      "lastUpdated": "2025-11-07T05:31:51.827353+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 654,
+      "directoryCount": 655,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:03:41.220453+00:00Z",
+  "lastUpdated": "2025-11-07T17:06:25.572110+00:00Z",
   "stats": {
-    "totalDirectories": 1714,
+    "totalDirectories": 1715,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1714.0,
-    "totalListings": 16140,
-    "aiEnhancedDirectories": 1713
+    "avgDirectoriesPerRepo": 1715.0,
+    "totalListings": 16145,
+    "aiEnhancedDirectories": 1714
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22289,12 +22289,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-trade-finance-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:06:25.572110+00:00Z",
+      "lastUpdated": "2025-11-07T17:06:25.572110+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1714,
+      "directoryCount": 1715,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

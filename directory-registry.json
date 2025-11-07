@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:38:32.308764+00:00Z",
+  "lastUpdated": "2025-11-07T03:38:48.626413+00:00Z",
   "stats": {
-    "totalDirectories": 268,
+    "totalDirectories": 269,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 268.0,
-    "totalListings": 2473,
-    "aiEnhancedDirectories": 268
+    "avgDirectoriesPerRepo": 269.0,
+    "totalListings": 2483,
+    "aiEnhancedDirectories": 269
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3492,12 +3492,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-paint-correction-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:38:48.626413+00:00Z",
+      "lastUpdated": "2025-11-07T03:38:48.626413+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 268,
+      "directoryCount": 269,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:02:55.470845+00:00Z",
+  "lastUpdated": "2025-11-07T09:03:10.881657+00:00Z",
   "stats": {
-    "totalDirectories": 1218,
+    "totalDirectories": 1219,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1218.0,
-    "totalListings": 11599,
-    "aiEnhancedDirectories": 1217
+    "avgDirectoriesPerRepo": 1219.0,
+    "totalListings": 11606,
+    "aiEnhancedDirectories": 1218
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15841,12 +15841,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-virtual-tutoring-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:03:10.881657+00:00Z",
+      "lastUpdated": "2025-11-07T09:03:10.881657+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1218,
+      "directoryCount": 1219,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

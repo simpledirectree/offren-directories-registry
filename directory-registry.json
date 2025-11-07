@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T14:19:31.404255+00:00Z",
+  "lastUpdated": "2025-11-07T14:19:48.894218+00:00Z",
   "stats": {
-    "totalDirectories": 1538,
+    "totalDirectories": 1539,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1538.0,
-    "totalListings": 14495,
-    "aiEnhancedDirectories": 1537
+    "avgDirectoriesPerRepo": 1539.0,
+    "totalListings": 14505,
+    "aiEnhancedDirectories": 1538
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20001,12 +20001,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-cloud-monitoring-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T14:19:48.894218+00:00Z",
+      "lastUpdated": "2025-11-07T14:19:48.894218+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1538,
+      "directoryCount": 1539,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

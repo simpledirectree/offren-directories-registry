@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:25:08.649018+00:00Z",
+  "lastUpdated": "2025-11-07T04:25:24.754622+00:00Z",
   "stats": {
-    "totalDirectories": 419,
+    "totalDirectories": 420,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 419.0,
-    "totalListings": 3930,
-    "aiEnhancedDirectories": 419
+    "avgDirectoriesPerRepo": 420.0,
+    "totalListings": 3940,
+    "aiEnhancedDirectories": 420
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -5455,12 +5455,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-supply-chain-optimization-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:25:24.754622+00:00Z",
+      "lastUpdated": "2025-11-07T04:25:24.754622+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 419,
+      "directoryCount": 420,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

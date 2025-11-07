@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:15:42.160491+00:00Z",
+  "lastUpdated": "2025-11-07T22:16:45.537065+00:00Z",
   "stats": {
-    "totalDirectories": 2036,
+    "totalDirectories": 2037,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2036.0,
-    "totalListings": 19129,
-    "aiEnhancedDirectories": 2035
+    "avgDirectoriesPerRepo": 2037.0,
+    "totalListings": 19134,
+    "aiEnhancedDirectories": 2036
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26475,12 +26475,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-event-planning-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:16:45.537065+00:00Z",
+      "lastUpdated": "2025-11-07T22:16:45.537065+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2036,
+      "directoryCount": 2037,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

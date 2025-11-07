@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:57:44.703264+00:00Z",
+  "lastUpdated": "2025-11-07T20:58:27.363545+00:00Z",
   "stats": {
-    "totalDirectories": 1954,
+    "totalDirectories": 1955,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1954.0,
-    "totalListings": 18354,
-    "aiEnhancedDirectories": 1953
+    "avgDirectoriesPerRepo": 1955.0,
+    "totalListings": 18364,
+    "aiEnhancedDirectories": 1954
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25409,12 +25409,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-air-conditioning-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:58:27.363545+00:00Z",
+      "lastUpdated": "2025-11-07T20:58:27.363545+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1954,
+      "directoryCount": 1955,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:07:41.299409+00:00Z",
+  "lastUpdated": "2025-11-07T08:08:44.716499+00:00Z",
   "stats": {
-    "totalDirectories": 1158,
+    "totalDirectories": 1159,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1158.0,
-    "totalListings": 11069,
-    "aiEnhancedDirectories": 1157
+    "avgDirectoriesPerRepo": 1159.0,
+    "totalListings": 11073,
+    "aiEnhancedDirectories": 1158
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15061,12 +15061,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-gastroenterologists-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:08:44.716499+00:00Z",
+      "lastUpdated": "2025-11-07T08:08:44.716499+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1158,
+      "directoryCount": 1159,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

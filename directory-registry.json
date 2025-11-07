@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:57:10.941043+00:00Z",
+  "lastUpdated": "2025-11-07T04:57:29.657034+00:00Z",
   "stats": {
-    "totalDirectories": 531,
+    "totalDirectories": 532,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 531.0,
-    "totalListings": 5036,
-    "aiEnhancedDirectories": 531
+    "avgDirectoriesPerRepo": 532.0,
+    "totalListings": 5046,
+    "aiEnhancedDirectories": 532
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6911,12 +6911,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-content-strategy-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:57:29.657034+00:00Z",
+      "lastUpdated": "2025-11-07T04:57:29.657034+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 531,
+      "directoryCount": 532,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

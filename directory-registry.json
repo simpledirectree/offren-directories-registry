@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:04:07.124837+00:00Z",
+  "lastUpdated": "2025-11-07T08:04:48.063194+00:00Z",
   "stats": {
-    "totalDirectories": 1149,
+    "totalDirectories": 1150,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1149.0,
-    "totalListings": 10979,
-    "aiEnhancedDirectories": 1148
+    "avgDirectoriesPerRepo": 1150.0,
+    "totalListings": 10989,
+    "aiEnhancedDirectories": 1149
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14944,12 +14944,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-software-training-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:04:48.063194+00:00Z",
+      "lastUpdated": "2025-11-07T08:04:48.063194+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1149,
+      "directoryCount": 1150,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

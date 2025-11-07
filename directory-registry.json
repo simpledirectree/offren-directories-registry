@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T14:31:41.107794+00:00Z",
+  "lastUpdated": "2025-11-07T14:31:56.457585+00:00Z",
   "stats": {
-    "totalDirectories": 1553,
+    "totalDirectories": 1554,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1553.0,
-    "totalListings": 14645,
-    "aiEnhancedDirectories": 1552
+    "avgDirectoriesPerRepo": 1554.0,
+    "totalListings": 14655,
+    "aiEnhancedDirectories": 1553
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20196,12 +20196,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-buffet-catering-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T14:31:56.457585+00:00Z",
+      "lastUpdated": "2025-11-07T14:31:56.457585+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1553,
+      "directoryCount": 1554,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

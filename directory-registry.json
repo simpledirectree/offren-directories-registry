@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:40:33.554231+00:00Z",
+  "lastUpdated": "2025-11-07T05:40:52.493817+00:00Z",
   "stats": {
-    "totalDirectories": 685,
+    "totalDirectories": 686,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 685.0,
-    "totalListings": 6540,
-    "aiEnhancedDirectories": 685
+    "avgDirectoriesPerRepo": 686.0,
+    "totalListings": 6550,
+    "aiEnhancedDirectories": 686
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8913,12 +8913,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-seasonal-farm-labor-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:40:52.493817+00:00Z",
+      "lastUpdated": "2025-11-07T05:40:52.493817+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 685,
+      "directoryCount": 686,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

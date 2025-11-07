@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:17:57.861073+00:00Z",
+  "lastUpdated": "2025-11-07T17:21:31.750481+00:00Z",
   "stats": {
-    "totalDirectories": 1727,
+    "totalDirectories": 1728,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1727.0,
-    "totalListings": 16263,
-    "aiEnhancedDirectories": 1726
+    "avgDirectoriesPerRepo": 1728.0,
+    "totalListings": 16266,
+    "aiEnhancedDirectories": 1727
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22458,12 +22458,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-ayurvedic-medicine-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:21:31.750481+00:00Z",
+      "lastUpdated": "2025-11-07T17:21:31.750481+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1727,
+      "directoryCount": 1728,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

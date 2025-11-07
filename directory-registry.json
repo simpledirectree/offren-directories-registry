@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:31:33.709197+00:00Z",
+  "lastUpdated": "2025-11-07T06:31:46.401406+00:00Z",
   "stats": {
-    "totalDirectories": 863,
+    "totalDirectories": 864,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 863.0,
-    "totalListings": 8258,
-    "aiEnhancedDirectories": 863
+    "avgDirectoriesPerRepo": 864.0,
+    "totalListings": 8260,
+    "aiEnhancedDirectories": 864
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11227,12 +11227,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-podcast-production-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:31:46.401406+00:00Z",
+      "lastUpdated": "2025-11-07T06:31:46.401406+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 863,
+      "directoryCount": 864,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

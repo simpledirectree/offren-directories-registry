@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:08:42.170669+00:00Z",
+  "lastUpdated": "2025-11-07T05:08:56.137441+00:00Z",
   "stats": {
-    "totalDirectories": 573,
+    "totalDirectories": 574,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 573.0,
-    "totalListings": 5428,
-    "aiEnhancedDirectories": 573
+    "avgDirectoriesPerRepo": 574.0,
+    "totalListings": 5436,
+    "aiEnhancedDirectories": 574
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7457,12 +7457,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-remarketing-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:08:56.137441+00:00Z",
+      "lastUpdated": "2025-11-07T05:08:56.137441+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 573,
+      "directoryCount": 574,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

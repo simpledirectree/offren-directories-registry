@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:21:15.018699+00:00Z",
+  "lastUpdated": "2025-11-07T19:22:28.752412+00:00Z",
   "stats": {
-    "totalDirectories": 1862,
+    "totalDirectories": 1863,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1862.0,
-    "totalListings": 17498,
-    "aiEnhancedDirectories": 1861
+    "avgDirectoriesPerRepo": 1863.0,
+    "totalListings": 17508,
+    "aiEnhancedDirectories": 1862
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24213,12 +24213,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-supplier-agreement-review-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:22:28.752412+00:00Z",
+      "lastUpdated": "2025-11-07T19:22:28.752412+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1862,
+      "directoryCount": 1863,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

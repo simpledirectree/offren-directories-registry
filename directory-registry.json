@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:42:54.385740+00:00Z",
+  "lastUpdated": "2025-11-07T06:43:12.754654+00:00Z",
   "stats": {
-    "totalDirectories": 903,
+    "totalDirectories": 904,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 903.0,
-    "totalListings": 8626,
-    "aiEnhancedDirectories": 903
+    "avgDirectoriesPerRepo": 904.0,
+    "totalListings": 8636,
+    "aiEnhancedDirectories": 904
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11747,12 +11747,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-conference-planning-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:43:12.754654+00:00Z",
+      "lastUpdated": "2025-11-07T06:43:12.754654+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 903,
+      "directoryCount": 904,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

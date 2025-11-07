@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:43:53.580393+00:00Z",
+  "lastUpdated": "2025-11-07T10:44:34.392443+00:00Z",
   "stats": {
-    "totalDirectories": 1333,
+    "totalDirectories": 1334,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1333.0,
-    "totalListings": 12647,
-    "aiEnhancedDirectories": 1332
+    "avgDirectoriesPerRepo": 1334.0,
+    "totalListings": 12657,
+    "aiEnhancedDirectories": 1333
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17336,12 +17336,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-community-garden-management-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:44:34.392443+00:00Z",
+      "lastUpdated": "2025-11-07T10:44:34.392443+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1333,
+      "directoryCount": 1334,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

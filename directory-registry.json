@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:14:48.241030+00:00Z",
+  "lastUpdated": "2025-11-07T19:15:04.131163+00:00Z",
   "stats": {
-    "totalDirectories": 1848,
+    "totalDirectories": 1849,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1848.0,
-    "totalListings": 17374,
-    "aiEnhancedDirectories": 1847
+    "avgDirectoriesPerRepo": 1849.0,
+    "totalListings": 17384,
+    "aiEnhancedDirectories": 1848
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24031,12 +24031,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-direct-restaurant-delivery-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:15:04.131163+00:00Z",
+      "lastUpdated": "2025-11-07T19:15:04.131163+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1848,
+      "directoryCount": 1849,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

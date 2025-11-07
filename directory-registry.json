@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T14:15:02.359711+00:00Z",
+  "lastUpdated": "2025-11-07T14:15:19.578612+00:00Z",
   "stats": {
-    "totalDirectories": 1532,
+    "totalDirectories": 1533,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1532.0,
-    "totalListings": 14440,
-    "aiEnhancedDirectories": 1531
+    "avgDirectoriesPerRepo": 1533.0,
+    "totalListings": 14450,
+    "aiEnhancedDirectories": 1532
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19923,12 +19923,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-nail-salons-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T14:15:19.578612+00:00Z",
+      "lastUpdated": "2025-11-07T14:15:19.578612+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1532,
+      "directoryCount": 1533,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

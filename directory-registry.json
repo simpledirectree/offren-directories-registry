@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:33:59.303514+00:00Z",
+  "lastUpdated": "2025-11-07T16:34:14.053990+00:00Z",
   "stats": {
-    "totalDirectories": 1682,
+    "totalDirectories": 1683,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1682.0,
-    "totalListings": 15838,
-    "aiEnhancedDirectories": 1681
+    "avgDirectoriesPerRepo": 1683.0,
+    "totalListings": 15848,
+    "aiEnhancedDirectories": 1682
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21873,12 +21873,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-home-cleaners-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:34:14.053990+00:00Z",
+      "lastUpdated": "2025-11-07T16:34:14.053990+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1682,
+      "directoryCount": 1683,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

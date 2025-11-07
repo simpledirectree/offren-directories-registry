@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:16:06.688073+00:00Z",
+  "lastUpdated": "2025-11-07T03:16:21.152164+00:00Z",
   "stats": {
-    "totalDirectories": 246,
+    "totalDirectories": 247,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 246.0,
-    "totalListings": 2266,
-    "aiEnhancedDirectories": 246
+    "avgDirectoriesPerRepo": 247.0,
+    "totalListings": 2276,
+    "aiEnhancedDirectories": 247
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3206,12 +3206,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-swedish-massage-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:16:21.152164+00:00Z",
+      "lastUpdated": "2025-11-07T03:16:21.152164+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 246,
+      "directoryCount": 247,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

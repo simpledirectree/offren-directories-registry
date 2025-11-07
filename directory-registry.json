@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:19:25.563169+00:00Z",
+  "lastUpdated": "2025-11-07T10:19:39.477220+00:00Z",
   "stats": {
-    "totalDirectories": 1307,
+    "totalDirectories": 1308,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1307.0,
-    "totalListings": 12403,
-    "aiEnhancedDirectories": 1306
+    "avgDirectoriesPerRepo": 1308.0,
+    "totalListings": 12410,
+    "aiEnhancedDirectories": 1307
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16998,12 +16998,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-skylight-installation-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:19:39.477220+00:00Z",
+      "lastUpdated": "2025-11-07T10:19:39.477220+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1307,
+      "directoryCount": 1308,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

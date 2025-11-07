@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:06:48.936628+00:00Z",
+  "lastUpdated": "2025-11-07T06:07:03.341726+00:00Z",
   "stats": {
-    "totalDirectories": 778,
+    "totalDirectories": 779,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 778.0,
-    "totalListings": 7441,
-    "aiEnhancedDirectories": 778
+    "avgDirectoriesPerRepo": 779.0,
+    "totalListings": 7449,
+    "aiEnhancedDirectories": 779
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10122,12 +10122,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-pergolas-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:07:03.341726+00:00Z",
+      "lastUpdated": "2025-11-07T06:07:03.341726+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 778,
+      "directoryCount": 779,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

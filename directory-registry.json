@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:04:56.983962+00:00Z",
+  "lastUpdated": "2025-11-07T09:06:00.479808+00:00Z",
   "stats": {
-    "totalDirectories": 1221,
+    "totalDirectories": 1222,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1221.0,
-    "totalListings": 11626,
-    "aiEnhancedDirectories": 1220
+    "avgDirectoriesPerRepo": 1222.0,
+    "totalListings": 11636,
+    "aiEnhancedDirectories": 1221
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15880,12 +15880,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-venture-capital-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:06:00.479808+00:00Z",
+      "lastUpdated": "2025-11-07T09:06:00.479808+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1221,
+      "directoryCount": 1222,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:39:05.160014+00:00Z",
+  "lastUpdated": "2025-11-07T07:39:21.586477+00:00Z",
   "stats": {
-    "totalDirectories": 1099,
+    "totalDirectories": 1100,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1099.0,
-    "totalListings": 10505,
-    "aiEnhancedDirectories": 1098
+    "avgDirectoriesPerRepo": 1100.0,
+    "totalListings": 10515,
+    "aiEnhancedDirectories": 1099
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14294,12 +14294,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-copyright-registration-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:39:21.586477+00:00Z",
+      "lastUpdated": "2025-11-07T07:39:21.586477+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1099,
+      "directoryCount": 1100,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

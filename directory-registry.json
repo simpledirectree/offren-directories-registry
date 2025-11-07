@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T21:32:50.530352+00:00Z",
+  "lastUpdated": "2025-11-07T21:33:32.067344+00:00Z",
   "stats": {
-    "totalDirectories": 1988,
+    "totalDirectories": 1989,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1988.0,
-    "totalListings": 18671,
-    "aiEnhancedDirectories": 1987
+    "avgDirectoriesPerRepo": 1989.0,
+    "totalListings": 18681,
+    "aiEnhancedDirectories": 1988
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25851,12 +25851,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-aqua-aerobics-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T21:33:32.067344+00:00Z",
+      "lastUpdated": "2025-11-07T21:33:32.067344+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1988,
+      "directoryCount": 1989,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

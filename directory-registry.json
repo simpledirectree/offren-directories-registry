@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T21:41:12.427400+00:00Z",
+  "lastUpdated": "2025-11-07T21:43:57.937101+00:00Z",
   "stats": {
-    "totalDirectories": 2003,
+    "totalDirectories": 2004,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2003.0,
-    "totalListings": 18811,
-    "aiEnhancedDirectories": 2002
+    "avgDirectoriesPerRepo": 2004.0,
+    "totalListings": 18821,
+    "aiEnhancedDirectories": 2003
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26046,12 +26046,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-fiduciary-services-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T21:43:57.937101+00:00Z",
+      "lastUpdated": "2025-11-07T21:43:57.937101+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2003,
+      "directoryCount": 2004,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

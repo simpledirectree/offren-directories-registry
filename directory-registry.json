@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:29:37.242457+00:00Z",
+  "lastUpdated": "2025-11-07T06:29:53.053321+00:00Z",
   "stats": {
-    "totalDirectories": 856,
+    "totalDirectories": 857,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 856.0,
-    "totalListings": 8188,
-    "aiEnhancedDirectories": 856
+    "avgDirectoriesPerRepo": 857.0,
+    "totalListings": 8198,
+    "aiEnhancedDirectories": 857
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11136,12 +11136,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-medical-imaging-services-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:29:53.053321+00:00Z",
+      "lastUpdated": "2025-11-07T06:29:53.053321+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 856,
+      "directoryCount": 857,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

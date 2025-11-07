@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:32:32.227160+00:00Z",
+  "lastUpdated": "2025-11-07T00:32:45.840906+00:00Z",
   "stats": {
-    "totalDirectories": 82,
+    "totalDirectories": 83,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 82.0,
-    "totalListings": 771,
-    "aiEnhancedDirectories": 82
+    "avgDirectoriesPerRepo": 83.0,
+    "totalListings": 781,
+    "aiEnhancedDirectories": 83
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1074,12 +1074,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-body-scrubs-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:32:45.840906+00:00Z",
+      "lastUpdated": "2025-11-07T00:32:45.840906+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 82,
+      "directoryCount": 83,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

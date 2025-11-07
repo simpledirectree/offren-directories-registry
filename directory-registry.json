@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:28:32.684467+00:00Z",
+  "lastUpdated": "2025-11-07T06:28:50.371105+00:00Z",
   "stats": {
-    "totalDirectories": 852,
+    "totalDirectories": 853,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 852.0,
-    "totalListings": 8148,
-    "aiEnhancedDirectories": 852
+    "avgDirectoriesPerRepo": 853.0,
+    "totalListings": 8158,
+    "aiEnhancedDirectories": 853
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11084,12 +11084,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-flower-bed-maintenance-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:28:50.371105+00:00Z",
+      "lastUpdated": "2025-11-07T06:28:50.371105+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 852,
+      "directoryCount": 853,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

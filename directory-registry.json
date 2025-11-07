@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T21:32:08.400271+00:00Z",
+  "lastUpdated": "2025-11-07T21:32:50.530352+00:00Z",
   "stats": {
-    "totalDirectories": 1987,
+    "totalDirectories": 1988,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1987.0,
-    "totalListings": 18661,
-    "aiEnhancedDirectories": 1986
+    "avgDirectoriesPerRepo": 1988.0,
+    "totalListings": 18671,
+    "aiEnhancedDirectories": 1987
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25838,12 +25838,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-fiduciary-services-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T21:32:50.530352+00:00Z",
+      "lastUpdated": "2025-11-07T21:32:50.530352+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1987,
+      "directoryCount": 1988,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

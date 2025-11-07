@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:03:16.578573+00:00Z",
+  "lastUpdated": "2025-11-07T07:03:35.539990+00:00Z",
   "stats": {
-    "totalDirectories": 974,
+    "totalDirectories": 975,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 974.0,
-    "totalListings": 9309,
-    "aiEnhancedDirectories": 974
+    "avgDirectoriesPerRepo": 975.0,
+    "totalListings": 9319,
+    "aiEnhancedDirectories": 975
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12670,12 +12670,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-head-shaving-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:03:35.539990+00:00Z",
+      "lastUpdated": "2025-11-07T07:03:35.539990+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 974,
+      "directoryCount": 975,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

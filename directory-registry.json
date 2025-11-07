@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:53:37.081921+00:00Z",
+  "lastUpdated": "2025-11-07T18:56:03.561487+00:00Z",
   "stats": {
-    "totalDirectories": 1825,
+    "totalDirectories": 1826,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1825.0,
-    "totalListings": 17163,
-    "aiEnhancedDirectories": 1824
+    "avgDirectoriesPerRepo": 1826.0,
+    "totalListings": 17173,
+    "aiEnhancedDirectories": 1825
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23732,12 +23732,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-bed-bug-control-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:56:03.561487+00:00Z",
+      "lastUpdated": "2025-11-07T18:56:03.561487+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1825,
+      "directoryCount": 1826,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

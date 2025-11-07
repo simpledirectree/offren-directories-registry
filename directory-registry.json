@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:43:38.212140+00:00Z",
+  "lastUpdated": "2025-11-07T09:45:56.347469+00:00Z",
   "stats": {
-    "totalDirectories": 1262,
+    "totalDirectories": 1263,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1262.0,
-    "totalListings": 11988,
-    "aiEnhancedDirectories": 1261
+    "avgDirectoriesPerRepo": 1263.0,
+    "totalListings": 11998,
+    "aiEnhancedDirectories": 1262
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16413,12 +16413,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-college-consulting-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:45:56.347469+00:00Z",
+      "lastUpdated": "2025-11-07T09:45:56.347469+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1262,
+      "directoryCount": 1263,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

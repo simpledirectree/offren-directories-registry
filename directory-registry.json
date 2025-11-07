@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:00:45.969903+00:00Z",
+  "lastUpdated": "2025-11-07T17:01:25.447033+00:00Z",
   "stats": {
-    "totalDirectories": 1711,
+    "totalDirectories": 1712,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1711.0,
-    "totalListings": 16117,
-    "aiEnhancedDirectories": 1710
+    "avgDirectoriesPerRepo": 1712.0,
+    "totalListings": 16127,
+    "aiEnhancedDirectories": 1711
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22250,12 +22250,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-caulking-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:01:25.447033+00:00Z",
+      "lastUpdated": "2025-11-07T17:01:25.447033+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1711,
+      "directoryCount": 1712,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

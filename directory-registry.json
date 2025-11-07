@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:56:07.156079+00:00Z",
+  "lastUpdated": "2025-11-07T15:56:24.870818+00:00Z",
   "stats": {
-    "totalDirectories": 1648,
+    "totalDirectories": 1649,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1648.0,
-    "totalListings": 15529,
-    "aiEnhancedDirectories": 1647
+    "avgDirectoriesPerRepo": 1649.0,
+    "totalListings": 15539,
+    "aiEnhancedDirectories": 1648
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21431,12 +21431,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-virtual-assistants-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:56:24.870818+00:00Z",
+      "lastUpdated": "2025-11-07T15:56:24.870818+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1648,
+      "directoryCount": 1649,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

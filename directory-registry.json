@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:06:14.361538+00:00Z",
+  "lastUpdated": "2025-11-07T00:07:49.005048+00:00Z",
   "stats": {
-    "totalDirectories": 55,
+    "totalDirectories": 56,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 55.0,
-    "totalListings": 517,
-    "aiEnhancedDirectories": 55
+    "avgDirectoriesPerRepo": 56.0,
+    "totalListings": 527,
+    "aiEnhancedDirectories": 56
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -723,12 +723,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-virtual-tutoring-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:07:49.005048+00:00Z",
+      "lastUpdated": "2025-11-07T00:07:49.005048+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 55,
+      "directoryCount": 56,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

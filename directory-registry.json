@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:49:51.621744+00:00Z",
+  "lastUpdated": "2025-11-07T16:54:23.015341+00:00Z",
   "stats": {
-    "totalDirectories": 1697,
+    "totalDirectories": 1698,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1697.0,
-    "totalListings": 15986,
-    "aiEnhancedDirectories": 1696
+    "avgDirectoriesPerRepo": 1698.0,
+    "totalListings": 15991,
+    "aiEnhancedDirectories": 1697
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22068,12 +22068,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-manufacturing-optimization-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:54:23.015341+00:00Z",
+      "lastUpdated": "2025-11-07T16:54:23.015341+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1697,
+      "directoryCount": 1698,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

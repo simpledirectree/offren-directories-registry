@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:00:06.022343+00:00Z",
+  "lastUpdated": "2025-11-07T00:00:21.963822+00:00Z",
   "stats": {
-    "totalDirectories": 49,
+    "totalDirectories": 50,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 49.0,
-    "totalListings": 460,
-    "aiEnhancedDirectories": 49
+    "avgDirectoriesPerRepo": 50.0,
+    "totalListings": 470,
+    "aiEnhancedDirectories": 50
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -645,12 +645,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-catering-companies-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:00:21.963822+00:00Z",
+      "lastUpdated": "2025-11-07T00:00:21.963822+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 49,
+      "directoryCount": 50,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

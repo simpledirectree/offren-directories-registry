@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:14:14.016420+00:00Z",
+  "lastUpdated": "2025-11-07T16:14:56.495808+00:00Z",
   "stats": {
-    "totalDirectories": 1664,
+    "totalDirectories": 1665,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1664.0,
-    "totalListings": 15676,
-    "aiEnhancedDirectories": 1663
+    "avgDirectoriesPerRepo": 1665.0,
+    "totalListings": 15684,
+    "aiEnhancedDirectories": 1664
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21639,12 +21639,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-boxing-classes-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:14:56.495808+00:00Z",
+      "lastUpdated": "2025-11-07T16:14:56.495808+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1664,
+      "directoryCount": 1665,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

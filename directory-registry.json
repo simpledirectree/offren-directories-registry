@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:27:09.015256+00:00Z",
+  "lastUpdated": "2025-11-07T02:28:41.782530+00:00Z",
   "stats": {
-    "totalDirectories": 199,
+    "totalDirectories": 200,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 199.0,
-    "totalListings": 1837,
-    "aiEnhancedDirectories": 199
+    "avgDirectoriesPerRepo": 200.0,
+    "totalListings": 1840,
+    "aiEnhancedDirectories": 200
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2595,12 +2595,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-commercial-landscaping-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:28:41.782530+00:00Z",
+      "lastUpdated": "2025-11-07T02:28:41.782530+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 199,
+      "directoryCount": 200,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

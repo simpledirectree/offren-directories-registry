@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:05:39.727919+00:00Z",
+  "lastUpdated": "2025-11-07T07:05:58.296190+00:00Z",
   "stats": {
-    "totalDirectories": 982,
+    "totalDirectories": 983,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 982.0,
-    "totalListings": 9389,
-    "aiEnhancedDirectories": 982
+    "avgDirectoriesPerRepo": 983.0,
+    "totalListings": 9399,
+    "aiEnhancedDirectories": 983
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12774,12 +12774,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-crm-setup-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:05:58.296190+00:00Z",
+      "lastUpdated": "2025-11-07T07:05:58.296190+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 982,
+      "directoryCount": 983,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:54:28.379860+00:00Z",
+  "lastUpdated": "2025-11-07T10:55:38.203932+00:00Z",
   "stats": {
-    "totalDirectories": 1342,
+    "totalDirectories": 1343,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1342.0,
-    "totalListings": 12727,
-    "aiEnhancedDirectories": 1341
+    "avgDirectoriesPerRepo": 1343.0,
+    "totalListings": 12737,
+    "aiEnhancedDirectories": 1342
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17453,12 +17453,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-risk-management-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:55:38.203932+00:00Z",
+      "lastUpdated": "2025-11-07T10:55:38.203932+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1342,
+      "directoryCount": 1343,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

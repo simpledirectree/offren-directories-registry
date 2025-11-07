@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:31:56.075647+00:00Z",
+  "lastUpdated": "2025-11-07T12:32:59.184226+00:00Z",
   "stats": {
-    "totalDirectories": 1437,
+    "totalDirectories": 1438,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1437.0,
-    "totalListings": 13586,
-    "aiEnhancedDirectories": 1436
+    "avgDirectoriesPerRepo": 1438.0,
+    "totalListings": 13593,
+    "aiEnhancedDirectories": 1437
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18688,12 +18688,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-process-serving-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:32:59.184226+00:00Z",
+      "lastUpdated": "2025-11-07T12:32:59.184226+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1437,
+      "directoryCount": 1438,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

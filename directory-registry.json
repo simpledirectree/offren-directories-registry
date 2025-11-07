@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:01:42.934585+00:00Z",
+  "lastUpdated": "2025-11-07T10:02:48.793133+00:00Z",
   "stats": {
-    "totalDirectories": 1284,
+    "totalDirectories": 1285,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1284.0,
-    "totalListings": 12200,
-    "aiEnhancedDirectories": 1283
+    "avgDirectoriesPerRepo": 1285.0,
+    "totalListings": 12208,
+    "aiEnhancedDirectories": 1284
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16699,12 +16699,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-vinyasa-yoga-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:02:48.793133+00:00Z",
+      "lastUpdated": "2025-11-07T10:02:48.793133+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1284,
+      "directoryCount": 1285,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

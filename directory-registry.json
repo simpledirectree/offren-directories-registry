@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:24:38.838811+00:00Z",
+  "lastUpdated": "2025-11-07T23:24:54.375370+00:00Z",
   "stats": {
-    "totalDirectories": 2111,
+    "totalDirectories": 2112,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2111.0,
-    "totalListings": 19783,
-    "aiEnhancedDirectories": 2110
+    "avgDirectoriesPerRepo": 2112.0,
+    "totalListings": 19793,
+    "aiEnhancedDirectories": 2111
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27450,12 +27450,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-homeowners-insurance-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:24:54.375370+00:00Z",
+      "lastUpdated": "2025-11-07T23:24:54.375370+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2111,
+      "directoryCount": 2112,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

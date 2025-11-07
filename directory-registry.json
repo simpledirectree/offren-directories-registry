@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:23:58.240451+00:00Z",
+  "lastUpdated": "2025-11-07T16:24:14.343979+00:00Z",
   "stats": {
-    "totalDirectories": 1673,
+    "totalDirectories": 1674,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1673.0,
-    "totalListings": 15759,
-    "aiEnhancedDirectories": 1672
+    "avgDirectoriesPerRepo": 1674.0,
+    "totalListings": 15769,
+    "aiEnhancedDirectories": 1673
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21756,12 +21756,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-kung-fu-classes-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:24:14.343979+00:00Z",
+      "lastUpdated": "2025-11-07T16:24:14.343979+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1673,
+      "directoryCount": 1674,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

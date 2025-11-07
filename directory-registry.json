@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:38:45.859370+00:00Z",
+  "lastUpdated": "2025-11-07T20:39:50.758483+00:00Z",
   "stats": {
-    "totalDirectories": 1934,
+    "totalDirectories": 1935,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1934.0,
-    "totalListings": 18168,
-    "aiEnhancedDirectories": 1933
+    "avgDirectoriesPerRepo": 1935.0,
+    "totalListings": 18178,
+    "aiEnhancedDirectories": 1934
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25149,12 +25149,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-contract-review-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:39:50.758483+00:00Z",
+      "lastUpdated": "2025-11-07T20:39:50.758483+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1934,
+      "directoryCount": 1935,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

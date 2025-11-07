@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:26:55.243553+00:00Z",
+  "lastUpdated": "2025-11-07T20:29:40.050374+00:00Z",
   "stats": {
-    "totalDirectories": 1919,
+    "totalDirectories": 1920,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1919.0,
-    "totalListings": 18033,
-    "aiEnhancedDirectories": 1918
+    "avgDirectoriesPerRepo": 1920.0,
+    "totalListings": 18043,
+    "aiEnhancedDirectories": 1919
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24954,12 +24954,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-plant-selection-assistance-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:29:40.050374+00:00Z",
+      "lastUpdated": "2025-11-07T20:29:40.050374+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1919,
+      "directoryCount": 1920,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

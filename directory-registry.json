@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:36:11.905693+00:00Z",
+  "lastUpdated": "2025-11-07T18:37:18.154144+00:00Z",
   "stats": {
-    "totalDirectories": 1809,
+    "totalDirectories": 1810,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1809.0,
-    "totalListings": 17018,
-    "aiEnhancedDirectories": 1808
+    "avgDirectoriesPerRepo": 1810.0,
+    "totalListings": 17028,
+    "aiEnhancedDirectories": 1809
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23524,12 +23524,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-valuation-services-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:37:18.154144+00:00Z",
+      "lastUpdated": "2025-11-07T18:37:18.154144+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1809,
+      "directoryCount": 1810,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

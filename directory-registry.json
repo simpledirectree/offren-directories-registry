@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:54:03.904848+00:00Z",
+  "lastUpdated": "2025-11-07T01:56:48.080157+00:00Z",
   "stats": {
-    "totalDirectories": 175,
+    "totalDirectories": 176,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 175.0,
-    "totalListings": 1603,
-    "aiEnhancedDirectories": 175
+    "avgDirectoriesPerRepo": 176.0,
+    "totalListings": 1613,
+    "aiEnhancedDirectories": 176
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2283,12 +2283,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-food-trucks-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:56:48.080157+00:00Z",
+      "lastUpdated": "2025-11-07T01:56:48.080157+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 175,
+      "directoryCount": 176,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

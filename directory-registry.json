@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:52:33.524586+00:00Z",
+  "lastUpdated": "2025-11-07T08:54:03.065146+00:00Z",
   "stats": {
-    "totalDirectories": 1213,
+    "totalDirectories": 1214,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1213.0,
-    "totalListings": 11554,
-    "aiEnhancedDirectories": 1212
+    "avgDirectoriesPerRepo": 1214.0,
+    "totalListings": 11564,
+    "aiEnhancedDirectories": 1213
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15776,12 +15776,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-clutch-repair-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:54:03.065146+00:00Z",
+      "lastUpdated": "2025-11-07T08:54:03.065146+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1213,
+      "directoryCount": 1214,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:26:56.454558+00:00Z",
+  "lastUpdated": "2025-11-07T17:27:12.031061+00:00Z",
   "stats": {
-    "totalDirectories": 1736,
+    "totalDirectories": 1737,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1736.0,
-    "totalListings": 16346,
-    "aiEnhancedDirectories": 1735
+    "avgDirectoriesPerRepo": 1737.0,
+    "totalListings": 16352,
+    "aiEnhancedDirectories": 1736
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22575,12 +22575,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-risk-assessments-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:27:12.031061+00:00Z",
+      "lastUpdated": "2025-11-07T17:27:12.031061+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1736,
+      "directoryCount": 1737,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

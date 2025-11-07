@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:00:15.107198+00:00Z",
+  "lastUpdated": "2025-11-07T17:00:30.119784+00:00Z",
   "stats": {
-    "totalDirectories": 1709,
+    "totalDirectories": 1710,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1709.0,
-    "totalListings": 16099,
-    "aiEnhancedDirectories": 1708
+    "avgDirectoriesPerRepo": 1710.0,
+    "totalListings": 16107,
+    "aiEnhancedDirectories": 1709
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22224,12 +22224,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-healthcare-consulting-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:00:30.119784+00:00Z",
+      "lastUpdated": "2025-11-07T17:00:30.119784+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1709,
+      "directoryCount": 1710,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

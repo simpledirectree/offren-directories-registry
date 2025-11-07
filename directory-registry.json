@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:28:56.925099+00:00Z",
+  "lastUpdated": "2025-11-07T17:32:31.053721+00:00Z",
   "stats": {
-    "totalDirectories": 1739,
+    "totalDirectories": 1740,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1739.0,
-    "totalListings": 16372,
-    "aiEnhancedDirectories": 1738
+    "avgDirectoriesPerRepo": 1740.0,
+    "totalListings": 16382,
+    "aiEnhancedDirectories": 1739
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22614,12 +22614,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-wheel-alignment-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:32:31.053721+00:00Z",
+      "lastUpdated": "2025-11-07T17:32:31.053721+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1739,
+      "directoryCount": 1740,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

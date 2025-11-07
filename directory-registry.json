@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:55:34.787423+00:00Z",
+  "lastUpdated": "2025-11-07T02:55:56.490882+00:00Z",
   "stats": {
-    "totalDirectories": 220,
+    "totalDirectories": 221,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 220.0,
-    "totalListings": 2023,
-    "aiEnhancedDirectories": 220
+    "avgDirectoriesPerRepo": 221.0,
+    "totalListings": 2033,
+    "aiEnhancedDirectories": 221
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2868,12 +2868,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-financial-forecasting-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:55:56.490882+00:00Z",
+      "lastUpdated": "2025-11-07T02:55:56.490882+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 220,
+      "directoryCount": 221,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

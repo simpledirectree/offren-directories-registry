@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T13:05:41.472313+00:00Z",
+  "lastUpdated": "2025-11-07T13:05:58.581961+00:00Z",
   "stats": {
-    "totalDirectories": 1472,
+    "totalDirectories": 1473,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1472.0,
-    "totalListings": 13899,
-    "aiEnhancedDirectories": 1471
+    "avgDirectoriesPerRepo": 1473.0,
+    "totalListings": 13909,
+    "aiEnhancedDirectories": 1472
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19143,12 +19143,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-class-action-law-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:05:58.581961+00:00Z",
+      "lastUpdated": "2025-11-07T13:05:58.581961+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1472,
+      "directoryCount": 1473,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:57:03.157433+00:00Z",
+  "lastUpdated": "2025-11-07T01:57:17.935972+00:00Z",
   "stats": {
-    "totalDirectories": 177,
+    "totalDirectories": 178,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 177.0,
-    "totalListings": 1623,
-    "aiEnhancedDirectories": 177
+    "avgDirectoriesPerRepo": 178.0,
+    "totalListings": 1633,
+    "aiEnhancedDirectories": 178
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2309,12 +2309,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-tax-strategy-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:57:17.935972+00:00Z",
+      "lastUpdated": "2025-11-07T01:57:17.935972+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 177,
+      "directoryCount": 178,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

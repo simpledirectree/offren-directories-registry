@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:23:47.231157+00:00Z",
+  "lastUpdated": "2025-11-07T22:24:27.007507+00:00Z",
   "stats": {
-    "totalDirectories": 2045,
+    "totalDirectories": 2046,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2045.0,
-    "totalListings": 19207,
-    "aiEnhancedDirectories": 2044
+    "avgDirectoriesPerRepo": 2046.0,
+    "totalListings": 19217,
+    "aiEnhancedDirectories": 2045
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26592,12 +26592,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-vendor-negotiation-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:24:27.007507+00:00Z",
+      "lastUpdated": "2025-11-07T22:24:27.007507+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2045,
+      "directoryCount": 2046,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

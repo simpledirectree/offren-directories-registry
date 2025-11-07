@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:20:50.230715+00:00Z",
+  "lastUpdated": "2025-11-07T00:21:02.007256+00:00Z",
   "stats": {
-    "totalDirectories": 65,
+    "totalDirectories": 66,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 65.0,
-    "totalListings": 617,
-    "aiEnhancedDirectories": 65
+    "avgDirectoriesPerRepo": 66.0,
+    "totalListings": 620,
+    "aiEnhancedDirectories": 66
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -853,12 +853,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-venue-selection-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:21:02.007256+00:00Z",
+      "lastUpdated": "2025-11-07T00:21:02.007256+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 65,
+      "directoryCount": 66,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

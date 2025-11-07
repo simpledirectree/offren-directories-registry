@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:19:55.358049+00:00Z",
+  "lastUpdated": "2025-11-07T20:20:11.745889+00:00Z",
   "stats": {
-    "totalDirectories": 1912,
+    "totalDirectories": 1913,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1912.0,
-    "totalListings": 17963,
-    "aiEnhancedDirectories": 1911
+    "avgDirectoriesPerRepo": 1913.0,
+    "totalListings": 17973,
+    "aiEnhancedDirectories": 1912
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24863,12 +24863,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-social-celebration-planning-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:20:11.745889+00:00Z",
+      "lastUpdated": "2025-11-07T20:20:11.745889+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1912,
+      "directoryCount": 1913,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

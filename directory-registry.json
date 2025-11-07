@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:52:02.129342+00:00Z",
+  "lastUpdated": "2025-11-07T08:52:18.098421+00:00Z",
   "stats": {
-    "totalDirectories": 1211,
+    "totalDirectories": 1212,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1211.0,
-    "totalListings": 11534,
-    "aiEnhancedDirectories": 1210
+    "avgDirectoriesPerRepo": 1212.0,
+    "totalListings": 11544,
+    "aiEnhancedDirectories": 1211
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15750,12 +15750,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-plant-based-meal-prep-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:52:18.098421+00:00Z",
+      "lastUpdated": "2025-11-07T08:52:18.098421+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1211,
+      "directoryCount": 1212,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:41:33.841250+00:00Z",
+  "lastUpdated": "2025-11-07T00:41:48.628108+00:00Z",
   "stats": {
-    "totalDirectories": 99,
+    "totalDirectories": 100,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 99.0,
-    "totalListings": 925,
-    "aiEnhancedDirectories": 99
+    "avgDirectoriesPerRepo": 100.0,
+    "totalListings": 935,
+    "aiEnhancedDirectories": 100
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1295,12 +1295,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-energy-healing-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:41:48.628108+00:00Z",
+      "lastUpdated": "2025-11-07T00:41:48.628108+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 99,
+      "directoryCount": 100,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

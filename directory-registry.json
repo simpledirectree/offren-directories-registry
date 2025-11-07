@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:15:07.803549+00:00Z",
+  "lastUpdated": "2025-11-07T03:15:51.605469+00:00Z",
   "stats": {
-    "totalDirectories": 244,
+    "totalDirectories": 245,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 244.0,
-    "totalListings": 2246,
-    "aiEnhancedDirectories": 244
+    "avgDirectoriesPerRepo": 245.0,
+    "totalListings": 2256,
+    "aiEnhancedDirectories": 245
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3180,12 +3180,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-keto-meal-prep-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:15:51.605469+00:00Z",
+      "lastUpdated": "2025-11-07T03:15:51.605469+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 244,
+      "directoryCount": 245,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

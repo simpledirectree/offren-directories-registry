@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:40:14.941424+00:00Z",
+  "lastUpdated": "2025-11-07T08:40:55.164471+00:00Z",
   "stats": {
-    "totalDirectories": 1197,
+    "totalDirectories": 1198,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1197.0,
-    "totalListings": 11411,
-    "aiEnhancedDirectories": 1196
+    "avgDirectoriesPerRepo": 1198.0,
+    "totalListings": 11421,
+    "aiEnhancedDirectories": 1197
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15568,12 +15568,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-environmental-law-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:40:55.164471+00:00Z",
+      "lastUpdated": "2025-11-07T08:40:55.164471+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1197,
+      "directoryCount": 1198,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

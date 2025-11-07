@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:48:45.370979+00:00Z",
+  "lastUpdated": "2025-11-07T15:49:00.561869+00:00Z",
   "stats": {
-    "totalDirectories": 1642,
+    "totalDirectories": 1643,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1642.0,
-    "totalListings": 15474,
-    "aiEnhancedDirectories": 1641
+    "avgDirectoriesPerRepo": 1643.0,
+    "totalListings": 15479,
+    "aiEnhancedDirectories": 1642
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21353,12 +21353,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-salt-therapy-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:49:00.561869+00:00Z",
+      "lastUpdated": "2025-11-07T15:49:00.561869+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1642,
+      "directoryCount": 1643,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

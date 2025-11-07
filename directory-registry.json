@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:10:55.160543+00:00Z",
+  "lastUpdated": "2025-11-07T06:11:12.202111+00:00Z",
   "stats": {
-    "totalDirectories": 793,
+    "totalDirectories": 794,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 793.0,
-    "totalListings": 7589,
-    "aiEnhancedDirectories": 793
+    "avgDirectoriesPerRepo": 794.0,
+    "totalListings": 7598,
+    "aiEnhancedDirectories": 794
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10317,12 +10317,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-specialty-veterinary-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:11:12.202111+00:00Z",
+      "lastUpdated": "2025-11-07T06:11:12.202111+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 793,
+      "directoryCount": 794,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:20:40.309625+00:00Z",
+  "lastUpdated": "2025-11-07T08:20:56.009789+00:00Z",
   "stats": {
-    "totalDirectories": 1177,
+    "totalDirectories": 1178,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1177.0,
-    "totalListings": 11232,
-    "aiEnhancedDirectories": 1176
+    "avgDirectoriesPerRepo": 1178.0,
+    "totalListings": 11242,
+    "aiEnhancedDirectories": 1177
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15308,12 +15308,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-irrigation-repair-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:20:56.009789+00:00Z",
+      "lastUpdated": "2025-11-07T08:20:56.009789+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1177,
+      "directoryCount": 1178,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

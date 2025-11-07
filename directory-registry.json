@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:21:28.732345+00:00Z",
+  "lastUpdated": "2025-11-07T00:21:43.493521+00:00Z",
   "stats": {
-    "totalDirectories": 68,
+    "totalDirectories": 69,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 68.0,
-    "totalListings": 631,
-    "aiEnhancedDirectories": 68
+    "avgDirectoriesPerRepo": 69.0,
+    "totalListings": 641,
+    "aiEnhancedDirectories": 69
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -892,12 +892,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-wordpress-development-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:21:43.493521+00:00Z",
+      "lastUpdated": "2025-11-07T00:21:43.493521+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 68,
+      "directoryCount": 69,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

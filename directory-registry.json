@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T11:39:15.468204+00:00Z",
+  "lastUpdated": "2025-11-07T11:40:16.384429+00:00Z",
   "stats": {
-    "totalDirectories": 1384,
+    "totalDirectories": 1385,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1384.0,
-    "totalListings": 13109,
-    "aiEnhancedDirectories": 1383
+    "avgDirectoriesPerRepo": 1385.0,
+    "totalListings": 13110,
+    "aiEnhancedDirectories": 1384
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17999,12 +17999,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-venture-capital-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T11:40:16.384429+00:00Z",
+      "lastUpdated": "2025-11-07T11:40:16.384429+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1384,
+      "directoryCount": 1385,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

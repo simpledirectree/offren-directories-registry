@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:52:26.529585+00:00Z",
+  "lastUpdated": "2025-11-07T20:52:44.106558+00:00Z",
   "stats": {
-    "totalDirectories": 1945,
+    "totalDirectories": 1946,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1945.0,
-    "totalListings": 18273,
-    "aiEnhancedDirectories": 1944
+    "avgDirectoriesPerRepo": 1946.0,
+    "totalListings": 18283,
+    "aiEnhancedDirectories": 1945
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25292,12 +25292,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-anti-money-laundering-compliance-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:52:44.106558+00:00Z",
+      "lastUpdated": "2025-11-07T20:52:44.106558+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1945,
+      "directoryCount": 1946,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

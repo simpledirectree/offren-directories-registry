@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:47:32.397904+00:00Z",
+  "lastUpdated": "2025-11-07T07:48:14.345677+00:00Z",
   "stats": {
-    "totalDirectories": 1128,
+    "totalDirectories": 1129,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1128.0,
-    "totalListings": 10782,
-    "aiEnhancedDirectories": 1127
+    "avgDirectoriesPerRepo": 1129.0,
+    "totalListings": 10792,
+    "aiEnhancedDirectories": 1128
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14671,12 +14671,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-couples-massage-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:48:14.345677+00:00Z",
+      "lastUpdated": "2025-11-07T07:48:14.345677+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1128,
+      "directoryCount": 1129,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

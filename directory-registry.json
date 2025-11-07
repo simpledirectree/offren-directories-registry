@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:48:13.888828+00:00Z",
+  "lastUpdated": "2025-11-07T23:53:08.332838+00:00Z",
   "stats": {
-    "totalDirectories": 2135,
+    "totalDirectories": 2136,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2135.0,
-    "totalListings": 19987,
-    "aiEnhancedDirectories": 2134
+    "avgDirectoriesPerRepo": 2136.0,
+    "totalListings": 19997,
+    "aiEnhancedDirectories": 2135
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27762,12 +27762,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-live-bands-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:53:08.332838+00:00Z",
+      "lastUpdated": "2025-11-07T23:53:08.332838+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2135,
+      "directoryCount": 2136,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

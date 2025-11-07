@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:12:27.668000+00:00Z",
+  "lastUpdated": "2025-11-07T06:12:47.204964+00:00Z",
   "stats": {
-    "totalDirectories": 799,
+    "totalDirectories": 800,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 799.0,
-    "totalListings": 7648,
-    "aiEnhancedDirectories": 799
+    "avgDirectoriesPerRepo": 800.0,
+    "totalListings": 7658,
+    "aiEnhancedDirectories": 800
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10395,12 +10395,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-pop-up-shops-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:12:47.204964+00:00Z",
+      "lastUpdated": "2025-11-07T06:12:47.204964+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 799,
+      "directoryCount": 800,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:03:27.574994+00:00Z",
+  "lastUpdated": "2025-11-07T17:03:41.220453+00:00Z",
   "stats": {
-    "totalDirectories": 1713,
+    "totalDirectories": 1714,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1713.0,
-    "totalListings": 16137,
-    "aiEnhancedDirectories": 1712
+    "avgDirectoriesPerRepo": 1714.0,
+    "totalListings": 16140,
+    "aiEnhancedDirectories": 1713
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22276,12 +22276,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-brake-pad-replacement-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:03:41.220453+00:00Z",
+      "lastUpdated": "2025-11-07T17:03:41.220453+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1713,
+      "directoryCount": 1714,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

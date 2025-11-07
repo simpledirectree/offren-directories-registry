@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:41:21.793052+00:00Z",
+  "lastUpdated": "2025-11-07T12:41:35.282305+00:00Z",
   "stats": {
-    "totalDirectories": 1445,
+    "totalDirectories": 1446,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1445.0,
-    "totalListings": 13663,
-    "aiEnhancedDirectories": 1444
+    "avgDirectoriesPerRepo": 1446.0,
+    "totalListings": 13668,
+    "aiEnhancedDirectories": 1445
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18792,12 +18792,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-optical-retail-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:41:35.282305+00:00Z",
+      "lastUpdated": "2025-11-07T12:41:35.282305+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1445,
+      "directoryCount": 1446,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

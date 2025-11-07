@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:58:56.177908+00:00Z",
+  "lastUpdated": "2025-11-07T04:59:14.975147+00:00Z",
   "stats": {
-    "totalDirectories": 537,
+    "totalDirectories": 538,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 537.0,
-    "totalListings": 5096,
-    "aiEnhancedDirectories": 537
+    "avgDirectoriesPerRepo": 538.0,
+    "totalListings": 5106,
+    "aiEnhancedDirectories": 538
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6989,12 +6989,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-dropshipping-setup-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:59:14.975147+00:00Z",
+      "lastUpdated": "2025-11-07T04:59:14.975147+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 537,
+      "directoryCount": 538,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

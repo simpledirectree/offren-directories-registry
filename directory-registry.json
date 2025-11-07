@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T11:19:28.403223+00:00Z",
+  "lastUpdated": "2025-11-07T11:20:08.969635+00:00Z",
   "stats": {
-    "totalDirectories": 1363,
+    "totalDirectories": 1364,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1363.0,
-    "totalListings": 12925,
-    "aiEnhancedDirectories": 1362
+    "avgDirectoriesPerRepo": 1364.0,
+    "totalListings": 12935,
+    "aiEnhancedDirectories": 1363
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17726,12 +17726,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-family-style-restaurants-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T11:20:08.969635+00:00Z",
+      "lastUpdated": "2025-11-07T11:20:08.969635+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1363,
+      "directoryCount": 1364,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

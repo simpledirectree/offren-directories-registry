@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:29:23.951303+00:00Z",
+  "lastUpdated": "2025-11-07T15:29:40.383302+00:00Z",
   "stats": {
-    "totalDirectories": 1616,
+    "totalDirectories": 1617,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1616.0,
-    "totalListings": 15225,
-    "aiEnhancedDirectories": 1615
+    "avgDirectoriesPerRepo": 1617.0,
+    "totalListings": 15235,
+    "aiEnhancedDirectories": 1616
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21015,12 +21015,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-mindfulness-coaching-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:29:40.383302+00:00Z",
+      "lastUpdated": "2025-11-07T15:29:40.383302+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1616,
+      "directoryCount": 1617,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

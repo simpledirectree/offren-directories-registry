@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:35:27.337144+00:00Z",
+  "lastUpdated": "2025-11-07T05:35:43.438667+00:00Z",
   "stats": {
-    "totalDirectories": 667,
+    "totalDirectories": 668,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 667.0,
-    "totalListings": 6364,
-    "aiEnhancedDirectories": 667
+    "avgDirectoriesPerRepo": 668.0,
+    "totalListings": 6374,
+    "aiEnhancedDirectories": 668
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8679,12 +8679,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-lasik-surgery-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:35:43.438667+00:00Z",
+      "lastUpdated": "2025-11-07T05:35:43.438667+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 667,
+      "directoryCount": 668,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

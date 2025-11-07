@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:48:26.351070+00:00Z",
+  "lastUpdated": "2025-11-07T22:48:40.204040+00:00Z",
   "stats": {
-    "totalDirectories": 2068,
+    "totalDirectories": 2069,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2068.0,
-    "totalListings": 19422,
-    "aiEnhancedDirectories": 2067
+    "avgDirectoriesPerRepo": 2069.0,
+    "totalListings": 19429,
+    "aiEnhancedDirectories": 2068
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26891,12 +26891,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-healthcare-consulting-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:48:40.204040+00:00Z",
+      "lastUpdated": "2025-11-07T22:48:40.204040+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2068,
+      "directoryCount": 2069,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

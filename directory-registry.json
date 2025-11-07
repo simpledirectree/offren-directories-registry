@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:24:54.375370+00:00Z",
+  "lastUpdated": "2025-11-07T23:26:25.036722+00:00Z",
   "stats": {
-    "totalDirectories": 2112,
+    "totalDirectories": 2113,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2112.0,
-    "totalListings": 19793,
-    "aiEnhancedDirectories": 2111
+    "avgDirectoriesPerRepo": 2113.0,
+    "totalListings": 19803,
+    "aiEnhancedDirectories": 2112
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27463,12 +27463,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-writing-tutoring-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:26:25.036722+00:00Z",
+      "lastUpdated": "2025-11-07T23:26:25.036722+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2112,
+      "directoryCount": 2113,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

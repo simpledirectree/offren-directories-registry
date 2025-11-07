@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:32:15.896790+00:00Z",
+  "lastUpdated": "2025-11-07T20:32:31.431299+00:00Z",
   "stats": {
-    "totalDirectories": 1922,
+    "totalDirectories": 1923,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1922.0,
-    "totalListings": 18063,
-    "aiEnhancedDirectories": 1921
+    "avgDirectoriesPerRepo": 1923.0,
+    "totalListings": 18072,
+    "aiEnhancedDirectories": 1922
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24993,12 +24993,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-panel-upgrades-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:32:31.431299+00:00Z",
+      "lastUpdated": "2025-11-07T20:32:31.431299+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1922,
+      "directoryCount": 1923,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

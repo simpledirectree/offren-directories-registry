@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:44:16.700775+00:00Z",
+  "lastUpdated": "2025-11-07T22:45:48.141696+00:00Z",
   "stats": {
-    "totalDirectories": 2065,
+    "totalDirectories": 2066,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2065.0,
-    "totalListings": 19392,
-    "aiEnhancedDirectories": 2064
+    "avgDirectoriesPerRepo": 2066.0,
+    "totalListings": 19402,
+    "aiEnhancedDirectories": 2065
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26852,12 +26852,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-cdl-training-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:45:48.141696+00:00Z",
+      "lastUpdated": "2025-11-07T22:45:48.141696+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2065,
+      "directoryCount": 2066,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

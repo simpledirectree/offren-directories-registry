@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:42:01.637629+00:00Z",
+  "lastUpdated": "2025-11-07T09:42:16.279006+00:00Z",
   "stats": {
-    "totalDirectories": 1259,
+    "totalDirectories": 1260,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1259.0,
-    "totalListings": 11963,
-    "aiEnhancedDirectories": 1258
+    "avgDirectoriesPerRepo": 1260.0,
+    "totalListings": 11973,
+    "aiEnhancedDirectories": 1259
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16374,12 +16374,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-real-estate-law-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:42:16.279006+00:00Z",
+      "lastUpdated": "2025-11-07T09:42:16.279006+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1259,
+      "directoryCount": 1260,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

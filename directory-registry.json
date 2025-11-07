@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:19:43.598916+00:00Z",
+  "lastUpdated": "2025-11-07T22:19:59.619686+00:00Z",
   "stats": {
-    "totalDirectories": 2039,
+    "totalDirectories": 2040,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2039.0,
-    "totalListings": 19151,
-    "aiEnhancedDirectories": 2038
+    "avgDirectoriesPerRepo": 2040.0,
+    "totalListings": 19161,
+    "aiEnhancedDirectories": 2039
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26514,12 +26514,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-wine-bars-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:19:59.619686+00:00Z",
+      "lastUpdated": "2025-11-07T22:19:59.619686+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2039,
+      "directoryCount": 2040,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

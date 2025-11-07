@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:51:48.582124+00:00Z",
+  "lastUpdated": "2025-11-07T05:52:07.672526+00:00Z",
   "stats": {
-    "totalDirectories": 724,
+    "totalDirectories": 725,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 724.0,
-    "totalListings": 6913,
-    "aiEnhancedDirectories": 724
+    "avgDirectoriesPerRepo": 725.0,
+    "totalListings": 6923,
+    "aiEnhancedDirectories": 725
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9420,12 +9420,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-ccpa-compliance-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:52:07.672526+00:00Z",
+      "lastUpdated": "2025-11-07T05:52:07.672526+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 724,
+      "directoryCount": 725,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

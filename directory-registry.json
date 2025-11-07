@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:15:26.599287+00:00Z",
+  "lastUpdated": "2025-11-07T05:15:42.553961+00:00Z",
   "stats": {
-    "totalDirectories": 596,
+    "totalDirectories": 597,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 596.0,
-    "totalListings": 5656,
-    "aiEnhancedDirectories": 596
+    "avgDirectoriesPerRepo": 597.0,
+    "totalListings": 5666,
+    "aiEnhancedDirectories": 597
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7756,12 +7756,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-door-repair-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:15:42.553961+00:00Z",
+      "lastUpdated": "2025-11-07T05:15:42.553961+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 596,
+      "directoryCount": 597,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

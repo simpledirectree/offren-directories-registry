@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:23:16.299776+00:00Z",
+  "lastUpdated": "2025-11-07T07:23:30.271804+00:00Z",
   "stats": {
-    "totalDirectories": 1043,
+    "totalDirectories": 1044,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1043.0,
-    "totalListings": 9966,
-    "aiEnhancedDirectories": 1042
+    "avgDirectoriesPerRepo": 1044.0,
+    "totalListings": 9976,
+    "aiEnhancedDirectories": 1043
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13566,12 +13566,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-kitchen-design-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:23:30.271804+00:00Z",
+      "lastUpdated": "2025-11-07T07:23:30.271804+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1043,
+      "directoryCount": 1044,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

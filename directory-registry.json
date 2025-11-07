@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:35:35.469860+00:00Z",
+  "lastUpdated": "2025-11-07T01:37:07.266009+00:00Z",
   "stats": {
-    "totalDirectories": 166,
+    "totalDirectories": 167,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 166.0,
-    "totalListings": 1536,
-    "aiEnhancedDirectories": 166
+    "avgDirectoriesPerRepo": 167.0,
+    "totalListings": 1546,
+    "aiEnhancedDirectories": 167
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2166,12 +2166,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-private-dinner-parties-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:37:07.266009+00:00Z",
+      "lastUpdated": "2025-11-07T01:37:07.266009+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 166,
+      "directoryCount": 167,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:16:00.111284+00:00Z",
+  "lastUpdated": "2025-11-07T04:16:15.885427+00:00Z",
   "stats": {
-    "totalDirectories": 387,
+    "totalDirectories": 388,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 387.0,
-    "totalListings": 3623,
-    "aiEnhancedDirectories": 387
+    "avgDirectoriesPerRepo": 388.0,
+    "totalListings": 3633,
+    "aiEnhancedDirectories": 388
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -5039,12 +5039,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-car-audio-installation-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:16:15.885427+00:00Z",
+      "lastUpdated": "2025-11-07T04:16:15.885427+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 387,
+      "directoryCount": 388,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

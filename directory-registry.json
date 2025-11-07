@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:53:07.035541+00:00Z",
+  "lastUpdated": "2025-11-07T05:53:22.114259+00:00Z",
   "stats": {
-    "totalDirectories": 729,
+    "totalDirectories": 730,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 729.0,
-    "totalListings": 6959,
-    "aiEnhancedDirectories": 729
+    "avgDirectoriesPerRepo": 730.0,
+    "totalListings": 6969,
+    "aiEnhancedDirectories": 730
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9485,12 +9485,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-fashion-rental-styling-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:53:22.114259+00:00Z",
+      "lastUpdated": "2025-11-07T05:53:22.114259+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 729,
+      "directoryCount": 730,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:41:45.433164+00:00Z",
+  "lastUpdated": "2025-11-07T05:42:03.992599+00:00Z",
   "stats": {
-    "totalDirectories": 689,
+    "totalDirectories": 690,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 689.0,
-    "totalListings": 6580,
-    "aiEnhancedDirectories": 689
+    "avgDirectoriesPerRepo": 690.0,
+    "totalListings": 6590,
+    "aiEnhancedDirectories": 690
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8965,12 +8965,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-3d-animation-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:42:03.992599+00:00Z",
+      "lastUpdated": "2025-11-07T05:42:03.992599+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 689,
+      "directoryCount": 690,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

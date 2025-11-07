@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:04:57.872650+00:00Z",
+  "lastUpdated": "2025-11-07T05:05:11.471161+00:00Z",
   "stats": {
-    "totalDirectories": 559,
+    "totalDirectories": 560,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 559.0,
-    "totalListings": 5306,
-    "aiEnhancedDirectories": 559
+    "avgDirectoriesPerRepo": 560.0,
+    "totalListings": 5307,
+    "aiEnhancedDirectories": 560
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7275,12 +7275,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-food-trucks-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:05:11.471161+00:00Z",
+      "lastUpdated": "2025-11-07T05:05:11.471161+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 559,
+      "directoryCount": 560,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:46:38.418405+00:00Z",
+  "lastUpdated": "2025-11-07T05:46:51.673084+00:00Z",
   "stats": {
-    "totalDirectories": 706,
+    "totalDirectories": 707,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 706.0,
-    "totalListings": 6750,
-    "aiEnhancedDirectories": 706
+    "avgDirectoriesPerRepo": 707.0,
+    "totalListings": 6754,
+    "aiEnhancedDirectories": 707
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9186,12 +9186,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-container-gardening-services-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:46:51.673084+00:00Z",
+      "lastUpdated": "2025-11-07T05:46:51.673084+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 706,
+      "directoryCount": 707,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:09:36.338346+00:00Z",
+  "lastUpdated": "2025-11-07T07:09:50.710935+00:00Z",
   "stats": {
-    "totalDirectories": 996,
+    "totalDirectories": 997,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 996.0,
-    "totalListings": 9510,
-    "aiEnhancedDirectories": 996
+    "avgDirectoriesPerRepo": 997.0,
+    "totalListings": 9520,
+    "aiEnhancedDirectories": 997
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12956,12 +12956,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-prenatal-massage-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:09:50.710935+00:00Z",
+      "lastUpdated": "2025-11-07T07:09:50.710935+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 996,
+      "directoryCount": 997,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

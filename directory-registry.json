@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T13:42:41.920575+00:00Z",
+  "lastUpdated": "2025-11-07T13:42:58.320267+00:00Z",
   "stats": {
-    "totalDirectories": 1505,
+    "totalDirectories": 1506,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1505.0,
-    "totalListings": 14189,
-    "aiEnhancedDirectories": 1504
+    "avgDirectoriesPerRepo": 1506.0,
+    "totalListings": 14199,
+    "aiEnhancedDirectories": 1505
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19572,12 +19572,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-bankruptcy-law-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:42:58.320267+00:00Z",
+      "lastUpdated": "2025-11-07T13:42:58.320267+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1505,
+      "directoryCount": 1506,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

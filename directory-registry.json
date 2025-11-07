@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:51:23.085035+00:00Z",
+  "lastUpdated": "2025-11-07T22:52:30.432327+00:00Z",
   "stats": {
-    "totalDirectories": 2073,
+    "totalDirectories": 2074,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2073.0,
-    "totalListings": 19466,
-    "aiEnhancedDirectories": 2072
+    "avgDirectoriesPerRepo": 2074.0,
+    "totalListings": 19473,
+    "aiEnhancedDirectories": 2073
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26956,12 +26956,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-calendar-management-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:52:30.432327+00:00Z",
+      "lastUpdated": "2025-11-07T22:52:30.432327+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2073,
+      "directoryCount": 2074,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:31:52.113361+00:00Z",
+  "lastUpdated": "2025-11-07T09:34:11.359040+00:00Z",
   "stats": {
-    "totalDirectories": 1251,
+    "totalDirectories": 1252,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1251.0,
-    "totalListings": 11890,
-    "aiEnhancedDirectories": 1250
+    "avgDirectoriesPerRepo": 1252.0,
+    "totalListings": 11900,
+    "aiEnhancedDirectories": 1251
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16270,12 +16270,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-vacation-rental-management-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:34:11.359040+00:00Z",
+      "lastUpdated": "2025-11-07T09:34:11.359040+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1251,
+      "directoryCount": 1252,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

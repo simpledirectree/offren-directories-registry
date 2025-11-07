@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:27:04.700924+00:00Z",
+  "lastUpdated": "2025-11-07T09:28:33.859645+00:00Z",
   "stats": {
-    "totalDirectories": 1242,
+    "totalDirectories": 1243,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1242.0,
-    "totalListings": 11806,
-    "aiEnhancedDirectories": 1241
+    "avgDirectoriesPerRepo": 1243.0,
+    "totalListings": 11816,
+    "aiEnhancedDirectories": 1242
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16153,12 +16153,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-ransomware-protection-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:28:33.859645+00:00Z",
+      "lastUpdated": "2025-11-07T09:28:33.859645+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1242,
+      "directoryCount": 1243,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

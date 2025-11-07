@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:58:28.681469+00:00Z",
+  "lastUpdated": "2025-11-07T16:58:44.407443+00:00Z",
   "stats": {
-    "totalDirectories": 1704,
+    "totalDirectories": 1705,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1704.0,
-    "totalListings": 16049,
-    "aiEnhancedDirectories": 1703
+    "avgDirectoriesPerRepo": 1705.0,
+    "totalListings": 16059,
+    "aiEnhancedDirectories": 1704
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22159,12 +22159,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-cloud-infrastructure-management-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:58:44.407443+00:00Z",
+      "lastUpdated": "2025-11-07T16:58:44.407443+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1704,
+      "directoryCount": 1705,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

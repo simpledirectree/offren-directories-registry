@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:58:20.838821+00:00Z",
+  "lastUpdated": "2025-11-07T09:58:36.377767+00:00Z",
   "stats": {
-    "totalDirectories": 1279,
+    "totalDirectories": 1280,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1279.0,
-    "totalListings": 12150,
-    "aiEnhancedDirectories": 1278
+    "avgDirectoriesPerRepo": 1280.0,
+    "totalListings": 12160,
+    "aiEnhancedDirectories": 1279
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16634,12 +16634,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-move-out-cleaning-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:58:36.377767+00:00Z",
+      "lastUpdated": "2025-11-07T09:58:36.377767+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1279,
+      "directoryCount": 1280,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

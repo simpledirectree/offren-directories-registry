@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:45:27.213786+00:00Z",
+  "lastUpdated": "2025-11-07T04:45:44.346115+00:00Z",
   "stats": {
-    "totalDirectories": 489,
+    "totalDirectories": 490,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 489.0,
-    "totalListings": 4616,
-    "aiEnhancedDirectories": 489
+    "avgDirectoriesPerRepo": 490.0,
+    "totalListings": 4626,
+    "aiEnhancedDirectories": 490
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6365,12 +6365,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-financial-modeling-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:45:44.346115+00:00Z",
+      "lastUpdated": "2025-11-07T04:45:44.346115+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 489,
+      "directoryCount": 490,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:24:53.460568+00:00Z",
+  "lastUpdated": "2025-11-07T07:25:12.652095+00:00Z",
   "stats": {
-    "totalDirectories": 1049,
+    "totalDirectories": 1050,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1049.0,
-    "totalListings": 10026,
-    "aiEnhancedDirectories": 1048
+    "avgDirectoriesPerRepo": 1050.0,
+    "totalListings": 10036,
+    "aiEnhancedDirectories": 1049
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13644,12 +13644,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-specialty-diet-services-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:25:12.652095+00:00Z",
+      "lastUpdated": "2025-11-07T07:25:12.652095+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1049,
+      "directoryCount": 1050,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

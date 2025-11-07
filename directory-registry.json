@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T21:34:26.461548+00:00Z",
+  "lastUpdated": "2025-11-07T21:35:08.448000+00:00Z",
   "stats": {
-    "totalDirectories": 1991,
+    "totalDirectories": 1992,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1991.0,
-    "totalListings": 18693,
-    "aiEnhancedDirectories": 1990
+    "avgDirectoriesPerRepo": 1992.0,
+    "totalListings": 18703,
+    "aiEnhancedDirectories": 1991
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25890,12 +25890,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-social-media-management-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T21:35:08.448000+00:00Z",
+      "lastUpdated": "2025-11-07T21:35:08.448000+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1991,
+      "directoryCount": 1992,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

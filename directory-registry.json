@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:03:51.537706+00:00Z",
+  "lastUpdated": "2025-11-07T08:04:07.124837+00:00Z",
   "stats": {
-    "totalDirectories": 1148,
+    "totalDirectories": 1149,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1148.0,
-    "totalListings": 10969,
-    "aiEnhancedDirectories": 1147
+    "avgDirectoriesPerRepo": 1149.0,
+    "totalListings": 10979,
+    "aiEnhancedDirectories": 1148
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14931,12 +14931,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-accessibility-design-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:04:07.124837+00:00Z",
+      "lastUpdated": "2025-11-07T08:04:07.124837+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1148,
+      "directoryCount": 1149,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

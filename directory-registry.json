@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:48:22.048635+00:00Z",
+  "lastUpdated": "2025-11-07T05:48:35.528679+00:00Z",
   "stats": {
-    "totalDirectories": 712,
+    "totalDirectories": 713,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 712.0,
-    "totalListings": 6804,
-    "aiEnhancedDirectories": 712
+    "avgDirectoriesPerRepo": 713.0,
+    "totalListings": 6808,
+    "aiEnhancedDirectories": 713
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9264,12 +9264,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-dashboard-development-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:48:35.528679+00:00Z",
+      "lastUpdated": "2025-11-07T05:48:35.528679+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 712,
+      "directoryCount": 713,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

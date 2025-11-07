@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:57:07.171083+00:00Z",
+  "lastUpdated": "2025-11-07T03:57:24.410881+00:00Z",
   "stats": {
-    "totalDirectories": 320,
+    "totalDirectories": 321,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 320.0,
-    "totalListings": 2981,
-    "aiEnhancedDirectories": 320
+    "avgDirectoriesPerRepo": 321.0,
+    "totalListings": 2991,
+    "aiEnhancedDirectories": 321
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4168,12 +4168,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-childrens-activities-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:57:24.410881+00:00Z",
+      "lastUpdated": "2025-11-07T03:57:24.410881+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 320,
+      "directoryCount": 321,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

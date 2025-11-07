@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:56:33.156989+00:00Z",
+  "lastUpdated": "2025-11-07T03:56:46.387181+00:00Z",
   "stats": {
-    "totalDirectories": 318,
+    "totalDirectories": 319,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 318.0,
-    "totalListings": 2961,
-    "aiEnhancedDirectories": 318
+    "avgDirectoriesPerRepo": 319.0,
+    "totalListings": 2971,
+    "aiEnhancedDirectories": 319
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4142,12 +4142,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-pop-up-shops-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:56:46.387181+00:00Z",
+      "lastUpdated": "2025-11-07T03:56:46.387181+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 318,
+      "directoryCount": 319,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

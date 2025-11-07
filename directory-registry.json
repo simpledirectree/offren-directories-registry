@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:34:19.381892+00:00Z",
+  "lastUpdated": "2025-11-07T20:34:36.451187+00:00Z",
   "stats": {
-    "totalDirectories": 1925,
+    "totalDirectories": 1926,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1925.0,
-    "totalListings": 18092,
-    "aiEnhancedDirectories": 1924
+    "avgDirectoriesPerRepo": 1926.0,
+    "totalListings": 18102,
+    "aiEnhancedDirectories": 1925
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25032,12 +25032,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-business-plan-development-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:34:36.451187+00:00Z",
+      "lastUpdated": "2025-11-07T20:34:36.451187+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1925,
+      "directoryCount": 1926,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

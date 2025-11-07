@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:34:22.919005+00:00Z",
+  "lastUpdated": "2025-11-07T22:34:38.056155+00:00Z",
   "stats": {
-    "totalDirectories": 2054,
+    "totalDirectories": 2055,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2054.0,
-    "totalListings": 19296,
-    "aiEnhancedDirectories": 2053
+    "avgDirectoriesPerRepo": 2055.0,
+    "totalListings": 19306,
+    "aiEnhancedDirectories": 2054
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26709,12 +26709,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-martial-arts-coaching-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:34:38.056155+00:00Z",
+      "lastUpdated": "2025-11-07T22:34:38.056155+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2054,
+      "directoryCount": 2055,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

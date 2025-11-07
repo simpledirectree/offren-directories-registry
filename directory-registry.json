@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:41:47.016488+00:00Z",
+  "lastUpdated": "2025-11-07T09:42:01.637629+00:00Z",
   "stats": {
-    "totalDirectories": 1258,
+    "totalDirectories": 1259,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1258.0,
-    "totalListings": 11953,
-    "aiEnhancedDirectories": 1257
+    "avgDirectoriesPerRepo": 1259.0,
+    "totalListings": 11963,
+    "aiEnhancedDirectories": 1258
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16361,12 +16361,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-coaching-services-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:42:01.637629+00:00Z",
+      "lastUpdated": "2025-11-07T09:42:01.637629+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1258,
+      "directoryCount": 1259,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

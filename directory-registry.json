@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T11:22:09.836188+00:00Z",
+  "lastUpdated": "2025-11-07T11:22:49.947237+00:00Z",
   "stats": {
-    "totalDirectories": 1367,
+    "totalDirectories": 1368,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1367.0,
-    "totalListings": 12962,
-    "aiEnhancedDirectories": 1366
+    "avgDirectoriesPerRepo": 1368.0,
+    "totalListings": 12972,
+    "aiEnhancedDirectories": 1367
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17778,12 +17778,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-timeline-development-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T11:22:49.947237+00:00Z",
+      "lastUpdated": "2025-11-07T11:22:49.947237+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1367,
+      "directoryCount": 1368,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

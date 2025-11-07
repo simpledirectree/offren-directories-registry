@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:08:17.887731+00:00Z",
+  "lastUpdated": "2025-11-07T07:08:34.625984+00:00Z",
   "stats": {
-    "totalDirectories": 991,
+    "totalDirectories": 992,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 991.0,
-    "totalListings": 9475,
-    "aiEnhancedDirectories": 991
+    "avgDirectoriesPerRepo": 992.0,
+    "totalListings": 9485,
+    "aiEnhancedDirectories": 992
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12891,12 +12891,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-pathology-services-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:08:34.625984+00:00Z",
+      "lastUpdated": "2025-11-07T07:08:34.625984+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 991,
+      "directoryCount": 992,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

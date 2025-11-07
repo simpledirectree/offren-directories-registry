@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:43:38.622434+00:00Z",
+  "lastUpdated": "2025-11-07T23:43:52.995688+00:00Z",
   "stats": {
-    "totalDirectories": 2133,
+    "totalDirectories": 2134,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2133.0,
-    "totalListings": 19976,
-    "aiEnhancedDirectories": 2132
+    "avgDirectoriesPerRepo": 2134.0,
+    "totalListings": 19977,
+    "aiEnhancedDirectories": 2133
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27736,12 +27736,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-irrigation-system-repair-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:43:52.995688+00:00Z",
+      "lastUpdated": "2025-11-07T23:43:52.995688+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2133,
+      "directoryCount": 2134,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

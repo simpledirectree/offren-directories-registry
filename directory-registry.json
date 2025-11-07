@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:03:00.116178+00:00Z",
+  "lastUpdated": "2025-11-07T15:03:14.474918+00:00Z",
   "stats": {
-    "totalDirectories": 1586,
+    "totalDirectories": 1587,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1586.0,
-    "totalListings": 14961,
-    "aiEnhancedDirectories": 1585
+    "avgDirectoriesPerRepo": 1587.0,
+    "totalListings": 14966,
+    "aiEnhancedDirectories": 1586
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20625,12 +20625,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-meal-planning-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:03:14.474918+00:00Z",
+      "lastUpdated": "2025-11-07T15:03:14.474918+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1586,
+      "directoryCount": 1587,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

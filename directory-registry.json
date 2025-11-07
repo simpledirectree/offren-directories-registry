@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:34:53.080428+00:00Z",
+  "lastUpdated": "2025-11-07T20:35:33.699081+00:00Z",
   "stats": {
-    "totalDirectories": 1927,
+    "totalDirectories": 1928,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1927.0,
-    "totalListings": 18112,
-    "aiEnhancedDirectories": 1926
+    "avgDirectoriesPerRepo": 1928.0,
+    "totalListings": 18122,
+    "aiEnhancedDirectories": 1927
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25058,12 +25058,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-keto-meal-prep-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:35:33.699081+00:00Z",
+      "lastUpdated": "2025-11-07T20:35:33.699081+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1927,
+      "directoryCount": 1928,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

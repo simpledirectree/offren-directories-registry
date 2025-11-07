@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:26:02.195555+00:00Z",
+  "lastUpdated": "2025-11-07T03:26:15.886417+00:00Z",
   "stats": {
-    "totalDirectories": 252,
+    "totalDirectories": 253,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 252.0,
-    "totalListings": 2319,
-    "aiEnhancedDirectories": 252
+    "avgDirectoriesPerRepo": 253.0,
+    "totalListings": 2329,
+    "aiEnhancedDirectories": 253
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3284,12 +3284,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-remodeling-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:26:15.886417+00:00Z",
+      "lastUpdated": "2025-11-07T03:26:15.886417+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 252,
+      "directoryCount": 253,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

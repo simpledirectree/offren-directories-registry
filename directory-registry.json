@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:24:58.091025+00:00Z",
+  "lastUpdated": "2025-11-07T06:25:25.546021+00:00Z",
   "stats": {
-    "totalDirectories": 841,
+    "totalDirectories": 842,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 841.0,
-    "totalListings": 8055,
-    "aiEnhancedDirectories": 841
+    "avgDirectoriesPerRepo": 842.0,
+    "totalListings": 8056,
+    "aiEnhancedDirectories": 842
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10941,12 +10941,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-crm-development-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:25:25.546021+00:00Z",
+      "lastUpdated": "2025-11-07T06:25:25.546021+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 841,
+      "directoryCount": 842,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:37:18.154144+00:00Z",
+  "lastUpdated": "2025-11-07T18:38:49.640197+00:00Z",
   "stats": {
-    "totalDirectories": 1810,
+    "totalDirectories": 1811,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1810.0,
-    "totalListings": 17028,
-    "aiEnhancedDirectories": 1809
+    "avgDirectoriesPerRepo": 1811.0,
+    "totalListings": 17038,
+    "aiEnhancedDirectories": 1810
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23537,12 +23537,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-xeriscaping-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:38:49.640197+00:00Z",
+      "lastUpdated": "2025-11-07T18:38:49.640197+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1810,
+      "directoryCount": 1811,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

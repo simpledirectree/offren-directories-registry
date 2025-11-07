@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T21:33:32.067344+00:00Z",
+  "lastUpdated": "2025-11-07T21:34:10.575878+00:00Z",
   "stats": {
-    "totalDirectories": 1989,
+    "totalDirectories": 1990,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1989.0,
-    "totalListings": 18681,
-    "aiEnhancedDirectories": 1988
+    "avgDirectoriesPerRepo": 1990.0,
+    "totalListings": 18683,
+    "aiEnhancedDirectories": 1989
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25864,12 +25864,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-genetic-testing-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T21:34:10.575878+00:00Z",
+      "lastUpdated": "2025-11-07T21:34:10.575878+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1989,
+      "directoryCount": 1990,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

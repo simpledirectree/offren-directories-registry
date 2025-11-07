@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:08:01.734766+00:00Z",
+  "lastUpdated": "2025-11-07T04:08:20.361885+00:00Z",
   "stats": {
-    "totalDirectories": 359,
+    "totalDirectories": 360,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 359.0,
-    "totalListings": 3366,
-    "aiEnhancedDirectories": 359
+    "avgDirectoriesPerRepo": 360.0,
+    "totalListings": 3376,
+    "aiEnhancedDirectories": 360
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4675,12 +4675,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-teen-driver-education-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:08:20.361885+00:00Z",
+      "lastUpdated": "2025-11-07T04:08:20.361885+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 359,
+      "directoryCount": 360,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

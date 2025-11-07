@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:11:47.129296+00:00Z",
+  "lastUpdated": "2025-11-07T17:12:27.973493+00:00Z",
   "stats": {
-    "totalDirectories": 1721,
+    "totalDirectories": 1722,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1721.0,
-    "totalListings": 16205,
-    "aiEnhancedDirectories": 1720
+    "avgDirectoriesPerRepo": 1722.0,
+    "totalListings": 16215,
+    "aiEnhancedDirectories": 1721
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22380,12 +22380,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-mobile-auto-repair-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:12:27.973493+00:00Z",
+      "lastUpdated": "2025-11-07T17:12:27.973493+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1721,
+      "directoryCount": 1722,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

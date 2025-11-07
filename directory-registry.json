@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:32:02.223962+00:00Z",
+  "lastUpdated": "2025-11-07T06:32:16.874910+00:00Z",
   "stats": {
-    "totalDirectories": 865,
+    "totalDirectories": 866,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 865.0,
-    "totalListings": 8270,
-    "aiEnhancedDirectories": 865
+    "avgDirectoriesPerRepo": 866.0,
+    "totalListings": 8280,
+    "aiEnhancedDirectories": 866
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11253,12 +11253,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-conference-planning-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:32:16.874910+00:00Z",
+      "lastUpdated": "2025-11-07T06:32:16.874910+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 865,
+      "directoryCount": 866,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

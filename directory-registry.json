@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:26:49.553038+00:00Z",
+  "lastUpdated": "2025-11-07T06:27:05.552754+00:00Z",
   "stats": {
-    "totalDirectories": 847,
+    "totalDirectories": 848,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 847.0,
-    "totalListings": 8106,
-    "aiEnhancedDirectories": 847
+    "avgDirectoriesPerRepo": 848.0,
+    "totalListings": 8116,
+    "aiEnhancedDirectories": 848
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11019,12 +11019,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-mobile-electronics-repair-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:27:05.552754+00:00Z",
+      "lastUpdated": "2025-11-07T06:27:05.552754+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 847,
+      "directoryCount": 848,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

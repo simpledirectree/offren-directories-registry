@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:27:12.533026+00:00Z",
+  "lastUpdated": "2025-11-07T07:27:25.121322+00:00Z",
   "stats": {
-    "totalDirectories": 1057,
+    "totalDirectories": 1058,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1057.0,
-    "totalListings": 10106,
-    "aiEnhancedDirectories": 1056
+    "avgDirectoriesPerRepo": 1058.0,
+    "totalListings": 10107,
+    "aiEnhancedDirectories": 1057
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13748,12 +13748,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-lead-nurturing-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:27:25.121322+00:00Z",
+      "lastUpdated": "2025-11-07T07:27:25.121322+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1057,
+      "directoryCount": 1058,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

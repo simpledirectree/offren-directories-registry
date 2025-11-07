@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:42:01.534088+00:00Z",
+  "lastUpdated": "2025-11-07T19:43:34.749764+00:00Z",
   "stats": {
-    "totalDirectories": 1878,
+    "totalDirectories": 1879,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1878.0,
-    "totalListings": 17649,
-    "aiEnhancedDirectories": 1877
+    "avgDirectoriesPerRepo": 1879.0,
+    "totalListings": 17659,
+    "aiEnhancedDirectories": 1878
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24421,12 +24421,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-festival-planning-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:43:34.749764+00:00Z",
+      "lastUpdated": "2025-11-07T19:43:34.749764+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1878,
+      "directoryCount": 1879,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

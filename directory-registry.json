@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T21:37:49.256158+00:00Z",
+  "lastUpdated": "2025-11-07T21:38:06.590315+00:00Z",
   "stats": {
-    "totalDirectories": 1997,
+    "totalDirectories": 1998,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1997.0,
-    "totalListings": 18751,
-    "aiEnhancedDirectories": 1996
+    "avgDirectoriesPerRepo": 1998.0,
+    "totalListings": 18761,
+    "aiEnhancedDirectories": 1997
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25968,12 +25968,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-bank-reconciliation-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T21:38:06.590315+00:00Z",
+      "lastUpdated": "2025-11-07T21:38:06.590315+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1997,
+      "directoryCount": 1998,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

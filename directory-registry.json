@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:29:53.053321+00:00Z",
+  "lastUpdated": "2025-11-07T06:30:08.111885+00:00Z",
   "stats": {
-    "totalDirectories": 857,
+    "totalDirectories": 858,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 857.0,
-    "totalListings": 8198,
-    "aiEnhancedDirectories": 857
+    "avgDirectoriesPerRepo": 858.0,
+    "totalListings": 8208,
+    "aiEnhancedDirectories": 858
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11149,12 +11149,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-towing-services-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:30:08.111885+00:00Z",
+      "lastUpdated": "2025-11-07T06:30:08.111885+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 857,
+      "directoryCount": 858,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:52:17.323220+00:00Z",
+  "lastUpdated": "2025-11-07T06:52:36.087216+00:00Z",
   "stats": {
-    "totalDirectories": 936,
+    "totalDirectories": 937,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 936.0,
-    "totalListings": 8945,
-    "aiEnhancedDirectories": 936
+    "avgDirectoriesPerRepo": 937.0,
+    "totalListings": 8955,
+    "aiEnhancedDirectories": 937
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12176,12 +12176,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-hair-treatments-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:52:36.087216+00:00Z",
+      "lastUpdated": "2025-11-07T06:52:36.087216+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 936,
+      "directoryCount": 937,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

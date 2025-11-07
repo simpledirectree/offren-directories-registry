@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:04:25.320290+00:00Z",
+  "lastUpdated": "2025-11-07T23:04:39.896675+00:00Z",
   "stats": {
-    "totalDirectories": 2087,
+    "totalDirectories": 2088,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2087.0,
-    "totalListings": 19581,
-    "aiEnhancedDirectories": 2086
+    "avgDirectoriesPerRepo": 2088.0,
+    "totalListings": 19586,
+    "aiEnhancedDirectories": 2087
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27138,12 +27138,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-thai-massage-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:04:39.896675+00:00Z",
+      "lastUpdated": "2025-11-07T23:04:39.896675+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2087,
+      "directoryCount": 2088,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

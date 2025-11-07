@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:58:09.477894+00:00Z",
+  "lastUpdated": "2025-11-07T23:59:28.985630+00:00Z",
   "stats": {
-    "totalDirectories": 2139,
+    "totalDirectories": 2140,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2139.0,
-    "totalListings": 20027,
-    "aiEnhancedDirectories": 2138
+    "avgDirectoriesPerRepo": 2140.0,
+    "totalListings": 20037,
+    "aiEnhancedDirectories": 2139
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27814,12 +27814,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-mobile-electronics-repair-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:59:28.985630+00:00Z",
+      "lastUpdated": "2025-11-07T23:59:28.985630+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2139,
+      "directoryCount": 2140,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

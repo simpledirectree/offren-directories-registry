@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:27:57.299144+00:00Z",
+  "lastUpdated": "2025-11-07T04:28:17.390285+00:00Z",
   "stats": {
-    "totalDirectories": 429,
+    "totalDirectories": 430,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 429.0,
-    "totalListings": 4030,
-    "aiEnhancedDirectories": 429
+    "avgDirectoriesPerRepo": 430.0,
+    "totalListings": 4040,
+    "aiEnhancedDirectories": 430
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -5585,12 +5585,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-workflow-optimization-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:28:17.390285+00:00Z",
+      "lastUpdated": "2025-11-07T04:28:17.390285+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 429,
+      "directoryCount": 430,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

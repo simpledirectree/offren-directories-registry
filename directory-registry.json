@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:11:59.619875+00:00Z",
+  "lastUpdated": "2025-11-07T18:12:15.360454+00:00Z",
   "stats": {
-    "totalDirectories": 1783,
+    "totalDirectories": 1784,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1783.0,
-    "totalListings": 16773,
-    "aiEnhancedDirectories": 1782
+    "avgDirectoriesPerRepo": 1784.0,
+    "totalListings": 16783,
+    "aiEnhancedDirectories": 1783
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23186,12 +23186,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-financial-reporting-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:12:15.360454+00:00Z",
+      "lastUpdated": "2025-11-07T18:12:15.360454+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1783,
+      "directoryCount": 1784,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

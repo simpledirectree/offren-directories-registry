@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T21:17:08.301653+00:00Z",
+  "lastUpdated": "2025-11-07T21:17:24.840575+00:00Z",
   "stats": {
-    "totalDirectories": 1968,
+    "totalDirectories": 1969,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1968.0,
-    "totalListings": 18488,
-    "aiEnhancedDirectories": 1967
+    "avgDirectoriesPerRepo": 1969.0,
+    "totalListings": 18498,
+    "aiEnhancedDirectories": 1968
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25591,12 +25591,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-specialty-event-services-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T21:17:24.840575+00:00Z",
+      "lastUpdated": "2025-11-07T21:17:24.840575+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1968,
+      "directoryCount": 1969,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

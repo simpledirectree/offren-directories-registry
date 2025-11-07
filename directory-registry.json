@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:40:37.757197+00:00Z",
+  "lastUpdated": "2025-11-07T07:40:54.836505+00:00Z",
   "stats": {
-    "totalDirectories": 1105,
+    "totalDirectories": 1106,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1105.0,
-    "totalListings": 10562,
-    "aiEnhancedDirectories": 1104
+    "avgDirectoriesPerRepo": 1106.0,
+    "totalListings": 10572,
+    "aiEnhancedDirectories": 1105
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14372,12 +14372,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-document-preparation-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:40:54.836505+00:00Z",
+      "lastUpdated": "2025-11-07T07:40:54.836505+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1105,
+      "directoryCount": 1106,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

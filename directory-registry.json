@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:28:17.390285+00:00Z",
+  "lastUpdated": "2025-11-07T04:28:31.847895+00:00Z",
   "stats": {
-    "totalDirectories": 430,
+    "totalDirectories": 431,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 430.0,
-    "totalListings": 4040,
-    "aiEnhancedDirectories": 430
+    "avgDirectoriesPerRepo": 431.0,
+    "totalListings": 4050,
+    "aiEnhancedDirectories": 431
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -5598,12 +5598,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-emdr-therapy-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:28:31.847895+00:00Z",
+      "lastUpdated": "2025-11-07T04:28:31.847895+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 430,
+      "directoryCount": 431,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

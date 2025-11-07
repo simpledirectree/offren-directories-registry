@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:16:03.313284+00:00Z",
+  "lastUpdated": "2025-11-07T09:16:16.248004+00:00Z",
   "stats": {
-    "totalDirectories": 1230,
+    "totalDirectories": 1231,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1230.0,
-    "totalListings": 11706,
-    "aiEnhancedDirectories": 1229
+    "avgDirectoriesPerRepo": 1231.0,
+    "totalListings": 11708,
+    "aiEnhancedDirectories": 1230
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15997,12 +15997,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-casual-dining-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:16:16.248004+00:00Z",
+      "lastUpdated": "2025-11-07T09:16:16.248004+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1230,
+      "directoryCount": 1231,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

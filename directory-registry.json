@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:06:20.012404+00:00Z",
+  "lastUpdated": "2025-11-07T08:07:25.410906+00:00Z",
   "stats": {
-    "totalDirectories": 1156,
+    "totalDirectories": 1157,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1156.0,
-    "totalListings": 11049,
-    "aiEnhancedDirectories": 1155
+    "avgDirectoriesPerRepo": 1157.0,
+    "totalListings": 11059,
+    "aiEnhancedDirectories": 1156
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15035,12 +15035,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-crop-consulting-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:07:25.410906+00:00Z",
+      "lastUpdated": "2025-11-07T08:07:25.410906+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1156,
+      "directoryCount": 1157,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

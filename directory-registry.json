@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:52:49.226259+00:00Z",
+  "lastUpdated": "2025-11-07T17:53:03.623471+00:00Z",
   "stats": {
-    "totalDirectories": 1766,
+    "totalDirectories": 1767,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1766.0,
-    "totalListings": 16617,
-    "aiEnhancedDirectories": 1765
+    "avgDirectoriesPerRepo": 1767.0,
+    "totalListings": 16622,
+    "aiEnhancedDirectories": 1766
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22965,12 +22965,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-detox-programs-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:53:03.623471+00:00Z",
+      "lastUpdated": "2025-11-07T17:53:03.623471+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1766,
+      "directoryCount": 1767,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

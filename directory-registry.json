@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:56:54.180883+00:00Z",
+  "lastUpdated": "2025-11-07T02:57:08.380325+00:00Z",
   "stats": {
-    "totalDirectories": 225,
+    "totalDirectories": 226,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 225.0,
-    "totalListings": 2064,
-    "aiEnhancedDirectories": 225
+    "avgDirectoriesPerRepo": 226.0,
+    "totalListings": 2072,
+    "aiEnhancedDirectories": 226
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2933,12 +2933,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-event-setup-crews-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:57:08.380325+00:00Z",
+      "lastUpdated": "2025-11-07T02:57:08.380325+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 225,
+      "directoryCount": 226,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

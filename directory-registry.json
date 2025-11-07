@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:33:53.501520+00:00Z",
+  "lastUpdated": "2025-11-07T02:34:08.474692+00:00Z",
   "stats": {
-    "totalDirectories": 204,
+    "totalDirectories": 205,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 204.0,
-    "totalListings": 1880,
-    "aiEnhancedDirectories": 204
+    "avgDirectoriesPerRepo": 205.0,
+    "totalListings": 1890,
+    "aiEnhancedDirectories": 205
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2660,12 +2660,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-cash-flow-management-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:34:08.474692+00:00Z",
+      "lastUpdated": "2025-11-07T02:34:08.474692+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 204,
+      "directoryCount": 205,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:22:08.990070+00:00Z",
+  "lastUpdated": "2025-11-07T05:22:21.576165+00:00Z",
   "stats": {
-    "totalDirectories": 620,
+    "totalDirectories": 621,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 620.0,
-    "totalListings": 5894,
-    "aiEnhancedDirectories": 620
+    "avgDirectoriesPerRepo": 621.0,
+    "totalListings": 5904,
+    "aiEnhancedDirectories": 621
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8068,12 +8068,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-healthcare-certification-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:22:21.576165+00:00Z",
+      "lastUpdated": "2025-11-07T05:22:21.576165+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 620,
+      "directoryCount": 621,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:16:29.529711+00:00Z",
+  "lastUpdated": "2025-11-07T05:16:46.524258+00:00Z",
   "stats": {
-    "totalDirectories": 600,
+    "totalDirectories": 601,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 600.0,
-    "totalListings": 5696,
-    "aiEnhancedDirectories": 600
+    "avgDirectoriesPerRepo": 601.0,
+    "totalListings": 5706,
+    "aiEnhancedDirectories": 601
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7808,12 +7808,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-meeting-space-rentals-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:16:46.524258+00:00Z",
+      "lastUpdated": "2025-11-07T05:16:46.524258+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 600,
+      "directoryCount": 601,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

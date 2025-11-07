@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:55:31.548178+00:00Z",
+  "lastUpdated": "2025-11-07T06:55:49.796987+00:00Z",
   "stats": {
-    "totalDirectories": 948,
+    "totalDirectories": 949,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 948.0,
-    "totalListings": 9054,
-    "aiEnhancedDirectories": 948
+    "avgDirectoriesPerRepo": 949.0,
+    "totalListings": 9064,
+    "aiEnhancedDirectories": 949
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12332,12 +12332,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-restructuring-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:55:49.796987+00:00Z",
+      "lastUpdated": "2025-11-07T06:55:49.796987+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 948,
+      "directoryCount": 949,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

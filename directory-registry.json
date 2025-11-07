@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:14:34.729600+00:00Z",
+  "lastUpdated": "2025-11-07T07:14:53.731959+00:00Z",
   "stats": {
-    "totalDirectories": 1011,
+    "totalDirectories": 1012,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1011.0,
-    "totalListings": 9660,
-    "aiEnhancedDirectories": 1010
+    "avgDirectoriesPerRepo": 1012.0,
+    "totalListings": 9670,
+    "aiEnhancedDirectories": 1011
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13150,12 +13150,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-ombre-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:14:53.731959+00:00Z",
+      "lastUpdated": "2025-11-07T07:14:53.731959+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1011,
+      "directoryCount": 1012,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:14:33.420973+00:00Z",
+  "lastUpdated": "2025-11-07T19:14:48.241030+00:00Z",
   "stats": {
-    "totalDirectories": 1847,
+    "totalDirectories": 1848,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1847.0,
-    "totalListings": 17370,
-    "aiEnhancedDirectories": 1846
+    "avgDirectoriesPerRepo": 1848.0,
+    "totalListings": 17374,
+    "aiEnhancedDirectories": 1847
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24018,12 +24018,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-film-set-catering-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:14:48.241030+00:00Z",
+      "lastUpdated": "2025-11-07T19:14:48.241030+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1847,
+      "directoryCount": 1848,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

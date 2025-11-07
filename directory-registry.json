@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:50:51.403462+00:00Z",
+  "lastUpdated": "2025-11-07T05:51:13.852824+00:00Z",
   "stats": {
-    "totalDirectories": 721,
+    "totalDirectories": 722,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 721.0,
-    "totalListings": 6883,
-    "aiEnhancedDirectories": 721
+    "avgDirectoriesPerRepo": 722.0,
+    "totalListings": 6893,
+    "aiEnhancedDirectories": 722
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9381,12 +9381,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-voice-lessons-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:51:13.852824+00:00Z",
+      "lastUpdated": "2025-11-07T05:51:13.852824+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 721,
+      "directoryCount": 722,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:25:03.475511+00:00Z",
+  "lastUpdated": "2025-11-07T15:25:18.553683+00:00Z",
   "stats": {
-    "totalDirectories": 1610,
+    "totalDirectories": 1611,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1610.0,
-    "totalListings": 15184,
-    "aiEnhancedDirectories": 1609
+    "avgDirectoriesPerRepo": 1611.0,
+    "totalListings": 15194,
+    "aiEnhancedDirectories": 1610
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20937,12 +20937,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-dog-walking-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:25:18.553683+00:00Z",
+      "lastUpdated": "2025-11-07T15:25:18.553683+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1610,
+      "directoryCount": 1611,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:11:44.107663+00:00Z",
+  "lastUpdated": "2025-11-07T22:11:58.504365+00:00Z",
   "stats": {
-    "totalDirectories": 2030,
+    "totalDirectories": 2031,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2030.0,
-    "totalListings": 19080,
-    "aiEnhancedDirectories": 2029
+    "avgDirectoriesPerRepo": 2031.0,
+    "totalListings": 19085,
+    "aiEnhancedDirectories": 2030
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26397,12 +26397,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-mutual-fund-management-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:11:58.504365+00:00Z",
+      "lastUpdated": "2025-11-07T22:11:58.504365+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2030,
+      "directoryCount": 2031,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T21:38:22.514437+00:00Z",
+  "lastUpdated": "2025-11-07T21:39:29.272357+00:00Z",
   "stats": {
-    "totalDirectories": 1999,
+    "totalDirectories": 2000,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1999.0,
-    "totalListings": 18771,
-    "aiEnhancedDirectories": 1998
+    "avgDirectoriesPerRepo": 2000.0,
+    "totalListings": 18781,
+    "aiEnhancedDirectories": 1999
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25994,12 +25994,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-car-audio-installation-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T21:39:29.272357+00:00Z",
+      "lastUpdated": "2025-11-07T21:39:29.272357+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1999,
+      "directoryCount": 2000,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

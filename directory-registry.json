@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:56:24.196550+00:00Z",
+  "lastUpdated": "2025-11-07T19:57:19.190414+00:00Z",
   "stats": {
-    "totalDirectories": 1889,
+    "totalDirectories": 1890,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1889.0,
-    "totalListings": 17743,
-    "aiEnhancedDirectories": 1888
+    "avgDirectoriesPerRepo": 1890.0,
+    "totalListings": 17753,
+    "aiEnhancedDirectories": 1889
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24564,12 +24564,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-accounts-payable-management-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:57:19.190414+00:00Z",
+      "lastUpdated": "2025-11-07T19:57:19.190414+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1889,
+      "directoryCount": 1890,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

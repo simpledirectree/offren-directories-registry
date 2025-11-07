@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:14:58.894322+00:00Z",
+  "lastUpdated": "2025-11-07T10:15:13.477793+00:00Z",
   "stats": {
-    "totalDirectories": 1300,
+    "totalDirectories": 1301,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1300.0,
-    "totalListings": 12337,
-    "aiEnhancedDirectories": 1299
+    "avgDirectoriesPerRepo": 1301.0,
+    "totalListings": 12347,
+    "aiEnhancedDirectories": 1300
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16907,12 +16907,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-contract-review-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:15:13.477793+00:00Z",
+      "lastUpdated": "2025-11-07T10:15:13.477793+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1300,
+      "directoryCount": 1301,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

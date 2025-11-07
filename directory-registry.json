@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:59:33.108584+00:00Z",
+  "lastUpdated": "2025-11-07T17:00:15.107198+00:00Z",
   "stats": {
-    "totalDirectories": 1708,
+    "totalDirectories": 1709,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1708.0,
-    "totalListings": 16089,
-    "aiEnhancedDirectories": 1707
+    "avgDirectoriesPerRepo": 1709.0,
+    "totalListings": 16099,
+    "aiEnhancedDirectories": 1708
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22211,12 +22211,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-wedding-vendors-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:00:15.107198+00:00Z",
+      "lastUpdated": "2025-11-07T17:00:15.107198+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1708,
+      "directoryCount": 1709,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

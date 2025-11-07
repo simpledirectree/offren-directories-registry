@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:23:57.405428+00:00Z",
+  "lastUpdated": "2025-11-07T05:24:11.021280+00:00Z",
   "stats": {
-    "totalDirectories": 627,
+    "totalDirectories": 628,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 627.0,
-    "totalListings": 5964,
-    "aiEnhancedDirectories": 627
+    "avgDirectoriesPerRepo": 628.0,
+    "totalListings": 5974,
+    "aiEnhancedDirectories": 628
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8159,12 +8159,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-boutique-fitness-studios-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:24:11.021280+00:00Z",
+      "lastUpdated": "2025-11-07T05:24:11.021280+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 627,
+      "directoryCount": 628,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:16:45.537065+00:00Z",
+  "lastUpdated": "2025-11-07T22:17:25.452436+00:00Z",
   "stats": {
-    "totalDirectories": 2037,
+    "totalDirectories": 2038,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2037.0,
-    "totalListings": 19134,
-    "aiEnhancedDirectories": 2036
+    "avgDirectoriesPerRepo": 2038.0,
+    "totalListings": 19144,
+    "aiEnhancedDirectories": 2037
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26488,12 +26488,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-window-tinting-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:17:25.452436+00:00Z",
+      "lastUpdated": "2025-11-07T22:17:25.452436+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2037,
+      "directoryCount": 2038,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

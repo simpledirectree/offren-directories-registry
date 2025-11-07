@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:14:56.495808+00:00Z",
+  "lastUpdated": "2025-11-07T16:15:37.995101+00:00Z",
   "stats": {
-    "totalDirectories": 1665,
+    "totalDirectories": 1666,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1665.0,
-    "totalListings": 15684,
-    "aiEnhancedDirectories": 1664
+    "avgDirectoriesPerRepo": 1666.0,
+    "totalListings": 15694,
+    "aiEnhancedDirectories": 1665
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21652,12 +21652,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-network-monitoring-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:15:37.995101+00:00Z",
+      "lastUpdated": "2025-11-07T16:15:37.995101+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1665,
+      "directoryCount": 1666,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

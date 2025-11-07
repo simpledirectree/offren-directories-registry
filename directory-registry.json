@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:41:23.279708+00:00Z",
+  "lastUpdated": "2025-11-07T20:42:04.439635+00:00Z",
   "stats": {
-    "totalDirectories": 1936,
+    "totalDirectories": 1937,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1936.0,
-    "totalListings": 18188,
-    "aiEnhancedDirectories": 1935
+    "avgDirectoriesPerRepo": 1937.0,
+    "totalListings": 18198,
+    "aiEnhancedDirectories": 1936
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25175,12 +25175,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-handyman-services-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:42:04.439635+00:00Z",
+      "lastUpdated": "2025-11-07T20:42:04.439635+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1936,
+      "directoryCount": 1937,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

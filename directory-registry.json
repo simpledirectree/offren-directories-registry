@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T13:26:23.583970+00:00Z",
+  "lastUpdated": "2025-11-07T13:27:52.417895+00:00Z",
   "stats": {
-    "totalDirectories": 1493,
+    "totalDirectories": 1494,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1493.0,
-    "totalListings": 14095,
-    "aiEnhancedDirectories": 1492
+    "avgDirectoriesPerRepo": 1494.0,
+    "totalListings": 14096,
+    "aiEnhancedDirectories": 1493
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19416,12 +19416,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-moving-protection-plans-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:27:52.417895+00:00Z",
+      "lastUpdated": "2025-11-07T13:27:52.417895+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1493,
+      "directoryCount": 1494,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

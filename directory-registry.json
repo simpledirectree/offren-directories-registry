@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:36:54.920369+00:00Z",
+  "lastUpdated": "2025-11-07T05:37:10.742839+00:00Z",
   "stats": {
-    "totalDirectories": 672,
+    "totalDirectories": 673,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 672.0,
-    "totalListings": 6414,
-    "aiEnhancedDirectories": 672
+    "avgDirectoriesPerRepo": 673.0,
+    "totalListings": 6424,
+    "aiEnhancedDirectories": 673
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8744,12 +8744,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-user-persona-development-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:37:10.742839+00:00Z",
+      "lastUpdated": "2025-11-07T05:37:10.742839+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 672,
+      "directoryCount": 673,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

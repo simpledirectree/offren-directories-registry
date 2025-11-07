@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:29:40.334415+00:00Z",
+  "lastUpdated": "2025-11-07T08:29:56.247211+00:00Z",
   "stats": {
-    "totalDirectories": 1188,
+    "totalDirectories": 1189,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1188.0,
-    "totalListings": 11329,
-    "aiEnhancedDirectories": 1187
+    "avgDirectoriesPerRepo": 1189.0,
+    "totalListings": 11339,
+    "aiEnhancedDirectories": 1188
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15451,12 +15451,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-legal-support-services-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:29:56.247211+00:00Z",
+      "lastUpdated": "2025-11-07T08:29:56.247211+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1188,
+      "directoryCount": 1189,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

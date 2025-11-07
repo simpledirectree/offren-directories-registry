@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:29:16.980130+00:00Z",
+  "lastUpdated": "2025-11-07T23:30:22.087103+00:00Z",
   "stats": {
-    "totalDirectories": 2115,
+    "totalDirectories": 2116,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2115.0,
-    "totalListings": 19823,
-    "aiEnhancedDirectories": 2114
+    "avgDirectoriesPerRepo": 2116.0,
+    "totalListings": 19828,
+    "aiEnhancedDirectories": 2115
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27502,12 +27502,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-buyer-representation-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:30:22.087103+00:00Z",
+      "lastUpdated": "2025-11-07T23:30:22.087103+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2115,
+      "directoryCount": 2116,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

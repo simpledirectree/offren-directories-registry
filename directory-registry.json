@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:33:00.303370+00:00Z",
+  "lastUpdated": "2025-11-07T10:34:28.875274+00:00Z",
   "stats": {
-    "totalDirectories": 1325,
+    "totalDirectories": 1326,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1325.0,
-    "totalListings": 12567,
-    "aiEnhancedDirectories": 1324
+    "avgDirectoriesPerRepo": 1326.0,
+    "totalListings": 12577,
+    "aiEnhancedDirectories": 1325
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17232,12 +17232,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-vegetable-garden-planning-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:34:28.875274+00:00Z",
+      "lastUpdated": "2025-11-07T10:34:28.875274+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1325,
+      "directoryCount": 1326,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

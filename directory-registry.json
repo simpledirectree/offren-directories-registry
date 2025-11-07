@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:10:36.967717+00:00Z",
+  "lastUpdated": "2025-11-07T06:10:55.160543+00:00Z",
   "stats": {
-    "totalDirectories": 792,
+    "totalDirectories": 793,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 792.0,
-    "totalListings": 7579,
-    "aiEnhancedDirectories": 792
+    "avgDirectoriesPerRepo": 793.0,
+    "totalListings": 7589,
+    "aiEnhancedDirectories": 793
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10304,12 +10304,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-pulmonologists-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:10:55.160543+00:00Z",
+      "lastUpdated": "2025-11-07T06:10:55.160543+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 792,
+      "directoryCount": 793,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

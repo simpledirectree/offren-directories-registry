@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:44:01.985167+00:00Z",
+  "lastUpdated": "2025-11-07T02:44:18.495019+00:00Z",
   "stats": {
-    "totalDirectories": 212,
+    "totalDirectories": 213,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 212.0,
-    "totalListings": 1953,
-    "aiEnhancedDirectories": 212
+    "avgDirectoriesPerRepo": 213.0,
+    "totalListings": 1963,
+    "aiEnhancedDirectories": 213
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2764,12 +2764,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-vinyl-wrapping-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:44:18.495019+00:00Z",
+      "lastUpdated": "2025-11-07T02:44:18.495019+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 212,
+      "directoryCount": 213,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

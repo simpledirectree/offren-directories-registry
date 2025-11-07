@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:07:33.144498+00:00Z",
+  "lastUpdated": "2025-11-07T09:07:49.194213+00:00Z",
   "stats": {
-    "totalDirectories": 1223,
+    "totalDirectories": 1224,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1223.0,
-    "totalListings": 11646,
-    "aiEnhancedDirectories": 1222
+    "avgDirectoriesPerRepo": 1224.0,
+    "totalListings": 11656,
+    "aiEnhancedDirectories": 1223
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15906,12 +15906,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-hot-towel-shaves-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:07:49.194213+00:00Z",
+      "lastUpdated": "2025-11-07T09:07:49.194213+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1223,
+      "directoryCount": 1224,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

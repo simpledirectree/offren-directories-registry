@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:18:39.830989+00:00Z",
+  "lastUpdated": "2025-11-07T19:19:17.882622+00:00Z",
   "stats": {
-    "totalDirectories": 1857,
+    "totalDirectories": 1858,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1857.0,
-    "totalListings": 17457,
-    "aiEnhancedDirectories": 1856
+    "avgDirectoriesPerRepo": 1858.0,
+    "totalListings": 17458,
+    "aiEnhancedDirectories": 1857
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24148,12 +24148,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-employment-law-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:19:17.882622+00:00Z",
+      "lastUpdated": "2025-11-07T19:19:17.882622+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1857,
+      "directoryCount": 1858,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

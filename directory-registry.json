@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:56:46.387181+00:00Z",
+  "lastUpdated": "2025-11-07T03:57:07.171083+00:00Z",
   "stats": {
-    "totalDirectories": 319,
+    "totalDirectories": 320,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 319.0,
-    "totalListings": 2971,
-    "aiEnhancedDirectories": 319
+    "avgDirectoriesPerRepo": 320.0,
+    "totalListings": 2981,
+    "aiEnhancedDirectories": 320
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4155,12 +4155,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-full-time-nannies-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:57:07.171083+00:00Z",
+      "lastUpdated": "2025-11-07T03:57:07.171083+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 319,
+      "directoryCount": 320,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

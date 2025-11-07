@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:18:44.304152+00:00Z",
+  "lastUpdated": "2025-11-07T23:19:02.032828+00:00Z",
   "stats": {
-    "totalDirectories": 2106,
+    "totalDirectories": 2107,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2106.0,
-    "totalListings": 19733,
-    "aiEnhancedDirectories": 2105
+    "avgDirectoriesPerRepo": 2107.0,
+    "totalListings": 19743,
+    "aiEnhancedDirectories": 2106
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27385,12 +27385,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-remote-start-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:19:02.032828+00:00Z",
+      "lastUpdated": "2025-11-07T23:19:02.032828+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2106,
+      "directoryCount": 2107,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

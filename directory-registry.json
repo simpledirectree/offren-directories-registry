@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:24:18.287031+00:00Z",
+  "lastUpdated": "2025-11-07T18:26:13.757796+00:00Z",
   "stats": {
-    "totalDirectories": 1796,
+    "totalDirectories": 1797,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1796.0,
-    "totalListings": 16891,
-    "aiEnhancedDirectories": 1795
+    "avgDirectoriesPerRepo": 1797.0,
+    "totalListings": 16901,
+    "aiEnhancedDirectories": 1796
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23355,12 +23355,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-dj-services-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:26:13.757796+00:00Z",
+      "lastUpdated": "2025-11-07T18:26:13.757796+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1796,
+      "directoryCount": 1797,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

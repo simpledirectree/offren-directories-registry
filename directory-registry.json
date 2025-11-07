@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:42:42.484375+00:00Z",
+  "lastUpdated": "2025-11-07T00:43:23.738553+00:00Z",
   "stats": {
-    "totalDirectories": 102,
+    "totalDirectories": 103,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 102.0,
-    "totalListings": 955,
-    "aiEnhancedDirectories": 102
+    "avgDirectoriesPerRepo": 103.0,
+    "totalListings": 965,
+    "aiEnhancedDirectories": 103
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1334,12 +1334,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-wealth-management-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:43:23.738553+00:00Z",
+      "lastUpdated": "2025-11-07T00:43:23.738553+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 102,
+      "directoryCount": 103,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

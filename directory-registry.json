@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:10:36.141431+00:00Z",
+  "lastUpdated": "2025-11-07T04:10:49.044675+00:00Z",
   "stats": {
-    "totalDirectories": 367,
+    "totalDirectories": 368,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 367.0,
-    "totalListings": 3446,
-    "aiEnhancedDirectories": 367
+    "avgDirectoriesPerRepo": 368.0,
+    "totalListings": 3450,
+    "aiEnhancedDirectories": 368
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4779,12 +4779,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-acupuncture-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:10:49.044675+00:00Z",
+      "lastUpdated": "2025-11-07T04:10:49.044675+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 367,
+      "directoryCount": 368,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

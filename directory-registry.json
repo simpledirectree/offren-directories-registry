@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:56:45.538443+00:00Z",
+  "lastUpdated": "2025-11-07T17:57:02.866439+00:00Z",
   "stats": {
-    "totalDirectories": 1771,
+    "totalDirectories": 1772,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1771.0,
-    "totalListings": 16653,
-    "aiEnhancedDirectories": 1770
+    "avgDirectoriesPerRepo": 1772.0,
+    "totalListings": 16663,
+    "aiEnhancedDirectories": 1771
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23030,12 +23030,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-training-program-development-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:57:02.866439+00:00Z",
+      "lastUpdated": "2025-11-07T17:57:02.866439+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1771,
+      "directoryCount": 1772,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:03:46.558470+00:00Z",
+  "lastUpdated": "2025-11-07T18:04:29.805682+00:00Z",
   "stats": {
-    "totalDirectories": 1778,
+    "totalDirectories": 1779,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1778.0,
-    "totalListings": 16723,
-    "aiEnhancedDirectories": 1777
+    "avgDirectoriesPerRepo": 1779.0,
+    "totalListings": 16733,
+    "aiEnhancedDirectories": 1778
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23121,12 +23121,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-detox-programs-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:04:29.805682+00:00Z",
+      "lastUpdated": "2025-11-07T18:04:29.805682+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1778,
+      "directoryCount": 1779,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

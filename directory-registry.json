@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:38:31.204093+00:00Z",
+  "lastUpdated": "2025-11-07T07:38:47.548693+00:00Z",
   "stats": {
-    "totalDirectories": 1097,
+    "totalDirectories": 1098,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1097.0,
-    "totalListings": 10485,
-    "aiEnhancedDirectories": 1096
+    "avgDirectoriesPerRepo": 1098.0,
+    "totalListings": 10495,
+    "aiEnhancedDirectories": 1097
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14268,12 +14268,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-air-conditioning-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:38:47.548693+00:00Z",
+      "lastUpdated": "2025-11-07T07:38:47.548693+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1097,
+      "directoryCount": 1098,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

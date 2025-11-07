@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:48:35.528679+00:00Z",
+  "lastUpdated": "2025-11-07T05:48:54.050205+00:00Z",
   "stats": {
-    "totalDirectories": 713,
+    "totalDirectories": 714,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 713.0,
-    "totalListings": 6808,
-    "aiEnhancedDirectories": 713
+    "avgDirectoriesPerRepo": 714.0,
+    "totalListings": 6818,
+    "aiEnhancedDirectories": 714
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9277,12 +9277,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-garden-tool-maintenance-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:48:54.050205+00:00Z",
+      "lastUpdated": "2025-11-07T05:48:54.050205+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 713,
+      "directoryCount": 714,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:01:16.475242+00:00Z",
+  "lastUpdated": "2025-11-07T02:04:27.470676+00:00Z",
   "stats": {
-    "totalDirectories": 182,
+    "totalDirectories": 183,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 182.0,
-    "totalListings": 1673,
-    "aiEnhancedDirectories": 182
+    "avgDirectoriesPerRepo": 183.0,
+    "totalListings": 1683,
+    "aiEnhancedDirectories": 183
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2374,12 +2374,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-brand-development-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:04:27.470676+00:00Z",
+      "lastUpdated": "2025-11-07T02:04:27.470676+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 182,
+      "directoryCount": 183,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:12:12.087421+00:00Z",
+  "lastUpdated": "2025-11-07T19:12:28.464979+00:00Z",
   "stats": {
-    "totalDirectories": 1843,
+    "totalDirectories": 1844,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1843.0,
-    "totalListings": 17330,
-    "aiEnhancedDirectories": 1842
+    "avgDirectoriesPerRepo": 1844.0,
+    "totalListings": 17340,
+    "aiEnhancedDirectories": 1843
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23966,12 +23966,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-network-monitoring-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:12:28.464979+00:00Z",
+      "lastUpdated": "2025-11-07T19:12:28.464979+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1843,
+      "directoryCount": 1844,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

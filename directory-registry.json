@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:01:55.139122+00:00Z",
+  "lastUpdated": "2025-11-07T15:03:00.116178+00:00Z",
   "stats": {
-    "totalDirectories": 1585,
+    "totalDirectories": 1586,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1585.0,
-    "totalListings": 14951,
-    "aiEnhancedDirectories": 1584
+    "avgDirectoriesPerRepo": 1586.0,
+    "totalListings": 14961,
+    "aiEnhancedDirectories": 1585
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20612,12 +20612,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-aqua-aerobics-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:03:00.116178+00:00Z",
+      "lastUpdated": "2025-11-07T15:03:00.116178+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1585,
+      "directoryCount": 1586,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

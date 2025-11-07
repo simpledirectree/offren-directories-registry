@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:56:21.008578+00:00Z",
+  "lastUpdated": "2025-11-07T09:57:01.382843+00:00Z",
   "stats": {
-    "totalDirectories": 1276,
+    "totalDirectories": 1277,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1276.0,
-    "totalListings": 12120,
-    "aiEnhancedDirectories": 1275
+    "avgDirectoriesPerRepo": 1277.0,
+    "totalListings": 12130,
+    "aiEnhancedDirectories": 1276
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16595,12 +16595,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-software-selection-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:57:01.382843+00:00Z",
+      "lastUpdated": "2025-11-07T09:57:01.382843+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1276,
+      "directoryCount": 1277,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

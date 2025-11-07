@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:24:42.442837+00:00Z",
+  "lastUpdated": "2025-11-07T08:24:56.285560+00:00Z",
   "stats": {
-    "totalDirectories": 1180,
+    "totalDirectories": 1181,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1180.0,
-    "totalListings": 11257,
-    "aiEnhancedDirectories": 1179
+    "avgDirectoriesPerRepo": 1181.0,
+    "totalListings": 11267,
+    "aiEnhancedDirectories": 1180
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15347,12 +15347,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-internal-auditing-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:24:56.285560+00:00Z",
+      "lastUpdated": "2025-11-07T08:24:56.285560+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1180,
+      "directoryCount": 1181,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

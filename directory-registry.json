@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:21:31.750481+00:00Z",
+  "lastUpdated": "2025-11-07T17:21:47.063359+00:00Z",
   "stats": {
-    "totalDirectories": 1728,
+    "totalDirectories": 1729,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1728.0,
-    "totalListings": 16266,
-    "aiEnhancedDirectories": 1727
+    "avgDirectoriesPerRepo": 1729.0,
+    "totalListings": 16276,
+    "aiEnhancedDirectories": 1728
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22471,12 +22471,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-aerialists-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:21:47.063359+00:00Z",
+      "lastUpdated": "2025-11-07T17:21:47.063359+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1728,
+      "directoryCount": 1729,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

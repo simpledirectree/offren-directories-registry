@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:48:43.492255+00:00Z",
+  "lastUpdated": "2025-11-07T07:49:22.846415+00:00Z",
   "stats": {
-    "totalDirectories": 1131,
+    "totalDirectories": 1132,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1131.0,
-    "totalListings": 10812,
-    "aiEnhancedDirectories": 1130
+    "avgDirectoriesPerRepo": 1132.0,
+    "totalListings": 10817,
+    "aiEnhancedDirectories": 1131
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14710,12 +14710,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-agricultural-photography-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:49:22.846415+00:00Z",
+      "lastUpdated": "2025-11-07T07:49:22.846415+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1131,
+      "directoryCount": 1132,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

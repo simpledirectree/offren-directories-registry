@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:19:41.448468+00:00Z",
+  "lastUpdated": "2025-11-07T01:19:57.161995+00:00Z",
   "stats": {
-    "totalDirectories": 148,
+    "totalDirectories": 149,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 148.0,
-    "totalListings": 1376,
-    "aiEnhancedDirectories": 148
+    "avgDirectoriesPerRepo": 149.0,
+    "totalListings": 1381,
+    "aiEnhancedDirectories": 149
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1932,12 +1932,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-pilates-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:19:57.161995+00:00Z",
+      "lastUpdated": "2025-11-07T01:19:57.161995+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 148,
+      "directoryCount": 149,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:49:11.393094+00:00Z",
+  "lastUpdated": "2025-11-07T16:49:51.621744+00:00Z",
   "stats": {
-    "totalDirectories": 1696,
+    "totalDirectories": 1697,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1696.0,
-    "totalListings": 15976,
-    "aiEnhancedDirectories": 1695
+    "avgDirectoriesPerRepo": 1697.0,
+    "totalListings": 15986,
+    "aiEnhancedDirectories": 1696
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22055,12 +22055,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-barre-classes-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:49:51.621744+00:00Z",
+      "lastUpdated": "2025-11-07T16:49:51.621744+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1696,
+      "directoryCount": 1697,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

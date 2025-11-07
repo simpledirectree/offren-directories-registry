@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:34:51.274486+00:00Z",
+  "lastUpdated": "2025-11-07T05:35:08.977932+00:00Z",
   "stats": {
-    "totalDirectories": 665,
+    "totalDirectories": 666,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 665.0,
-    "totalListings": 6344,
-    "aiEnhancedDirectories": 665
+    "avgDirectoriesPerRepo": 666.0,
+    "totalListings": 6354,
+    "aiEnhancedDirectories": 666
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8653,12 +8653,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-online-fitness-coaching-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:35:08.977932+00:00Z",
+      "lastUpdated": "2025-11-07T05:35:08.977932+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 665,
+      "directoryCount": 666,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

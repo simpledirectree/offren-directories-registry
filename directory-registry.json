@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:36:30.095529+00:00Z",
+  "lastUpdated": "2025-11-07T17:36:46.943369+00:00Z",
   "stats": {
-    "totalDirectories": 1744,
+    "totalDirectories": 1745,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1744.0,
-    "totalListings": 16422,
-    "aiEnhancedDirectories": 1743
+    "avgDirectoriesPerRepo": 1745.0,
+    "totalListings": 16432,
+    "aiEnhancedDirectories": 1744
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22679,12 +22679,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-art-moving-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:36:46.943369+00:00Z",
+      "lastUpdated": "2025-11-07T17:36:46.943369+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1744,
+      "directoryCount": 1745,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

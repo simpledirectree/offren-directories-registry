@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:14:27.530438+00:00Z",
+  "lastUpdated": "2025-11-07T04:14:44.024043+00:00Z",
   "stats": {
-    "totalDirectories": 381,
+    "totalDirectories": 382,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 381.0,
-    "totalListings": 3573,
-    "aiEnhancedDirectories": 381
+    "avgDirectoriesPerRepo": 382.0,
+    "totalListings": 3583,
+    "aiEnhancedDirectories": 382
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4961,12 +4961,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-irrigation-system-installation-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:14:44.024043+00:00Z",
+      "lastUpdated": "2025-11-07T04:14:44.024043+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 381,
+      "directoryCount": 382,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

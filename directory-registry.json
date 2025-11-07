@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:09:59.812492+00:00Z",
+  "lastUpdated": "2025-11-07T16:10:16.569782+00:00Z",
   "stats": {
-    "totalDirectories": 1659,
+    "totalDirectories": 1660,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1659.0,
-    "totalListings": 15630,
-    "aiEnhancedDirectories": 1658
+    "avgDirectoriesPerRepo": 1660.0,
+    "totalListings": 15640,
+    "aiEnhancedDirectories": 1659
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21574,12 +21574,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-nail-art-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:10:16.569782+00:00Z",
+      "lastUpdated": "2025-11-07T16:10:16.569782+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1659,
+      "directoryCount": 1660,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

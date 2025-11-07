@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:02:48.793133+00:00Z",
+  "lastUpdated": "2025-11-07T10:03:07.973960+00:00Z",
   "stats": {
-    "totalDirectories": 1285,
+    "totalDirectories": 1286,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1285.0,
-    "totalListings": 12208,
-    "aiEnhancedDirectories": 1284
+    "avgDirectoriesPerRepo": 1286.0,
+    "totalListings": 12218,
+    "aiEnhancedDirectories": 1285
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16712,12 +16712,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-fertilization-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:03:07.973960+00:00Z",
+      "lastUpdated": "2025-11-07T10:03:07.973960+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1285,
+      "directoryCount": 1286,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

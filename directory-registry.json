@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:25:51.754240+00:00Z",
+  "lastUpdated": "2025-11-07T19:27:14.223832+00:00Z",
   "stats": {
-    "totalDirectories": 1868,
+    "totalDirectories": 1869,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1868.0,
-    "totalListings": 17554,
-    "aiEnhancedDirectories": 1867
+    "avgDirectoriesPerRepo": 1869.0,
+    "totalListings": 17564,
+    "aiEnhancedDirectories": 1868
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24291,12 +24291,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-prenatal-fitness-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:27:14.223832+00:00Z",
+      "lastUpdated": "2025-11-07T19:27:14.223832+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1868,
+      "directoryCount": 1869,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

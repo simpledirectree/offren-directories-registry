@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:27:59.142662+00:00Z",
+  "lastUpdated": "2025-11-07T05:28:16.348459+00:00Z",
   "stats": {
-    "totalDirectories": 642,
+    "totalDirectories": 643,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 642.0,
-    "totalListings": 6114,
-    "aiEnhancedDirectories": 642
+    "avgDirectoriesPerRepo": 643.0,
+    "totalListings": 6124,
+    "aiEnhancedDirectories": 643
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8354,12 +8354,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-move-management-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:28:16.348459+00:00Z",
+      "lastUpdated": "2025-11-07T05:28:16.348459+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 642,
+      "directoryCount": 643,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

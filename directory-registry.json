@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:43:33.957110+00:00Z",
+  "lastUpdated": "2025-11-07T12:44:15.170605+00:00Z",
   "stats": {
-    "totalDirectories": 1449,
+    "totalDirectories": 1450,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1449.0,
-    "totalListings": 13698,
-    "aiEnhancedDirectories": 1448
+    "avgDirectoriesPerRepo": 1450.0,
+    "totalListings": 13708,
+    "aiEnhancedDirectories": 1449
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18844,12 +18844,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-vendor-coordination-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:44:15.170605+00:00Z",
+      "lastUpdated": "2025-11-07T12:44:15.170605+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1449,
+      "directoryCount": 1450,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

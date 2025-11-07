@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:41:54.014147+00:00Z",
+  "lastUpdated": "2025-11-07T10:42:10.697784+00:00Z",
   "stats": {
-    "totalDirectories": 1330,
+    "totalDirectories": 1331,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1330.0,
-    "totalListings": 12617,
-    "aiEnhancedDirectories": 1329
+    "avgDirectoriesPerRepo": 1331.0,
+    "totalListings": 12627,
+    "aiEnhancedDirectories": 1330
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17297,12 +17297,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-commercial-lease-negotiation-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:42:10.697784+00:00Z",
+      "lastUpdated": "2025-11-07T10:42:10.697784+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1330,
+      "directoryCount": 1331,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

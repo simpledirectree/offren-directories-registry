@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:16:21.233273+00:00Z",
+  "lastUpdated": "2025-11-07T23:16:35.775470+00:00Z",
   "stats": {
-    "totalDirectories": 2100,
+    "totalDirectories": 2101,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2100.0,
-    "totalListings": 19680,
-    "aiEnhancedDirectories": 2099
+    "avgDirectoriesPerRepo": 2101.0,
+    "totalListings": 19688,
+    "aiEnhancedDirectories": 2100
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27307,12 +27307,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-dog-walking-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:16:35.775470+00:00Z",
+      "lastUpdated": "2025-11-07T23:16:35.775470+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2100,
+      "directoryCount": 2101,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

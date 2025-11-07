@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:36:54.121222+00:00Z",
+  "lastUpdated": "2025-11-07T23:37:35.468697+00:00Z",
   "stats": {
-    "totalDirectories": 2122,
+    "totalDirectories": 2123,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2122.0,
-    "totalListings": 19876,
-    "aiEnhancedDirectories": 2121
+    "avgDirectoriesPerRepo": 2123.0,
+    "totalListings": 19886,
+    "aiEnhancedDirectories": 2122
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27593,12 +27593,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-group-therapy-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:37:35.468697+00:00Z",
+      "lastUpdated": "2025-11-07T23:37:35.468697+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2122,
+      "directoryCount": 2123,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

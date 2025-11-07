@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:58:14.828490+00:00Z",
+  "lastUpdated": "2025-11-07T10:59:42.778342+00:00Z",
   "stats": {
-    "totalDirectories": 1345,
+    "totalDirectories": 1346,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1345.0,
-    "totalListings": 12757,
-    "aiEnhancedDirectories": 1344
+    "avgDirectoriesPerRepo": 1346.0,
+    "totalListings": 12767,
+    "aiEnhancedDirectories": 1345
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17492,12 +17492,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-switch-installation-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:59:42.778342+00:00Z",
+      "lastUpdated": "2025-11-07T10:59:42.778342+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1345,
+      "directoryCount": 1346,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

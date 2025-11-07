@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:16:58.622580+00:00Z",
+  "lastUpdated": "2025-11-07T20:17:39.016912+00:00Z",
   "stats": {
-    "totalDirectories": 1907,
+    "totalDirectories": 1908,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1907.0,
-    "totalListings": 17918,
-    "aiEnhancedDirectories": 1906
+    "avgDirectoriesPerRepo": 1908.0,
+    "totalListings": 17928,
+    "aiEnhancedDirectories": 1907
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24798,12 +24798,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-pergolas-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:17:39.016912+00:00Z",
+      "lastUpdated": "2025-11-07T20:17:39.016912+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1907,
+      "directoryCount": 1908,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:08:34.625984+00:00Z",
+  "lastUpdated": "2025-11-07T07:08:48.169030+00:00Z",
   "stats": {
-    "totalDirectories": 992,
+    "totalDirectories": 993,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 992.0,
-    "totalListings": 9485,
-    "aiEnhancedDirectories": 992
+    "avgDirectoriesPerRepo": 993.0,
+    "totalListings": 9489,
+    "aiEnhancedDirectories": 993
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12904,12 +12904,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-supply-chain-management-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:08:48.169030+00:00Z",
+      "lastUpdated": "2025-11-07T07:08:48.169030+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 992,
+      "directoryCount": 993,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

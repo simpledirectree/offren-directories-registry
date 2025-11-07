@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:19:01.705953+00:00Z",
+  "lastUpdated": "2025-11-07T18:19:16.442908+00:00Z",
   "stats": {
-    "totalDirectories": 1786,
+    "totalDirectories": 1787,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1786.0,
-    "totalListings": 16801,
-    "aiEnhancedDirectories": 1785
+    "avgDirectoriesPerRepo": 1787.0,
+    "totalListings": 16808,
+    "aiEnhancedDirectories": 1786
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23225,12 +23225,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-bed-bug-control-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:19:16.442908+00:00Z",
+      "lastUpdated": "2025-11-07T18:19:16.442908+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1786,
+      "directoryCount": 1787,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

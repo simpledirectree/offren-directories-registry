@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:26:15.886417+00:00Z",
+  "lastUpdated": "2025-11-07T03:26:54.727570+00:00Z",
   "stats": {
-    "totalDirectories": 253,
+    "totalDirectories": 254,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 253.0,
-    "totalListings": 2329,
-    "aiEnhancedDirectories": 253
+    "avgDirectoriesPerRepo": 254.0,
+    "totalListings": 2339,
+    "aiEnhancedDirectories": 254
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3297,12 +3297,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-fence-installation-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:26:54.727570+00:00Z",
+      "lastUpdated": "2025-11-07T03:26:54.727570+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 253,
+      "directoryCount": 254,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

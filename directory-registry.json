@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:58:36.991529+00:00Z",
+  "lastUpdated": "2025-11-07T19:01:01.924268+00:00Z",
   "stats": {
-    "totalDirectories": 1828,
+    "totalDirectories": 1829,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1828.0,
-    "totalListings": 17191,
-    "aiEnhancedDirectories": 1827
+    "avgDirectoriesPerRepo": 1829.0,
+    "totalListings": 17201,
+    "aiEnhancedDirectories": 1828
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23771,12 +23771,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-hvac-maintenance-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:01:01.924268+00:00Z",
+      "lastUpdated": "2025-11-07T19:01:01.924268+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1828,
+      "directoryCount": 1829,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

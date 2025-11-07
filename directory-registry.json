@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T21:11:54.748615+00:00Z",
+  "lastUpdated": "2025-11-07T21:14:15.026702+00:00Z",
   "stats": {
-    "totalDirectories": 1964,
+    "totalDirectories": 1965,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1964.0,
-    "totalListings": 18453,
-    "aiEnhancedDirectories": 1963
+    "avgDirectoriesPerRepo": 1965.0,
+    "totalListings": 18463,
+    "aiEnhancedDirectories": 1964
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25539,12 +25539,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-specialty-restaurants-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T21:14:15.026702+00:00Z",
+      "lastUpdated": "2025-11-07T21:14:15.026702+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1964,
+      "directoryCount": 1965,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:35:59.347619+00:00Z",
+  "lastUpdated": "2025-11-07T16:37:06.803766+00:00Z",
   "stats": {
-    "totalDirectories": 1685,
+    "totalDirectories": 1686,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1685.0,
-    "totalListings": 15868,
-    "aiEnhancedDirectories": 1684
+    "avgDirectoriesPerRepo": 1686.0,
+    "totalListings": 15878,
+    "aiEnhancedDirectories": 1685
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21912,12 +21912,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-post-construction-cleaning-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:37:06.803766+00:00Z",
+      "lastUpdated": "2025-11-07T16:37:06.803766+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1685,
+      "directoryCount": 1686,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

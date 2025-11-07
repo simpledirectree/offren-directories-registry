@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:53:56.433414+00:00Z",
+  "lastUpdated": "2025-11-07T05:54:14.561360+00:00Z",
   "stats": {
-    "totalDirectories": 732,
+    "totalDirectories": 733,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 732.0,
-    "totalListings": 6989,
-    "aiEnhancedDirectories": 732
+    "avgDirectoriesPerRepo": 733.0,
+    "totalListings": 6999,
+    "aiEnhancedDirectories": 733
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9524,12 +9524,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-international-moving-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:54:14.561360+00:00Z",
+      "lastUpdated": "2025-11-07T05:54:14.561360+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 732,
+      "directoryCount": 733,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

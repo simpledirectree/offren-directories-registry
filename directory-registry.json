@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T11:35:18.931538+00:00Z",
+  "lastUpdated": "2025-11-07T11:36:23.478638+00:00Z",
   "stats": {
-    "totalDirectories": 1380,
+    "totalDirectories": 1381,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1380.0,
-    "totalListings": 13074,
-    "aiEnhancedDirectories": 1379
+    "avgDirectoriesPerRepo": 1381.0,
+    "totalListings": 13084,
+    "aiEnhancedDirectories": 1380
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17947,12 +17947,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-warehouse-labor-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T11:36:23.478638+00:00Z",
+      "lastUpdated": "2025-11-07T11:36:23.478638+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1380,
+      "directoryCount": 1381,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

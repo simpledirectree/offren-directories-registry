@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:48:28.903862+00:00Z",
+  "lastUpdated": "2025-11-07T20:49:59.534103+00:00Z",
   "stats": {
-    "totalDirectories": 1941,
+    "totalDirectories": 1942,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1941.0,
-    "totalListings": 18233,
-    "aiEnhancedDirectories": 1940
+    "avgDirectoriesPerRepo": 1942.0,
+    "totalListings": 18243,
+    "aiEnhancedDirectories": 1941
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25240,12 +25240,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-debate-coaching-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:49:59.534103+00:00Z",
+      "lastUpdated": "2025-11-07T20:49:59.534103+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1941,
+      "directoryCount": 1942,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

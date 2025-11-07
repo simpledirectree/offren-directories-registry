@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:18:38.473921+00:00Z",
+  "lastUpdated": "2025-11-07T05:18:58.433287+00:00Z",
   "stats": {
-    "totalDirectories": 608,
+    "totalDirectories": 609,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 608.0,
-    "totalListings": 5776,
-    "aiEnhancedDirectories": 608
+    "avgDirectoriesPerRepo": 609.0,
+    "totalListings": 5786,
+    "aiEnhancedDirectories": 609
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7912,12 +7912,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-stress-management-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:18:58.433287+00:00Z",
+      "lastUpdated": "2025-11-07T05:18:58.433287+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 608,
+      "directoryCount": 609,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

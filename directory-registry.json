@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:50:27.859112+00:00Z",
+  "lastUpdated": "2025-11-07T22:50:42.891915+00:00Z",
   "stats": {
-    "totalDirectories": 2071,
+    "totalDirectories": 2072,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2071.0,
-    "totalListings": 19449,
-    "aiEnhancedDirectories": 2070
+    "avgDirectoriesPerRepo": 2072.0,
+    "totalListings": 19456,
+    "aiEnhancedDirectories": 2071
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26930,12 +26930,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-livestock-management-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:50:42.891915+00:00Z",
+      "lastUpdated": "2025-11-07T22:50:42.891915+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2071,
+      "directoryCount": 2072,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:22:28.752412+00:00Z",
+  "lastUpdated": "2025-11-07T19:24:01.405222+00:00Z",
   "stats": {
-    "totalDirectories": 1863,
+    "totalDirectories": 1864,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1863.0,
-    "totalListings": 17508,
-    "aiEnhancedDirectories": 1862
+    "avgDirectoriesPerRepo": 1864.0,
+    "totalListings": 17518,
+    "aiEnhancedDirectories": 1863
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24226,12 +24226,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-document-preparation-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:24:01.405222+00:00Z",
+      "lastUpdated": "2025-11-07T19:24:01.405222+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1863,
+      "directoryCount": 1864,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

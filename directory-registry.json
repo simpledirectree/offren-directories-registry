@@ -1,11 +1,11 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:10:08.606047+00:00Z",
+  "lastUpdated": "2025-11-07T07:11:21.536252+00:00Z",
   "stats": {
-    "totalDirectories": 998,
+    "totalDirectories": 999,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 998.0,
-    "totalListings": 9530,
+    "avgDirectoriesPerRepo": 999.0,
+    "totalListings": 9540,
     "aiEnhancedDirectories": 998
   },
   "directories": {
@@ -12982,12 +12982,24 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-health-coaching-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:11:21.536252+00:00Z",
+      "lastUpdated": "2025-11-07T07:11:21.536252+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 998,
+      "directoryCount": 999,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

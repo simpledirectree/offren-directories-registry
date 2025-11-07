@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:17:39.016912+00:00Z",
+  "lastUpdated": "2025-11-07T20:18:44.791326+00:00Z",
   "stats": {
-    "totalDirectories": 1908,
+    "totalDirectories": 1909,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1908.0,
-    "totalListings": 17928,
-    "aiEnhancedDirectories": 1907
+    "avgDirectoriesPerRepo": 1909.0,
+    "totalListings": 17938,
+    "aiEnhancedDirectories": 1908
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24811,12 +24811,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-cryotherapy-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:18:44.791326+00:00Z",
+      "lastUpdated": "2025-11-07T20:18:44.791326+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1908,
+      "directoryCount": 1909,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:29:05.166087+00:00Z",
+  "lastUpdated": "2025-11-07T06:29:20.570360+00:00Z",
   "stats": {
-    "totalDirectories": 854,
+    "totalDirectories": 855,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 854.0,
-    "totalListings": 8168,
-    "aiEnhancedDirectories": 854
+    "avgDirectoriesPerRepo": 855.0,
+    "totalListings": 8178,
+    "aiEnhancedDirectories": 855
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11110,12 +11110,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-music-instruction-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:29:20.570360+00:00Z",
+      "lastUpdated": "2025-11-07T06:29:20.570360+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 854,
+      "directoryCount": 855,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

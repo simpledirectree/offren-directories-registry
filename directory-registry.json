@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:16:46.524258+00:00Z",
+  "lastUpdated": "2025-11-07T05:17:02.139679+00:00Z",
   "stats": {
-    "totalDirectories": 601,
+    "totalDirectories": 602,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 601.0,
-    "totalListings": 5706,
-    "aiEnhancedDirectories": 601
+    "avgDirectoriesPerRepo": 602.0,
+    "totalListings": 5716,
+    "aiEnhancedDirectories": 602
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7821,12 +7821,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-upholstery-cleaning-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:17:02.139679+00:00Z",
+      "lastUpdated": "2025-11-07T05:17:02.139679+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 601,
+      "directoryCount": 602,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:09:52.122437+00:00Z",
+  "lastUpdated": "2025-11-07T05:10:07.268921+00:00Z",
   "stats": {
-    "totalDirectories": 577,
+    "totalDirectories": 578,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 577.0,
-    "totalListings": 5466,
-    "aiEnhancedDirectories": 577
+    "avgDirectoriesPerRepo": 578.0,
+    "totalListings": 5476,
+    "aiEnhancedDirectories": 578
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7509,12 +7509,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-patent-law-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:10:07.268921+00:00Z",
+      "lastUpdated": "2025-11-07T05:10:07.268921+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 577,
+      "directoryCount": 578,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

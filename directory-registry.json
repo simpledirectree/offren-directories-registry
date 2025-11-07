@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:25:20.908950+00:00Z",
+  "lastUpdated": "2025-11-07T16:27:54.004712+00:00Z",
   "stats": {
-    "totalDirectories": 1675,
+    "totalDirectories": 1676,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1675.0,
-    "totalListings": 15779,
-    "aiEnhancedDirectories": 1674
+    "avgDirectoriesPerRepo": 1676.0,
+    "totalListings": 15789,
+    "aiEnhancedDirectories": 1675
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21782,12 +21782,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-wedding-design-services-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:27:54.004712+00:00Z",
+      "lastUpdated": "2025-11-07T16:27:54.004712+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1675,
+      "directoryCount": 1676,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

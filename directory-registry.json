@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:32:16.874910+00:00Z",
+  "lastUpdated": "2025-11-07T06:32:31.812856+00:00Z",
   "stats": {
-    "totalDirectories": 866,
+    "totalDirectories": 867,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 866.0,
-    "totalListings": 8280,
-    "aiEnhancedDirectories": 866
+    "avgDirectoriesPerRepo": 867.0,
+    "totalListings": 8287,
+    "aiEnhancedDirectories": 867
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11266,12 +11266,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-design-system-creation-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:32:31.812856+00:00Z",
+      "lastUpdated": "2025-11-07T06:32:31.812856+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 866,
+      "directoryCount": 867,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

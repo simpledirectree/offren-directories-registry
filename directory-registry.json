@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:09:50.710935+00:00Z",
+  "lastUpdated": "2025-11-07T07:10:08.606047+00:00Z",
   "stats": {
-    "totalDirectories": 997,
+    "totalDirectories": 998,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 997.0,
-    "totalListings": 9520,
-    "aiEnhancedDirectories": 997
+    "avgDirectoriesPerRepo": 998.0,
+    "totalListings": 9530,
+    "aiEnhancedDirectories": 998
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12969,12 +12969,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-medicaid-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:10:08.606047+00:00Z",
+      "lastUpdated": "2025-11-07T07:10:08.606047+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 997,
+      "directoryCount": 998,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

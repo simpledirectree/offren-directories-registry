@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:41:01.323234+00:00Z",
+  "lastUpdated": "2025-11-07T15:41:18.052760+00:00Z",
   "stats": {
-    "totalDirectories": 1634,
+    "totalDirectories": 1635,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1634.0,
-    "totalListings": 15398,
-    "aiEnhancedDirectories": 1633
+    "avgDirectoriesPerRepo": 1635.0,
+    "totalListings": 15408,
+    "aiEnhancedDirectories": 1634
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21249,12 +21249,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-quickbooks-setup-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:41:18.052760+00:00Z",
+      "lastUpdated": "2025-11-07T15:41:18.052760+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1634,
+      "directoryCount": 1635,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:17:25.452436+00:00Z",
+  "lastUpdated": "2025-11-07T22:19:43.598916+00:00Z",
   "stats": {
-    "totalDirectories": 2038,
+    "totalDirectories": 2039,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2038.0,
-    "totalListings": 19144,
-    "aiEnhancedDirectories": 2037
+    "avgDirectoriesPerRepo": 2039.0,
+    "totalListings": 19151,
+    "aiEnhancedDirectories": 2038
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26501,12 +26501,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-plated-catering-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:19:43.598916+00:00Z",
+      "lastUpdated": "2025-11-07T22:19:43.598916+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2038,
+      "directoryCount": 2039,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

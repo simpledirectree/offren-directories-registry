@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:43:07.977521+00:00Z",
+  "lastUpdated": "2025-11-07T07:43:25.761202+00:00Z",
   "stats": {
-    "totalDirectories": 1114,
+    "totalDirectories": 1115,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1114.0,
-    "totalListings": 10642,
-    "aiEnhancedDirectories": 1113
+    "avgDirectoriesPerRepo": 1115.0,
+    "totalListings": 10652,
+    "aiEnhancedDirectories": 1114
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14489,12 +14489,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-transmission-replacement-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:43:25.761202+00:00Z",
+      "lastUpdated": "2025-11-07T07:43:25.761202+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1114,
+      "directoryCount": 1115,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

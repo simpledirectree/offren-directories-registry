@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:18:29.157969+00:00Z",
+  "lastUpdated": "2025-11-07T06:18:46.236493+00:00Z",
   "stats": {
-    "totalDirectories": 820,
+    "totalDirectories": 821,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 820.0,
-    "totalListings": 7849,
-    "aiEnhancedDirectories": 820
+    "avgDirectoriesPerRepo": 821.0,
+    "totalListings": 7859,
+    "aiEnhancedDirectories": 821
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10668,12 +10668,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-aerialists-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:18:46.236493+00:00Z",
+      "lastUpdated": "2025-11-07T06:18:46.236493+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 820,
+      "directoryCount": 821,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

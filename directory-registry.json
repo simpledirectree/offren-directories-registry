@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:14:33.672615+00:00Z",
+  "lastUpdated": "2025-11-07T06:14:51.827043+00:00Z",
   "stats": {
-    "totalDirectories": 806,
+    "totalDirectories": 807,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 806.0,
-    "totalListings": 7718,
-    "aiEnhancedDirectories": 806
+    "avgDirectoriesPerRepo": 807.0,
+    "totalListings": 7728,
+    "aiEnhancedDirectories": 807
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10486,12 +10486,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-catering-companies-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:14:51.827043+00:00Z",
+      "lastUpdated": "2025-11-07T06:14:51.827043+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 806,
+      "directoryCount": 807,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

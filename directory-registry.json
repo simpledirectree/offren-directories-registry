@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:50:40.474862+00:00Z",
+  "lastUpdated": "2025-11-07T02:50:51.803994+00:00Z",
   "stats": {
-    "totalDirectories": 216,
+    "totalDirectories": 217,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 216.0,
-    "totalListings": 1993,
-    "aiEnhancedDirectories": 216
+    "avgDirectoriesPerRepo": 217.0,
+    "totalListings": 1994,
+    "aiEnhancedDirectories": 217
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2816,12 +2816,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-technical-training-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:50:51.803994+00:00Z",
+      "lastUpdated": "2025-11-07T02:50:51.803994+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 216,
+      "directoryCount": 217,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

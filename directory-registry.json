@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:19:58.718511+00:00Z",
+  "lastUpdated": "2025-11-07T19:20:15.885480+00:00Z",
   "stats": {
-    "totalDirectories": 1859,
+    "totalDirectories": 1860,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1859.0,
-    "totalListings": 17468,
-    "aiEnhancedDirectories": 1858
+    "avgDirectoriesPerRepo": 1860.0,
+    "totalListings": 17478,
+    "aiEnhancedDirectories": 1859
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24174,12 +24174,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-construction-labor-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:20:15.885480+00:00Z",
+      "lastUpdated": "2025-11-07T19:20:15.885480+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1859,
+      "directoryCount": 1860,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:12:27.973493+00:00Z",
+  "lastUpdated": "2025-11-07T17:12:43.334435+00:00Z",
   "stats": {
-    "totalDirectories": 1722,
+    "totalDirectories": 1723,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1722.0,
-    "totalListings": 16215,
-    "aiEnhancedDirectories": 1721
+    "avgDirectoriesPerRepo": 1723.0,
+    "totalListings": 16223,
+    "aiEnhancedDirectories": 1722
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22393,12 +22393,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-computer-setup-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:12:43.334435+00:00Z",
+      "lastUpdated": "2025-11-07T17:12:43.334435+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1722,
+      "directoryCount": 1723,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

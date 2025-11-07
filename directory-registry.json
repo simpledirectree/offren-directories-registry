@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:08:02.423463+00:00Z",
+  "lastUpdated": "2025-11-07T07:08:17.887731+00:00Z",
   "stats": {
-    "totalDirectories": 990,
+    "totalDirectories": 991,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 990.0,
-    "totalListings": 9465,
-    "aiEnhancedDirectories": 990
+    "avgDirectoriesPerRepo": 991.0,
+    "totalListings": 9475,
+    "aiEnhancedDirectories": 991
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12878,12 +12878,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-body-contouring-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:08:17.887731+00:00Z",
+      "lastUpdated": "2025-11-07T07:08:17.887731+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 990,
+      "directoryCount": 991,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

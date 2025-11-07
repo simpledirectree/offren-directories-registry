@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:01:11.041553+00:00Z",
+  "lastUpdated": "2025-11-07T23:01:24.228228+00:00Z",
   "stats": {
-    "totalDirectories": 2082,
+    "totalDirectories": 2083,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2082.0,
-    "totalListings": 19547,
-    "aiEnhancedDirectories": 2081
+    "avgDirectoriesPerRepo": 2083.0,
+    "totalListings": 19548,
+    "aiEnhancedDirectories": 2082
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27073,12 +27073,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-sculpture-instruction-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:01:24.228228+00:00Z",
+      "lastUpdated": "2025-11-07T23:01:24.228228+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2082,
+      "directoryCount": 2083,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

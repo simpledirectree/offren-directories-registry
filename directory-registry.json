@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:07:54.713211+00:00Z",
+  "lastUpdated": "2025-11-07T06:08:09.361515+00:00Z",
   "stats": {
-    "totalDirectories": 782,
+    "totalDirectories": 783,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 782.0,
-    "totalListings": 7479,
-    "aiEnhancedDirectories": 782
+    "avgDirectoriesPerRepo": 783.0,
+    "totalListings": 7489,
+    "aiEnhancedDirectories": 783
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10174,12 +10174,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-trade-show-support-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:08:09.361515+00:00Z",
+      "lastUpdated": "2025-11-07T06:08:09.361515+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 782,
+      "directoryCount": 783,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

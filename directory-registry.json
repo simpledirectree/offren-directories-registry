@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:46:33.134129+00:00Z",
+  "lastUpdated": "2025-11-07T04:46:51.575350+00:00Z",
   "stats": {
-    "totalDirectories": 493,
+    "totalDirectories": 494,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 493.0,
-    "totalListings": 4656,
-    "aiEnhancedDirectories": 493
+    "avgDirectoriesPerRepo": 494.0,
+    "totalListings": 4666,
+    "aiEnhancedDirectories": 494
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6417,12 +6417,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-learning-management-systems-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:46:51.575350+00:00Z",
+      "lastUpdated": "2025-11-07T04:46:51.575350+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 493,
+      "directoryCount": 494,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

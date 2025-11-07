@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:20:56.009789+00:00Z",
+  "lastUpdated": "2025-11-07T08:22:47.863819+00:00Z",
   "stats": {
-    "totalDirectories": 1178,
+    "totalDirectories": 1179,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1178.0,
-    "totalListings": 11242,
-    "aiEnhancedDirectories": 1177
+    "avgDirectoriesPerRepo": 1179.0,
+    "totalListings": 11247,
+    "aiEnhancedDirectories": 1178
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15321,12 +15321,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-fine-dining-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:22:47.863819+00:00Z",
+      "lastUpdated": "2025-11-07T08:22:47.863819+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1178,
+      "directoryCount": 1179,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

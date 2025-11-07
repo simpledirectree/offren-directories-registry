@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:42:30.379998+00:00Z",
+  "lastUpdated": "2025-11-07T03:43:11.266529+00:00Z",
   "stats": {
-    "totalDirectories": 272,
+    "totalDirectories": 273,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 272.0,
-    "totalListings": 2513,
-    "aiEnhancedDirectories": 272
+    "avgDirectoriesPerRepo": 273.0,
+    "totalListings": 2523,
+    "aiEnhancedDirectories": 273
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3544,12 +3544,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-group-fitness-classes-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:43:11.266529+00:00Z",
+      "lastUpdated": "2025-11-07T03:43:11.266529+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 272,
+      "directoryCount": 273,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

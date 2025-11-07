@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:19:26.819560+00:00Z",
+  "lastUpdated": "2025-11-07T07:19:41.553024+00:00Z",
   "stats": {
-    "totalDirectories": 1029,
+    "totalDirectories": 1030,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1029.0,
-    "totalListings": 9831,
-    "aiEnhancedDirectories": 1028
+    "avgDirectoriesPerRepo": 1030.0,
+    "totalListings": 9841,
+    "aiEnhancedDirectories": 1029
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13384,12 +13384,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-bookkeepers-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:19:41.553024+00:00Z",
+      "lastUpdated": "2025-11-07T07:19:41.553024+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1029,
+      "directoryCount": 1030,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

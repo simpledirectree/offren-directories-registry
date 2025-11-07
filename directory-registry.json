@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:00:27.448541+00:00Z",
+  "lastUpdated": "2025-11-07T01:00:40.933726+00:00Z",
   "stats": {
-    "totalDirectories": 118,
+    "totalDirectories": 119,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 118.0,
-    "totalListings": 1096,
-    "aiEnhancedDirectories": 118
+    "avgDirectoriesPerRepo": 119.0,
+    "totalListings": 1103,
+    "aiEnhancedDirectories": 119
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1542,12 +1542,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-athletic-conditioning-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:00:40.933726+00:00Z",
+      "lastUpdated": "2025-11-07T01:00:40.933726+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 118,
+      "directoryCount": 119,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

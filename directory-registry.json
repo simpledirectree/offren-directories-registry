@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:24:11.021280+00:00Z",
+  "lastUpdated": "2025-11-07T05:24:30.312291+00:00Z",
   "stats": {
-    "totalDirectories": 628,
+    "totalDirectories": 629,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 628.0,
-    "totalListings": 5974,
-    "aiEnhancedDirectories": 628
+    "avgDirectoriesPerRepo": 629.0,
+    "totalListings": 5984,
+    "aiEnhancedDirectories": 629
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8172,12 +8172,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-therapeutic-gardening-programs-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:24:30.312291+00:00Z",
+      "lastUpdated": "2025-11-07T05:24:30.312291+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 628,
+      "directoryCount": 629,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

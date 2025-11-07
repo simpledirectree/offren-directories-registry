@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:27:27.782823+00:00Z",
+  "lastUpdated": "2025-11-07T05:27:44.814085+00:00Z",
   "stats": {
-    "totalDirectories": 640,
+    "totalDirectories": 641,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 640.0,
-    "totalListings": 6094,
-    "aiEnhancedDirectories": 640
+    "avgDirectoriesPerRepo": 641.0,
+    "totalListings": 6104,
+    "aiEnhancedDirectories": 641
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8328,12 +8328,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-commercial-landscaping-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:27:44.814085+00:00Z",
+      "lastUpdated": "2025-11-07T05:27:44.814085+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 640,
+      "directoryCount": 641,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

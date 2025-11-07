@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:02:44.861916+00:00Z",
+  "lastUpdated": "2025-11-07T20:08:50.006514+00:00Z",
   "stats": {
-    "totalDirectories": 1899,
+    "totalDirectories": 1900,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1899.0,
-    "totalListings": 17838,
-    "aiEnhancedDirectories": 1898
+    "avgDirectoriesPerRepo": 1900.0,
+    "totalListings": 17848,
+    "aiEnhancedDirectories": 1899
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24694,12 +24694,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-decks-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:08:50.006514+00:00Z",
+      "lastUpdated": "2025-11-07T20:08:50.006514+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1899,
+      "directoryCount": 1900,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

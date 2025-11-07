@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:39:08.999587+00:00Z",
+  "lastUpdated": "2025-11-07T06:39:28.278069+00:00Z",
   "stats": {
-    "totalDirectories": 890,
+    "totalDirectories": 891,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 890.0,
-    "totalListings": 8501,
-    "aiEnhancedDirectories": 890
+    "avgDirectoriesPerRepo": 891.0,
+    "totalListings": 8511,
+    "aiEnhancedDirectories": 891
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11578,12 +11578,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-diversity-training-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:39:28.278069+00:00Z",
+      "lastUpdated": "2025-11-07T06:39:28.278069+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 890,
+      "directoryCount": 891,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

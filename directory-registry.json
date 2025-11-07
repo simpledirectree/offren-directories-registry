@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:42:10.697784+00:00Z",
+  "lastUpdated": "2025-11-07T10:43:14.361018+00:00Z",
   "stats": {
-    "totalDirectories": 1331,
+    "totalDirectories": 1332,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1331.0,
-    "totalListings": 12627,
-    "aiEnhancedDirectories": 1330
+    "avgDirectoriesPerRepo": 1332.0,
+    "totalListings": 12637,
+    "aiEnhancedDirectories": 1331
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17310,12 +17310,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-emergency-veterinary-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:43:14.361018+00:00Z",
+      "lastUpdated": "2025-11-07T10:43:14.361018+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1331,
+      "directoryCount": 1332,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T14:40:12.695293+00:00Z",
+  "lastUpdated": "2025-11-07T14:41:17.957030+00:00Z",
   "stats": {
-    "totalDirectories": 1563,
+    "totalDirectories": 1564,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1563.0,
-    "totalListings": 14736,
-    "aiEnhancedDirectories": 1562
+    "avgDirectoriesPerRepo": 1564.0,
+    "totalListings": 14746,
+    "aiEnhancedDirectories": 1563
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20326,12 +20326,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-quickbooks-setup-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T14:41:17.957030+00:00Z",
+      "lastUpdated": "2025-11-07T14:41:17.957030+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1563,
+      "directoryCount": 1564,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

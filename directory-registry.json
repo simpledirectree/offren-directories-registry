@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:44:52.563709+00:00Z",
+  "lastUpdated": "2025-11-07T08:48:47.430105+00:00Z",
   "stats": {
-    "totalDirectories": 1202,
+    "totalDirectories": 1203,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1202.0,
-    "totalListings": 11456,
-    "aiEnhancedDirectories": 1201
+    "avgDirectoriesPerRepo": 1203.0,
+    "totalListings": 11461,
+    "aiEnhancedDirectories": 1202
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15633,12 +15633,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-infrastructure-optimization-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:48:47.430105+00:00Z",
+      "lastUpdated": "2025-11-07T08:48:47.430105+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1202,
+      "directoryCount": 1203,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

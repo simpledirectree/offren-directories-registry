@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:59:33.207199+00:00Z",
+  "lastUpdated": "2025-11-07T04:59:50.093585+00:00Z",
   "stats": {
-    "totalDirectories": 539,
+    "totalDirectories": 540,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 539.0,
-    "totalListings": 5116,
-    "aiEnhancedDirectories": 539
+    "avgDirectoriesPerRepo": 540.0,
+    "totalListings": 5126,
+    "aiEnhancedDirectories": 540
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7015,12 +7015,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-furniture-disassembly-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:59:50.093585+00:00Z",
+      "lastUpdated": "2025-11-07T04:59:50.093585+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 539,
+      "directoryCount": 540,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

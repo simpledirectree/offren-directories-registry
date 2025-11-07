@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:51:34.826319+00:00Z",
+  "lastUpdated": "2025-11-07T10:52:14.822091+00:00Z",
   "stats": {
-    "totalDirectories": 1338,
+    "totalDirectories": 1339,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1338.0,
-    "totalListings": 12687,
-    "aiEnhancedDirectories": 1337
+    "avgDirectoriesPerRepo": 1339.0,
+    "totalListings": 12697,
+    "aiEnhancedDirectories": 1338
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17401,12 +17401,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-general-house-cleaning-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:52:14.822091+00:00Z",
+      "lastUpdated": "2025-11-07T10:52:14.822091+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1338,
+      "directoryCount": 1339,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

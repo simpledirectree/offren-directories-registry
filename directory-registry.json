@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:08:13.197658+00:00Z",
+  "lastUpdated": "2025-11-07T17:10:34.602870+00:00Z",
   "stats": {
-    "totalDirectories": 1717,
+    "totalDirectories": 1718,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1717.0,
-    "totalListings": 16165,
-    "aiEnhancedDirectories": 1716
+    "avgDirectoriesPerRepo": 1718.0,
+    "totalListings": 16175,
+    "aiEnhancedDirectories": 1717
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22328,12 +22328,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-cosmetic-dentistry-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:10:34.602870+00:00Z",
+      "lastUpdated": "2025-11-07T17:10:34.602870+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1717,
+      "directoryCount": 1718,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

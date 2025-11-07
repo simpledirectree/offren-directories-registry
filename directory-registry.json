@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:23:29.067352+00:00Z",
+  "lastUpdated": "2025-11-07T00:23:42.759394+00:00Z",
   "stats": {
-    "totalDirectories": 71,
+    "totalDirectories": 72,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 71.0,
-    "totalListings": 661,
-    "aiEnhancedDirectories": 71
+    "avgDirectoriesPerRepo": 72.0,
+    "totalListings": 671,
+    "aiEnhancedDirectories": 72
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -931,12 +931,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-sculpture-instruction-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:23:42.759394+00:00Z",
+      "lastUpdated": "2025-11-07T00:23:42.759394+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 71,
+      "directoryCount": 72,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

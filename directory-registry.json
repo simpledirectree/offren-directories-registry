@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:01:02.124139+00:00Z",
+  "lastUpdated": "2025-11-07T10:01:42.934585+00:00Z",
   "stats": {
-    "totalDirectories": 1283,
+    "totalDirectories": 1284,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1283.0,
-    "totalListings": 12190,
-    "aiEnhancedDirectories": 1282
+    "avgDirectoriesPerRepo": 1284.0,
+    "totalListings": 12200,
+    "aiEnhancedDirectories": 1283
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16686,12 +16686,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-babysitting-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:01:42.934585+00:00Z",
+      "lastUpdated": "2025-11-07T10:01:42.934585+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1283,
+      "directoryCount": 1284,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

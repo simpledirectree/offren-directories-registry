@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:12:41.990752+00:00Z",
+  "lastUpdated": "2025-11-07T08:14:36.146622+00:00Z",
   "stats": {
-    "totalDirectories": 1165,
+    "totalDirectories": 1166,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1165.0,
-    "totalListings": 11133,
-    "aiEnhancedDirectories": 1164
+    "avgDirectoriesPerRepo": 1166.0,
+    "totalListings": 11143,
+    "aiEnhancedDirectories": 1165
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15152,12 +15152,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-harvest-services-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:14:36.146622+00:00Z",
+      "lastUpdated": "2025-11-07T08:14:36.146622+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1165,
+      "directoryCount": 1166,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

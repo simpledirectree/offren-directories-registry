@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:27:42.887777+00:00Z",
+  "lastUpdated": "2025-11-07T10:28:04.886327+00:00Z",
   "stats": {
-    "totalDirectories": 1320,
+    "totalDirectories": 1321,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1320.0,
-    "totalListings": 12525,
-    "aiEnhancedDirectories": 1319
+    "avgDirectoriesPerRepo": 1321.0,
+    "totalListings": 12535,
+    "aiEnhancedDirectories": 1320
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17167,12 +17167,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-violin-lessons-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:28:04.886327+00:00Z",
+      "lastUpdated": "2025-11-07T10:28:04.886327+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1320,
+      "directoryCount": 1321,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

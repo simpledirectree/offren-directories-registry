@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:24:35.526356+00:00Z",
+  "lastUpdated": "2025-11-07T20:26:31.474899+00:00Z",
   "stats": {
-    "totalDirectories": 1917,
+    "totalDirectories": 1918,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1917.0,
-    "totalListings": 18013,
-    "aiEnhancedDirectories": 1916
+    "avgDirectoriesPerRepo": 1918.0,
+    "totalListings": 18023,
+    "aiEnhancedDirectories": 1917
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24928,12 +24928,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-car-audio-installation-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:26:31.474899+00:00Z",
+      "lastUpdated": "2025-11-07T20:26:31.474899+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1917,
+      "directoryCount": 1918,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

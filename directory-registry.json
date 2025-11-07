@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:04:17.306030+00:00Z",
+  "lastUpdated": "2025-11-07T04:04:32.413638+00:00Z",
   "stats": {
-    "totalDirectories": 345,
+    "totalDirectories": 346,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 345.0,
-    "totalListings": 3231,
-    "aiEnhancedDirectories": 345
+    "avgDirectoriesPerRepo": 346.0,
+    "totalListings": 3241,
+    "aiEnhancedDirectories": 346
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4493,12 +4493,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-banking-relationship-management-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:04:32.413638+00:00Z",
+      "lastUpdated": "2025-11-07T04:04:32.413638+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 345,
+      "directoryCount": 346,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:11:58.504365+00:00Z",
+  "lastUpdated": "2025-11-07T22:13:04.412696+00:00Z",
   "stats": {
-    "totalDirectories": 2031,
+    "totalDirectories": 2032,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2031.0,
-    "totalListings": 19085,
-    "aiEnhancedDirectories": 2030
+    "avgDirectoriesPerRepo": 2032.0,
+    "totalListings": 19095,
+    "aiEnhancedDirectories": 2031
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26410,12 +26410,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-flooring-installation-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:13:04.412696+00:00Z",
+      "lastUpdated": "2025-11-07T22:13:04.412696+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2031,
+      "directoryCount": 2032,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

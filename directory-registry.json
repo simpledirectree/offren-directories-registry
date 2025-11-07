@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:50:41.442156+00:00Z",
+  "lastUpdated": "2025-11-07T06:50:55.993606+00:00Z",
   "stats": {
-    "totalDirectories": 930,
+    "totalDirectories": 931,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 930.0,
-    "totalListings": 8885,
-    "aiEnhancedDirectories": 930
+    "avgDirectoriesPerRepo": 931.0,
+    "totalListings": 8895,
+    "aiEnhancedDirectories": 931
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12098,12 +12098,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-home-inspection-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:50:55.993606+00:00Z",
+      "lastUpdated": "2025-11-07T06:50:55.993606+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 930,
+      "directoryCount": 931,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

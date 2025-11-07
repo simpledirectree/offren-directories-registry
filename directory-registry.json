@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:43:51.371195+00:00Z",
+  "lastUpdated": "2025-11-07T15:44:07.527798+00:00Z",
   "stats": {
-    "totalDirectories": 1638,
+    "totalDirectories": 1639,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1638.0,
-    "totalListings": 15436,
-    "aiEnhancedDirectories": 1637
+    "avgDirectoriesPerRepo": 1639.0,
+    "totalListings": 15444,
+    "aiEnhancedDirectories": 1638
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21301,12 +21301,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-market-analysis-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:44:07.527798+00:00Z",
+      "lastUpdated": "2025-11-07T15:44:07.527798+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1638,
+      "directoryCount": 1639,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

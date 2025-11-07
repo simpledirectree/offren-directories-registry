@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:30:22.087103+00:00Z",
+  "lastUpdated": "2025-11-07T23:32:18.431841+00:00Z",
   "stats": {
-    "totalDirectories": 2116,
+    "totalDirectories": 2117,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2116.0,
-    "totalListings": 19828,
-    "aiEnhancedDirectories": 2115
+    "avgDirectoriesPerRepo": 2117.0,
+    "totalListings": 19835,
+    "aiEnhancedDirectories": 2116
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27515,12 +27515,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-permanent-staffing-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:32:18.431841+00:00Z",
+      "lastUpdated": "2025-11-07T23:32:18.431841+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2116,
+      "directoryCount": 2117,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

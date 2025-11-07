@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:33:53.496362+00:00Z",
+  "lastUpdated": "2025-11-07T22:34:08.276436+00:00Z",
   "stats": {
-    "totalDirectories": 2052,
+    "totalDirectories": 2053,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2052.0,
-    "totalListings": 19276,
-    "aiEnhancedDirectories": 2051
+    "avgDirectoriesPerRepo": 2053.0,
+    "totalListings": 19286,
+    "aiEnhancedDirectories": 2052
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26683,12 +26683,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-solar-panel-installation-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:34:08.276436+00:00Z",
+      "lastUpdated": "2025-11-07T22:34:08.276436+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2052,
+      "directoryCount": 2053,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

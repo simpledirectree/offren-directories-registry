@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:07:56.908974+00:00Z",
+  "lastUpdated": "2025-11-07T23:08:11.875575+00:00Z",
   "stats": {
-    "totalDirectories": 2090,
+    "totalDirectories": 2091,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2090.0,
-    "totalListings": 19597,
-    "aiEnhancedDirectories": 2089
+    "avgDirectoriesPerRepo": 2091.0,
+    "totalListings": 19607,
+    "aiEnhancedDirectories": 2090
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27177,12 +27177,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-door-repair-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:08:11.875575+00:00Z",
+      "lastUpdated": "2025-11-07T23:08:11.875575+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2090,
+      "directoryCount": 2091,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

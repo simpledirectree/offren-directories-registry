@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T21:35:48.836207+00:00Z",
+  "lastUpdated": "2025-11-07T21:36:36.703630+00:00Z",
   "stats": {
-    "totalDirectories": 1993,
+    "totalDirectories": 1994,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1993.0,
-    "totalListings": 18713,
-    "aiEnhancedDirectories": 1992
+    "avgDirectoriesPerRepo": 1994.0,
+    "totalListings": 18721,
+    "aiEnhancedDirectories": 1993
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25916,12 +25916,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-framing-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T21:36:36.703630+00:00Z",
+      "lastUpdated": "2025-11-07T21:36:36.703630+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1993,
+      "directoryCount": 1994,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

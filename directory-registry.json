@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:13:42.214352+00:00Z",
+  "lastUpdated": "2025-11-07T06:13:58.476411+00:00Z",
   "stats": {
-    "totalDirectories": 803,
+    "totalDirectories": 804,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 803.0,
-    "totalListings": 7688,
-    "aiEnhancedDirectories": 803
+    "avgDirectoriesPerRepo": 804.0,
+    "totalListings": 7698,
+    "aiEnhancedDirectories": 804
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10447,12 +10447,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-specialty-event-services-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:13:58.476411+00:00Z",
+      "lastUpdated": "2025-11-07T06:13:58.476411+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 803,
+      "directoryCount": 804,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

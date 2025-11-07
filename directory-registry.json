@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:24:36.531876+00:00Z",
+  "lastUpdated": "2025-11-07T07:24:53.460568+00:00Z",
   "stats": {
-    "totalDirectories": 1048,
+    "totalDirectories": 1049,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1048.0,
-    "totalListings": 10016,
-    "aiEnhancedDirectories": 1047
+    "avgDirectoriesPerRepo": 1049.0,
+    "totalListings": 10026,
+    "aiEnhancedDirectories": 1048
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13631,12 +13631,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-office-relocation-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:24:53.460568+00:00Z",
+      "lastUpdated": "2025-11-07T07:24:53.460568+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1048,
+      "directoryCount": 1049,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

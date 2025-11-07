@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:41:13.919134+00:00Z",
+  "lastUpdated": "2025-11-07T07:41:26.935075+00:00Z",
   "stats": {
-    "totalDirectories": 1107,
+    "totalDirectories": 1108,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1107.0,
-    "totalListings": 10582,
-    "aiEnhancedDirectories": 1106
+    "avgDirectoriesPerRepo": 1108.0,
+    "totalListings": 10583,
+    "aiEnhancedDirectories": 1107
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14398,12 +14398,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-snow-removal-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:41:26.935075+00:00Z",
+      "lastUpdated": "2025-11-07T07:41:26.935075+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1107,
+      "directoryCount": 1108,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

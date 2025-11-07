@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:04:37.403425+00:00Z",
+  "lastUpdated": "2025-11-07T06:04:53.089864+00:00Z",
   "stats": {
-    "totalDirectories": 770,
+    "totalDirectories": 771,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 770.0,
-    "totalListings": 7361,
-    "aiEnhancedDirectories": 770
+    "avgDirectoriesPerRepo": 771.0,
+    "totalListings": 7371,
+    "aiEnhancedDirectories": 771
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10018,12 +10018,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-professional-development-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:04:53.089864+00:00Z",
+      "lastUpdated": "2025-11-07T06:04:53.089864+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 770,
+      "directoryCount": 771,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

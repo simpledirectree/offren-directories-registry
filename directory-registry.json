@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T13:33:01.179062+00:00Z",
+  "lastUpdated": "2025-11-07T13:33:18.067683+00:00Z",
   "stats": {
-    "totalDirectories": 1499,
+    "totalDirectories": 1500,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1499.0,
-    "totalListings": 14144,
-    "aiEnhancedDirectories": 1498
+    "avgDirectoriesPerRepo": 1500.0,
+    "totalListings": 14153,
+    "aiEnhancedDirectories": 1499
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19494,12 +19494,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-emergency-roof-repairs-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:33:18.067683+00:00Z",
+      "lastUpdated": "2025-11-07T13:33:18.067683+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1499,
+      "directoryCount": 1500,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

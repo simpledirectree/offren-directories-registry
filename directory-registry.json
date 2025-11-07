@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:52:14.822091+00:00Z",
+  "lastUpdated": "2025-11-07T10:52:55.331835+00:00Z",
   "stats": {
-    "totalDirectories": 1339,
+    "totalDirectories": 1340,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1339.0,
-    "totalListings": 12697,
-    "aiEnhancedDirectories": 1338
+    "avgDirectoriesPerRepo": 1340.0,
+    "totalListings": 12707,
+    "aiEnhancedDirectories": 1339
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17414,12 +17414,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-succession-planning-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:52:55.331835+00:00Z",
+      "lastUpdated": "2025-11-07T10:52:55.331835+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1339,
+      "directoryCount": 1340,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:01:24.228228+00:00Z",
+  "lastUpdated": "2025-11-07T23:02:03.073322+00:00Z",
   "stats": {
-    "totalDirectories": 2083,
+    "totalDirectories": 2084,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2083.0,
-    "totalListings": 19548,
-    "aiEnhancedDirectories": 2082
+    "avgDirectoriesPerRepo": 2084.0,
+    "totalListings": 19558,
+    "aiEnhancedDirectories": 2083
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27086,12 +27086,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-men-s-grooming-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:02:03.073322+00:00Z",
+      "lastUpdated": "2025-11-07T23:02:03.073322+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2083,
+      "directoryCount": 2084,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:11:05.141068+00:00Z",
+  "lastUpdated": "2025-11-07T19:12:12.087421+00:00Z",
   "stats": {
-    "totalDirectories": 1842,
+    "totalDirectories": 1843,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1842.0,
-    "totalListings": 17320,
-    "aiEnhancedDirectories": 1841
+    "avgDirectoriesPerRepo": 1843.0,
+    "totalListings": 17330,
+    "aiEnhancedDirectories": 1842
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23953,12 +23953,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-event-friendly-venues-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:12:12.087421+00:00Z",
+      "lastUpdated": "2025-11-07T19:12:12.087421+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1842,
+      "directoryCount": 1843,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

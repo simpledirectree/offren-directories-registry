@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:53:41.951518+00:00Z",
+  "lastUpdated": "2025-11-07T12:55:01.598338+00:00Z",
   "stats": {
-    "totalDirectories": 1460,
+    "totalDirectories": 1461,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1460.0,
-    "totalListings": 13794,
-    "aiEnhancedDirectories": 1459
+    "avgDirectoriesPerRepo": 1461.0,
+    "totalListings": 13796,
+    "aiEnhancedDirectories": 1460
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18987,12 +18987,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-breweries-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:55:01.598338+00:00Z",
+      "lastUpdated": "2025-11-07T12:55:01.598338+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1460,
+      "directoryCount": 1461,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

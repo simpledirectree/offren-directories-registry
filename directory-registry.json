@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:42:16.279006+00:00Z",
+  "lastUpdated": "2025-11-07T09:42:56.238405+00:00Z",
   "stats": {
-    "totalDirectories": 1260,
+    "totalDirectories": 1261,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1260.0,
-    "totalListings": 11973,
-    "aiEnhancedDirectories": 1259
+    "avgDirectoriesPerRepo": 1261.0,
+    "totalListings": 11983,
+    "aiEnhancedDirectories": 1260
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16387,12 +16387,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-specialty-veterinary-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:42:56.238405+00:00Z",
+      "lastUpdated": "2025-11-07T09:42:56.238405+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1260,
+      "directoryCount": 1261,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

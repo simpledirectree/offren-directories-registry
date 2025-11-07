@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:25:01.008674+00:00Z",
+  "lastUpdated": "2025-11-07T00:25:16.099207+00:00Z",
   "stats": {
-    "totalDirectories": 74,
+    "totalDirectories": 75,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 74.0,
-    "totalListings": 691,
-    "aiEnhancedDirectories": 74
+    "avgDirectoriesPerRepo": 75.0,
+    "totalListings": 701,
+    "aiEnhancedDirectories": 75
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -970,12 +970,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-record-keeping-systems-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:25:16.099207+00:00Z",
+      "lastUpdated": "2025-11-07T00:25:16.099207+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 74,
+      "directoryCount": 75,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

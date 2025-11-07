@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:32:40.834690+00:00Z",
+  "lastUpdated": "2025-11-07T19:33:46.669488+00:00Z",
   "stats": {
-    "totalDirectories": 1873,
+    "totalDirectories": 1874,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1873.0,
-    "totalListings": 17604,
-    "aiEnhancedDirectories": 1872
+    "avgDirectoriesPerRepo": 1874.0,
+    "totalListings": 17614,
+    "aiEnhancedDirectories": 1873
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24356,12 +24356,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-motion-graphics-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:33:46.669488+00:00Z",
+      "lastUpdated": "2025-11-07T19:33:46.669488+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1873,
+      "directoryCount": 1874,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

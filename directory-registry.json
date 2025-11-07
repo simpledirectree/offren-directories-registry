@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:47:09.698774+00:00Z",
+  "lastUpdated": "2025-11-07T05:47:24.627769+00:00Z",
   "stats": {
-    "totalDirectories": 708,
+    "totalDirectories": 709,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 708.0,
-    "totalListings": 6764,
-    "aiEnhancedDirectories": 708
+    "avgDirectoriesPerRepo": 709.0,
+    "totalListings": 6774,
+    "aiEnhancedDirectories": 709
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9212,12 +9212,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-load-balancing-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:47:24.627769+00:00Z",
+      "lastUpdated": "2025-11-07T05:47:24.627769+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 708,
+      "directoryCount": 709,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

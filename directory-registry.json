@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:29:07.203235+00:00Z",
+  "lastUpdated": "2025-11-07T07:29:25.492693+00:00Z",
   "stats": {
-    "totalDirectories": 1064,
+    "totalDirectories": 1065,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1064.0,
-    "totalListings": 10167,
-    "aiEnhancedDirectories": 1063
+    "avgDirectoriesPerRepo": 1065.0,
+    "totalListings": 10177,
+    "aiEnhancedDirectories": 1064
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13839,12 +13839,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-math-tutoring-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:29:25.492693+00:00Z",
+      "lastUpdated": "2025-11-07T07:29:25.492693+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1064,
+      "directoryCount": 1065,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

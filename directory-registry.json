@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:01:24.358898+00:00Z",
+  "lastUpdated": "2025-11-07T07:01:43.996375+00:00Z",
   "stats": {
-    "totalDirectories": 968,
+    "totalDirectories": 969,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 968.0,
-    "totalListings": 9249,
-    "aiEnhancedDirectories": 968
+    "avgDirectoriesPerRepo": 969.0,
+    "totalListings": 9259,
+    "aiEnhancedDirectories": 969
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12592,12 +12592,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-livestock-management-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:01:43.996375+00:00Z",
+      "lastUpdated": "2025-11-07T07:01:43.996375+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 968,
+      "directoryCount": 969,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

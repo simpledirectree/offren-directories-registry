@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:18:20.432400+00:00Z",
+  "lastUpdated": "2025-11-07T16:19:05.438474+00:00Z",
   "stats": {
-    "totalDirectories": 1668,
+    "totalDirectories": 1669,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1668.0,
-    "totalListings": 15714,
-    "aiEnhancedDirectories": 1667
+    "avgDirectoriesPerRepo": 1669.0,
+    "totalListings": 15719,
+    "aiEnhancedDirectories": 1668
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21691,12 +21691,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-body-contouring-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:19:05.438474+00:00Z",
+      "lastUpdated": "2025-11-07T16:19:05.438474+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1668,
+      "directoryCount": 1669,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

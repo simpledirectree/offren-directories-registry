@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:00:06.827124+00:00Z",
+  "lastUpdated": "2025-11-07T05:00:25.068326+00:00Z",
   "stats": {
-    "totalDirectories": 541,
+    "totalDirectories": 542,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 541.0,
-    "totalListings": 5136,
-    "aiEnhancedDirectories": 541
+    "avgDirectoriesPerRepo": 542.0,
+    "totalListings": 5146,
+    "aiEnhancedDirectories": 542
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7041,12 +7041,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-restructuring-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:00:25.068326+00:00Z",
+      "lastUpdated": "2025-11-07T05:00:25.068326+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 541,
+      "directoryCount": 542,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

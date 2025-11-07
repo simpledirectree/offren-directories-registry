@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:59:51.359238+00:00Z",
+  "lastUpdated": "2025-11-07T13:00:04.160365+00:00Z",
   "stats": {
-    "totalDirectories": 1465,
+    "totalDirectories": 1466,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1465.0,
-    "totalListings": 13836,
-    "aiEnhancedDirectories": 1464
+    "avgDirectoriesPerRepo": 1466.0,
+    "totalListings": 13839,
+    "aiEnhancedDirectories": 1465
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19052,12 +19052,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-financial-services-consulting-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:00:04.160365+00:00Z",
+      "lastUpdated": "2025-11-07T13:00:04.160365+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1465,
+      "directoryCount": 1466,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

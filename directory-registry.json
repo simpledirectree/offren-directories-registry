@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:08:03.746237+00:00Z",
+  "lastUpdated": "2025-11-07T01:09:34.091661+00:00Z",
   "stats": {
-    "totalDirectories": 130,
+    "totalDirectories": 131,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 130.0,
-    "totalListings": 1207,
-    "aiEnhancedDirectories": 130
+    "avgDirectoriesPerRepo": 131.0,
+    "totalListings": 1217,
+    "aiEnhancedDirectories": 131
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1698,12 +1698,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-disease-management-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:09:34.091661+00:00Z",
+      "lastUpdated": "2025-11-07T01:09:34.091661+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 130,
+      "directoryCount": 131,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

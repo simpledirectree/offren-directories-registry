@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:09:00.665992+00:00Z",
+  "lastUpdated": "2025-11-07T09:09:38.042075+00:00Z",
   "stats": {
-    "totalDirectories": 1227,
+    "totalDirectories": 1228,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1227.0,
-    "totalListings": 11686,
-    "aiEnhancedDirectories": 1226
+    "avgDirectoriesPerRepo": 1228.0,
+    "totalListings": 11691,
+    "aiEnhancedDirectories": 1227
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15958,12 +15958,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-content-marketing-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:09:38.042075+00:00Z",
+      "lastUpdated": "2025-11-07T09:09:38.042075+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1227,
+      "directoryCount": 1228,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:56:21.938734+00:00Z",
+  "lastUpdated": "2025-11-07T23:57:28.751837+00:00Z",
   "stats": {
-    "totalDirectories": 2137,
+    "totalDirectories": 2138,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2137.0,
-    "totalListings": 20007,
-    "aiEnhancedDirectories": 2136
+    "avgDirectoriesPerRepo": 2138.0,
+    "totalListings": 20017,
+    "aiEnhancedDirectories": 2137
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27788,12 +27788,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-legal-aid-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:57:28.751837+00:00Z",
+      "lastUpdated": "2025-11-07T23:57:28.751837+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2137,
+      "directoryCount": 2138,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

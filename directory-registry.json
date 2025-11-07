@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:02:56.308683+00:00Z",
+  "lastUpdated": "2025-11-07T06:03:12.242803+00:00Z",
   "stats": {
-    "totalDirectories": 764,
+    "totalDirectories": 765,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 764.0,
-    "totalListings": 7301,
-    "aiEnhancedDirectories": 764
+    "avgDirectoriesPerRepo": 765.0,
+    "totalListings": 7311,
+    "aiEnhancedDirectories": 765
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9940,12 +9940,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-document-preparation-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:03:12.242803+00:00Z",
+      "lastUpdated": "2025-11-07T06:03:12.242803+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 764,
+      "directoryCount": 765,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

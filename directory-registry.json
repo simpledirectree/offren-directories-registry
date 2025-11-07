@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:21:47.063359+00:00Z",
+  "lastUpdated": "2025-11-07T17:22:52.473980+00:00Z",
   "stats": {
-    "totalDirectories": 1729,
+    "totalDirectories": 1730,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1729.0,
-    "totalListings": 16276,
-    "aiEnhancedDirectories": 1728
+    "avgDirectoriesPerRepo": 1730.0,
+    "totalListings": 16286,
+    "aiEnhancedDirectories": 1729
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22484,12 +22484,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-ethnic-catering-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:22:52.473980+00:00Z",
+      "lastUpdated": "2025-11-07T17:22:52.473980+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1729,
+      "directoryCount": 1730,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

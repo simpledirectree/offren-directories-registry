@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T13:00:04.160365+00:00Z",
+  "lastUpdated": "2025-11-07T13:00:46.292677+00:00Z",
   "stats": {
-    "totalDirectories": 1466,
+    "totalDirectories": 1467,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1466.0,
-    "totalListings": 13839,
-    "aiEnhancedDirectories": 1465
+    "avgDirectoriesPerRepo": 1467.0,
+    "totalListings": 13849,
+    "aiEnhancedDirectories": 1466
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19065,12 +19065,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-skin-care-facilities-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:00:46.292677+00:00Z",
+      "lastUpdated": "2025-11-07T13:00:46.292677+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1466,
+      "directoryCount": 1467,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

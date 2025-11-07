@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:05:31.590960+00:00Z",
+  "lastUpdated": "2025-11-07T00:06:14.361538+00:00Z",
   "stats": {
-    "totalDirectories": 54,
+    "totalDirectories": 55,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 54.0,
-    "totalListings": 507,
-    "aiEnhancedDirectories": 54
+    "avgDirectoriesPerRepo": 55.0,
+    "totalListings": 517,
+    "aiEnhancedDirectories": 55
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -710,12 +710,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-personal-lending-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:06:14.361538+00:00Z",
+      "lastUpdated": "2025-11-07T00:06:14.361538+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 54,
+      "directoryCount": 55,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

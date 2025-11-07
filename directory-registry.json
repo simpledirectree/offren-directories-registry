@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:37:50.176305+00:00Z",
+  "lastUpdated": "2025-11-07T16:38:06.792496+00:00Z",
   "stats": {
-    "totalDirectories": 1687,
+    "totalDirectories": 1688,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1687.0,
-    "totalListings": 15888,
-    "aiEnhancedDirectories": 1686
+    "avgDirectoriesPerRepo": 1688.0,
+    "totalListings": 15898,
+    "aiEnhancedDirectories": 1687
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21938,12 +21938,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-snow-removal-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:38:06.792496+00:00Z",
+      "lastUpdated": "2025-11-07T16:38:06.792496+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1687,
+      "directoryCount": 1688,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

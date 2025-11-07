@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:08:50.006514+00:00Z",
+  "lastUpdated": "2025-11-07T20:09:08.461460+00:00Z",
   "stats": {
-    "totalDirectories": 1900,
+    "totalDirectories": 1901,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1900.0,
-    "totalListings": 17848,
-    "aiEnhancedDirectories": 1899
+    "avgDirectoriesPerRepo": 1901.0,
+    "totalListings": 17858,
+    "aiEnhancedDirectories": 1900
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24707,12 +24707,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-office-cleaning-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:09:08.461460+00:00Z",
+      "lastUpdated": "2025-11-07T20:09:08.461460+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1900,
+      "directoryCount": 1901,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

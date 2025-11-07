@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:31:16.170265+00:00Z",
+  "lastUpdated": "2025-11-07T05:31:35.325734+00:00Z",
   "stats": {
-    "totalDirectories": 653,
+    "totalDirectories": 654,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 653.0,
-    "totalListings": 6224,
-    "aiEnhancedDirectories": 653
+    "avgDirectoriesPerRepo": 654.0,
+    "totalListings": 6234,
+    "aiEnhancedDirectories": 654
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8497,12 +8497,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-database-administration-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:31:35.325734+00:00Z",
+      "lastUpdated": "2025-11-07T05:31:35.325734+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 653,
+      "directoryCount": 654,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

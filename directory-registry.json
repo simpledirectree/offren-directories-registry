@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:37:34.251115+00:00Z",
+  "lastUpdated": "2025-11-07T06:37:46.813284+00:00Z",
   "stats": {
-    "totalDirectories": 884,
+    "totalDirectories": 885,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 884.0,
-    "totalListings": 8450,
-    "aiEnhancedDirectories": 884
+    "avgDirectoriesPerRepo": 885.0,
+    "totalListings": 8451,
+    "aiEnhancedDirectories": 885
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11500,12 +11500,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-homeopathy-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:37:46.813284+00:00Z",
+      "lastUpdated": "2025-11-07T06:37:46.813284+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 884,
+      "directoryCount": 885,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

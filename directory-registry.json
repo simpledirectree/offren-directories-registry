@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:58:02.832615+00:00Z",
+  "lastUpdated": "2025-11-07T06:58:17.388649+00:00Z",
   "stats": {
-    "totalDirectories": 957,
+    "totalDirectories": 958,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 957.0,
-    "totalListings": 9139,
-    "aiEnhancedDirectories": 957
+    "avgDirectoriesPerRepo": 958.0,
+    "totalListings": 9149,
+    "aiEnhancedDirectories": 958
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12449,12 +12449,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-move-in-cleaning-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:58:17.388649+00:00Z",
+      "lastUpdated": "2025-11-07T06:58:17.388649+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 957,
+      "directoryCount": 958,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

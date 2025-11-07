@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:45:59.874063+00:00Z",
+  "lastUpdated": "2025-11-07T19:46:40.858502+00:00Z",
   "stats": {
-    "totalDirectories": 1880,
+    "totalDirectories": 1881,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1880.0,
-    "totalListings": 17667,
-    "aiEnhancedDirectories": 1879
+    "avgDirectoriesPerRepo": 1881.0,
+    "totalListings": 17671,
+    "aiEnhancedDirectories": 1880
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24447,12 +24447,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-packing-services-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:46:40.858502+00:00Z",
+      "lastUpdated": "2025-11-07T19:46:40.858502+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1880,
+      "directoryCount": 1881,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

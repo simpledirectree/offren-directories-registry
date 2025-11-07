@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:00:30.119784+00:00Z",
+  "lastUpdated": "2025-11-07T17:00:45.969903+00:00Z",
   "stats": {
-    "totalDirectories": 1710,
+    "totalDirectories": 1711,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1710.0,
-    "totalListings": 16107,
-    "aiEnhancedDirectories": 1709
+    "avgDirectoriesPerRepo": 1711.0,
+    "totalListings": 16117,
+    "aiEnhancedDirectories": 1710
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22237,12 +22237,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-prenatal-fitness-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:00:45.969903+00:00Z",
+      "lastUpdated": "2025-11-07T17:00:45.969903+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1710,
+      "directoryCount": 1711,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

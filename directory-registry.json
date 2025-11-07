@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:39:27.909564+00:00Z",
+  "lastUpdated": "2025-11-07T17:40:08.022649+00:00Z",
   "stats": {
-    "totalDirectories": 1749,
+    "totalDirectories": 1750,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1749.0,
-    "totalListings": 16472,
-    "aiEnhancedDirectories": 1748
+    "avgDirectoriesPerRepo": 1750.0,
+    "totalListings": 16477,
+    "aiEnhancedDirectories": 1749
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22744,12 +22744,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-design-system-creation-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:40:08.022649+00:00Z",
+      "lastUpdated": "2025-11-07T17:40:08.022649+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1749,
+      "directoryCount": 1750,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

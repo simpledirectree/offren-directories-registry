@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:47:57.182348+00:00Z",
+  "lastUpdated": "2025-11-07T04:48:15.766813+00:00Z",
   "stats": {
-    "totalDirectories": 498,
+    "totalDirectories": 499,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 498.0,
-    "totalListings": 4706,
-    "aiEnhancedDirectories": 498
+    "avgDirectoriesPerRepo": 499.0,
+    "totalListings": 4716,
+    "aiEnhancedDirectories": 499
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6482,12 +6482,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-fine-dining-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:48:15.766813+00:00Z",
+      "lastUpdated": "2025-11-07T04:48:15.766813+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 498,
+      "directoryCount": 499,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:49:59.529648+00:00Z",
+  "lastUpdated": "2025-11-07T01:53:48.886730+00:00Z",
   "stats": {
-    "totalDirectories": 173,
+    "totalDirectories": 174,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 173.0,
-    "totalListings": 1592,
-    "aiEnhancedDirectories": 173
+    "avgDirectoriesPerRepo": 174.0,
+    "totalListings": 1593,
+    "aiEnhancedDirectories": 174
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2257,12 +2257,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-lead-nurturing-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:53:48.886730+00:00Z",
+      "lastUpdated": "2025-11-07T01:53:48.886730+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 173,
+      "directoryCount": 174,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

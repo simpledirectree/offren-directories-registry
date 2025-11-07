@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:50:16.978645+00:00Z",
+  "lastUpdated": "2025-11-07T18:50:57.505501+00:00Z",
   "stats": {
-    "totalDirectories": 1822,
+    "totalDirectories": 1823,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1822.0,
-    "totalListings": 17142,
-    "aiEnhancedDirectories": 1821
+    "avgDirectoriesPerRepo": 1823.0,
+    "totalListings": 17152,
+    "aiEnhancedDirectories": 1822
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23693,12 +23693,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-adult-education-tutoring-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:50:57.505501+00:00Z",
+      "lastUpdated": "2025-11-07T18:50:57.505501+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1822,
+      "directoryCount": 1823,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

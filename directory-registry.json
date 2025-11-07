@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T13:44:23.133869+00:00Z",
+  "lastUpdated": "2025-11-07T13:46:24.189923+00:00Z",
   "stats": {
-    "totalDirectories": 1508,
+    "totalDirectories": 1509,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1508.0,
-    "totalListings": 14219,
-    "aiEnhancedDirectories": 1507
+    "avgDirectoriesPerRepo": 1509.0,
+    "totalListings": 14229,
+    "aiEnhancedDirectories": 1508
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19611,12 +19611,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-mutual-fund-management-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:46:24.189923+00:00Z",
+      "lastUpdated": "2025-11-07T13:46:24.189923+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1508,
+      "directoryCount": 1509,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

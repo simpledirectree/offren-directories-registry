@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:01:32.721893+00:00Z",
+  "lastUpdated": "2025-11-07T05:01:50.658951+00:00Z",
   "stats": {
-    "totalDirectories": 546,
+    "totalDirectories": 547,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 546.0,
-    "totalListings": 5186,
-    "aiEnhancedDirectories": 546
+    "avgDirectoriesPerRepo": 547.0,
+    "totalListings": 5196,
+    "aiEnhancedDirectories": 547
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7106,12 +7106,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-notary-services-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:01:50.658951+00:00Z",
+      "lastUpdated": "2025-11-07T05:01:50.658951+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 546,
+      "directoryCount": 547,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:50:35.534554+00:00Z",
+  "lastUpdated": "2025-11-07T04:50:53.585655+00:00Z",
   "stats": {
-    "totalDirectories": 507,
+    "totalDirectories": 508,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 507.0,
-    "totalListings": 4796,
-    "aiEnhancedDirectories": 507
+    "avgDirectoriesPerRepo": 508.0,
+    "totalListings": 4806,
+    "aiEnhancedDirectories": 508
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6599,12 +6599,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-dance-instruction-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:50:53.585655+00:00Z",
+      "lastUpdated": "2025-11-07T04:50:53.585655+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 507,
+      "directoryCount": 508,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:02:33.292245+00:00Z",
+  "lastUpdated": "2025-11-07T04:02:52.498845+00:00Z",
   "stats": {
-    "totalDirectories": 339,
+    "totalDirectories": 340,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 339.0,
-    "totalListings": 3171,
-    "aiEnhancedDirectories": 339
+    "avgDirectoriesPerRepo": 340.0,
+    "totalListings": 3181,
+    "aiEnhancedDirectories": 340
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4415,12 +4415,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-manufacturing-optimization-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:02:52.498845+00:00Z",
+      "lastUpdated": "2025-11-07T04:02:52.498845+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 339,
+      "directoryCount": 340,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

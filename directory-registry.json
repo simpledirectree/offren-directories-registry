@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:51:29.550428+00:00Z",
+  "lastUpdated": "2025-11-07T05:51:48.582124+00:00Z",
   "stats": {
-    "totalDirectories": 723,
+    "totalDirectories": 724,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 723.0,
-    "totalListings": 6903,
-    "aiEnhancedDirectories": 723
+    "avgDirectoriesPerRepo": 724.0,
+    "totalListings": 6913,
+    "aiEnhancedDirectories": 724
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9407,12 +9407,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-reading-tutoring-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:51:48.582124+00:00Z",
+      "lastUpdated": "2025-11-07T05:51:48.582124+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 723,
+      "directoryCount": 724,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

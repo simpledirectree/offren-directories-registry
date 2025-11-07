@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T11:34:00.765401+00:00Z",
+  "lastUpdated": "2025-11-07T11:35:04.512832+00:00Z",
   "stats": {
-    "totalDirectories": 1378,
+    "totalDirectories": 1379,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1378.0,
-    "totalListings": 13059,
-    "aiEnhancedDirectories": 1377
+    "avgDirectoriesPerRepo": 1379.0,
+    "totalListings": 13069,
+    "aiEnhancedDirectories": 1378
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17921,12 +17921,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-waterproofing-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T11:35:04.512832+00:00Z",
+      "lastUpdated": "2025-11-07T11:35:04.512832+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1378,
+      "directoryCount": 1379,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

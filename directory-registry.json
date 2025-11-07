@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:48:43.160077+00:00Z",
+  "lastUpdated": "2025-11-07T03:49:01.563293+00:00Z",
   "stats": {
-    "totalDirectories": 289,
+    "totalDirectories": 290,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 289.0,
-    "totalListings": 2683,
-    "aiEnhancedDirectories": 289
+    "avgDirectoriesPerRepo": 290.0,
+    "totalListings": 2693,
+    "aiEnhancedDirectories": 290
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3765,12 +3765,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-ransomware-protection-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:49:01.563293+00:00Z",
+      "lastUpdated": "2025-11-07T03:49:01.563293+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 289,
+      "directoryCount": 290,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

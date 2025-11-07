@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:09:55.007185+00:00Z",
+  "lastUpdated": "2025-11-07T08:10:58.255216+00:00Z",
   "stats": {
-    "totalDirectories": 1162,
+    "totalDirectories": 1163,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1162.0,
-    "totalListings": 11103,
-    "aiEnhancedDirectories": 1161
+    "avgDirectoriesPerRepo": 1163.0,
+    "totalListings": 11113,
+    "aiEnhancedDirectories": 1162
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15113,12 +15113,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-shopping-ads-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:10:58.255216+00:00Z",
+      "lastUpdated": "2025-11-07T08:10:58.255216+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1162,
+      "directoryCount": 1163,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:48:25.140013+00:00Z",
+  "lastUpdated": "2025-11-07T12:48:39.129449+00:00Z",
   "stats": {
-    "totalDirectories": 1453,
+    "totalDirectories": 1454,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1453.0,
-    "totalListings": 13738,
-    "aiEnhancedDirectories": 1452
+    "avgDirectoriesPerRepo": 1454.0,
+    "totalListings": 13743,
+    "aiEnhancedDirectories": 1453
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18896,12 +18896,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-help-desk-services-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:48:39.129449+00:00Z",
+      "lastUpdated": "2025-11-07T12:48:39.129449+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1453,
+      "directoryCount": 1454,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

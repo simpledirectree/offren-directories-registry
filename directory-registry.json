@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:40:00.523065+00:00Z",
+  "lastUpdated": "2025-11-07T05:40:15.620174+00:00Z",
   "stats": {
-    "totalDirectories": 683,
+    "totalDirectories": 684,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 683.0,
-    "totalListings": 6524,
-    "aiEnhancedDirectories": 683
+    "avgDirectoriesPerRepo": 684.0,
+    "totalListings": 6534,
+    "aiEnhancedDirectories": 684
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8887,12 +8887,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-mobile-auto-repair-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:40:15.620174+00:00Z",
+      "lastUpdated": "2025-11-07T05:40:15.620174+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 683,
+      "directoryCount": 684,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

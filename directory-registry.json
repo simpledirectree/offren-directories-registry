@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:05:24.018535+00:00Z",
+  "lastUpdated": "2025-11-07T02:08:36.812576+00:00Z",
   "stats": {
-    "totalDirectories": 185,
+    "totalDirectories": 186,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 185.0,
-    "totalListings": 1703,
-    "aiEnhancedDirectories": 185
+    "avgDirectoriesPerRepo": 186.0,
+    "totalListings": 1713,
+    "aiEnhancedDirectories": 186
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2413,12 +2413,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-professional-development-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:08:36.812576+00:00Z",
+      "lastUpdated": "2025-11-07T02:08:36.812576+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 185,
+      "directoryCount": 186,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:44:47.584804+00:00Z",
+  "lastUpdated": "2025-11-07T05:45:05.334633+00:00Z",
   "stats": {
-    "totalDirectories": 700,
+    "totalDirectories": 701,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 700.0,
-    "totalListings": 6690,
-    "aiEnhancedDirectories": 700
+    "avgDirectoriesPerRepo": 701.0,
+    "totalListings": 6700,
+    "aiEnhancedDirectories": 701
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9108,12 +9108,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-football-coaching-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:45:05.334633+00:00Z",
+      "lastUpdated": "2025-11-07T05:45:05.334633+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 700,
+      "directoryCount": 701,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

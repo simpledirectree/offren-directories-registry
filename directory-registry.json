@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:23:13.445669+00:00Z",
+  "lastUpdated": "2025-11-07T05:23:26.911144+00:00Z",
   "stats": {
-    "totalDirectories": 624,
+    "totalDirectories": 625,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 624.0,
-    "totalListings": 5934,
-    "aiEnhancedDirectories": 624
+    "avgDirectoriesPerRepo": 625.0,
+    "totalListings": 5944,
+    "aiEnhancedDirectories": 625
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8120,12 +8120,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-masonry-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:23:26.911144+00:00Z",
+      "lastUpdated": "2025-11-07T05:23:26.911144+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 624,
+      "directoryCount": 625,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

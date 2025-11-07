@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:38:18.656911+00:00Z",
+  "lastUpdated": "2025-11-07T15:38:34.170461+00:00Z",
   "stats": {
-    "totalDirectories": 1630,
+    "totalDirectories": 1631,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1630.0,
-    "totalListings": 15361,
-    "aiEnhancedDirectories": 1629
+    "avgDirectoriesPerRepo": 1631.0,
+    "totalListings": 15371,
+    "aiEnhancedDirectories": 1630
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21197,12 +21197,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-health-clubs-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:38:34.170461+00:00Z",
+      "lastUpdated": "2025-11-07T15:38:34.170461+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1630,
+      "directoryCount": 1631,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

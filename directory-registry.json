@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:27:54.004712+00:00Z",
+  "lastUpdated": "2025-11-07T16:28:34.030215+00:00Z",
   "stats": {
-    "totalDirectories": 1676,
+    "totalDirectories": 1677,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1676.0,
-    "totalListings": 15789,
-    "aiEnhancedDirectories": 1675
+    "avgDirectoriesPerRepo": 1677.0,
+    "totalListings": 15794,
+    "aiEnhancedDirectories": 1676
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21795,12 +21795,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-diners-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:28:34.030215+00:00Z",
+      "lastUpdated": "2025-11-07T16:28:34.030215+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1676,
+      "directoryCount": 1677,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

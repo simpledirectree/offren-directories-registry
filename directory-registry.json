@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:39:28.096034+00:00Z",
+  "lastUpdated": "2025-11-07T23:39:42.491930+00:00Z",
   "stats": {
-    "totalDirectories": 2127,
+    "totalDirectories": 2128,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2127.0,
-    "totalListings": 19926,
-    "aiEnhancedDirectories": 2126
+    "avgDirectoriesPerRepo": 2128.0,
+    "totalListings": 19931,
+    "aiEnhancedDirectories": 2127
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27658,12 +27658,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-engine-replacement-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:39:42.491930+00:00Z",
+      "lastUpdated": "2025-11-07T23:39:42.491930+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2127,
+      "directoryCount": 2128,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

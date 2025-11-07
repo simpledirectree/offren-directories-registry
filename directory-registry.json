@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:44:33.335976+00:00Z",
+  "lastUpdated": "2025-11-07T03:44:59.031679+00:00Z",
   "stats": {
-    "totalDirectories": 274,
+    "totalDirectories": 275,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 274.0,
-    "totalListings": 2533,
-    "aiEnhancedDirectories": 274
+    "avgDirectoriesPerRepo": 275.0,
+    "totalListings": 2543,
+    "aiEnhancedDirectories": 275
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3570,12 +3570,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-bariatric-surgery-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:44:59.031679+00:00Z",
+      "lastUpdated": "2025-11-07T03:44:59.031679+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 274,
+      "directoryCount": 275,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

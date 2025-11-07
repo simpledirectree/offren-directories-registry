@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:35:56.629565+00:00Z",
+  "lastUpdated": "2025-11-07T18:36:11.905693+00:00Z",
   "stats": {
-    "totalDirectories": 1808,
+    "totalDirectories": 1809,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1808.0,
-    "totalListings": 17008,
-    "aiEnhancedDirectories": 1807
+    "avgDirectoriesPerRepo": 1809.0,
+    "totalListings": 17018,
+    "aiEnhancedDirectories": 1808
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23511,12 +23511,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-taekwondo-classes-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:36:11.905693+00:00Z",
+      "lastUpdated": "2025-11-07T18:36:11.905693+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1808,
+      "directoryCount": 1809,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

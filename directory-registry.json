@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:19:09.572848+00:00Z",
+  "lastUpdated": "2025-11-07T07:19:26.819560+00:00Z",
   "stats": {
-    "totalDirectories": 1028,
+    "totalDirectories": 1029,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1028.0,
-    "totalListings": 9821,
-    "aiEnhancedDirectories": 1027
+    "avgDirectoriesPerRepo": 1029.0,
+    "totalListings": 9831,
+    "aiEnhancedDirectories": 1028
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13371,12 +13371,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-tribute-bands-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:19:26.819560+00:00Z",
+      "lastUpdated": "2025-11-07T07:19:26.819560+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1028,
+      "directoryCount": 1029,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

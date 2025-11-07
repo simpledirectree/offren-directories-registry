@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:39:58.720783+00:00Z",
+  "lastUpdated": "2025-11-07T23:40:41.439367+00:00Z",
   "stats": {
-    "totalDirectories": 2129,
+    "totalDirectories": 2130,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2129.0,
-    "totalListings": 19941,
-    "aiEnhancedDirectories": 2128
+    "avgDirectoriesPerRepo": 2130.0,
+    "totalListings": 19951,
+    "aiEnhancedDirectories": 2129
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27684,12 +27684,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-acting-instruction-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:40:41.439367+00:00Z",
+      "lastUpdated": "2025-11-07T23:40:41.439367+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2129,
+      "directoryCount": 2130,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

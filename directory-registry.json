@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:03:13.027443+00:00Z",
+  "lastUpdated": "2025-11-07T05:03:27.848429+00:00Z",
   "stats": {
-    "totalDirectories": 552,
+    "totalDirectories": 553,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 552.0,
-    "totalListings": 5241,
-    "aiEnhancedDirectories": 552
+    "avgDirectoriesPerRepo": 553.0,
+    "totalListings": 5251,
+    "aiEnhancedDirectories": 553
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7184,12 +7184,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-athletic-meal-prep-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:03:27.848429+00:00Z",
+      "lastUpdated": "2025-11-07T05:03:27.848429+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 552,
+      "directoryCount": 553,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

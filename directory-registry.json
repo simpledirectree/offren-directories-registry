@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:16:04.016230+00:00Z",
+  "lastUpdated": "2025-11-07T01:16:20.146950+00:00Z",
   "stats": {
-    "totalDirectories": 142,
+    "totalDirectories": 143,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 142.0,
-    "totalListings": 1316,
-    "aiEnhancedDirectories": 142
+    "avgDirectoriesPerRepo": 143.0,
+    "totalListings": 1326,
+    "aiEnhancedDirectories": 143
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1854,12 +1854,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-senior-fitness-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:16:20.146950+00:00Z",
+      "lastUpdated": "2025-11-07T01:16:20.146950+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 142,
+      "directoryCount": 143,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:09:08.883699+00:00Z",
+  "lastUpdated": "2025-11-07T19:09:23.788681+00:00Z",
   "stats": {
-    "totalDirectories": 1839,
+    "totalDirectories": 1840,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1839.0,
-    "totalListings": 17295,
-    "aiEnhancedDirectories": 1838
+    "avgDirectoriesPerRepo": 1840.0,
+    "totalListings": 17300,
+    "aiEnhancedDirectories": 1839
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23914,12 +23914,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-brake-repair-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:09:23.788681+00:00Z",
+      "lastUpdated": "2025-11-07T19:09:23.788681+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1839,
+      "directoryCount": 1840,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

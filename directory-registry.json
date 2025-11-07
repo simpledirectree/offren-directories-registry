@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:47:41.788301+00:00Z",
+  "lastUpdated": "2025-11-07T00:49:12.561079+00:00Z",
   "stats": {
-    "totalDirectories": 106,
+    "totalDirectories": 107,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 106.0,
-    "totalListings": 995,
-    "aiEnhancedDirectories": 106
+    "avgDirectoriesPerRepo": 107.0,
+    "totalListings": 1005,
+    "aiEnhancedDirectories": 107
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1386,12 +1386,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-genetic-testing-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:49:12.561079+00:00Z",
+      "lastUpdated": "2025-11-07T00:49:12.561079+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 106,
+      "directoryCount": 107,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

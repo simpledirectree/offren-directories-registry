@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:28:02.327494+00:00Z",
+  "lastUpdated": "2025-11-07T03:29:34.291169+00:00Z",
   "stats": {
-    "totalDirectories": 257,
+    "totalDirectories": 258,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 257.0,
-    "totalListings": 2369,
-    "aiEnhancedDirectories": 257
+    "avgDirectoriesPerRepo": 258.0,
+    "totalListings": 2379,
+    "aiEnhancedDirectories": 258
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3349,12 +3349,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-engine-rebuilding-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:29:34.291169+00:00Z",
+      "lastUpdated": "2025-11-07T03:29:34.291169+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 257,
+      "directoryCount": 258,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

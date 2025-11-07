@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:29:31.200464+00:00Z",
+  "lastUpdated": "2025-11-07T01:30:12.776946+00:00Z",
   "stats": {
-    "totalDirectories": 159,
+    "totalDirectories": 160,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 159.0,
-    "totalListings": 1476,
-    "aiEnhancedDirectories": 159
+    "avgDirectoriesPerRepo": 160.0,
+    "totalListings": 1486,
+    "aiEnhancedDirectories": 160
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2075,12 +2075,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-cloud-infrastructure-management-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:30:12.776946+00:00Z",
+      "lastUpdated": "2025-11-07T01:30:12.776946+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 159,
+      "directoryCount": 160,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

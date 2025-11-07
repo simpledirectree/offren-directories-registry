@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:31:51.827353+00:00Z",
+  "lastUpdated": "2025-11-07T05:32:07.308582+00:00Z",
   "stats": {
-    "totalDirectories": 655,
+    "totalDirectories": 656,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 655.0,
-    "totalListings": 6244,
-    "aiEnhancedDirectories": 655
+    "avgDirectoriesPerRepo": 656.0,
+    "totalListings": 6254,
+    "aiEnhancedDirectories": 656
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8523,12 +8523,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-compensation-consulting-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:32:07.308582+00:00Z",
+      "lastUpdated": "2025-11-07T05:32:07.308582+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 655,
+      "directoryCount": 656,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

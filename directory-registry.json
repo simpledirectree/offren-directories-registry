@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:44:21.175723+00:00Z",
+  "lastUpdated": "2025-11-07T06:44:39.943104+00:00Z",
   "stats": {
-    "totalDirectories": 908,
+    "totalDirectories": 909,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 908.0,
-    "totalListings": 8676,
-    "aiEnhancedDirectories": 908
+    "avgDirectoriesPerRepo": 909.0,
+    "totalListings": 8686,
+    "aiEnhancedDirectories": 909
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11812,12 +11812,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-home-inspection-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:44:39.943104+00:00Z",
+      "lastUpdated": "2025-11-07T06:44:39.943104+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 908,
+      "directoryCount": 909,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

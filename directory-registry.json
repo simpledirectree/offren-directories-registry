@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:08:50.770012+00:00Z",
+  "lastUpdated": "2025-11-07T23:09:06.861935+00:00Z",
   "stats": {
-    "totalDirectories": 2092,
+    "totalDirectories": 2093,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2092.0,
-    "totalListings": 19617,
-    "aiEnhancedDirectories": 2091
+    "avgDirectoriesPerRepo": 2093.0,
+    "totalListings": 19627,
+    "aiEnhancedDirectories": 2092
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27203,12 +27203,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-dermal-fillers-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:09:06.861935+00:00Z",
+      "lastUpdated": "2025-11-07T23:09:06.861935+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2092,
+      "directoryCount": 2093,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

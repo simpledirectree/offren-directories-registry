@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:05:49.265156+00:00Z",
+  "lastUpdated": "2025-11-07T08:06:04.972242+00:00Z",
   "stats": {
-    "totalDirectories": 1154,
+    "totalDirectories": 1155,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1154.0,
-    "totalListings": 11029,
-    "aiEnhancedDirectories": 1153
+    "avgDirectoriesPerRepo": 1155.0,
+    "totalListings": 11039,
+    "aiEnhancedDirectories": 1154
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15009,12 +15009,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-painting-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:06:04.972242+00:00Z",
+      "lastUpdated": "2025-11-07T08:06:04.972242+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1154,
+      "directoryCount": 1155,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

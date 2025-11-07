@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:20:58.146923+00:00Z",
+  "lastUpdated": "2025-11-07T05:21:18.109720+00:00Z",
   "stats": {
-    "totalDirectories": 616,
+    "totalDirectories": 617,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 616.0,
-    "totalListings": 5854,
-    "aiEnhancedDirectories": 616
+    "avgDirectoriesPerRepo": 617.0,
+    "totalListings": 5864,
+    "aiEnhancedDirectories": 617
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8016,12 +8016,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-garden-tool-sharpening-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:21:18.109720+00:00Z",
+      "lastUpdated": "2025-11-07T05:21:18.109720+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 616,
+      "directoryCount": 617,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

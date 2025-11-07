@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:30:24.960685+00:00Z",
+  "lastUpdated": "2025-11-07T12:31:03.191415+00:00Z",
   "stats": {
-    "totalDirectories": 1434,
+    "totalDirectories": 1435,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1434.0,
-    "totalListings": 13568,
-    "aiEnhancedDirectories": 1433
+    "avgDirectoriesPerRepo": 1435.0,
+    "totalListings": 13570,
+    "aiEnhancedDirectories": 1434
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18649,12 +18649,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-vendor-coordination-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:31:03.191415+00:00Z",
+      "lastUpdated": "2025-11-07T12:31:03.191415+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1434,
+      "directoryCount": 1435,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

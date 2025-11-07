@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:00:40.591959+00:00Z",
+  "lastUpdated": "2025-11-07T07:01:00.786049+00:00Z",
   "stats": {
-    "totalDirectories": 966,
+    "totalDirectories": 967,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 966.0,
-    "totalListings": 9229,
-    "aiEnhancedDirectories": 966
+    "avgDirectoriesPerRepo": 967.0,
+    "totalListings": 9239,
+    "aiEnhancedDirectories": 967
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12566,12 +12566,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-business-intelligence-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:01:00.786049+00:00Z",
+      "lastUpdated": "2025-11-07T07:01:00.786049+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 966,
+      "directoryCount": 967,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

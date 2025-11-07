@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:54:28.213844+00:00Z",
+  "lastUpdated": "2025-11-07T00:58:52.779405+00:00Z",
   "stats": {
-    "totalDirectories": 114,
+    "totalDirectories": 115,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 114.0,
-    "totalListings": 1058,
-    "aiEnhancedDirectories": 114
+    "avgDirectoriesPerRepo": 115.0,
+    "totalListings": 1068,
+    "aiEnhancedDirectories": 115
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1490,12 +1490,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-technology-training-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:58:52.779405+00:00Z",
+      "lastUpdated": "2025-11-07T00:58:52.779405+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 114,
+      "directoryCount": 115,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

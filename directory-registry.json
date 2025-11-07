@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:40:55.173463+00:00Z",
+  "lastUpdated": "2025-11-07T06:41:09.820200+00:00Z",
   "stats": {
-    "totalDirectories": 896,
+    "totalDirectories": 897,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 896.0,
-    "totalListings": 8561,
-    "aiEnhancedDirectories": 896
+    "avgDirectoriesPerRepo": 897.0,
+    "totalListings": 8566,
+    "aiEnhancedDirectories": 897
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11656,12 +11656,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-interpretation-services-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:41:09.820200+00:00Z",
+      "lastUpdated": "2025-11-07T06:41:09.820200+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 896,
+      "directoryCount": 897,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

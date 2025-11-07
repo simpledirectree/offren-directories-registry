@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:48:31.537160+00:00Z",
+  "lastUpdated": "2025-11-07T06:48:50.395285+00:00Z",
   "stats": {
-    "totalDirectories": 923,
+    "totalDirectories": 924,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 923.0,
-    "totalListings": 8815,
-    "aiEnhancedDirectories": 923
+    "avgDirectoriesPerRepo": 924.0,
+    "totalListings": 8825,
+    "aiEnhancedDirectories": 924
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12007,12 +12007,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-nutritionist-developed-meals-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:48:50.395285+00:00Z",
+      "lastUpdated": "2025-11-07T06:48:50.395285+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 923,
+      "directoryCount": 924,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

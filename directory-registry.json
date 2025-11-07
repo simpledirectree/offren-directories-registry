@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:23:16.478501+00:00Z",
+  "lastUpdated": "2025-11-07T06:23:30.988956+00:00Z",
   "stats": {
-    "totalDirectories": 835,
+    "totalDirectories": 836,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 835.0,
-    "totalListings": 7995,
-    "aiEnhancedDirectories": 835
+    "avgDirectoriesPerRepo": 836.0,
+    "totalListings": 8005,
+    "aiEnhancedDirectories": 836
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10863,12 +10863,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-contract-drafting-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:23:30.988956+00:00Z",
+      "lastUpdated": "2025-11-07T06:23:30.988956+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 835,
+      "directoryCount": 836,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

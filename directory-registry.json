@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:58:51.356993+00:00Z",
+  "lastUpdated": "2025-11-07T09:59:07.438871+00:00Z",
   "stats": {
-    "totalDirectories": 1281,
+    "totalDirectories": 1282,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1281.0,
-    "totalListings": 12170,
-    "aiEnhancedDirectories": 1280
+    "avgDirectoriesPerRepo": 1282.0,
+    "totalListings": 12180,
+    "aiEnhancedDirectories": 1281
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16660,12 +16660,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-general-house-cleaning-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:59:07.438871+00:00Z",
+      "lastUpdated": "2025-11-07T09:59:07.438871+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1281,
+      "directoryCount": 1282,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

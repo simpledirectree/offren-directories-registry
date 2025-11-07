@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:43:27.052040+00:00Z",
+  "lastUpdated": "2025-11-07T18:44:08.614301+00:00Z",
   "stats": {
-    "totalDirectories": 1814,
+    "totalDirectories": 1815,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1814.0,
-    "totalListings": 17068,
-    "aiEnhancedDirectories": 1813
+    "avgDirectoriesPerRepo": 1815.0,
+    "totalListings": 17078,
+    "aiEnhancedDirectories": 1814
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23589,12 +23589,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-athletic-meal-prep-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:44:08.614301+00:00Z",
+      "lastUpdated": "2025-11-07T18:44:08.614301+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1814,
+      "directoryCount": 1815,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

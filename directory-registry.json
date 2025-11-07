@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:16:21.152164+00:00Z",
+  "lastUpdated": "2025-11-07T03:17:29.021322+00:00Z",
   "stats": {
-    "totalDirectories": 247,
+    "totalDirectories": 248,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 247.0,
-    "totalListings": 2276,
-    "aiEnhancedDirectories": 247
+    "avgDirectoriesPerRepo": 248.0,
+    "totalListings": 2286,
+    "aiEnhancedDirectories": 248
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3219,12 +3219,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-dent-repair-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:17:29.021322+00:00Z",
+      "lastUpdated": "2025-11-07T03:17:29.021322+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 247,
+      "directoryCount": 248,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

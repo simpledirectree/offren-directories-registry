@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:24:30.312291+00:00Z",
+  "lastUpdated": "2025-11-07T05:24:44.909709+00:00Z",
   "stats": {
-    "totalDirectories": 629,
+    "totalDirectories": 630,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 629.0,
-    "totalListings": 5984,
-    "aiEnhancedDirectories": 629
+    "avgDirectoriesPerRepo": 630.0,
+    "totalListings": 5994,
+    "aiEnhancedDirectories": 630
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8185,12 +8185,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-financial-forecasting-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:24:44.909709+00:00Z",
+      "lastUpdated": "2025-11-07T05:24:44.909709+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 629,
+      "directoryCount": 630,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

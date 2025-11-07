@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:55:58.110885+00:00Z",
+  "lastUpdated": "2025-11-07T16:57:41.700642+00:00Z",
   "stats": {
-    "totalDirectories": 1701,
+    "totalDirectories": 1702,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1701.0,
-    "totalListings": 16021,
-    "aiEnhancedDirectories": 1700
+    "avgDirectoriesPerRepo": 1702.0,
+    "totalListings": 16029,
+    "aiEnhancedDirectories": 1701
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22120,12 +22120,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-emergency-dental-care-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:57:41.700642+00:00Z",
+      "lastUpdated": "2025-11-07T16:57:41.700642+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1701,
+      "directoryCount": 1702,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:04:12.172066+00:00Z",
+  "lastUpdated": "2025-11-07T05:04:26.607320+00:00Z",
   "stats": {
-    "totalDirectories": 556,
+    "totalDirectories": 557,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 556.0,
-    "totalListings": 5281,
-    "aiEnhancedDirectories": 556
+    "avgDirectoriesPerRepo": 557.0,
+    "totalListings": 5286,
+    "aiEnhancedDirectories": 557
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7236,12 +7236,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-math-tutoring-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:04:26.607320+00:00Z",
+      "lastUpdated": "2025-11-07T05:04:26.607320+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 556,
+      "directoryCount": 557,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T21:06:14.383185+00:00Z",
+  "lastUpdated": "2025-11-07T21:09:31.891410+00:00Z",
   "stats": {
-    "totalDirectories": 1962,
+    "totalDirectories": 1963,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1962.0,
-    "totalListings": 18433,
-    "aiEnhancedDirectories": 1961
+    "avgDirectoriesPerRepo": 1963.0,
+    "totalListings": 18443,
+    "aiEnhancedDirectories": 1962
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25513,12 +25513,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-fertilization-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T21:09:31.891410+00:00Z",
+      "lastUpdated": "2025-11-07T21:09:31.891410+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1962,
+      "directoryCount": 1963,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

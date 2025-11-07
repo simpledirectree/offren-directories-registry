@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:26:25.562002+00:00Z",
+  "lastUpdated": "2025-11-07T09:27:04.700924+00:00Z",
   "stats": {
-    "totalDirectories": 1241,
+    "totalDirectories": 1242,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1241.0,
-    "totalListings": 11801,
-    "aiEnhancedDirectories": 1240
+    "avgDirectoriesPerRepo": 1242.0,
+    "totalListings": 11806,
+    "aiEnhancedDirectories": 1241
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16140,12 +16140,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-judo-classes-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:27:04.700924+00:00Z",
+      "lastUpdated": "2025-11-07T09:27:04.700924+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1241,
+      "directoryCount": 1242,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

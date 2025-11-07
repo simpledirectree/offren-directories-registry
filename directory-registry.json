@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:36:59.923136+00:00Z",
+  "lastUpdated": "2025-11-07T00:37:16.758229+00:00Z",
   "stats": {
-    "totalDirectories": 90,
+    "totalDirectories": 91,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 90.0,
-    "totalListings": 842,
-    "aiEnhancedDirectories": 90
+    "avgDirectoriesPerRepo": 91.0,
+    "totalListings": 852,
+    "aiEnhancedDirectories": 91
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1178,12 +1178,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-mobile-locksmith-services-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:37:16.758229+00:00Z",
+      "lastUpdated": "2025-11-07T00:37:16.758229+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 90,
+      "directoryCount": 91,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

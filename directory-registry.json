@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:54:40.184400+00:00Z",
+  "lastUpdated": "2025-11-07T03:54:58.730901+00:00Z",
   "stats": {
-    "totalDirectories": 311,
+    "totalDirectories": 312,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 311.0,
-    "totalListings": 2891,
-    "aiEnhancedDirectories": 311
+    "avgDirectoriesPerRepo": 312.0,
+    "totalListings": 2901,
+    "aiEnhancedDirectories": 312
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4051,12 +4051,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-pet-trainers-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:54:58.730901+00:00Z",
+      "lastUpdated": "2025-11-07T03:54:58.730901+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 311,
+      "directoryCount": 312,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:39:21.586477+00:00Z",
+  "lastUpdated": "2025-11-07T07:39:35.734853+00:00Z",
   "stats": {
-    "totalDirectories": 1100,
+    "totalDirectories": 1101,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1100.0,
-    "totalListings": 10515,
-    "aiEnhancedDirectories": 1099
+    "avgDirectoriesPerRepo": 1101.0,
+    "totalListings": 10525,
+    "aiEnhancedDirectories": 1100
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14307,12 +14307,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-boot-camps-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:39:35.734853+00:00Z",
+      "lastUpdated": "2025-11-07T07:39:35.734853+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1100,
+      "directoryCount": 1101,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

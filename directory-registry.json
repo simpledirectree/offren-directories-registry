@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:37:07.266009+00:00Z",
+  "lastUpdated": "2025-11-07T01:39:42.717601+00:00Z",
   "stats": {
-    "totalDirectories": 167,
+    "totalDirectories": 168,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 167.0,
-    "totalListings": 1546,
-    "aiEnhancedDirectories": 167
+    "avgDirectoriesPerRepo": 168.0,
+    "totalListings": 1556,
+    "aiEnhancedDirectories": 168
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2179,12 +2179,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-accounts-receivable-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:39:42.717601+00:00Z",
+      "lastUpdated": "2025-11-07T01:39:42.717601+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 167,
+      "directoryCount": 168,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

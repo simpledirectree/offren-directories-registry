@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:48:42.270306+00:00Z",
+  "lastUpdated": "2025-11-07T17:48:58.871666+00:00Z",
   "stats": {
-    "totalDirectories": 1757,
+    "totalDirectories": 1758,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1757.0,
-    "totalListings": 16532,
-    "aiEnhancedDirectories": 1756
+    "avgDirectoriesPerRepo": 1758.0,
+    "totalListings": 16542,
+    "aiEnhancedDirectories": 1757
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22848,12 +22848,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-low-vision-services-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:48:58.871666+00:00Z",
+      "lastUpdated": "2025-11-07T17:48:58.871666+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1757,
+      "directoryCount": 1758,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:38:34.170461+00:00Z",
+  "lastUpdated": "2025-11-07T15:40:06.295283+00:00Z",
   "stats": {
-    "totalDirectories": 1631,
+    "totalDirectories": 1632,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1631.0,
-    "totalListings": 15371,
-    "aiEnhancedDirectories": 1630
+    "avgDirectoriesPerRepo": 1632.0,
+    "totalListings": 15381,
+    "aiEnhancedDirectories": 1631
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21210,12 +21210,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-culinary-training-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:40:06.295283+00:00Z",
+      "lastUpdated": "2025-11-07T15:40:06.295283+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1631,
+      "directoryCount": 1632,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

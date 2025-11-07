@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:57:34.823511+00:00Z",
+  "lastUpdated": "2025-11-07T19:57:51.054023+00:00Z",
   "stats": {
-    "totalDirectories": 1891,
+    "totalDirectories": 1892,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1891.0,
-    "totalListings": 17763,
-    "aiEnhancedDirectories": 1890
+    "avgDirectoriesPerRepo": 1892.0,
+    "totalListings": 17773,
+    "aiEnhancedDirectories": 1891
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24590,12 +24590,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-alternator-repair-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:57:51.054023+00:00Z",
+      "lastUpdated": "2025-11-07T19:57:51.054023+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1891,
+      "directoryCount": 1892,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:14:37.200714+00:00Z",
+  "lastUpdated": "2025-11-07T22:15:42.160491+00:00Z",
   "stats": {
-    "totalDirectories": 2035,
+    "totalDirectories": 2036,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2035.0,
-    "totalListings": 19119,
-    "aiEnhancedDirectories": 2034
+    "avgDirectoriesPerRepo": 2036.0,
+    "totalListings": 19129,
+    "aiEnhancedDirectories": 2035
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26462,12 +26462,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-mobile-auto-repair-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:15:42.160491+00:00Z",
+      "lastUpdated": "2025-11-07T22:15:42.160491+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2035,
+      "directoryCount": 2036,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

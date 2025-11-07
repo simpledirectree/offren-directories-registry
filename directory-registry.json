@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:42:20.319954+00:00Z",
+  "lastUpdated": "2025-11-07T06:42:34.804509+00:00Z",
   "stats": {
-    "totalDirectories": 901,
+    "totalDirectories": 902,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 901.0,
-    "totalListings": 8606,
-    "aiEnhancedDirectories": 901
+    "avgDirectoriesPerRepo": 902.0,
+    "totalListings": 8616,
+    "aiEnhancedDirectories": 902
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11721,12 +11721,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-crop-planning-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:42:34.804509+00:00Z",
+      "lastUpdated": "2025-11-07T06:42:34.804509+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 901,
+      "directoryCount": 902,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

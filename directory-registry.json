@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:07:03.341726+00:00Z",
+  "lastUpdated": "2025-11-07T06:07:16.853577+00:00Z",
   "stats": {
-    "totalDirectories": 779,
+    "totalDirectories": 780,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 779.0,
-    "totalListings": 7449,
-    "aiEnhancedDirectories": 779
+    "avgDirectoriesPerRepo": 780.0,
+    "totalListings": 7459,
+    "aiEnhancedDirectories": 780
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10135,12 +10135,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-traditional-chinese-medicine-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:07:16.853577+00:00Z",
+      "lastUpdated": "2025-11-07T06:07:16.853577+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 779,
+      "directoryCount": 780,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

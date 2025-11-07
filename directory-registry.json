@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:50:20.248783+00:00Z",
+  "lastUpdated": "2025-11-07T04:50:35.534554+00:00Z",
   "stats": {
-    "totalDirectories": 506,
+    "totalDirectories": 507,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 506.0,
-    "totalListings": 4786,
-    "aiEnhancedDirectories": 506
+    "avgDirectoriesPerRepo": 507.0,
+    "totalListings": 4796,
+    "aiEnhancedDirectories": 507
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6586,12 +6586,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-budget-management-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:50:35.534554+00:00Z",
+      "lastUpdated": "2025-11-07T04:50:35.534554+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 506,
+      "directoryCount": 507,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

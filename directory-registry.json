@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:37:43.300360+00:00Z",
+  "lastUpdated": "2025-11-07T05:37:59.375505+00:00Z",
   "stats": {
-    "totalDirectories": 675,
+    "totalDirectories": 676,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 675.0,
-    "totalListings": 6444,
-    "aiEnhancedDirectories": 675
+    "avgDirectoriesPerRepo": 676.0,
+    "totalListings": 6454,
+    "aiEnhancedDirectories": 676
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8783,12 +8783,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-adult-education-tutoring-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:37:59.375505+00:00Z",
+      "lastUpdated": "2025-11-07T05:37:59.375505+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 675,
+      "directoryCount": 676,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:10:49.044675+00:00Z",
+  "lastUpdated": "2025-11-07T04:11:03.967422+00:00Z",
   "stats": {
-    "totalDirectories": 368,
+    "totalDirectories": 369,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 368.0,
-    "totalListings": 3450,
-    "aiEnhancedDirectories": 368
+    "avgDirectoriesPerRepo": 369.0,
+    "totalListings": 3460,
+    "aiEnhancedDirectories": 369
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4792,12 +4792,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-elopements-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:11:03.967422+00:00Z",
+      "lastUpdated": "2025-11-07T04:11:03.967422+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 368,
+      "directoryCount": 369,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:12:46.005947+00:00Z",
+  "lastUpdated": "2025-11-07T04:13:04.052269+00:00Z",
   "stats": {
-    "totalDirectories": 375,
+    "totalDirectories": 376,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 375.0,
-    "totalListings": 3513,
-    "aiEnhancedDirectories": 375
+    "avgDirectoriesPerRepo": 376.0,
+    "totalListings": 3523,
+    "aiEnhancedDirectories": 376
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4883,12 +4883,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-sugaring-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:13:04.052269+00:00Z",
+      "lastUpdated": "2025-11-07T04:13:04.052269+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 375,
+      "directoryCount": 376,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:55:12.316217+00:00Z",
+  "lastUpdated": "2025-11-07T19:56:24.196550+00:00Z",
   "stats": {
-    "totalDirectories": 1888,
+    "totalDirectories": 1889,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1888.0,
-    "totalListings": 17738,
-    "aiEnhancedDirectories": 1887
+    "avgDirectoriesPerRepo": 1889.0,
+    "totalListings": 17743,
+    "aiEnhancedDirectories": 1888
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24551,12 +24551,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-meditation-instruction-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:56:24.196550+00:00Z",
+      "lastUpdated": "2025-11-07T19:56:24.196550+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1888,
+      "directoryCount": 1889,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:40:54.836505+00:00Z",
+  "lastUpdated": "2025-11-07T07:41:13.919134+00:00Z",
   "stats": {
-    "totalDirectories": 1106,
+    "totalDirectories": 1107,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1106.0,
-    "totalListings": 10572,
-    "aiEnhancedDirectories": 1105
+    "avgDirectoriesPerRepo": 1107.0,
+    "totalListings": 10582,
+    "aiEnhancedDirectories": 1106
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14385,12 +14385,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-network-configuration-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:41:13.919134+00:00Z",
+      "lastUpdated": "2025-11-07T07:41:13.919134+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1106,
+      "directoryCount": 1107,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

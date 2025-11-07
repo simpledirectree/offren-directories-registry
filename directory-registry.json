@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:38:14.162782+00:00Z",
+  "lastUpdated": "2025-11-07T05:38:31.228452+00:00Z",
   "stats": {
-    "totalDirectories": 677,
+    "totalDirectories": 678,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 677.0,
-    "totalListings": 6464,
-    "aiEnhancedDirectories": 677
+    "avgDirectoriesPerRepo": 678.0,
+    "totalListings": 6474,
+    "aiEnhancedDirectories": 678
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8809,12 +8809,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-general-veterinary-practice-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:38:31.228452+00:00Z",
+      "lastUpdated": "2025-11-07T05:38:31.228452+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 677,
+      "directoryCount": 678,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

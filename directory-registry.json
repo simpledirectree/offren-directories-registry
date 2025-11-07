@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:36:13.526050+00:00Z",
+  "lastUpdated": "2025-11-07T23:36:54.121222+00:00Z",
   "stats": {
-    "totalDirectories": 2121,
+    "totalDirectories": 2122,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2121.0,
-    "totalListings": 19866,
-    "aiEnhancedDirectories": 2120
+    "avgDirectoriesPerRepo": 2122.0,
+    "totalListings": 19876,
+    "aiEnhancedDirectories": 2121
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27580,12 +27580,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-prototyping-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:36:54.121222+00:00Z",
+      "lastUpdated": "2025-11-07T23:36:54.121222+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2121,
+      "directoryCount": 2122,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

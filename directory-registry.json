@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:12:51.735432+00:00Z",
+  "lastUpdated": "2025-11-07T05:13:09.855645+00:00Z",
   "stats": {
-    "totalDirectories": 587,
+    "totalDirectories": 588,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 587.0,
-    "totalListings": 5566,
-    "aiEnhancedDirectories": 587
+    "avgDirectoriesPerRepo": 588.0,
+    "totalListings": 5576,
+    "aiEnhancedDirectories": 588
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7639,12 +7639,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-fire-pits-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:13:09.855645+00:00Z",
+      "lastUpdated": "2025-11-07T05:13:09.855645+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 587,
+      "directoryCount": 588,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

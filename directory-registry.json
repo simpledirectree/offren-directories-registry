@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:18:59.793372+00:00Z",
+  "lastUpdated": "2025-11-07T20:19:39.906242+00:00Z",
   "stats": {
-    "totalDirectories": 1910,
+    "totalDirectories": 1911,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1910.0,
-    "totalListings": 17948,
-    "aiEnhancedDirectories": 1909
+    "avgDirectoriesPerRepo": 1911.0,
+    "totalListings": 17953,
+    "aiEnhancedDirectories": 1910
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24837,12 +24837,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-spa-services-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:19:39.906242+00:00Z",
+      "lastUpdated": "2025-11-07T20:19:39.906242+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1910,
+      "directoryCount": 1911,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

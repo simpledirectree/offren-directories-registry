@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T14:43:55.074406+00:00Z",
+  "lastUpdated": "2025-11-07T14:46:19.490261+00:00Z",
   "stats": {
-    "totalDirectories": 1566,
+    "totalDirectories": 1567,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1566.0,
-    "totalListings": 14766,
-    "aiEnhancedDirectories": 1565
+    "avgDirectoriesPerRepo": 1567.0,
+    "totalListings": 14776,
+    "aiEnhancedDirectories": 1566
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20365,12 +20365,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-cybersecurity-consulting-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T14:46:19.490261+00:00Z",
+      "lastUpdated": "2025-11-07T14:46:19.490261+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1566,
+      "directoryCount": 1567,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

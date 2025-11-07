@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:12:07.074728+00:00Z",
+  "lastUpdated": "2025-11-07T12:14:29.091148+00:00Z",
   "stats": {
-    "totalDirectories": 1419,
+    "totalDirectories": 1420,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1419.0,
-    "totalListings": 13427,
-    "aiEnhancedDirectories": 1418
+    "avgDirectoriesPerRepo": 1420.0,
+    "totalListings": 13437,
+    "aiEnhancedDirectories": 1419
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18454,12 +18454,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-boxing-classes-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:14:29.091148+00:00Z",
+      "lastUpdated": "2025-11-07T12:14:29.091148+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1419,
+      "directoryCount": 1420,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

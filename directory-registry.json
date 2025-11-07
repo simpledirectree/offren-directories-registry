@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:57:41.700642+00:00Z",
+  "lastUpdated": "2025-11-07T16:57:57.472517+00:00Z",
   "stats": {
-    "totalDirectories": 1702,
+    "totalDirectories": 1703,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1702.0,
-    "totalListings": 16029,
-    "aiEnhancedDirectories": 1701
+    "avgDirectoriesPerRepo": 1703.0,
+    "totalListings": 16039,
+    "aiEnhancedDirectories": 1702
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22133,12 +22133,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-breach-notification-services-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:57:57.472517+00:00Z",
+      "lastUpdated": "2025-11-07T16:57:57.472517+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1702,
+      "directoryCount": 1703,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

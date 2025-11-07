@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:52:29.694084+00:00Z",
+  "lastUpdated": "2025-11-07T09:53:33.244153+00:00Z",
   "stats": {
-    "totalDirectories": 1273,
+    "totalDirectories": 1274,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1273.0,
-    "totalListings": 12090,
-    "aiEnhancedDirectories": 1272
+    "avgDirectoriesPerRepo": 1274.0,
+    "totalListings": 12100,
+    "aiEnhancedDirectories": 1273
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16556,12 +16556,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-brand-positioning-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:53:33.244153+00:00Z",
+      "lastUpdated": "2025-11-07T09:53:33.244153+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1273,
+      "directoryCount": 1274,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

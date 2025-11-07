@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:31:16.518878+00:00Z",
+  "lastUpdated": "2025-11-07T09:31:31.302581+00:00Z",
   "stats": {
-    "totalDirectories": 1249,
+    "totalDirectories": 1250,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1249.0,
-    "totalListings": 11870,
-    "aiEnhancedDirectories": 1248
+    "avgDirectoriesPerRepo": 1250.0,
+    "totalListings": 11880,
+    "aiEnhancedDirectories": 1249
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16244,12 +16244,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-landscape-design-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:31:31.302581+00:00Z",
+      "lastUpdated": "2025-11-07T09:31:31.302581+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1249,
+      "directoryCount": 1250,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

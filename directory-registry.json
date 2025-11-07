@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:32:45.276759+00:00Z",
+  "lastUpdated": "2025-11-07T07:33:01.749576+00:00Z",
   "stats": {
-    "totalDirectories": 1076,
+    "totalDirectories": 1077,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1076.0,
-    "totalListings": 10284,
-    "aiEnhancedDirectories": 1075
+    "avgDirectoriesPerRepo": 1077.0,
+    "totalListings": 10294,
+    "aiEnhancedDirectories": 1076
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13995,12 +13995,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-mosquito-control-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:33:01.749576+00:00Z",
+      "lastUpdated": "2025-11-07T07:33:01.749576+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1076,
+      "directoryCount": 1077,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

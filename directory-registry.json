@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:53:18.777418+00:00Z",
+  "lastUpdated": "2025-11-07T17:54:24.899071+00:00Z",
   "stats": {
-    "totalDirectories": 1768,
+    "totalDirectories": 1769,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1768.0,
-    "totalListings": 16632,
-    "aiEnhancedDirectories": 1767
+    "avgDirectoriesPerRepo": 1769.0,
+    "totalListings": 16642,
+    "aiEnhancedDirectories": 1768
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22991,12 +22991,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-performance-improvement-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:54:24.899071+00:00Z",
+      "lastUpdated": "2025-11-07T17:54:24.899071+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1768,
+      "directoryCount": 1769,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

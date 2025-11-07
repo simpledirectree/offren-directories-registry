@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:17:02.676553+00:00Z",
+  "lastUpdated": "2025-11-07T19:17:18.730860+00:00Z",
   "stats": {
-    "totalDirectories": 1853,
+    "totalDirectories": 1854,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1853.0,
-    "totalListings": 17424,
-    "aiEnhancedDirectories": 1852
+    "avgDirectoriesPerRepo": 1854.0,
+    "totalListings": 17434,
+    "aiEnhancedDirectories": 1853
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24096,12 +24096,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-accountants-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:17:18.730860+00:00Z",
+      "lastUpdated": "2025-11-07T19:17:18.730860+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1853,
+      "directoryCount": 1854,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

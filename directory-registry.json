@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:15:51.605469+00:00Z",
+  "lastUpdated": "2025-11-07T03:16:06.688073+00:00Z",
   "stats": {
-    "totalDirectories": 245,
+    "totalDirectories": 246,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 245.0,
-    "totalListings": 2256,
-    "aiEnhancedDirectories": 245
+    "avgDirectoriesPerRepo": 246.0,
+    "totalListings": 2266,
+    "aiEnhancedDirectories": 246
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3193,12 +3193,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-social-media-advertising-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:16:06.688073+00:00Z",
+      "lastUpdated": "2025-11-07T03:16:06.688073+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 245,
+      "directoryCount": 246,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

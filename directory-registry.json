@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:40:47.277766+00:00Z",
+  "lastUpdated": "2025-11-07T17:41:50.087974+00:00Z",
   "stats": {
-    "totalDirectories": 1751,
+    "totalDirectories": 1752,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1751.0,
-    "totalListings": 16487,
-    "aiEnhancedDirectories": 1750
+    "avgDirectoriesPerRepo": 1752.0,
+    "totalListings": 16490,
+    "aiEnhancedDirectories": 1751
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22770,12 +22770,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-cosmetic-dentistry-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:41:50.087974+00:00Z",
+      "lastUpdated": "2025-11-07T17:41:50.087974+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1751,
+      "directoryCount": 1752,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

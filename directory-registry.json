@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:57:02.896216+00:00Z",
+  "lastUpdated": "2025-11-07T05:57:21.025937+00:00Z",
   "stats": {
-    "totalDirectories": 743,
+    "totalDirectories": 744,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 743.0,
-    "totalListings": 7091,
-    "aiEnhancedDirectories": 743
+    "avgDirectoriesPerRepo": 744.0,
+    "totalListings": 7101,
+    "aiEnhancedDirectories": 744
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9667,12 +9667,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-headlight-restoration-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:57:21.025937+00:00Z",
+      "lastUpdated": "2025-11-07T05:57:21.025937+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 743,
+      "directoryCount": 744,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T14:24:13.327939+00:00Z",
+  "lastUpdated": "2025-11-07T14:24:28.940911+00:00Z",
   "stats": {
-    "totalDirectories": 1546,
+    "totalDirectories": 1547,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1546.0,
-    "totalListings": 14575,
-    "aiEnhancedDirectories": 1545
+    "avgDirectoriesPerRepo": 1547.0,
+    "totalListings": 14585,
+    "aiEnhancedDirectories": 1546
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20105,12 +20105,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-body-scrubs-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T14:24:28.940911+00:00Z",
+      "lastUpdated": "2025-11-07T14:24:28.940911+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1546,
+      "directoryCount": 1547,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

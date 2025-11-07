@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:52:00.585775+00:00Z",
+  "lastUpdated": "2025-11-07T03:52:17.516694+00:00Z",
   "stats": {
-    "totalDirectories": 301,
+    "totalDirectories": 302,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 301.0,
-    "totalListings": 2801,
-    "aiEnhancedDirectories": 301
+    "avgDirectoriesPerRepo": 302.0,
+    "totalListings": 2811,
+    "aiEnhancedDirectories": 302
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3921,12 +3921,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-color-consultation-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:52:17.516694+00:00Z",
+      "lastUpdated": "2025-11-07T03:52:17.516694+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 301,
+      "directoryCount": 302,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

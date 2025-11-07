@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:33:28.894726+00:00Z",
+  "lastUpdated": "2025-11-07T06:33:48.372294+00:00Z",
   "stats": {
-    "totalDirectories": 870,
+    "totalDirectories": 871,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 870.0,
-    "totalListings": 8317,
-    "aiEnhancedDirectories": 870
+    "avgDirectoriesPerRepo": 871.0,
+    "totalListings": 8327,
+    "aiEnhancedDirectories": 871
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11318,12 +11318,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-crop-planning-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:33:48.372294+00:00Z",
+      "lastUpdated": "2025-11-07T06:33:48.372294+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 870,
+      "directoryCount": 871,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

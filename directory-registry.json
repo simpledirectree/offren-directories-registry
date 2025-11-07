@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:55:17.046197+00:00Z",
+  "lastUpdated": "2025-11-07T20:57:01.815119+00:00Z",
   "stats": {
-    "totalDirectories": 1952,
+    "totalDirectories": 1953,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1952.0,
-    "totalListings": 18334,
-    "aiEnhancedDirectories": 1951
+    "avgDirectoriesPerRepo": 1953.0,
+    "totalListings": 18344,
+    "aiEnhancedDirectories": 1952
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25383,12 +25383,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-telemedicine-platforms-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:57:01.815119+00:00Z",
+      "lastUpdated": "2025-11-07T20:57:01.815119+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1952,
+      "directoryCount": 1953,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

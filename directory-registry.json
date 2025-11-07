@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:12:19.377731+00:00Z",
+  "lastUpdated": "2025-11-07T16:14:14.016420+00:00Z",
   "stats": {
-    "totalDirectories": 1663,
+    "totalDirectories": 1664,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1663.0,
-    "totalListings": 15666,
-    "aiEnhancedDirectories": 1662
+    "avgDirectoriesPerRepo": 1664.0,
+    "totalListings": 15676,
+    "aiEnhancedDirectories": 1663
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21626,12 +21626,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-handyman-services-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:14:14.016420+00:00Z",
+      "lastUpdated": "2025-11-07T16:14:14.016420+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1663,
+      "directoryCount": 1664,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

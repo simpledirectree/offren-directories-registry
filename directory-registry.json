@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:40:55.164471+00:00Z",
+  "lastUpdated": "2025-11-07T08:41:34.361408+00:00Z",
   "stats": {
-    "totalDirectories": 1198,
+    "totalDirectories": 1199,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1198.0,
-    "totalListings": 11421,
-    "aiEnhancedDirectories": 1197
+    "avgDirectoriesPerRepo": 1199.0,
+    "totalListings": 11431,
+    "aiEnhancedDirectories": 1198
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15581,12 +15581,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-pop-up-restaurants-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:41:34.361408+00:00Z",
+      "lastUpdated": "2025-11-07T08:41:34.361408+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1198,
+      "directoryCount": 1199,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

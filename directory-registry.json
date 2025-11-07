@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:40:49.367686+00:00Z",
+  "lastUpdated": "2025-11-07T18:43:10.886355+00:00Z",
   "stats": {
-    "totalDirectories": 1812,
+    "totalDirectories": 1813,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1812.0,
-    "totalListings": 17048,
-    "aiEnhancedDirectories": 1811
+    "avgDirectoriesPerRepo": 1813.0,
+    "totalListings": 17058,
+    "aiEnhancedDirectories": 1812
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23563,12 +23563,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-regulatory-compliance-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:43:10.886355+00:00Z",
+      "lastUpdated": "2025-11-07T18:43:10.886355+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1812,
+      "directoryCount": 1813,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

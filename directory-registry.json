@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:49:18.592152+00:00Z",
+  "lastUpdated": "2025-11-07T03:49:32.035087+00:00Z",
   "stats": {
-    "totalDirectories": 291,
+    "totalDirectories": 292,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 291.0,
-    "totalListings": 2703,
-    "aiEnhancedDirectories": 291
+    "avgDirectoriesPerRepo": 292.0,
+    "totalListings": 2713,
+    "aiEnhancedDirectories": 292
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3791,12 +3791,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-accounts-payable-management-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:49:32.035087+00:00Z",
+      "lastUpdated": "2025-11-07T03:49:32.035087+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 291,
+      "directoryCount": 292,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

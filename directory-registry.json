@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:23:30.988956+00:00Z",
+  "lastUpdated": "2025-11-07T06:23:48.809414+00:00Z",
   "stats": {
-    "totalDirectories": 836,
+    "totalDirectories": 837,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 836.0,
-    "totalListings": 8005,
-    "aiEnhancedDirectories": 836
+    "avgDirectoriesPerRepo": 837.0,
+    "totalListings": 8015,
+    "aiEnhancedDirectories": 837
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10876,12 +10876,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-tax-law-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:23:48.809414+00:00Z",
+      "lastUpdated": "2025-11-07T06:23:48.809414+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 836,
+      "directoryCount": 837,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

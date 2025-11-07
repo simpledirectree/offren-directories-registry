@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:54:23.015341+00:00Z",
+  "lastUpdated": "2025-11-07T16:55:28.482775+00:00Z",
   "stats": {
-    "totalDirectories": 1698,
+    "totalDirectories": 1699,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1698.0,
-    "totalListings": 15991,
-    "aiEnhancedDirectories": 1697
+    "avgDirectoriesPerRepo": 1699.0,
+    "totalListings": 16001,
+    "aiEnhancedDirectories": 1698
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22081,12 +22081,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-social-media-management-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:55:28.482775+00:00Z",
+      "lastUpdated": "2025-11-07T16:55:28.482775+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1698,
+      "directoryCount": 1699,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

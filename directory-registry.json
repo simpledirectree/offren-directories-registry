@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:09:23.896291+00:00Z",
+  "lastUpdated": "2025-11-07T07:09:36.338346+00:00Z",
   "stats": {
-    "totalDirectories": 995,
+    "totalDirectories": 996,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 995.0,
-    "totalListings": 9509,
-    "aiEnhancedDirectories": 995
+    "avgDirectoriesPerRepo": 996.0,
+    "totalListings": 9510,
+    "aiEnhancedDirectories": 996
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12943,12 +12943,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-event-registration-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:09:36.338346+00:00Z",
+      "lastUpdated": "2025-11-07T07:09:36.338346+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 995,
+      "directoryCount": 996,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

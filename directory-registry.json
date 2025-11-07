@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:18:34.419178+00:00Z",
+  "lastUpdated": "2025-11-07T07:18:53.188026+00:00Z",
   "stats": {
-    "totalDirectories": 1026,
+    "totalDirectories": 1027,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1026.0,
-    "totalListings": 9801,
-    "aiEnhancedDirectories": 1025
+    "avgDirectoriesPerRepo": 1027.0,
+    "totalListings": 9811,
+    "aiEnhancedDirectories": 1026
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13345,12 +13345,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-illustration-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:18:53.188026+00:00Z",
+      "lastUpdated": "2025-11-07T07:18:53.188026+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1026,
+      "directoryCount": 1027,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

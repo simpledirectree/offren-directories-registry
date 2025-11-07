@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:21:18.109720+00:00Z",
+  "lastUpdated": "2025-11-07T05:21:33.139108+00:00Z",
   "stats": {
-    "totalDirectories": 617,
+    "totalDirectories": 618,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 617.0,
-    "totalListings": 5864,
-    "aiEnhancedDirectories": 617
+    "avgDirectoriesPerRepo": 618.0,
+    "totalListings": 5874,
+    "aiEnhancedDirectories": 618
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8029,12 +8029,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-talent-management-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:21:33.139108+00:00Z",
+      "lastUpdated": "2025-11-07T05:21:33.139108+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 617,
+      "directoryCount": 618,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

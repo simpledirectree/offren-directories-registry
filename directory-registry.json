@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:58:36.866982+00:00Z",
+  "lastUpdated": "2025-11-07T06:58:51.846319+00:00Z",
   "stats": {
-    "totalDirectories": 959,
+    "totalDirectories": 960,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 959.0,
-    "totalListings": 9159,
-    "aiEnhancedDirectories": 959
+    "avgDirectoriesPerRepo": 960.0,
+    "totalListings": 9169,
+    "aiEnhancedDirectories": 960
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12475,12 +12475,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-long-distance-moving-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:58:51.846319+00:00Z",
+      "lastUpdated": "2025-11-07T06:58:51.846319+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 959,
+      "directoryCount": 960,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

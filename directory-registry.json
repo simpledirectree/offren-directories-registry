@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:37:04.352764+00:00Z",
+  "lastUpdated": "2025-11-07T15:37:44.903598+00:00Z",
   "stats": {
-    "totalDirectories": 1627,
+    "totalDirectories": 1628,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1627.0,
-    "totalListings": 15331,
-    "aiEnhancedDirectories": 1626
+    "avgDirectoriesPerRepo": 1628.0,
+    "totalListings": 15341,
+    "aiEnhancedDirectories": 1627
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21158,12 +21158,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-customer-relationship-management-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:37:44.903598+00:00Z",
+      "lastUpdated": "2025-11-07T15:37:44.903598+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1627,
+      "directoryCount": 1628,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

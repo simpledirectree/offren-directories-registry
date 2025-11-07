@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:54:24.899071+00:00Z",
+  "lastUpdated": "2025-11-07T17:55:04.897144+00:00Z",
   "stats": {
-    "totalDirectories": 1769,
+    "totalDirectories": 1770,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1769.0,
-    "totalListings": 16642,
-    "aiEnhancedDirectories": 1768
+    "avgDirectoriesPerRepo": 1770.0,
+    "totalListings": 16652,
+    "aiEnhancedDirectories": 1769
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23004,12 +23004,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-martial-arts-coaching-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:55:04.897144+00:00Z",
+      "lastUpdated": "2025-11-07T17:55:04.897144+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1769,
+      "directoryCount": 1770,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

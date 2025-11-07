@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:15:40.517890+00:00Z",
+  "lastUpdated": "2025-11-07T23:16:21.233273+00:00Z",
   "stats": {
-    "totalDirectories": 2099,
+    "totalDirectories": 2100,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2099.0,
-    "totalListings": 19670,
-    "aiEnhancedDirectories": 2098
+    "avgDirectoriesPerRepo": 2100.0,
+    "totalListings": 19680,
+    "aiEnhancedDirectories": 2099
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27294,12 +27294,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-pilates-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:16:21.233273+00:00Z",
+      "lastUpdated": "2025-11-07T23:16:21.233273+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2099,
+      "directoryCount": 2100,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

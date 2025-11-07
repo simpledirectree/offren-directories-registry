@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:51:34.161185+00:00Z",
+  "lastUpdated": "2025-11-07T08:51:47.429422+00:00Z",
   "stats": {
-    "totalDirectories": 1209,
+    "totalDirectories": 1210,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1209.0,
-    "totalListings": 11521,
-    "aiEnhancedDirectories": 1208
+    "avgDirectoriesPerRepo": 1210.0,
+    "totalListings": 11524,
+    "aiEnhancedDirectories": 1209
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15724,12 +15724,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-predictive-modeling-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:51:47.429422+00:00Z",
+      "lastUpdated": "2025-11-07T08:51:47.429422+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1209,
+      "directoryCount": 1210,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

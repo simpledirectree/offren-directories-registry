@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:12:26.442429+00:00Z",
+  "lastUpdated": "2025-11-07T07:12:42.913533+00:00Z",
   "stats": {
-    "totalDirectories": 1003,
+    "totalDirectories": 1004,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1003.0,
-    "totalListings": 9580,
-    "aiEnhancedDirectories": 1002
+    "avgDirectoriesPerRepo": 1004.0,
+    "totalListings": 9590,
+    "aiEnhancedDirectories": 1003
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13046,12 +13046,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-quality-assurance-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:12:42.913533+00:00Z",
+      "lastUpdated": "2025-11-07T07:12:42.913533+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1003,
+      "directoryCount": 1004,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

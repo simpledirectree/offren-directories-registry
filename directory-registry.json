@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:26:20.422044+00:00Z",
+  "lastUpdated": "2025-11-07T07:26:37.171543+00:00Z",
   "stats": {
-    "totalDirectories": 1054,
+    "totalDirectories": 1055,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1054.0,
-    "totalListings": 10076,
-    "aiEnhancedDirectories": 1053
+    "avgDirectoriesPerRepo": 1055.0,
+    "totalListings": 10086,
+    "aiEnhancedDirectories": 1054
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13709,12 +13709,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-defensive-driving-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:26:37.171543+00:00Z",
+      "lastUpdated": "2025-11-07T07:26:37.171543+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1054,
+      "directoryCount": 1055,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

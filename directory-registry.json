@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:24:46.246034+00:00Z",
+  "lastUpdated": "2025-11-07T17:25:52.069143+00:00Z",
   "stats": {
-    "totalDirectories": 1734,
+    "totalDirectories": 1735,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1734.0,
-    "totalListings": 16326,
-    "aiEnhancedDirectories": 1733
+    "avgDirectoriesPerRepo": 1735.0,
+    "totalListings": 16336,
+    "aiEnhancedDirectories": 1734
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22549,12 +22549,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-graphic-design-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:25:52.069143+00:00Z",
+      "lastUpdated": "2025-11-07T17:25:52.069143+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1734,
+      "directoryCount": 1735,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

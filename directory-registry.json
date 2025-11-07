@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:47:48.010814+00:00Z",
+  "lastUpdated": "2025-11-07T05:48:05.228811+00:00Z",
   "stats": {
-    "totalDirectories": 710,
+    "totalDirectories": 711,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 710.0,
-    "totalListings": 6784,
-    "aiEnhancedDirectories": 710
+    "avgDirectoriesPerRepo": 711.0,
+    "totalListings": 6794,
+    "aiEnhancedDirectories": 711
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9238,12 +9238,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-livestock-management-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:48:05.228811+00:00Z",
+      "lastUpdated": "2025-11-07T05:48:05.228811+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 710,
+      "directoryCount": 711,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

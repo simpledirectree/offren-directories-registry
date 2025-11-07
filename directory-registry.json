@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:52:33.202865+00:00Z",
+  "lastUpdated": "2025-11-07T03:52:47.698889+00:00Z",
   "stats": {
-    "totalDirectories": 303,
+    "totalDirectories": 304,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 303.0,
-    "totalListings": 2821,
-    "aiEnhancedDirectories": 303
+    "avgDirectoriesPerRepo": 304.0,
+    "totalListings": 2831,
+    "aiEnhancedDirectories": 304
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3947,12 +3947,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-acne-treatments-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:52:47.698889+00:00Z",
+      "lastUpdated": "2025-11-07T03:52:47.698889+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 303,
+      "directoryCount": 304,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

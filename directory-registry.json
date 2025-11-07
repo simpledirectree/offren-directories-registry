@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:51:23.217754+00:00Z",
+  "lastUpdated": "2025-11-07T15:52:28.911632+00:00Z",
   "stats": {
-    "totalDirectories": 1644,
+    "totalDirectories": 1645,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1644.0,
-    "totalListings": 15489,
-    "aiEnhancedDirectories": 1643
+    "avgDirectoriesPerRepo": 1645.0,
+    "totalListings": 15499,
+    "aiEnhancedDirectories": 1644
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21379,12 +21379,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-goal-setting-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:52:28.911632+00:00Z",
+      "lastUpdated": "2025-11-07T15:52:28.911632+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1644,
+      "directoryCount": 1645,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

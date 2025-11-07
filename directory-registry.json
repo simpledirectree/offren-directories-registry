@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:26:22.626823+00:00Z",
+  "lastUpdated": "2025-11-07T22:26:39.117037+00:00Z",
   "stats": {
-    "totalDirectories": 2047,
+    "totalDirectories": 2048,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2047.0,
-    "totalListings": 19227,
-    "aiEnhancedDirectories": 2046
+    "avgDirectoriesPerRepo": 2048.0,
+    "totalListings": 19236,
+    "aiEnhancedDirectories": 2047
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26618,12 +26618,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-banking-relationship-management-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:26:39.117037+00:00Z",
+      "lastUpdated": "2025-11-07T22:26:39.117037+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2047,
+      "directoryCount": 2048,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

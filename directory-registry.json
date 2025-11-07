@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:11:40.732114+00:00Z",
+  "lastUpdated": "2025-11-07T10:11:54.326633+00:00Z",
   "stats": {
-    "totalDirectories": 1295,
+    "totalDirectories": 1296,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1295.0,
-    "totalListings": 12303,
-    "aiEnhancedDirectories": 1294
+    "avgDirectoriesPerRepo": 1296.0,
+    "totalListings": 12309,
+    "aiEnhancedDirectories": 1295
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16842,12 +16842,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-grounds-crew-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:11:54.326633+00:00Z",
+      "lastUpdated": "2025-11-07T10:11:54.326633+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1295,
+      "directoryCount": 1296,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

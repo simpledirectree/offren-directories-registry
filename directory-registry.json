@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:18:12.733269+00:00Z",
+  "lastUpdated": "2025-11-07T06:18:29.157969+00:00Z",
   "stats": {
-    "totalDirectories": 819,
+    "totalDirectories": 820,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 819.0,
-    "totalListings": 7839,
-    "aiEnhancedDirectories": 819
+    "avgDirectoriesPerRepo": 820.0,
+    "totalListings": 7849,
+    "aiEnhancedDirectories": 820
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10655,12 +10655,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-financing-assistance-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:18:29.157969+00:00Z",
+      "lastUpdated": "2025-11-07T06:18:29.157969+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 819,
+      "directoryCount": 820,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

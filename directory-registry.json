@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:06:54.287694+00:00Z",
+  "lastUpdated": "2025-11-07T19:07:09.846700+00:00Z",
   "stats": {
-    "totalDirectories": 1834,
+    "totalDirectories": 1835,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1834.0,
-    "totalListings": 17245,
-    "aiEnhancedDirectories": 1833
+    "avgDirectoriesPerRepo": 1835.0,
+    "totalListings": 17255,
+    "aiEnhancedDirectories": 1834
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23849,12 +23849,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-social-media-marketing-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:07:09.846700+00:00Z",
+      "lastUpdated": "2025-11-07T19:07:09.846700+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1834,
+      "directoryCount": 1835,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

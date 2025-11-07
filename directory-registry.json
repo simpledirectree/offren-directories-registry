@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:34:33.342578+00:00Z",
+  "lastUpdated": "2025-11-07T05:34:51.274486+00:00Z",
   "stats": {
-    "totalDirectories": 664,
+    "totalDirectories": 665,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 664.0,
-    "totalListings": 6334,
-    "aiEnhancedDirectories": 664
+    "avgDirectoriesPerRepo": 665.0,
+    "totalListings": 6344,
+    "aiEnhancedDirectories": 665
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8640,12 +8640,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-bank-reconciliation-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:34:51.274486+00:00Z",
+      "lastUpdated": "2025-11-07T05:34:51.274486+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 664,
+      "directoryCount": 665,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

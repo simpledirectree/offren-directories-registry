@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:21:49.344583+00:00Z",
+  "lastUpdated": "2025-11-07T05:22:08.990070+00:00Z",
   "stats": {
-    "totalDirectories": 619,
+    "totalDirectories": 620,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 619.0,
-    "totalListings": 5884,
-    "aiEnhancedDirectories": 619
+    "avgDirectoriesPerRepo": 620.0,
+    "totalListings": 5894,
+    "aiEnhancedDirectories": 620
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8055,12 +8055,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-diversity-training-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:22:08.990070+00:00Z",
+      "lastUpdated": "2025-11-07T05:22:08.990070+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 619,
+      "directoryCount": 620,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

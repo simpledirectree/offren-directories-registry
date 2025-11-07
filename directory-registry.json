@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:28:34.030215+00:00Z",
+  "lastUpdated": "2025-11-07T16:30:28.183203+00:00Z",
   "stats": {
-    "totalDirectories": 1677,
+    "totalDirectories": 1678,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1677.0,
-    "totalListings": 15794,
-    "aiEnhancedDirectories": 1676
+    "avgDirectoriesPerRepo": 1678.0,
+    "totalListings": 15804,
+    "aiEnhancedDirectories": 1677
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21808,12 +21808,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-custom-home-building-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:30:28.183203+00:00Z",
+      "lastUpdated": "2025-11-07T16:30:28.183203+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1677,
+      "directoryCount": 1678,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:04:45.777813+00:00Z",
+  "lastUpdated": "2025-11-07T15:05:01.333783+00:00Z",
   "stats": {
-    "totalDirectories": 1588,
+    "totalDirectories": 1589,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1588.0,
-    "totalListings": 14976,
-    "aiEnhancedDirectories": 1587
+    "avgDirectoriesPerRepo": 1589.0,
+    "totalListings": 14986,
+    "aiEnhancedDirectories": 1588
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20651,12 +20651,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-treasury-services-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:05:01.333783+00:00Z",
+      "lastUpdated": "2025-11-07T15:05:01.333783+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1588,
+      "directoryCount": 1589,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:08:42.600700+00:00Z",
+  "lastUpdated": "2025-11-07T06:08:59.360214+00:00Z",
   "stats": {
-    "totalDirectories": 785,
+    "totalDirectories": 786,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 785.0,
-    "totalListings": 7509,
-    "aiEnhancedDirectories": 785
+    "avgDirectoriesPerRepo": 786.0,
+    "totalListings": 7519,
+    "aiEnhancedDirectories": 786
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10213,12 +10213,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-vision-insurance-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:08:59.360214+00:00Z",
+      "lastUpdated": "2025-11-07T06:08:59.360214+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 785,
+      "directoryCount": 786,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

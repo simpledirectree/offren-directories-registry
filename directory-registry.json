@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:28:33.859645+00:00Z",
+  "lastUpdated": "2025-11-07T09:28:46.707400+00:00Z",
   "stats": {
-    "totalDirectories": 1243,
+    "totalDirectories": 1244,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1243.0,
-    "totalListings": 11816,
-    "aiEnhancedDirectories": 1242
+    "avgDirectoriesPerRepo": 1244.0,
+    "totalListings": 11820,
+    "aiEnhancedDirectories": 1243
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16166,12 +16166,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-fulfillment-services-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:28:46.707400+00:00Z",
+      "lastUpdated": "2025-11-07T09:28:46.707400+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1243,
+      "directoryCount": 1244,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

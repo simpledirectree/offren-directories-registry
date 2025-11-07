@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:02:38.634988+00:00Z",
+  "lastUpdated": "2025-11-07T05:02:56.912140+00:00Z",
   "stats": {
-    "totalDirectories": 550,
+    "totalDirectories": 551,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 550.0,
-    "totalListings": 5221,
-    "aiEnhancedDirectories": 550
+    "avgDirectoriesPerRepo": 551.0,
+    "totalListings": 5231,
+    "aiEnhancedDirectories": 551
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7158,12 +7158,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-network-configuration-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:02:56.912140+00:00Z",
+      "lastUpdated": "2025-11-07T05:02:56.912140+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 550,
+      "directoryCount": 551,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

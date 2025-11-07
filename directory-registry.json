@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T11:21:31.073535+00:00Z",
+  "lastUpdated": "2025-11-07T11:22:09.836188+00:00Z",
   "stats": {
-    "totalDirectories": 1366,
+    "totalDirectories": 1367,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1366.0,
-    "totalListings": 12955,
-    "aiEnhancedDirectories": 1365
+    "avgDirectoriesPerRepo": 1367.0,
+    "totalListings": 12962,
+    "aiEnhancedDirectories": 1366
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17765,12 +17765,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-float-therapy-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T11:22:09.836188+00:00Z",
+      "lastUpdated": "2025-11-07T11:22:09.836188+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1366,
+      "directoryCount": 1367,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

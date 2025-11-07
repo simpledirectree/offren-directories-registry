@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:45:01.615745+00:00Z",
+  "lastUpdated": "2025-11-07T16:47:25.673508+00:00Z",
   "stats": {
-    "totalDirectories": 1693,
+    "totalDirectories": 1694,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1693.0,
-    "totalListings": 15948,
-    "aiEnhancedDirectories": 1692
+    "avgDirectoriesPerRepo": 1694.0,
+    "totalListings": 15956,
+    "aiEnhancedDirectories": 1693
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22016,12 +22016,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-hipaa-compliance-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:47:25.673508+00:00Z",
+      "lastUpdated": "2025-11-07T16:47:25.673508+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1693,
+      "directoryCount": 1694,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

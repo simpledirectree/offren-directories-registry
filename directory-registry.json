@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:12:44.232851+00:00Z",
+  "lastUpdated": "2025-11-07T19:13:25.454323+00:00Z",
   "stats": {
-    "totalDirectories": 1845,
+    "totalDirectories": 1846,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1845.0,
-    "totalListings": 17350,
-    "aiEnhancedDirectories": 1844
+    "avgDirectoriesPerRepo": 1846.0,
+    "totalListings": 17360,
+    "aiEnhancedDirectories": 1845
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23992,12 +23992,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-real-estate-appraisal-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:13:25.454323+00:00Z",
+      "lastUpdated": "2025-11-07T19:13:25.454323+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1845,
+      "directoryCount": 1846,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

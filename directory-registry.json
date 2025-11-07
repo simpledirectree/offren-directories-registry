@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:30:08.111885+00:00Z",
+  "lastUpdated": "2025-11-07T06:30:26.206831+00:00Z",
   "stats": {
-    "totalDirectories": 858,
+    "totalDirectories": 859,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 858.0,
-    "totalListings": 8208,
-    "aiEnhancedDirectories": 858
+    "avgDirectoriesPerRepo": 859.0,
+    "totalListings": 8218,
+    "aiEnhancedDirectories": 859
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11162,12 +11162,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-database-administration-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:30:26.206831+00:00Z",
+      "lastUpdated": "2025-11-07T06:30:26.206831+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 858,
+      "directoryCount": 859,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

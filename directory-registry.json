@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:24:56.285560+00:00Z",
+  "lastUpdated": "2025-11-07T08:25:11.278046+00:00Z",
   "stats": {
-    "totalDirectories": 1181,
+    "totalDirectories": 1182,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1181.0,
-    "totalListings": 11267,
-    "aiEnhancedDirectories": 1180
+    "avgDirectoriesPerRepo": 1182.0,
+    "totalListings": 11277,
+    "aiEnhancedDirectories": 1181
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15360,12 +15360,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-foundation-repair-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:25:11.278046+00:00Z",
+      "lastUpdated": "2025-11-07T08:25:11.278046+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1181,
+      "directoryCount": 1182,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

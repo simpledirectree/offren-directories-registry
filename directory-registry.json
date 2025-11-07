@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T13:48:40.316275+00:00Z",
+  "lastUpdated": "2025-11-07T13:49:21.882097+00:00Z",
   "stats": {
-    "totalDirectories": 1511,
+    "totalDirectories": 1512,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1511.0,
-    "totalListings": 14249,
-    "aiEnhancedDirectories": 1510
+    "avgDirectoriesPerRepo": 1512.0,
+    "totalListings": 14255,
+    "aiEnhancedDirectories": 1511
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19650,12 +19650,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-gutter-cleaning-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:49:21.882097+00:00Z",
+      "lastUpdated": "2025-11-07T13:49:21.882097+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1511,
+      "directoryCount": 1512,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

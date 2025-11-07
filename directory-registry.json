@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:56:47.355653+00:00Z",
+  "lastUpdated": "2025-11-07T06:57:03.564729+00:00Z",
   "stats": {
-    "totalDirectories": 952,
+    "totalDirectories": 953,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 952.0,
-    "totalListings": 9094,
-    "aiEnhancedDirectories": 952
+    "avgDirectoriesPerRepo": 953.0,
+    "totalListings": 9104,
+    "aiEnhancedDirectories": 953
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12384,12 +12384,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-deep-tissue-massage-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:57:03.564729+00:00Z",
+      "lastUpdated": "2025-11-07T06:57:03.564729+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 952,
+      "directoryCount": 953,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

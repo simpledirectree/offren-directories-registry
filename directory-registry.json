@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:47:25.191889+00:00Z",
+  "lastUpdated": "2025-11-07T04:47:43.149127+00:00Z",
   "stats": {
-    "totalDirectories": 496,
+    "totalDirectories": 497,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 496.0,
-    "totalListings": 4686,
-    "aiEnhancedDirectories": 496
+    "avgDirectoriesPerRepo": 497.0,
+    "totalListings": 4696,
+    "aiEnhancedDirectories": 497
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6456,12 +6456,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-it-certification-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:47:43.149127+00:00Z",
+      "lastUpdated": "2025-11-07T04:47:43.149127+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 496,
+      "directoryCount": 497,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

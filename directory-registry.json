@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:30:47.310063+00:00Z",
+  "lastUpdated": "2025-11-07T09:31:01.024361+00:00Z",
   "stats": {
-    "totalDirectories": 1247,
+    "totalDirectories": 1248,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1247.0,
-    "totalListings": 11850,
-    "aiEnhancedDirectories": 1246
+    "avgDirectoriesPerRepo": 1248.0,
+    "totalListings": 11860,
+    "aiEnhancedDirectories": 1247
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16218,12 +16218,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-soil-testing-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:31:01.024361+00:00Z",
+      "lastUpdated": "2025-11-07T09:31:01.024361+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1247,
+      "directoryCount": 1248,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

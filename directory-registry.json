@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:14:05.938019+00:00Z",
+  "lastUpdated": "2025-11-07T07:14:20.069193+00:00Z",
   "stats": {
-    "totalDirectories": 1009,
+    "totalDirectories": 1010,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1009.0,
-    "totalListings": 9640,
-    "aiEnhancedDirectories": 1008
+    "avgDirectoriesPerRepo": 1010.0,
+    "totalListings": 9650,
+    "aiEnhancedDirectories": 1009
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13124,12 +13124,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-life-coaching-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:14:20.069193+00:00Z",
+      "lastUpdated": "2025-11-07T07:14:20.069193+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1009,
+      "directoryCount": 1010,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:49:26.465064+00:00Z",
+  "lastUpdated": "2025-11-07T04:49:43.246457+00:00Z",
   "stats": {
-    "totalDirectories": 503,
+    "totalDirectories": 504,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 503.0,
-    "totalListings": 4756,
-    "aiEnhancedDirectories": 503
+    "avgDirectoriesPerRepo": 504.0,
+    "totalListings": 4766,
+    "aiEnhancedDirectories": 504
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6547,12 +6547,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-postpartum-doulas-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:49:43.246457+00:00Z",
+      "lastUpdated": "2025-11-07T04:49:43.246457+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 503,
+      "directoryCount": 504,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

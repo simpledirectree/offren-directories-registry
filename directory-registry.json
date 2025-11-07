@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:09:23.788681+00:00Z",
+  "lastUpdated": "2025-11-07T19:10:19.491268+00:00Z",
   "stats": {
-    "totalDirectories": 1840,
+    "totalDirectories": 1841,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1840.0,
-    "totalListings": 17300,
-    "aiEnhancedDirectories": 1839
+    "avgDirectoriesPerRepo": 1841.0,
+    "totalListings": 17310,
+    "aiEnhancedDirectories": 1840
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23927,12 +23927,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-excavation-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:10:19.491268+00:00Z",
+      "lastUpdated": "2025-11-07T19:10:19.491268+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1840,
+      "directoryCount": 1841,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

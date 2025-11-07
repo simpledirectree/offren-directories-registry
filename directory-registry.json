@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:46:34.877742+00:00Z",
+  "lastUpdated": "2025-11-07T00:47:41.788301+00:00Z",
   "stats": {
-    "totalDirectories": 105,
+    "totalDirectories": 106,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 105.0,
-    "totalListings": 985,
-    "aiEnhancedDirectories": 105
+    "avgDirectoriesPerRepo": 106.0,
+    "totalListings": 995,
+    "aiEnhancedDirectories": 106
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1373,12 +1373,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-legal-support-services-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:47:41.788301+00:00Z",
+      "lastUpdated": "2025-11-07T00:47:41.788301+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 105,
+      "directoryCount": 106,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

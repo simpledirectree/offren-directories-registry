@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:49:46.690952+00:00Z",
+  "lastUpdated": "2025-11-07T18:50:02.552530+00:00Z",
   "stats": {
-    "totalDirectories": 1820,
+    "totalDirectories": 1821,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1820.0,
-    "totalListings": 17128,
-    "aiEnhancedDirectories": 1819
+    "avgDirectoriesPerRepo": 1821.0,
+    "totalListings": 17138,
+    "aiEnhancedDirectories": 1820
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23667,12 +23667,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-quickbooks-setup-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:50:02.552530+00:00Z",
+      "lastUpdated": "2025-11-07T18:50:02.552530+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1820,
+      "directoryCount": 1821,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:49:44.445837+00:00Z",
+  "lastUpdated": "2025-11-07T17:50:27.836466+00:00Z",
   "stats": {
-    "totalDirectories": 1761,
+    "totalDirectories": 1762,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1761.0,
-    "totalListings": 16567,
-    "aiEnhancedDirectories": 1760
+    "avgDirectoriesPerRepo": 1762.0,
+    "totalListings": 16577,
+    "aiEnhancedDirectories": 1761
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22900,12 +22900,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-drawing-instruction-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:50:27.836466+00:00Z",
+      "lastUpdated": "2025-11-07T17:50:27.836466+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1761,
+      "directoryCount": 1762,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

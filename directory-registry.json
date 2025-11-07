@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:52:21.591780+00:00Z",
+  "lastUpdated": "2025-11-07T12:53:27.263447+00:00Z",
   "stats": {
-    "totalDirectories": 1458,
+    "totalDirectories": 1459,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1458.0,
-    "totalListings": 13774,
-    "aiEnhancedDirectories": 1457
+    "avgDirectoriesPerRepo": 1459.0,
+    "totalListings": 13784,
+    "aiEnhancedDirectories": 1458
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18961,12 +18961,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-custom-home-building-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:53:27.263447+00:00Z",
+      "lastUpdated": "2025-11-07T12:53:27.263447+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1458,
+      "directoryCount": 1459,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

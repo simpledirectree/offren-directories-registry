@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:11:16.518152+00:00Z",
+  "lastUpdated": "2025-11-07T17:11:31.712767+00:00Z",
   "stats": {
-    "totalDirectories": 1719,
+    "totalDirectories": 1720,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1719.0,
-    "totalListings": 16185,
-    "aiEnhancedDirectories": 1718
+    "avgDirectoriesPerRepo": 1720.0,
+    "totalListings": 16195,
+    "aiEnhancedDirectories": 1719
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22354,12 +22354,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-garden-bed-preparation-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:11:31.712767+00:00Z",
+      "lastUpdated": "2025-11-07T17:11:31.712767+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1719,
+      "directoryCount": 1720,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

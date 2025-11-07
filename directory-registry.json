@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:45:14.620440+00:00Z",
+  "lastUpdated": "2025-11-07T10:46:45.180648+00:00Z",
   "stats": {
-    "totalDirectories": 1335,
+    "totalDirectories": 1336,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1335.0,
-    "totalListings": 12667,
-    "aiEnhancedDirectories": 1334
+    "avgDirectoriesPerRepo": 1336.0,
+    "totalListings": 12677,
+    "aiEnhancedDirectories": 1335
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17362,12 +17362,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-photo-editing-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:46:45.180648+00:00Z",
+      "lastUpdated": "2025-11-07T10:46:45.180648+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1335,
+      "directoryCount": 1336,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

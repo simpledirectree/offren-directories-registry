@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:22:47.863819+00:00Z",
+  "lastUpdated": "2025-11-07T08:24:42.442837+00:00Z",
   "stats": {
-    "totalDirectories": 1179,
+    "totalDirectories": 1180,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1179.0,
-    "totalListings": 11247,
-    "aiEnhancedDirectories": 1178
+    "avgDirectoriesPerRepo": 1180.0,
+    "totalListings": 11257,
+    "aiEnhancedDirectories": 1179
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15334,12 +15334,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-mobile-app-development-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:24:42.442837+00:00Z",
+      "lastUpdated": "2025-11-07T08:24:42.442837+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1179,
+      "directoryCount": 1180,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:53:59.708363+00:00Z",
+  "lastUpdated": "2025-11-07T15:54:40.260903+00:00Z",
   "stats": {
-    "totalDirectories": 1646,
+    "totalDirectories": 1647,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1646.0,
-    "totalListings": 15509,
-    "aiEnhancedDirectories": 1645
+    "avgDirectoriesPerRepo": 1647.0,
+    "totalListings": 15519,
+    "aiEnhancedDirectories": 1646
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21405,12 +21405,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-auto-electrical-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:54:40.260903+00:00Z",
+      "lastUpdated": "2025-11-07T15:54:40.260903+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1646,
+      "directoryCount": 1647,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

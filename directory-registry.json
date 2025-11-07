@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:17:10.313615+00:00Z",
+  "lastUpdated": "2025-11-07T04:17:27.364369+00:00Z",
   "stats": {
-    "totalDirectories": 391,
+    "totalDirectories": 392,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 391.0,
-    "totalListings": 3663,
-    "aiEnhancedDirectories": 391
+    "avgDirectoriesPerRepo": 392.0,
+    "totalListings": 3673,
+    "aiEnhancedDirectories": 392
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -5091,12 +5091,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-water-features-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:17:27.364369+00:00Z",
+      "lastUpdated": "2025-11-07T04:17:27.364369+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 391,
+      "directoryCount": 392,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:22:13.570578+00:00Z",
+  "lastUpdated": "2025-11-07T07:22:28.625122+00:00Z",
   "stats": {
-    "totalDirectories": 1039,
+    "totalDirectories": 1040,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1039.0,
-    "totalListings": 9926,
-    "aiEnhancedDirectories": 1038
+    "avgDirectoriesPerRepo": 1040.0,
+    "totalListings": 9936,
+    "aiEnhancedDirectories": 1039
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13514,12 +13514,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-childrens-activities-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:22:28.625122+00:00Z",
+      "lastUpdated": "2025-11-07T07:22:28.625122+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1039,
+      "directoryCount": 1040,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

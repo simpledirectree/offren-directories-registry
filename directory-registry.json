@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:32:31.431299+00:00Z",
+  "lastUpdated": "2025-11-07T20:33:37.288893+00:00Z",
   "stats": {
-    "totalDirectories": 1923,
+    "totalDirectories": 1924,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1923.0,
-    "totalListings": 18072,
-    "aiEnhancedDirectories": 1922
+    "avgDirectoriesPerRepo": 1924.0,
+    "totalListings": 18082,
+    "aiEnhancedDirectories": 1923
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25006,12 +25006,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-school-cleaning-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:33:37.288893+00:00Z",
+      "lastUpdated": "2025-11-07T20:33:37.288893+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1923,
+      "directoryCount": 1924,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

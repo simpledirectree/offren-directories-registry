@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:41:27.277662+00:00Z",
+  "lastUpdated": "2025-11-07T05:41:45.433164+00:00Z",
   "stats": {
-    "totalDirectories": 688,
+    "totalDirectories": 689,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 688.0,
-    "totalListings": 6570,
-    "aiEnhancedDirectories": 688
+    "avgDirectoriesPerRepo": 689.0,
+    "totalListings": 6580,
+    "aiEnhancedDirectories": 689
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8952,12 +8952,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-fleet-services-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:41:45.433164+00:00Z",
+      "lastUpdated": "2025-11-07T05:41:45.433164+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 688,
+      "directoryCount": 689,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

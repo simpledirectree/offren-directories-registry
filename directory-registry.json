@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T14:41:58.903136+00:00Z",
+  "lastUpdated": "2025-11-07T14:43:55.074406+00:00Z",
   "stats": {
-    "totalDirectories": 1565,
+    "totalDirectories": 1566,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1565.0,
-    "totalListings": 14756,
-    "aiEnhancedDirectories": 1564
+    "avgDirectoriesPerRepo": 1566.0,
+    "totalListings": 14766,
+    "aiEnhancedDirectories": 1565
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20352,12 +20352,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-quickbooks-training-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T14:43:55.074406+00:00Z",
+      "lastUpdated": "2025-11-07T14:43:55.074406+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1565,
+      "directoryCount": 1566,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

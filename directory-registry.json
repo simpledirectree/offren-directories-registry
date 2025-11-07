@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:41:26.935075+00:00Z",
+  "lastUpdated": "2025-11-07T07:41:44.775997+00:00Z",
   "stats": {
-    "totalDirectories": 1108,
+    "totalDirectories": 1109,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1108.0,
-    "totalListings": 10583,
-    "aiEnhancedDirectories": 1107
+    "avgDirectoriesPerRepo": 1109.0,
+    "totalListings": 10593,
+    "aiEnhancedDirectories": 1108
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14411,12 +14411,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-kpi-development-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:41:44.775997+00:00Z",
+      "lastUpdated": "2025-11-07T07:41:44.775997+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1108,
+      "directoryCount": 1109,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

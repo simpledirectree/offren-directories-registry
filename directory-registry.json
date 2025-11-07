@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:46:04.539613+00:00Z",
+  "lastUpdated": "2025-11-07T18:46:19.769336+00:00Z",
   "stats": {
-    "totalDirectories": 1816,
+    "totalDirectories": 1817,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1816.0,
-    "totalListings": 17088,
-    "aiEnhancedDirectories": 1815
+    "avgDirectoriesPerRepo": 1817.0,
+    "totalListings": 17098,
+    "aiEnhancedDirectories": 1816
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23615,12 +23615,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-manual-labor-for-projects-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:46:19.769336+00:00Z",
+      "lastUpdated": "2025-11-07T18:46:19.769336+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1816,
+      "directoryCount": 1817,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

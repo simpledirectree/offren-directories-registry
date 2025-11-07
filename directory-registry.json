@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:16:15.885427+00:00Z",
+  "lastUpdated": "2025-11-07T04:16:34.706987+00:00Z",
   "stats": {
-    "totalDirectories": 388,
+    "totalDirectories": 389,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 388.0,
-    "totalListings": 3633,
-    "aiEnhancedDirectories": 388
+    "avgDirectoriesPerRepo": 389.0,
+    "totalListings": 3643,
+    "aiEnhancedDirectories": 389
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -5052,12 +5052,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-meal-prep-services-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:16:34.706987+00:00Z",
+      "lastUpdated": "2025-11-07T04:16:34.706987+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 388,
+      "directoryCount": 389,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

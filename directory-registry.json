@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:58:19.852572+00:00Z",
+  "lastUpdated": "2025-11-07T18:58:36.991529+00:00Z",
   "stats": {
-    "totalDirectories": 1827,
+    "totalDirectories": 1828,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1827.0,
-    "totalListings": 17181,
-    "aiEnhancedDirectories": 1826
+    "avgDirectoriesPerRepo": 1828.0,
+    "totalListings": 17191,
+    "aiEnhancedDirectories": 1827
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23758,12 +23758,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-battery-service-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:58:36.991529+00:00Z",
+      "lastUpdated": "2025-11-07T18:58:36.991529+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1827,
+      "directoryCount": 1828,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

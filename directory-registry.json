@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:39:50.556762+00:00Z",
+  "lastUpdated": "2025-11-07T07:40:04.861492+00:00Z",
   "stats": {
-    "totalDirectories": 1102,
+    "totalDirectories": 1103,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1102.0,
-    "totalListings": 10535,
-    "aiEnhancedDirectories": 1101
+    "avgDirectoriesPerRepo": 1103.0,
+    "totalListings": 10545,
+    "aiEnhancedDirectories": 1102
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14333,12 +14333,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-direct-restaurant-delivery-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:40:04.861492+00:00Z",
+      "lastUpdated": "2025-11-07T07:40:04.861492+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1102,
+      "directoryCount": 1103,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

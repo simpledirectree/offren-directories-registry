@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:04:19.835197+00:00Z",
+  "lastUpdated": "2025-11-07T01:04:34.140030+00:00Z",
   "stats": {
-    "totalDirectories": 125,
+    "totalDirectories": 126,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 125.0,
-    "totalListings": 1162,
-    "aiEnhancedDirectories": 125
+    "avgDirectoriesPerRepo": 126.0,
+    "totalListings": 1172,
+    "aiEnhancedDirectories": 126
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1633,12 +1633,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-parks-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:04:34.140030+00:00Z",
+      "lastUpdated": "2025-11-07T01:04:34.140030+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 125,
+      "directoryCount": 126,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

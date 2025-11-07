@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:06:08.560983+00:00Z",
+  "lastUpdated": "2025-11-07T04:06:26.027284+00:00Z",
   "stats": {
-    "totalDirectories": 352,
+    "totalDirectories": 353,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 352.0,
-    "totalListings": 3296,
-    "aiEnhancedDirectories": 352
+    "avgDirectoriesPerRepo": 353.0,
+    "totalListings": 3306,
+    "aiEnhancedDirectories": 353
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4584,12 +4584,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-network-configuration-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:06:26.027284+00:00Z",
+      "lastUpdated": "2025-11-07T04:06:26.027284+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 352,
+      "directoryCount": 353,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

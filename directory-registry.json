@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:25:38.495420+00:00Z",
+  "lastUpdated": "2025-11-07T12:25:53.619744+00:00Z",
   "stats": {
-    "totalDirectories": 1430,
+    "totalDirectories": 1431,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1430.0,
-    "totalListings": 13533,
-    "aiEnhancedDirectories": 1429
+    "avgDirectoriesPerRepo": 1431.0,
+    "totalListings": 13543,
+    "aiEnhancedDirectories": 1430
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18597,12 +18597,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-financial-accounting-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:25:53.619744+00:00Z",
+      "lastUpdated": "2025-11-07T12:25:53.619744+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1430,
+      "directoryCount": 1431,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

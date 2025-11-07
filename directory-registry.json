@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:59:07.438871+00:00Z",
+  "lastUpdated": "2025-11-07T10:01:02.124139+00:00Z",
   "stats": {
-    "totalDirectories": 1282,
+    "totalDirectories": 1283,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1282.0,
-    "totalListings": 12180,
-    "aiEnhancedDirectories": 1281
+    "avgDirectoriesPerRepo": 1283.0,
+    "totalListings": 12190,
+    "aiEnhancedDirectories": 1282
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16673,12 +16673,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-fence-installation-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:01:02.124139+00:00Z",
+      "lastUpdated": "2025-11-07T10:01:02.124139+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1282,
+      "directoryCount": 1283,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

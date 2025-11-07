@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:34:29.905490+00:00Z",
+  "lastUpdated": "2025-11-07T07:34:44.789025+00:00Z",
   "stats": {
-    "totalDirectories": 1082,
+    "totalDirectories": 1083,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1082.0,
-    "totalListings": 10344,
-    "aiEnhancedDirectories": 1081
+    "avgDirectoriesPerRepo": 1083.0,
+    "totalListings": 10354,
+    "aiEnhancedDirectories": 1082
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14073,12 +14073,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-data-analytics-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:34:44.789025+00:00Z",
+      "lastUpdated": "2025-11-07T07:34:44.789025+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1082,
+      "directoryCount": 1083,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

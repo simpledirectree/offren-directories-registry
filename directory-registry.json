@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:23:30.271804+00:00Z",
+  "lastUpdated": "2025-11-07T07:23:49.201823+00:00Z",
   "stats": {
-    "totalDirectories": 1044,
+    "totalDirectories": 1045,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1044.0,
-    "totalListings": 9976,
-    "aiEnhancedDirectories": 1043
+    "avgDirectoriesPerRepo": 1045.0,
+    "totalListings": 9986,
+    "aiEnhancedDirectories": 1044
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13579,12 +13579,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-remote-work-technology-solutions-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:23:49.201823+00:00Z",
+      "lastUpdated": "2025-11-07T07:23:49.201823+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1044,
+      "directoryCount": 1045,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

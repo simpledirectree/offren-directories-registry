@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:08:44.192786+00:00Z",
+  "lastUpdated": "2025-11-07T18:11:59.619875+00:00Z",
   "stats": {
-    "totalDirectories": 1782,
+    "totalDirectories": 1783,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1782.0,
-    "totalListings": 16763,
-    "aiEnhancedDirectories": 1781
+    "avgDirectoriesPerRepo": 1783.0,
+    "totalListings": 16773,
+    "aiEnhancedDirectories": 1782
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23173,12 +23173,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-endocrinologists-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:11:59.619875+00:00Z",
+      "lastUpdated": "2025-11-07T18:11:59.619875+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1782,
+      "directoryCount": 1783,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

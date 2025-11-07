@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:05:02.786896+00:00Z",
+  "lastUpdated": "2025-11-07T08:05:17.526333+00:00Z",
   "stats": {
-    "totalDirectories": 1151,
+    "totalDirectories": 1152,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1151.0,
-    "totalListings": 10999,
-    "aiEnhancedDirectories": 1150
+    "avgDirectoriesPerRepo": 1152.0,
+    "totalListings": 11009,
+    "aiEnhancedDirectories": 1151
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14970,12 +14970,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-septic-systems-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:05:17.526333+00:00Z",
+      "lastUpdated": "2025-11-07T08:05:17.526333+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1151,
+      "directoryCount": 1152,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

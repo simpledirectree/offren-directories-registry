@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:26:18.400107+00:00Z",
+  "lastUpdated": "2025-11-07T06:26:33.721136+00:00Z",
   "stats": {
-    "totalDirectories": 845,
+    "totalDirectories": 846,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 845.0,
-    "totalListings": 8086,
-    "aiEnhancedDirectories": 845
+    "avgDirectoriesPerRepo": 846.0,
+    "totalListings": 8096,
+    "aiEnhancedDirectories": 846
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10993,12 +10993,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-health-coaching-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:26:33.721136+00:00Z",
+      "lastUpdated": "2025-11-07T06:26:33.721136+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 845,
+      "directoryCount": 846,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

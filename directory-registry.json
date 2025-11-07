@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:49:21.212116+00:00Z",
+  "lastUpdated": "2025-11-07T22:50:27.859112+00:00Z",
   "stats": {
-    "totalDirectories": 2070,
+    "totalDirectories": 2071,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2070.0,
-    "totalListings": 19439,
-    "aiEnhancedDirectories": 2069
+    "avgDirectoriesPerRepo": 2071.0,
+    "totalListings": 19449,
+    "aiEnhancedDirectories": 2070
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26917,12 +26917,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-setup-and-teardown-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:50:27.859112+00:00Z",
+      "lastUpdated": "2025-11-07T22:50:27.859112+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2070,
+      "directoryCount": 2071,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

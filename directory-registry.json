@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:49:04.616339+00:00Z",
+  "lastUpdated": "2025-11-07T08:49:19.000092+00:00Z",
   "stats": {
-    "totalDirectories": 1204,
+    "totalDirectories": 1205,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1204.0,
-    "totalListings": 11471,
-    "aiEnhancedDirectories": 1203
+    "avgDirectoriesPerRepo": 1205.0,
+    "totalListings": 11481,
+    "aiEnhancedDirectories": 1204
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15659,12 +15659,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-network-management-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:49:19.000092+00:00Z",
+      "lastUpdated": "2025-11-07T08:49:19.000092+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1204,
+      "directoryCount": 1205,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

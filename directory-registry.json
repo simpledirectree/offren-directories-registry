@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:17:41.062397+00:00Z",
+  "lastUpdated": "2025-11-07T06:17:56.282430+00:00Z",
   "stats": {
-    "totalDirectories": 817,
+    "totalDirectories": 818,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 817.0,
-    "totalListings": 7819,
-    "aiEnhancedDirectories": 817
+    "avgDirectoriesPerRepo": 818.0,
+    "totalListings": 7829,
+    "aiEnhancedDirectories": 818
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10629,12 +10629,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-garden-center-consultation-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:17:56.282430+00:00Z",
+      "lastUpdated": "2025-11-07T06:17:56.282430+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 817,
+      "directoryCount": 818,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

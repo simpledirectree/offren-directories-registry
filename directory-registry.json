@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:56:11.043112+00:00Z",
+  "lastUpdated": "2025-11-07T02:56:24.886646+00:00Z",
   "stats": {
-    "totalDirectories": 222,
+    "totalDirectories": 223,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 222.0,
-    "totalListings": 2043,
-    "aiEnhancedDirectories": 222
+    "avgDirectoriesPerRepo": 223.0,
+    "totalListings": 2048,
+    "aiEnhancedDirectories": 223
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2894,12 +2894,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-contract-law-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:56:24.886646+00:00Z",
+      "lastUpdated": "2025-11-07T02:56:24.886646+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 222,
+      "directoryCount": 223,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

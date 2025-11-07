@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:14:36.146622+00:00Z",
+  "lastUpdated": "2025-11-07T08:15:12.238120+00:00Z",
   "stats": {
-    "totalDirectories": 1166,
+    "totalDirectories": 1167,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1166.0,
-    "totalListings": 11143,
-    "aiEnhancedDirectories": 1165
+    "avgDirectoriesPerRepo": 1167.0,
+    "totalListings": 11144,
+    "aiEnhancedDirectories": 1166
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15165,12 +15165,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-foundation-repair-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:15:12.238120+00:00Z",
+      "lastUpdated": "2025-11-07T08:15:12.238120+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1166,
+      "directoryCount": 1167,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

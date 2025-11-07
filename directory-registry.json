@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:29:57.325438+00:00Z",
+  "lastUpdated": "2025-11-07T07:30:13.687478+00:00Z",
   "stats": {
-    "totalDirectories": 1067,
+    "totalDirectories": 1068,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1067.0,
-    "totalListings": 10197,
-    "aiEnhancedDirectories": 1066
+    "avgDirectoriesPerRepo": 1068.0,
+    "totalListings": 10207,
+    "aiEnhancedDirectories": 1067
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13878,12 +13878,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-battery-service-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:30:13.687478+00:00Z",
+      "lastUpdated": "2025-11-07T07:30:13.687478+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1067,
+      "directoryCount": 1068,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

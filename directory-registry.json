@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:31:21.551690+00:00Z",
+  "lastUpdated": "2025-11-07T08:34:29.608210+00:00Z",
   "stats": {
-    "totalDirectories": 1191,
+    "totalDirectories": 1192,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1191.0,
-    "totalListings": 11359,
-    "aiEnhancedDirectories": 1190
+    "avgDirectoriesPerRepo": 1192.0,
+    "totalListings": 11365,
+    "aiEnhancedDirectories": 1191
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15490,12 +15490,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-agricultural-photography-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:34:29.608210+00:00Z",
+      "lastUpdated": "2025-11-07T08:34:29.608210+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1191,
+      "directoryCount": 1192,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

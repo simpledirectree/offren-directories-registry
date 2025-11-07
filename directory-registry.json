@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:26:39.117037+00:00Z",
+  "lastUpdated": "2025-11-07T22:28:59.130956+00:00Z",
   "stats": {
-    "totalDirectories": 2048,
+    "totalDirectories": 2049,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2048.0,
-    "totalListings": 19236,
-    "aiEnhancedDirectories": 2047
+    "avgDirectoriesPerRepo": 2049.0,
+    "totalListings": 19246,
+    "aiEnhancedDirectories": 2048
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26631,12 +26631,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-closet-organization-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:28:59.130956+00:00Z",
+      "lastUpdated": "2025-11-07T22:28:59.130956+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2048,
+      "directoryCount": 2049,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

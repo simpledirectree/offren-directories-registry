@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:32:18.743075+00:00Z",
+  "lastUpdated": "2025-11-07T10:33:00.303370+00:00Z",
   "stats": {
-    "totalDirectories": 1324,
+    "totalDirectories": 1325,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1324.0,
-    "totalListings": 12557,
-    "aiEnhancedDirectories": 1323
+    "avgDirectoriesPerRepo": 1325.0,
+    "totalListings": 12567,
+    "aiEnhancedDirectories": 1324
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17219,12 +17219,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-prenatal-massage-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:33:00.303370+00:00Z",
+      "lastUpdated": "2025-11-07T10:33:00.303370+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1324,
+      "directoryCount": 1325,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

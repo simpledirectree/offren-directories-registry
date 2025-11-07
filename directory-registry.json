@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T11:46:31.679537+00:00Z",
+  "lastUpdated": "2025-11-07T11:48:25.039608+00:00Z",
   "stats": {
-    "totalDirectories": 1390,
+    "totalDirectories": 1391,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1390.0,
-    "totalListings": 13151,
-    "aiEnhancedDirectories": 1389
+    "avgDirectoriesPerRepo": 1391.0,
+    "totalListings": 13161,
+    "aiEnhancedDirectories": 1390
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18077,12 +18077,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-planting-services-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T11:48:25.039608+00:00Z",
+      "lastUpdated": "2025-11-07T11:48:25.039608+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1390,
+      "directoryCount": 1391,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

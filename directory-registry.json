@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T13:32:46.414751+00:00Z",
+  "lastUpdated": "2025-11-07T13:33:01.179062+00:00Z",
   "stats": {
-    "totalDirectories": 1498,
+    "totalDirectories": 1499,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1498.0,
-    "totalListings": 14134,
-    "aiEnhancedDirectories": 1497
+    "avgDirectoriesPerRepo": 1499.0,
+    "totalListings": 14144,
+    "aiEnhancedDirectories": 1498
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19481,12 +19481,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-database-management-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:33:01.179062+00:00Z",
+      "lastUpdated": "2025-11-07T13:33:01.179062+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1498,
+      "directoryCount": 1499,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:55:28.482775+00:00Z",
+  "lastUpdated": "2025-11-07T16:55:43.208300+00:00Z",
   "stats": {
-    "totalDirectories": 1699,
+    "totalDirectories": 1700,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1699.0,
-    "totalListings": 16001,
-    "aiEnhancedDirectories": 1698
+    "avgDirectoriesPerRepo": 1700.0,
+    "totalListings": 16011,
+    "aiEnhancedDirectories": 1699
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22094,12 +22094,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-move-in-cleaning-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:55:43.208300+00:00Z",
+      "lastUpdated": "2025-11-07T16:55:43.208300+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1699,
+      "directoryCount": 1700,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:49:34.982100+00:00Z",
+  "lastUpdated": "2025-11-07T19:52:16.067801+00:00Z",
   "stats": {
-    "totalDirectories": 1884,
+    "totalDirectories": 1885,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1884.0,
-    "totalListings": 17701,
-    "aiEnhancedDirectories": 1883
+    "avgDirectoriesPerRepo": 1885.0,
+    "totalListings": 17710,
+    "aiEnhancedDirectories": 1884
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24499,12 +24499,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-capital-raising-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:52:16.067801+00:00Z",
+      "lastUpdated": "2025-11-07T19:52:16.067801+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1884,
+      "directoryCount": 1885,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

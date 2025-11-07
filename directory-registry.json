@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:08:36.812576+00:00Z",
+  "lastUpdated": "2025-11-07T02:13:33.642077+00:00Z",
   "stats": {
-    "totalDirectories": 186,
+    "totalDirectories": 187,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 186.0,
-    "totalListings": 1713,
-    "aiEnhancedDirectories": 186
+    "avgDirectoriesPerRepo": 187.0,
+    "totalListings": 1722,
+    "aiEnhancedDirectories": 187
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2426,12 +2426,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-call-answering-services-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:13:33.642077+00:00Z",
+      "lastUpdated": "2025-11-07T02:13:33.642077+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 186,
+      "directoryCount": 187,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

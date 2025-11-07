@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:36:32.410483+00:00Z",
+  "lastUpdated": "2025-11-07T15:36:48.323914+00:00Z",
   "stats": {
-    "totalDirectories": 1625,
+    "totalDirectories": 1626,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1625.0,
-    "totalListings": 15311,
-    "aiEnhancedDirectories": 1624
+    "avgDirectoriesPerRepo": 1626.0,
+    "totalListings": 15321,
+    "aiEnhancedDirectories": 1625
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21132,12 +21132,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-micro-weddings-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:36:48.323914+00:00Z",
+      "lastUpdated": "2025-11-07T15:36:48.323914+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1625,
+      "directoryCount": 1626,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

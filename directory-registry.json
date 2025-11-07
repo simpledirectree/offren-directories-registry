@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:23:41.374396+00:00Z",
+  "lastUpdated": "2025-11-07T04:23:56.478934+00:00Z",
   "stats": {
-    "totalDirectories": 414,
+    "totalDirectories": 415,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 414.0,
-    "totalListings": 3880,
-    "aiEnhancedDirectories": 414
+    "avgDirectoriesPerRepo": 415.0,
+    "totalListings": 3890,
+    "aiEnhancedDirectories": 415
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -5390,12 +5390,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-it-certification-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:23:56.478934+00:00Z",
+      "lastUpdated": "2025-11-07T04:23:56.478934+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 414,
+      "directoryCount": 415,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

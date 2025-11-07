@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:00:26.384617+00:00Z",
+  "lastUpdated": "2025-11-07T15:00:40.247486+00:00Z",
   "stats": {
-    "totalDirectories": 1581,
+    "totalDirectories": 1582,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1581.0,
-    "totalListings": 14916,
-    "aiEnhancedDirectories": 1580
+    "avgDirectoriesPerRepo": 1582.0,
+    "totalListings": 14921,
+    "aiEnhancedDirectories": 1581
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20560,12 +20560,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-travel-insurance-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:00:40.247486+00:00Z",
+      "lastUpdated": "2025-11-07T15:00:40.247486+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1581,
+      "directoryCount": 1582,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

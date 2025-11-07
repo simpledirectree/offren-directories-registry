@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:47:44.588084+00:00Z",
+  "lastUpdated": "2025-11-07T22:48:26.351070+00:00Z",
   "stats": {
-    "totalDirectories": 2067,
+    "totalDirectories": 2068,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2067.0,
-    "totalListings": 19412,
-    "aiEnhancedDirectories": 2066
+    "avgDirectoriesPerRepo": 2068.0,
+    "totalListings": 19422,
+    "aiEnhancedDirectories": 2067
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26878,12 +26878,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-home-health-aides-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:48:26.351070+00:00Z",
+      "lastUpdated": "2025-11-07T22:48:26.351070+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2067,
+      "directoryCount": 2068,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:58:08.225813+00:00Z",
+  "lastUpdated": "2025-11-07T04:58:25.444023+00:00Z",
   "stats": {
-    "totalDirectories": 534,
+    "totalDirectories": 535,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 534.0,
-    "totalListings": 5066,
-    "aiEnhancedDirectories": 534
+    "avgDirectoriesPerRepo": 535.0,
+    "totalListings": 5076,
+    "aiEnhancedDirectories": 535
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6950,12 +6950,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-permanent-staffing-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:58:25.444023+00:00Z",
+      "lastUpdated": "2025-11-07T04:58:25.444023+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 534,
+      "directoryCount": 535,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

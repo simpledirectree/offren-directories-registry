@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:25:42.471783+00:00Z",
+  "lastUpdated": "2025-11-07T04:25:58.402425+00:00Z",
   "stats": {
-    "totalDirectories": 421,
+    "totalDirectories": 422,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 421.0,
-    "totalListings": 3950,
-    "aiEnhancedDirectories": 421
+    "avgDirectoriesPerRepo": 422.0,
+    "totalListings": 3960,
+    "aiEnhancedDirectories": 422
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -5481,12 +5481,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-orthodontics-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:25:58.402425+00:00Z",
+      "lastUpdated": "2025-11-07T04:25:58.402425+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 421,
+      "directoryCount": 422,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

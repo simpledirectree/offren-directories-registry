@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:11:02.854405+00:00Z",
+  "lastUpdated": "2025-11-07T01:11:17.047410+00:00Z",
   "stats": {
-    "totalDirectories": 135,
+    "totalDirectories": 136,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 135.0,
-    "totalListings": 1247,
-    "aiEnhancedDirectories": 135
+    "avgDirectoriesPerRepo": 136.0,
+    "totalListings": 1257,
+    "aiEnhancedDirectories": 136
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1763,12 +1763,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-wound-care-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:11:17.047410+00:00Z",
+      "lastUpdated": "2025-11-07T01:11:17.047410+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 135,
+      "directoryCount": 136,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

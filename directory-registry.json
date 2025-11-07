@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:21:08.529299+00:00Z",
+  "lastUpdated": "2025-11-07T07:21:23.495941+00:00Z",
   "stats": {
-    "totalDirectories": 1035,
+    "totalDirectories": 1036,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1035.0,
-    "totalListings": 9891,
-    "aiEnhancedDirectories": 1034
+    "avgDirectoriesPerRepo": 1036.0,
+    "totalListings": 9896,
+    "aiEnhancedDirectories": 1035
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13462,12 +13462,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-yin-yoga-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:21:23.495941+00:00Z",
+      "lastUpdated": "2025-11-07T07:21:23.495941+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1035,
+      "directoryCount": 1036,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:32:30.885941+00:00Z",
+  "lastUpdated": "2025-11-07T07:32:45.276759+00:00Z",
   "stats": {
-    "totalDirectories": 1075,
+    "totalDirectories": 1076,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1075.0,
-    "totalListings": 10274,
-    "aiEnhancedDirectories": 1074
+    "avgDirectoriesPerRepo": 1076.0,
+    "totalListings": 10284,
+    "aiEnhancedDirectories": 1075
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13982,12 +13982,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-windshield-replacement-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:32:45.276759+00:00Z",
+      "lastUpdated": "2025-11-07T07:32:45.276759+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1075,
+      "directoryCount": 1076,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

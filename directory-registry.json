@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T13:34:37.494289+00:00Z",
+  "lastUpdated": "2025-11-07T13:34:50.231135+00:00Z",
   "stats": {
-    "totalDirectories": 1501,
+    "totalDirectories": 1502,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1501.0,
-    "totalListings": 14163,
-    "aiEnhancedDirectories": 1500
+    "avgDirectoriesPerRepo": 1502.0,
+    "totalListings": 14164,
+    "aiEnhancedDirectories": 1501
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19520,12 +19520,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-visual-effects-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:34:50.231135+00:00Z",
+      "lastUpdated": "2025-11-07T13:34:50.231135+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1501,
+      "directoryCount": 1502,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

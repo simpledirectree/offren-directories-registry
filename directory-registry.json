@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:41:52.068764+00:00Z",
+  "lastUpdated": "2025-11-07T12:42:06.506259+00:00Z",
   "stats": {
-    "totalDirectories": 1447,
+    "totalDirectories": 1448,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1447.0,
-    "totalListings": 13678,
-    "aiEnhancedDirectories": 1446
+    "avgDirectoriesPerRepo": 1448.0,
+    "totalListings": 13688,
+    "aiEnhancedDirectories": 1447
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18818,12 +18818,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-wheel-alignment-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:42:06.506259+00:00Z",
+      "lastUpdated": "2025-11-07T12:42:06.506259+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1447,
+      "directoryCount": 1448,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

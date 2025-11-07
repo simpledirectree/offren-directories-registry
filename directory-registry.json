@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:15:37.995101+00:00Z",
+  "lastUpdated": "2025-11-07T16:16:46.897340+00:00Z",
   "stats": {
-    "totalDirectories": 1666,
+    "totalDirectories": 1667,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1666.0,
-    "totalListings": 15694,
-    "aiEnhancedDirectories": 1665
+    "avgDirectoriesPerRepo": 1667.0,
+    "totalListings": 15704,
+    "aiEnhancedDirectories": 1666
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21665,12 +21665,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-e-commerce-platforms-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:16:46.897340+00:00Z",
+      "lastUpdated": "2025-11-07T16:16:46.897340+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1666,
+      "directoryCount": 1667,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

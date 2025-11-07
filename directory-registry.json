@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:48:53.328376+00:00Z",
+  "lastUpdated": "2025-11-07T04:49:09.937793+00:00Z",
   "stats": {
-    "totalDirectories": 501,
+    "totalDirectories": 502,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 501.0,
-    "totalListings": 4736,
-    "aiEnhancedDirectories": 501
+    "avgDirectoriesPerRepo": 502.0,
+    "totalListings": 4746,
+    "aiEnhancedDirectories": 502
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6521,12 +6521,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-comedians-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:49:09.937793+00:00Z",
+      "lastUpdated": "2025-11-07T04:49:09.937793+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 501,
+      "directoryCount": 502,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:14:10.705003+00:00Z",
+  "lastUpdated": "2025-11-07T03:14:53.017494+00:00Z",
   "stats": {
-    "totalDirectories": 242,
+    "totalDirectories": 243,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 242.0,
-    "totalListings": 2226,
-    "aiEnhancedDirectories": 242
+    "avgDirectoriesPerRepo": 243.0,
+    "totalListings": 2236,
+    "aiEnhancedDirectories": 243
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3154,12 +3154,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-portable-storage-containers-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:14:53.017494+00:00Z",
+      "lastUpdated": "2025-11-07T03:14:53.017494+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 242,
+      "directoryCount": 243,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

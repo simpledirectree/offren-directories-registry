@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:37:10.742839+00:00Z",
+  "lastUpdated": "2025-11-07T05:37:25.940464+00:00Z",
   "stats": {
-    "totalDirectories": 673,
+    "totalDirectories": 674,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 673.0,
-    "totalListings": 6424,
-    "aiEnhancedDirectories": 673
+    "avgDirectoriesPerRepo": 674.0,
+    "totalListings": 6434,
+    "aiEnhancedDirectories": 674
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8757,12 +8757,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-event-setup-crews-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:37:25.940464+00:00Z",
+      "lastUpdated": "2025-11-07T05:37:25.940464+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 673,
+      "directoryCount": 674,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

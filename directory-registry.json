@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:55:00.616980+00:00Z",
+  "lastUpdated": "2025-11-07T05:55:13.781403+00:00Z",
   "stats": {
-    "totalDirectories": 736,
+    "totalDirectories": 737,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 736.0,
-    "totalListings": 7027,
-    "aiEnhancedDirectories": 736
+    "avgDirectoriesPerRepo": 737.0,
+    "totalListings": 7031,
+    "aiEnhancedDirectories": 737
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9576,12 +9576,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-website-development-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:55:13.781403+00:00Z",
+      "lastUpdated": "2025-11-07T05:55:13.781403+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 736,
+      "directoryCount": 737,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

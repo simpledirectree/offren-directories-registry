@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:31:46.401406+00:00Z",
+  "lastUpdated": "2025-11-07T06:32:02.223962+00:00Z",
   "stats": {
-    "totalDirectories": 864,
+    "totalDirectories": 865,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 864.0,
-    "totalListings": 8260,
-    "aiEnhancedDirectories": 864
+    "avgDirectoriesPerRepo": 865.0,
+    "totalListings": 8270,
+    "aiEnhancedDirectories": 865
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11240,12 +11240,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-accessibility-design-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:32:02.223962+00:00Z",
+      "lastUpdated": "2025-11-07T06:32:02.223962+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 864,
+      "directoryCount": 865,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

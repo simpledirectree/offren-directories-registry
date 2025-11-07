@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:24:59.913989+00:00Z",
+  "lastUpdated": "2025-11-07T05:25:16.895339+00:00Z",
   "stats": {
-    "totalDirectories": 631,
+    "totalDirectories": 632,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 631.0,
-    "totalListings": 6004,
-    "aiEnhancedDirectories": 631
+    "avgDirectoriesPerRepo": 632.0,
+    "totalListings": 6014,
+    "aiEnhancedDirectories": 632
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8211,12 +8211,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-yoga-instruction-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:25:16.895339+00:00Z",
+      "lastUpdated": "2025-11-07T05:25:16.895339+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 631,
+      "directoryCount": 632,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

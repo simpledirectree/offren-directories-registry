@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:43:48.355405+00:00Z",
+  "lastUpdated": "2025-11-07T06:44:02.524276+00:00Z",
   "stats": {
-    "totalDirectories": 906,
+    "totalDirectories": 907,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 906.0,
-    "totalListings": 8656,
-    "aiEnhancedDirectories": 906
+    "avgDirectoriesPerRepo": 907.0,
+    "totalListings": 8666,
+    "aiEnhancedDirectories": 907
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11786,12 +11786,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-security-testing-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:44:02.524276+00:00Z",
+      "lastUpdated": "2025-11-07T06:44:02.524276+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 906,
+      "directoryCount": 907,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

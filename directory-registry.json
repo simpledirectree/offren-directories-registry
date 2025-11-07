@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:06:58.528223+00:00Z",
+  "lastUpdated": "2025-11-07T12:07:38.048974+00:00Z",
   "stats": {
-    "totalDirectories": 1414,
+    "totalDirectories": 1415,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1414.0,
-    "totalListings": 13377,
-    "aiEnhancedDirectories": 1413
+    "avgDirectoriesPerRepo": 1415.0,
+    "totalListings": 13387,
+    "aiEnhancedDirectories": 1414
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18389,12 +18389,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-life-coaching-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:07:38.048974+00:00Z",
+      "lastUpdated": "2025-11-07T12:07:38.048974+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1414,
+      "directoryCount": 1415,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

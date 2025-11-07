@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:28:46.707400+00:00Z",
+  "lastUpdated": "2025-11-07T09:29:02.207853+00:00Z",
   "stats": {
-    "totalDirectories": 1244,
+    "totalDirectories": 1245,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1244.0,
-    "totalListings": 11820,
-    "aiEnhancedDirectories": 1243
+    "avgDirectoriesPerRepo": 1245.0,
+    "totalListings": 11830,
+    "aiEnhancedDirectories": 1244
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16179,12 +16179,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-insulation-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:29:02.207853+00:00Z",
+      "lastUpdated": "2025-11-07T09:29:02.207853+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1244,
+      "directoryCount": 1245,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

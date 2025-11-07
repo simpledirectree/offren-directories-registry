@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:14:44.024043+00:00Z",
+  "lastUpdated": "2025-11-07T04:14:57.707874+00:00Z",
   "stats": {
-    "totalDirectories": 382,
+    "totalDirectories": 383,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 382.0,
-    "totalListings": 3583,
-    "aiEnhancedDirectories": 382
+    "avgDirectoriesPerRepo": 383.0,
+    "totalListings": 3588,
+    "aiEnhancedDirectories": 383
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -4974,12 +4974,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-urgent-care-centers-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:14:57.707874+00:00Z",
+      "lastUpdated": "2025-11-07T04:14:57.707874+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 382,
+      "directoryCount": 383,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

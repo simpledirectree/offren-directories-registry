@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T01:09:34.091661+00:00Z",
+  "lastUpdated": "2025-11-07T01:10:20.521662+00:00Z",
   "stats": {
-    "totalDirectories": 131,
+    "totalDirectories": 132,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 131.0,
-    "totalListings": 1217,
-    "aiEnhancedDirectories": 131
+    "avgDirectoriesPerRepo": 132.0,
+    "totalListings": 1226,
+    "aiEnhancedDirectories": 132
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1711,12 +1711,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-obedience-training-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T01:10:20.521662+00:00Z",
+      "lastUpdated": "2025-11-07T01:10:20.521662+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 131,
+      "directoryCount": 132,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

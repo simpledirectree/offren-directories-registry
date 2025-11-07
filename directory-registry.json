@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:37:09.486594+00:00Z",
+  "lastUpdated": "2025-11-07T07:37:24.406843+00:00Z",
   "stats": {
-    "totalDirectories": 1092,
+    "totalDirectories": 1093,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1092.0,
-    "totalListings": 10435,
-    "aiEnhancedDirectories": 1091
+    "avgDirectoriesPerRepo": 1093.0,
+    "totalListings": 10445,
+    "aiEnhancedDirectories": 1092
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14203,12 +14203,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-insurance-planning-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:37:24.406843+00:00Z",
+      "lastUpdated": "2025-11-07T07:37:24.406843+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1092,
+      "directoryCount": 1093,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:50:51.803994+00:00Z",
+  "lastUpdated": "2025-11-07T02:51:44.503229+00:00Z",
   "stats": {
-    "totalDirectories": 217,
+    "totalDirectories": 218,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 217.0,
-    "totalListings": 1994,
-    "aiEnhancedDirectories": 217
+    "avgDirectoriesPerRepo": 218.0,
+    "totalListings": 2003,
+    "aiEnhancedDirectories": 218
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2829,12 +2829,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-tax-preparation-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:51:44.503229+00:00Z",
+      "lastUpdated": "2025-11-07T02:51:44.503229+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 217,
+      "directoryCount": 218,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:49:19.000092+00:00Z",
+  "lastUpdated": "2025-11-07T08:49:35.214149+00:00Z",
   "stats": {
-    "totalDirectories": 1205,
+    "totalDirectories": 1206,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1205.0,
-    "totalListings": 11481,
-    "aiEnhancedDirectories": 1204
+    "avgDirectoriesPerRepo": 1206.0,
+    "totalListings": 11491,
+    "aiEnhancedDirectories": 1205
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15672,12 +15672,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-laser-treatments-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:49:35.214149+00:00Z",
+      "lastUpdated": "2025-11-07T08:49:35.214149+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1205,
+      "directoryCount": 1206,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

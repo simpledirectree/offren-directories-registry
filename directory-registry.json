@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:26:33.721136+00:00Z",
+  "lastUpdated": "2025-11-07T06:26:49.553038+00:00Z",
   "stats": {
-    "totalDirectories": 846,
+    "totalDirectories": 847,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 846.0,
-    "totalListings": 8096,
-    "aiEnhancedDirectories": 846
+    "avgDirectoriesPerRepo": 847.0,
+    "totalListings": 8106,
+    "aiEnhancedDirectories": 847
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11006,12 +11006,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-babysitters-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:26:49.553038+00:00Z",
+      "lastUpdated": "2025-11-07T06:26:49.553038+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 846,
+      "directoryCount": 847,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

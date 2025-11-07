@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:04:40.506079+00:00Z",
+  "lastUpdated": "2025-11-07T09:04:56.983962+00:00Z",
   "stats": {
-    "totalDirectories": 1220,
+    "totalDirectories": 1221,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1220.0,
-    "totalListings": 11616,
-    "aiEnhancedDirectories": 1219
+    "avgDirectoriesPerRepo": 1221.0,
+    "totalListings": 11626,
+    "aiEnhancedDirectories": 1220
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15867,12 +15867,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-hospitality-consulting-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:04:56.983962+00:00Z",
+      "lastUpdated": "2025-11-07T09:04:56.983962+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1220,
+      "directoryCount": 1221,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

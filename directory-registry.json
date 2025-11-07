@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:32:18.431841+00:00Z",
+  "lastUpdated": "2025-11-07T23:32:31.059657+00:00Z",
   "stats": {
-    "totalDirectories": 2117,
+    "totalDirectories": 2118,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2117.0,
-    "totalListings": 19835,
-    "aiEnhancedDirectories": 2116
+    "avgDirectoriesPerRepo": 2118.0,
+    "totalListings": 19836,
+    "aiEnhancedDirectories": 2117
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27528,12 +27528,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-roach-control-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:32:31.059657+00:00Z",
+      "lastUpdated": "2025-11-07T23:32:31.059657+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2117,
+      "directoryCount": 2118,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

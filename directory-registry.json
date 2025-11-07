@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:56:39.794554+00:00Z",
+  "lastUpdated": "2025-11-07T22:58:24.090659+00:00Z",
   "stats": {
-    "totalDirectories": 2077,
+    "totalDirectories": 2078,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2077.0,
-    "totalListings": 19497,
-    "aiEnhancedDirectories": 2076
+    "avgDirectoriesPerRepo": 2078.0,
+    "totalListings": 19507,
+    "aiEnhancedDirectories": 2077
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27008,12 +27008,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-air-conditioning-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:58:24.090659+00:00Z",
+      "lastUpdated": "2025-11-07T22:58:24.090659+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2077,
+      "directoryCount": 2078,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

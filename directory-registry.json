@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:36:44.724847+00:00Z",
+  "lastUpdated": "2025-11-07T09:38:35.383088+00:00Z",
   "stats": {
-    "totalDirectories": 1254,
+    "totalDirectories": 1255,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1254.0,
-    "totalListings": 11913,
-    "aiEnhancedDirectories": 1253
+    "avgDirectoriesPerRepo": 1255.0,
+    "totalListings": 11923,
+    "aiEnhancedDirectories": 1254
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16309,12 +16309,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-ant-control-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:38:35.383088+00:00Z",
+      "lastUpdated": "2025-11-07T09:38:35.383088+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1254,
+      "directoryCount": 1255,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

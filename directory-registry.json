@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:34:24.131029+00:00Z",
+  "lastUpdated": "2025-11-07T02:35:52.185431+00:00Z",
   "stats": {
-    "totalDirectories": 206,
+    "totalDirectories": 207,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 206.0,
-    "totalListings": 1900,
-    "aiEnhancedDirectories": 206
+    "avgDirectoriesPerRepo": 207.0,
+    "totalListings": 1905,
+    "aiEnhancedDirectories": 207
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2686,12 +2686,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-dermaplaning-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:35:52.185431+00:00Z",
+      "lastUpdated": "2025-11-07T02:35:52.185431+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 206,
+      "directoryCount": 207,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

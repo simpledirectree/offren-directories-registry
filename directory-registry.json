@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:41:02.851000+00:00Z",
+  "lastUpdated": "2025-11-07T19:41:47.406132+00:00Z",
   "stats": {
-    "totalDirectories": 1876,
+    "totalDirectories": 1877,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1876.0,
-    "totalListings": 17634,
-    "aiEnhancedDirectories": 1875
+    "avgDirectoriesPerRepo": 1877.0,
+    "totalListings": 17644,
+    "aiEnhancedDirectories": 1876
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -24395,12 +24395,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-sculpture-instruction-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:41:47.406132+00:00Z",
+      "lastUpdated": "2025-11-07T19:41:47.406132+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1876,
+      "directoryCount": 1877,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

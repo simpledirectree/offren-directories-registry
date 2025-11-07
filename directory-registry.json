@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:58:04.400455+00:00Z",
+  "lastUpdated": "2025-11-07T12:58:44.056812+00:00Z",
   "stats": {
-    "totalDirectories": 1463,
+    "totalDirectories": 1464,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1463.0,
-    "totalListings": 13816,
-    "aiEnhancedDirectories": 1462
+    "avgDirectoriesPerRepo": 1464.0,
+    "totalListings": 13826,
+    "aiEnhancedDirectories": 1463
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19026,12 +19026,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-environmental-law-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:58:44.056812+00:00Z",
+      "lastUpdated": "2025-11-07T12:58:44.056812+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1463,
+      "directoryCount": 1464,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

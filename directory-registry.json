@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:22:59.230046+00:00Z",
+  "lastUpdated": "2025-11-07T07:23:16.299776+00:00Z",
   "stats": {
-    "totalDirectories": 1042,
+    "totalDirectories": 1043,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1042.0,
-    "totalListings": 9956,
-    "aiEnhancedDirectories": 1041
+    "avgDirectoriesPerRepo": 1043.0,
+    "totalListings": 9966,
+    "aiEnhancedDirectories": 1042
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -13553,12 +13553,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-ghost-kitchen-delivery-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:23:16.299776+00:00Z",
+      "lastUpdated": "2025-11-07T07:23:16.299776+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1042,
+      "directoryCount": 1043,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

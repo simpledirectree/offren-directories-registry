@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:42:04.439635+00:00Z",
+  "lastUpdated": "2025-11-07T20:43:41.359040+00:00Z",
   "stats": {
-    "totalDirectories": 1937,
+    "totalDirectories": 1938,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1937.0,
-    "totalListings": 18198,
-    "aiEnhancedDirectories": 1936
+    "avgDirectoriesPerRepo": 1938.0,
+    "totalListings": 18203,
+    "aiEnhancedDirectories": 1937
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25188,12 +25188,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-pedicures-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:43:41.359040+00:00Z",
+      "lastUpdated": "2025-11-07T20:43:41.359040+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1937,
+      "directoryCount": 1938,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

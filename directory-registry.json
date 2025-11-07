@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:19:39.846901+00:00Z",
+  "lastUpdated": "2025-11-07T06:19:56.386312+00:00Z",
   "stats": {
-    "totalDirectories": 824,
+    "totalDirectories": 825,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 824.0,
-    "totalListings": 7889,
-    "aiEnhancedDirectories": 824
+    "avgDirectoriesPerRepo": 825.0,
+    "totalListings": 7899,
+    "aiEnhancedDirectories": 825
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10720,12 +10720,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-erosion-control-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:19:56.386312+00:00Z",
+      "lastUpdated": "2025-11-07T06:19:56.386312+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 824,
+      "directoryCount": 825,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

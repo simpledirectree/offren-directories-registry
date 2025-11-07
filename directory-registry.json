@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:20:47.334077+00:00Z",
+  "lastUpdated": "2025-11-07T09:21:52.214934+00:00Z",
   "stats": {
-    "totalDirectories": 1234,
+    "totalDirectories": 1235,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1234.0,
-    "totalListings": 11731,
-    "aiEnhancedDirectories": 1233
+    "avgDirectoriesPerRepo": 1235.0,
+    "totalListings": 11741,
+    "aiEnhancedDirectories": 1234
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16049,12 +16049,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-cfo-services-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:21:52.214934+00:00Z",
+      "lastUpdated": "2025-11-07T09:21:52.214934+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1234,
+      "directoryCount": 1235,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

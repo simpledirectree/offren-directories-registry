@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:36:25.556992+00:00Z",
+  "lastUpdated": "2025-11-07T06:36:43.603624+00:00Z",
   "stats": {
-    "totalDirectories": 880,
+    "totalDirectories": 881,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 880.0,
-    "totalListings": 8410,
-    "aiEnhancedDirectories": 880
+    "avgDirectoriesPerRepo": 881.0,
+    "totalListings": 8420,
+    "aiEnhancedDirectories": 881
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -11448,12 +11448,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-occupational-therapy-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:36:43.603624+00:00Z",
+      "lastUpdated": "2025-11-07T06:36:43.603624+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 880,
+      "directoryCount": 881,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

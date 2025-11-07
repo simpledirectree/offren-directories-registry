@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T10:48:19.122348+00:00Z",
+  "lastUpdated": "2025-11-07T10:51:34.826319+00:00Z",
   "stats": {
-    "totalDirectories": 1337,
+    "totalDirectories": 1338,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1337.0,
-    "totalListings": 12682,
-    "aiEnhancedDirectories": 1336
+    "avgDirectoriesPerRepo": 1338.0,
+    "totalListings": 12687,
+    "aiEnhancedDirectories": 1337
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17388,12 +17388,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-grocery-delivery-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T10:51:34.826319+00:00Z",
+      "lastUpdated": "2025-11-07T10:51:34.826319+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1337,
+      "directoryCount": 1338,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

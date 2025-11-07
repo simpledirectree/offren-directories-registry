@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:07:50.495343+00:00Z",
+  "lastUpdated": "2025-11-07T22:11:02.212521+00:00Z",
   "stats": {
-    "totalDirectories": 2028,
+    "totalDirectories": 2029,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2028.0,
-    "totalListings": 19060,
-    "aiEnhancedDirectories": 2027
+    "avgDirectoriesPerRepo": 2029.0,
+    "totalListings": 19070,
+    "aiEnhancedDirectories": 2028
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26371,12 +26371,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-tile-roofing-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:11:02.212521+00:00Z",
+      "lastUpdated": "2025-11-07T22:11:02.212521+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2028,
+      "directoryCount": 2029,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

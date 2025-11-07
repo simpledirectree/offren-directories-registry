@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T18:19:16.442908+00:00Z",
+  "lastUpdated": "2025-11-07T18:19:31.405402+00:00Z",
   "stats": {
-    "totalDirectories": 1787,
+    "totalDirectories": 1788,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1787.0,
-    "totalListings": 16808,
-    "aiEnhancedDirectories": 1786
+    "avgDirectoriesPerRepo": 1788.0,
+    "totalListings": 16818,
+    "aiEnhancedDirectories": 1787
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23238,12 +23238,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-group-fitness-classes-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T18:19:31.405402+00:00Z",
+      "lastUpdated": "2025-11-07T18:19:31.405402+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1787,
+      "directoryCount": 1788,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

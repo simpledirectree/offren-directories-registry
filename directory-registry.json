@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:47:23.930040+00:00Z",
+  "lastUpdated": "2025-11-07T03:47:40.754465+00:00Z",
   "stats": {
-    "totalDirectories": 284,
+    "totalDirectories": 285,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 284.0,
-    "totalListings": 2633,
-    "aiEnhancedDirectories": 284
+    "avgDirectoriesPerRepo": 285.0,
+    "totalListings": 2643,
+    "aiEnhancedDirectories": 285
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3700,12 +3700,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-wrestling-classes-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:47:40.754465+00:00Z",
+      "lastUpdated": "2025-11-07T03:47:40.754465+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 284,
+      "directoryCount": 285,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

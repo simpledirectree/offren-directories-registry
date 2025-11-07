@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:05:17.526333+00:00Z",
+  "lastUpdated": "2025-11-07T08:05:33.869291+00:00Z",
   "stats": {
-    "totalDirectories": 1152,
+    "totalDirectories": 1153,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1152.0,
-    "totalListings": 11009,
-    "aiEnhancedDirectories": 1151
+    "avgDirectoriesPerRepo": 1153.0,
+    "totalListings": 11019,
+    "aiEnhancedDirectories": 1152
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14983,12 +14983,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-business-plan-writing-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:05:33.869291+00:00Z",
+      "lastUpdated": "2025-11-07T08:05:33.869291+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1152,
+      "directoryCount": 1153,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

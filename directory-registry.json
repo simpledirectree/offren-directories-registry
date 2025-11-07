@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:00:21.963822+00:00Z",
+  "lastUpdated": "2025-11-07T00:01:53.317785+00:00Z",
   "stats": {
-    "totalDirectories": 50,
+    "totalDirectories": 51,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 50.0,
-    "totalListings": 470,
-    "aiEnhancedDirectories": 50
+    "avgDirectoriesPerRepo": 51.0,
+    "totalListings": 480,
+    "aiEnhancedDirectories": 51
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -658,12 +658,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-privacy-policy-creation-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:01:53.317785+00:00Z",
+      "lastUpdated": "2025-11-07T00:01:53.317785+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 50,
+      "directoryCount": 51,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

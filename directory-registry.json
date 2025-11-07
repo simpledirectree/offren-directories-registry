@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:31:31.302581+00:00Z",
+  "lastUpdated": "2025-11-07T09:31:52.113361+00:00Z",
   "stats": {
-    "totalDirectories": 1250,
+    "totalDirectories": 1251,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1250.0,
-    "totalListings": 11880,
-    "aiEnhancedDirectories": 1249
+    "avgDirectoriesPerRepo": 1251.0,
+    "totalListings": 11890,
+    "aiEnhancedDirectories": 1250
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16257,12 +16257,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-wardrobe-consultation-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:31:52.113361+00:00Z",
+      "lastUpdated": "2025-11-07T09:31:52.113361+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1250,
+      "directoryCount": 1251,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

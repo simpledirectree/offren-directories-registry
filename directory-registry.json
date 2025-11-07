@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:04:56.346232+00:00Z",
+  "lastUpdated": "2025-11-07T16:05:24.457572+00:00Z",
   "stats": {
-    "totalDirectories": 1653,
+    "totalDirectories": 1654,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1653.0,
-    "totalListings": 15570,
-    "aiEnhancedDirectories": 1652
+    "avgDirectoriesPerRepo": 1654.0,
+    "totalListings": 15580,
+    "aiEnhancedDirectories": 1653
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21496,12 +21496,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-spinning-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:05:24.457572+00:00Z",
+      "lastUpdated": "2025-11-07T16:05:24.457572+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1653,
+      "directoryCount": 1654,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

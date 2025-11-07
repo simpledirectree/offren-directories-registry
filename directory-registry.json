@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:42:16.543609+00:00Z",
+  "lastUpdated": "2025-11-07T07:42:32.605408+00:00Z",
   "stats": {
-    "totalDirectories": 1111,
+    "totalDirectories": 1112,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1111.0,
-    "totalListings": 10613,
-    "aiEnhancedDirectories": 1110
+    "avgDirectoriesPerRepo": 1112.0,
+    "totalListings": 10622,
+    "aiEnhancedDirectories": 1111
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14450,12 +14450,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-piano-moving-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:42:32.605408+00:00Z",
+      "lastUpdated": "2025-11-07T07:42:32.605408+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1111,
+      "directoryCount": 1112,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

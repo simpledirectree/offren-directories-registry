@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:40:15.620174+00:00Z",
+  "lastUpdated": "2025-11-07T05:40:33.554231+00:00Z",
   "stats": {
-    "totalDirectories": 684,
+    "totalDirectories": 685,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 684.0,
-    "totalListings": 6534,
-    "aiEnhancedDirectories": 684
+    "avgDirectoriesPerRepo": 685.0,
+    "totalListings": 6540,
+    "aiEnhancedDirectories": 685
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8900,12 +8900,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-aeration-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:40:33.554231+00:00Z",
+      "lastUpdated": "2025-11-07T05:40:33.554231+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 684,
+      "directoryCount": 685,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

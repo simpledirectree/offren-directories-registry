@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:20:52.073184+00:00Z",
+  "lastUpdated": "2025-11-07T15:21:06.841497+00:00Z",
   "stats": {
-    "totalDirectories": 1602,
+    "totalDirectories": 1603,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1602.0,
-    "totalListings": 15113,
-    "aiEnhancedDirectories": 1601
+    "avgDirectoriesPerRepo": 1603.0,
+    "totalListings": 15123,
+    "aiEnhancedDirectories": 1602
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20833,12 +20833,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-bank-reconciliation-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:21:06.841497+00:00Z",
+      "lastUpdated": "2025-11-07T15:21:06.841497+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1602,
+      "directoryCount": 1603,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

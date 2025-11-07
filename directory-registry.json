@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T19:05:32.701808+00:00Z",
+  "lastUpdated": "2025-11-07T19:06:38.706249+00:00Z",
   "stats": {
-    "totalDirectories": 1832,
+    "totalDirectories": 1833,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1832.0,
-    "totalListings": 17225,
-    "aiEnhancedDirectories": 1831
+    "avgDirectoriesPerRepo": 1833.0,
+    "totalListings": 17235,
+    "aiEnhancedDirectories": 1832
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -23823,12 +23823,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-hipaa-compliance-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T19:06:38.706249+00:00Z",
+      "lastUpdated": "2025-11-07T19:06:38.706249+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1832,
+      "directoryCount": 1833,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

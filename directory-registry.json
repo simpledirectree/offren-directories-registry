@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:38:06.792496+00:00Z",
+  "lastUpdated": "2025-11-07T16:38:21.658231+00:00Z",
   "stats": {
-    "totalDirectories": 1688,
+    "totalDirectories": 1689,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1688.0,
-    "totalListings": 15898,
-    "aiEnhancedDirectories": 1687
+    "avgDirectoriesPerRepo": 1689.0,
+    "totalListings": 15908,
+    "aiEnhancedDirectories": 1688
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21951,12 +21951,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-slate-roofing-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:38:21.658231+00:00Z",
+      "lastUpdated": "2025-11-07T16:38:21.658231+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1688,
+      "directoryCount": 1689,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

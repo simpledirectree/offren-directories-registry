@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:46:50.666423+00:00Z",
+  "lastUpdated": "2025-11-07T03:47:06.613699+00:00Z",
   "stats": {
-    "totalDirectories": 282,
+    "totalDirectories": 283,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 282.0,
-    "totalListings": 2613,
-    "aiEnhancedDirectories": 282
+    "avgDirectoriesPerRepo": 283.0,
+    "totalListings": 2623,
+    "aiEnhancedDirectories": 283
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3674,12 +3674,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-roofing-installation-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:47:06.613699+00:00Z",
+      "lastUpdated": "2025-11-07T03:47:06.613699+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 282,
+      "directoryCount": 283,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

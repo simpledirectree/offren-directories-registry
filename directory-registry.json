@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:33:01.291800+00:00Z",
+  "lastUpdated": "2025-11-07T05:33:20.937288+00:00Z",
   "stats": {
-    "totalDirectories": 659,
+    "totalDirectories": 660,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 659.0,
-    "totalListings": 6284,
-    "aiEnhancedDirectories": 659
+    "avgDirectoriesPerRepo": 660.0,
+    "totalListings": 6294,
+    "aiEnhancedDirectories": 660
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8575,12 +8575,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-crop-planning-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:33:20.937288+00:00Z",
+      "lastUpdated": "2025-11-07T05:33:20.937288+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 659,
+      "directoryCount": 660,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

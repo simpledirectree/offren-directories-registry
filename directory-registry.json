@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T11:36:23.478638+00:00Z",
+  "lastUpdated": "2025-11-07T11:37:01.139140+00:00Z",
   "stats": {
-    "totalDirectories": 1381,
+    "totalDirectories": 1382,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1381.0,
-    "totalListings": 13084,
-    "aiEnhancedDirectories": 1380
+    "avgDirectoriesPerRepo": 1382.0,
+    "totalListings": 13089,
+    "aiEnhancedDirectories": 1381
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17960,12 +17960,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-hatha-yoga-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T11:37:01.139140+00:00Z",
+      "lastUpdated": "2025-11-07T11:37:01.139140+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1381,
+      "directoryCount": 1382,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

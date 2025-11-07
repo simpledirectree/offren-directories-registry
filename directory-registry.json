@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:01:33.200313+00:00Z",
+  "lastUpdated": "2025-11-07T22:01:48.820790+00:00Z",
   "stats": {
-    "totalDirectories": 2020,
+    "totalDirectories": 2021,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2020.0,
-    "totalListings": 18981,
-    "aiEnhancedDirectories": 2019
+    "avgDirectoriesPerRepo": 2021.0,
+    "totalListings": 18990,
+    "aiEnhancedDirectories": 2020
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26267,12 +26267,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-tire-installation-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:01:48.820790+00:00Z",
+      "lastUpdated": "2025-11-07T22:01:48.820790+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2020,
+      "directoryCount": 2021,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

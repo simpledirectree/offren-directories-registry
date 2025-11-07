@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T16:47:25.673508+00:00Z",
+  "lastUpdated": "2025-11-07T16:47:41.413851+00:00Z",
   "stats": {
-    "totalDirectories": 1694,
+    "totalDirectories": 1695,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1694.0,
-    "totalListings": 15956,
-    "aiEnhancedDirectories": 1693
+    "avgDirectoriesPerRepo": 1695.0,
+    "totalListings": 15966,
+    "aiEnhancedDirectories": 1694
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22029,12 +22029,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-turnaround-consulting-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T16:47:41.413851+00:00Z",
+      "lastUpdated": "2025-11-07T16:47:41.413851+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1694,
+      "directoryCount": 1695,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

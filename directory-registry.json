@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T03:34:34.927751+00:00Z",
+  "lastUpdated": "2025-11-07T03:36:38.240495+00:00Z",
   "stats": {
-    "totalDirectories": 263,
+    "totalDirectories": 264,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 263.0,
-    "totalListings": 2423,
-    "aiEnhancedDirectories": 263
+    "avgDirectoriesPerRepo": 264.0,
+    "totalListings": 2433,
+    "aiEnhancedDirectories": 264
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -3427,12 +3427,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-cloud-migration-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T03:36:38.240495+00:00Z",
+      "lastUpdated": "2025-11-07T03:36:38.240495+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 263,
+      "directoryCount": 264,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

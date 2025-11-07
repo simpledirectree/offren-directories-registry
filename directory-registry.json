@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T00:52:15.629627+00:00Z",
+  "lastUpdated": "2025-11-07T00:52:30.237759+00:00Z",
   "stats": {
-    "totalDirectories": 110,
+    "totalDirectories": 111,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 110.0,
-    "totalListings": 1030,
-    "aiEnhancedDirectories": 110
+    "avgDirectoriesPerRepo": 111.0,
+    "totalListings": 1040,
+    "aiEnhancedDirectories": 111
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -1438,12 +1438,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-workplace-policy-development-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T00:52:30.237759+00:00Z",
+      "lastUpdated": "2025-11-07T00:52:30.237759+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 110,
+      "directoryCount": 111,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

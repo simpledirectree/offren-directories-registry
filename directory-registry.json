@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:53:01.226015+00:00Z",
+  "lastUpdated": "2025-11-07T20:53:15.852022+00:00Z",
   "stats": {
-    "totalDirectories": 1947,
+    "totalDirectories": 1948,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1947.0,
-    "totalListings": 18293,
-    "aiEnhancedDirectories": 1946
+    "avgDirectoriesPerRepo": 1948.0,
+    "totalListings": 18294,
+    "aiEnhancedDirectories": 1947
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25318,12 +25318,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-commercial-brokerage-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:53:15.852022+00:00Z",
+      "lastUpdated": "2025-11-07T20:53:15.852022+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1947,
+      "directoryCount": 1948,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T11:31:50.988258+00:00Z",
+  "lastUpdated": "2025-11-07T11:32:30.921231+00:00Z",
   "stats": {
-    "totalDirectories": 1376,
+    "totalDirectories": 1377,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1376.0,
-    "totalListings": 13039,
-    "aiEnhancedDirectories": 1375
+    "avgDirectoriesPerRepo": 1377.0,
+    "totalListings": 13049,
+    "aiEnhancedDirectories": 1376
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17895,12 +17895,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-hardwood-flooring-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T11:32:30.921231+00:00Z",
+      "lastUpdated": "2025-11-07T11:32:30.921231+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1376,
+      "directoryCount": 1377,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

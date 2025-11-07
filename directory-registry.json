@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T11:16:13.390860+00:00Z",
+  "lastUpdated": "2025-11-07T11:17:43.488901+00:00Z",
   "stats": {
-    "totalDirectories": 1360,
+    "totalDirectories": 1361,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1360.0,
-    "totalListings": 12901,
-    "aiEnhancedDirectories": 1359
+    "avgDirectoriesPerRepo": 1361.0,
+    "totalListings": 12905,
+    "aiEnhancedDirectories": 1360
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -17687,12 +17687,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-battery-service-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T11:17:43.488901+00:00Z",
+      "lastUpdated": "2025-11-07T11:17:43.488901+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1360,
+      "directoryCount": 1361,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

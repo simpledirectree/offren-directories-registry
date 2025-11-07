@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:21:48.686787+00:00Z",
+  "lastUpdated": "2025-11-07T06:22:03.533431+00:00Z",
   "stats": {
-    "totalDirectories": 831,
+    "totalDirectories": 832,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 831.0,
-    "totalListings": 7955,
-    "aiEnhancedDirectories": 831
+    "avgDirectoriesPerRepo": 832.0,
+    "totalListings": 7965,
+    "aiEnhancedDirectories": 832
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10811,12 +10811,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-furniture-assembly-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:22:03.533431+00:00Z",
+      "lastUpdated": "2025-11-07T06:22:03.533431+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 831,
+      "directoryCount": 832,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

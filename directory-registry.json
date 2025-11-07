@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T14:36:01.730254+00:00Z",
+  "lastUpdated": "2025-11-07T14:36:42.775704+00:00Z",
   "stats": {
-    "totalDirectories": 1560,
+    "totalDirectories": 1561,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1560.0,
-    "totalListings": 14706,
-    "aiEnhancedDirectories": 1559
+    "avgDirectoriesPerRepo": 1561.0,
+    "totalListings": 14716,
+    "aiEnhancedDirectories": 1560
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20287,12 +20287,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-doggy-daycare-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T14:36:42.775704+00:00Z",
+      "lastUpdated": "2025-11-07T14:36:42.775704+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1560,
+      "directoryCount": 1561,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

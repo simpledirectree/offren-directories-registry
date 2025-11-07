@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T20:53:59.433094+00:00Z",
+  "lastUpdated": "2025-11-07T20:54:42.875585+00:00Z",
   "stats": {
-    "totalDirectories": 1949,
+    "totalDirectories": 1950,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1949.0,
-    "totalListings": 18304,
-    "aiEnhancedDirectories": 1948
+    "avgDirectoriesPerRepo": 1950.0,
+    "totalListings": 18314,
+    "aiEnhancedDirectories": 1949
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -25344,12 +25344,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-chess-instruction-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T20:54:42.875585+00:00Z",
+      "lastUpdated": "2025-11-07T20:54:42.875585+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1949,
+      "directoryCount": 1950,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

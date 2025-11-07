@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:10:05.523860+00:00Z",
+  "lastUpdated": "2025-11-07T06:10:20.586570+00:00Z",
   "stats": {
-    "totalDirectories": 790,
+    "totalDirectories": 791,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 790.0,
-    "totalListings": 7559,
-    "aiEnhancedDirectories": 790
+    "avgDirectoriesPerRepo": 791.0,
+    "totalListings": 7569,
+    "aiEnhancedDirectories": 791
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -10278,12 +10278,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-buyer-representation-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:10:20.586570+00:00Z",
+      "lastUpdated": "2025-11-07T06:10:20.586570+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 790,
+      "directoryCount": 791,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

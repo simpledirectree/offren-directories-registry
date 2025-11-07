@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:42:17.083628+00:00Z",
+  "lastUpdated": "2025-11-07T04:42:33.343730+00:00Z",
   "stats": {
-    "totalDirectories": 478,
+    "totalDirectories": 479,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 478.0,
-    "totalListings": 4506,
-    "aiEnhancedDirectories": 478
+    "avgDirectoriesPerRepo": 479.0,
+    "totalListings": 4516,
+    "aiEnhancedDirectories": 479
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6222,12 +6222,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-pet-photography-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:42:33.343730+00:00Z",
+      "lastUpdated": "2025-11-07T04:42:33.343730+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 478,
+      "directoryCount": 479,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

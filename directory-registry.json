@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:50:35.737523+00:00Z",
+  "lastUpdated": "2025-11-07T05:50:51.403462+00:00Z",
   "stats": {
-    "totalDirectories": 720,
+    "totalDirectories": 721,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 720.0,
-    "totalListings": 6873,
-    "aiEnhancedDirectories": 720
+    "avgDirectoriesPerRepo": 721.0,
+    "totalListings": 6883,
+    "aiEnhancedDirectories": 721
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9368,12 +9368,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-incident-response-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:50:51.403462+00:00Z",
+      "lastUpdated": "2025-11-07T05:50:51.403462+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 720,
+      "directoryCount": 721,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

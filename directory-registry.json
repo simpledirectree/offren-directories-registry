@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T13:21:52.307469+00:00Z",
+  "lastUpdated": "2025-11-07T13:22:08.400279+00:00Z",
   "stats": {
-    "totalDirectories": 1487,
+    "totalDirectories": 1488,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1487.0,
-    "totalListings": 14038,
-    "aiEnhancedDirectories": 1486
+    "avgDirectoriesPerRepo": 1488.0,
+    "totalListings": 14045,
+    "aiEnhancedDirectories": 1487
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19338,12 +19338,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-marketing-automation-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:22:08.400279+00:00Z",
+      "lastUpdated": "2025-11-07T13:22:08.400279+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1487,
+      "directoryCount": 1488,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

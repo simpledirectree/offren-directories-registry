@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:26:41.231970+00:00Z",
+  "lastUpdated": "2025-11-07T05:26:56.527760+00:00Z",
   "stats": {
-    "totalDirectories": 637,
+    "totalDirectories": 638,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 637.0,
-    "totalListings": 6064,
-    "aiEnhancedDirectories": 637
+    "avgDirectoriesPerRepo": 638.0,
+    "totalListings": 6074,
+    "aiEnhancedDirectories": 638
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -8289,12 +8289,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-windshield-replacement-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:26:56.527760+00:00Z",
+      "lastUpdated": "2025-11-07T05:26:56.527760+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 637,
+      "directoryCount": 638,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:41:50.087974+00:00Z",
+  "lastUpdated": "2025-11-07T17:42:28.790672+00:00Z",
   "stats": {
-    "totalDirectories": 1752,
+    "totalDirectories": 1753,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1752.0,
-    "totalListings": 16490,
-    "aiEnhancedDirectories": 1751
+    "avgDirectoriesPerRepo": 1753.0,
+    "totalListings": 16495,
+    "aiEnhancedDirectories": 1752
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22783,12 +22783,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-medical-grade-treatments-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:42:28.790672+00:00Z",
+      "lastUpdated": "2025-11-07T17:42:28.790672+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1752,
+      "directoryCount": 1753,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:57:52.602743+00:00Z",
+  "lastUpdated": "2025-11-07T05:58:08.254803+00:00Z",
   "stats": {
-    "totalDirectories": 746,
+    "totalDirectories": 747,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 746.0,
-    "totalListings": 7121,
-    "aiEnhancedDirectories": 746
+    "avgDirectoriesPerRepo": 747.0,
+    "totalListings": 7131,
+    "aiEnhancedDirectories": 747
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -9706,12 +9706,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-aerial-yoga-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:58:08.254803+00:00Z",
+      "lastUpdated": "2025-11-07T05:58:08.254803+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 746,
+      "directoryCount": 747,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

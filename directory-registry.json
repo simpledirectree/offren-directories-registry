@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T14:56:24.335233+00:00Z",
+  "lastUpdated": "2025-11-07T14:57:31.453394+00:00Z",
   "stats": {
-    "totalDirectories": 1577,
+    "totalDirectories": 1578,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1577.0,
-    "totalListings": 14876,
-    "aiEnhancedDirectories": 1576
+    "avgDirectoriesPerRepo": 1578.0,
+    "totalListings": 14886,
+    "aiEnhancedDirectories": 1577
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -20508,12 +20508,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-clinical-social-work-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T14:57:31.453394+00:00Z",
+      "lastUpdated": "2025-11-07T14:57:31.453394+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1577,
+      "directoryCount": 1578,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

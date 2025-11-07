@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:56:28.019788+00:00Z",
+  "lastUpdated": "2025-11-07T07:56:43.679206+00:00Z",
   "stats": {
-    "totalDirectories": 1137,
+    "totalDirectories": 1138,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1137.0,
-    "totalListings": 10859,
-    "aiEnhancedDirectories": 1136
+    "avgDirectoriesPerRepo": 1138.0,
+    "totalListings": 10869,
+    "aiEnhancedDirectories": 1137
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14788,12 +14788,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-temporary-staffing-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:56:43.679206+00:00Z",
+      "lastUpdated": "2025-11-07T07:56:43.679206+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1137,
+      "directoryCount": 1138,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

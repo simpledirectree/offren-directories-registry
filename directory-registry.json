@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T05:13:59.700891+00:00Z",
+  "lastUpdated": "2025-11-07T05:14:22.111635+00:00Z",
   "stats": {
-    "totalDirectories": 591,
+    "totalDirectories": 592,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 591.0,
-    "totalListings": 5606,
-    "aiEnhancedDirectories": 591
+    "avgDirectoriesPerRepo": 592.0,
+    "totalListings": 5616,
+    "aiEnhancedDirectories": 592
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -7691,12 +7691,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-medicare-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T05:14:22.111635+00:00Z",
+      "lastUpdated": "2025-11-07T05:14:22.111635+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 591,
+      "directoryCount": 592,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

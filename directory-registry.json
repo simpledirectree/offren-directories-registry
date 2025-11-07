@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T15:30:58.683661+00:00Z",
+  "lastUpdated": "2025-11-07T15:31:40.971921+00:00Z",
   "stats": {
-    "totalDirectories": 1620,
+    "totalDirectories": 1621,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1620.0,
-    "totalListings": 15261,
-    "aiEnhancedDirectories": 1619
+    "avgDirectoriesPerRepo": 1621.0,
+    "totalListings": 15271,
+    "aiEnhancedDirectories": 1620
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -21067,12 +21067,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-heating-systems-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T15:31:40.971921+00:00Z",
+      "lastUpdated": "2025-11-07T15:31:40.971921+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1620,
+      "directoryCount": 1621,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

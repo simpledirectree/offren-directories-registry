@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:19:09.327112+00:00Z",
+  "lastUpdated": "2025-11-07T08:20:40.309625+00:00Z",
   "stats": {
-    "totalDirectories": 1176,
+    "totalDirectories": 1177,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1176.0,
-    "totalListings": 11222,
-    "aiEnhancedDirectories": 1175
+    "avgDirectoriesPerRepo": 1177.0,
+    "totalListings": 11232,
+    "aiEnhancedDirectories": 1176
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15295,12 +15295,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-seasonal-farm-labor-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:20:40.309625+00:00Z",
+      "lastUpdated": "2025-11-07T08:20:40.309625+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1176,
+      "directoryCount": 1177,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

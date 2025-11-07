@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:33:01.749576+00:00Z",
+  "lastUpdated": "2025-11-07T07:33:24.943401+00:00Z",
   "stats": {
-    "totalDirectories": 1077,
+    "totalDirectories": 1078,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1077.0,
-    "totalListings": 10294,
-    "aiEnhancedDirectories": 1076
+    "avgDirectoriesPerRepo": 1078.0,
+    "totalListings": 10304,
+    "aiEnhancedDirectories": 1077
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14008,12 +14008,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-livestock-care-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:33:24.943401+00:00Z",
+      "lastUpdated": "2025-11-07T07:33:24.943401+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1077,
+      "directoryCount": 1078,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

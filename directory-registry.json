@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T13:10:13.927225+00:00Z",
+  "lastUpdated": "2025-11-07T13:10:29.380985+00:00Z",
   "stats": {
-    "totalDirectories": 1479,
+    "totalDirectories": 1480,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1479.0,
-    "totalListings": 13964,
-    "aiEnhancedDirectories": 1478
+    "avgDirectoriesPerRepo": 1480.0,
+    "totalListings": 13974,
+    "aiEnhancedDirectories": 1479
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19234,12 +19234,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-technology-procurement-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T13:10:29.380985+00:00Z",
+      "lastUpdated": "2025-11-07T13:10:29.380985+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1479,
+      "directoryCount": 1480,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

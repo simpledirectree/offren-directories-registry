@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T14:12:47.572283+00:00Z",
+  "lastUpdated": "2025-11-07T14:13:55.402455+00:00Z",
   "stats": {
-    "totalDirectories": 1530,
+    "totalDirectories": 1531,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1530.0,
-    "totalListings": 14420,
-    "aiEnhancedDirectories": 1529
+    "avgDirectoriesPerRepo": 1531.0,
+    "totalListings": 14430,
+    "aiEnhancedDirectories": 1530
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -19897,12 +19897,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-roofing-replacement-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T14:13:55.402455+00:00Z",
+      "lastUpdated": "2025-11-07T14:13:55.402455+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1530,
+      "directoryCount": 1531,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

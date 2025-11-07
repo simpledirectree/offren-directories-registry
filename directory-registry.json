@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T06:51:11.093373+00:00Z",
+  "lastUpdated": "2025-11-07T06:51:26.791906+00:00Z",
   "stats": {
-    "totalDirectories": 932,
+    "totalDirectories": 933,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 932.0,
-    "totalListings": 8905,
-    "aiEnhancedDirectories": 932
+    "avgDirectoriesPerRepo": 933.0,
+    "totalListings": 8915,
+    "aiEnhancedDirectories": 933
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -12124,12 +12124,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-hair-salons-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T06:51:26.791906+00:00Z",
+      "lastUpdated": "2025-11-07T06:51:26.791906+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 932,
+      "directoryCount": 933,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T08:39:12.266230+00:00Z",
+  "lastUpdated": "2025-11-07T08:40:14.941424+00:00Z",
   "stats": {
-    "totalDirectories": 1196,
+    "totalDirectories": 1197,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1196.0,
-    "totalListings": 11401,
-    "aiEnhancedDirectories": 1195
+    "avgDirectoriesPerRepo": 1197.0,
+    "totalListings": 11411,
+    "aiEnhancedDirectories": 1196
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -15555,12 +15555,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-soil-testing-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T08:40:14.941424+00:00Z",
+      "lastUpdated": "2025-11-07T08:40:14.941424+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1196,
+      "directoryCount": 1197,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

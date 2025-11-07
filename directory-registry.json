@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T09:45:56.347469+00:00Z",
+  "lastUpdated": "2025-11-07T09:48:14.744902+00:00Z",
   "stats": {
-    "totalDirectories": 1263,
+    "totalDirectories": 1264,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1263.0,
-    "totalListings": 11998,
-    "aiEnhancedDirectories": 1262
+    "avgDirectoriesPerRepo": 1264.0,
+    "totalListings": 12000,
+    "aiEnhancedDirectories": 1263
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -16426,12 +16426,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-identity-and-access-management-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T09:48:14.744902+00:00Z",
+      "lastUpdated": "2025-11-07T09:48:14.744902+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1263,
+      "directoryCount": 1264,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

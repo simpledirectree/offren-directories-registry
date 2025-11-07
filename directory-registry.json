@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T07:53:47.274089+00:00Z",
+  "lastUpdated": "2025-11-07T07:54:29.318513+00:00Z",
   "stats": {
-    "totalDirectories": 1135,
+    "totalDirectories": 1136,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1135.0,
-    "totalListings": 10839,
-    "aiEnhancedDirectories": 1134
+    "avgDirectoriesPerRepo": 1136.0,
+    "totalListings": 10849,
+    "aiEnhancedDirectories": 1135
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -14762,12 +14762,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-title-insurance-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T07:54:29.318513+00:00Z",
+      "lastUpdated": "2025-11-07T07:54:29.318513+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1135,
+      "directoryCount": 1136,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

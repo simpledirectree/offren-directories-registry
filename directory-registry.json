@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T23:40:56.811086+00:00Z",
+  "lastUpdated": "2025-11-07T23:41:14.108427+00:00Z",
   "stats": {
-    "totalDirectories": 2131,
+    "totalDirectories": 2132,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2131.0,
-    "totalListings": 19956,
-    "aiEnhancedDirectories": 2130
+    "avgDirectoriesPerRepo": 2132.0,
+    "totalListings": 19966,
+    "aiEnhancedDirectories": 2131
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27710,12 +27710,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-suspension-upgrades-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T23:41:14.108427+00:00Z",
+      "lastUpdated": "2025-11-07T23:41:14.108427+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2131,
+      "directoryCount": 2132,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

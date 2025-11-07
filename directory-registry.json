@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T02:58:58.971871+00:00Z",
+  "lastUpdated": "2025-11-07T02:59:38.201609+00:00Z",
   "stats": {
-    "totalDirectories": 230,
+    "totalDirectories": 231,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 230.0,
-    "totalListings": 2112,
-    "aiEnhancedDirectories": 230
+    "avgDirectoriesPerRepo": 231.0,
+    "totalListings": 2122,
+    "aiEnhancedDirectories": 231
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -2998,12 +2998,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-management-training-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T02:59:38.201609+00:00Z",
+      "lastUpdated": "2025-11-07T02:59:38.201609+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 230,
+      "directoryCount": 231,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

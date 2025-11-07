@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T17:28:40.452619+00:00Z",
+  "lastUpdated": "2025-11-07T17:28:56.925099+00:00Z",
   "stats": {
-    "totalDirectories": 1738,
+    "totalDirectories": 1739,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1738.0,
-    "totalListings": 16362,
-    "aiEnhancedDirectories": 1737
+    "avgDirectoriesPerRepo": 1739.0,
+    "totalListings": 16372,
+    "aiEnhancedDirectories": 1738
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -22601,12 +22601,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-irs-audit-representation-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T17:28:56.925099+00:00Z",
+      "lastUpdated": "2025-11-07T17:28:56.925099+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1738,
+      "directoryCount": 1739,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

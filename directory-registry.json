@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T04:37:42.865614+00:00Z",
+  "lastUpdated": "2025-11-07T04:38:02.042544+00:00Z",
   "stats": {
-    "totalDirectories": 464,
+    "totalDirectories": 465,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 464.0,
-    "totalListings": 4371,
-    "aiEnhancedDirectories": 464
+    "avgDirectoriesPerRepo": 465.0,
+    "totalListings": 4381,
+    "aiEnhancedDirectories": 465
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -6040,12 +6040,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-hr-compliance-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T04:38:02.042544+00:00Z",
+      "lastUpdated": "2025-11-07T04:38:02.042544+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 464,
+      "directoryCount": 465,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

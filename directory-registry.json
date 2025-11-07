@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T12:02:23.705020+00:00Z",
+  "lastUpdated": "2025-11-07T12:02:40.093443+00:00Z",
   "stats": {
-    "totalDirectories": 1408,
+    "totalDirectories": 1409,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1408.0,
-    "totalListings": 13317,
-    "aiEnhancedDirectories": 1407
+    "avgDirectoriesPerRepo": 1409.0,
+    "totalListings": 13327,
+    "aiEnhancedDirectories": 1408
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -18311,12 +18311,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-drop-off-catering-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T12:02:40.093443+00:00Z",
+      "lastUpdated": "2025-11-07T12:02:40.093443+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 1408,
+      "directoryCount": 1409,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

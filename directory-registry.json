@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-07T22:37:55.811371+00:00Z",
+  "lastUpdated": "2025-11-07T22:39:24.179247+00:00Z",
   "stats": {
-    "totalDirectories": 2058,
+    "totalDirectories": 2059,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2058.0,
-    "totalListings": 19336,
-    "aiEnhancedDirectories": 2057
+    "avgDirectoriesPerRepo": 2059.0,
+    "totalListings": 19341,
+    "aiEnhancedDirectories": 2058
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -26761,12 +26761,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-help-desk-services-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-07T22:39:24.179247+00:00Z",
+      "lastUpdated": "2025-11-07T22:39:24.179247+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2058,
+      "directoryCount": 2059,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

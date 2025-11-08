@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:02:14.990812+00:00Z",
+  "lastUpdated": "2025-11-08T18:02:29.120740+00:00Z",
   "stats": {
-    "totalDirectories": 1463,
+    "totalDirectories": 1464,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1463.0,
-    "totalListings": 13904,
-    "aiEnhancedDirectories": 1463
+    "avgDirectoriesPerRepo": 1464.0,
+    "totalListings": 13909,
+    "aiEnhancedDirectories": 1464
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19027,12 +19027,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-homeowners-insurance-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:02:29.120740+00:00Z",
+      "lastUpdated": "2025-11-08T18:02:29.120740+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1463,
+      "directoryCount": 1464,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

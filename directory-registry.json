@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:23:36.914899+00:00Z",
+  "lastUpdated": "2025-11-08T19:25:31.516448+00:00Z",
   "stats": {
-    "totalDirectories": 1559,
+    "totalDirectories": 1560,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1559.0,
-    "totalListings": 14813,
-    "aiEnhancedDirectories": 1559
+    "avgDirectoriesPerRepo": 1560.0,
+    "totalListings": 14823,
+    "aiEnhancedDirectories": 1560
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20275,12 +20275,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-rodent-control-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:25:31.516448+00:00Z",
+      "lastUpdated": "2025-11-08T19:25:31.516448+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1559,
+      "directoryCount": 1560,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

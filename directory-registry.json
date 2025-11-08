@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:07:13.471701+00:00Z",
+  "lastUpdated": "2025-11-08T02:08:52.271875+00:00Z",
   "stats": {
-    "totalDirectories": 2293,
+    "totalDirectories": 2294,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2293.0,
-    "totalListings": 21434,
-    "aiEnhancedDirectories": 2292
+    "avgDirectoriesPerRepo": 2294.0,
+    "totalListings": 21438,
+    "aiEnhancedDirectories": 2293
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29816,12 +29816,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-firewall-management-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:08:52.271875+00:00Z",
+      "lastUpdated": "2025-11-08T02:08:52.271875+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2293,
+      "directoryCount": 2294,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

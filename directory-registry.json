@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:20:31.374213+00:00Z",
+  "lastUpdated": "2025-11-08T20:21:11.299976+00:00Z",
   "stats": {
-    "totalDirectories": 1626,
+    "totalDirectories": 1627,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1626.0,
-    "totalListings": 15429,
-    "aiEnhancedDirectories": 1626
+    "avgDirectoriesPerRepo": 1627.0,
+    "totalListings": 15439,
+    "aiEnhancedDirectories": 1627
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21146,12 +21146,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-tree-planting-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:21:11.299976+00:00Z",
+      "lastUpdated": "2025-11-08T20:21:11.299976+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1626,
+      "directoryCount": 1627,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

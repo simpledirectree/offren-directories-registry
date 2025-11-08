@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:45:40.137751+00:00Z",
+  "lastUpdated": "2025-11-08T08:45:56.067657+00:00Z",
   "stats": {
-    "totalDirectories": 829,
+    "totalDirectories": 830,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 829.0,
-    "totalListings": 8026,
-    "aiEnhancedDirectories": 829
+    "avgDirectoriesPerRepo": 830.0,
+    "totalListings": 8036,
+    "aiEnhancedDirectories": 830
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10785,12 +10785,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-framing-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:45:56.067657+00:00Z",
+      "lastUpdated": "2025-11-08T08:45:56.067657+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 829,
+      "directoryCount": 830,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

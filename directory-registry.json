@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:27:54.537454+00:00Z",
+  "lastUpdated": "2025-11-08T17:29:25.226185+00:00Z",
   "stats": {
-    "totalDirectories": 1425,
+    "totalDirectories": 1426,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1425.0,
-    "totalListings": 13534,
-    "aiEnhancedDirectories": 1425
+    "avgDirectoriesPerRepo": 1426.0,
+    "totalListings": 13544,
+    "aiEnhancedDirectories": 1426
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18533,12 +18533,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-payroll-tax-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:29:25.226185+00:00Z",
+      "lastUpdated": "2025-11-08T17:29:25.226185+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1425,
+      "directoryCount": 1426,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

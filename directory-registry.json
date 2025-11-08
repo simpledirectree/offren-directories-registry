@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:20:49.341862+00:00Z",
+  "lastUpdated": "2025-11-08T06:21:08.171349+00:00Z",
   "stats": {
-    "totalDirectories": 489,
+    "totalDirectories": 490,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 489.0,
-    "totalListings": 4755,
-    "aiEnhancedDirectories": 489
+    "avgDirectoriesPerRepo": 490.0,
+    "totalListings": 4765,
+    "aiEnhancedDirectories": 490
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6365,12 +6365,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-window-adjustments-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:21:08.171349+00:00Z",
+      "lastUpdated": "2025-11-08T06:21:08.171349+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 489,
+      "directoryCount": 490,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

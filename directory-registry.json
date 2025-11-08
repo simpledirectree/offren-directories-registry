@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:10:52.494443+00:00Z",
+  "lastUpdated": "2025-11-08T06:11:11.840712+00:00Z",
   "stats": {
-    "totalDirectories": 454,
+    "totalDirectories": 455,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 454.0,
-    "totalListings": 4410,
-    "aiEnhancedDirectories": 454
+    "avgDirectoriesPerRepo": 455.0,
+    "totalListings": 4420,
+    "aiEnhancedDirectories": 455
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5910,12 +5910,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-network-setup-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:11:11.840712+00:00Z",
+      "lastUpdated": "2025-11-08T06:11:11.840712+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 454,
+      "directoryCount": 455,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

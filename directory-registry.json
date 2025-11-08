@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:06:42.364405+00:00Z",
+  "lastUpdated": "2025-11-08T06:06:57.235948+00:00Z",
   "stats": {
-    "totalDirectories": 439,
+    "totalDirectories": 440,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 439.0,
-    "totalListings": 4265,
-    "aiEnhancedDirectories": 439
+    "avgDirectoriesPerRepo": 440.0,
+    "totalListings": 4275,
+    "aiEnhancedDirectories": 440
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5715,12 +5715,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-elopements-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:06:57.235948+00:00Z",
+      "lastUpdated": "2025-11-08T06:06:57.235948+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 439,
+      "directoryCount": 440,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

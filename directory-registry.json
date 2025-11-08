@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:32:57.549131+00:00Z",
+  "lastUpdated": "2025-11-08T22:33:39.764432+00:00Z",
   "stats": {
-    "totalDirectories": 1789,
+    "totalDirectories": 1790,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1789.0,
-    "totalListings": 16944,
-    "aiEnhancedDirectories": 1789
+    "avgDirectoriesPerRepo": 1790.0,
+    "totalListings": 16954,
+    "aiEnhancedDirectories": 1790
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23265,12 +23265,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-trust-services-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:33:39.764432+00:00Z",
+      "lastUpdated": "2025-11-08T22:33:39.764432+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1789,
+      "directoryCount": 1790,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

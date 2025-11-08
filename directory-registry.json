@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:24:04.458806+00:00Z",
+  "lastUpdated": "2025-11-08T05:24:23.334062+00:00Z",
   "stats": {
-    "totalDirectories": 286,
+    "totalDirectories": 287,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 286.0,
-    "totalListings": 2797,
-    "aiEnhancedDirectories": 286
+    "avgDirectoriesPerRepo": 287.0,
+    "totalListings": 2807,
+    "aiEnhancedDirectories": 287
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3726,12 +3726,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-e-commerce-development-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:24:23.334062+00:00Z",
+      "lastUpdated": "2025-11-08T05:24:23.334062+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 286,
+      "directoryCount": 287,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

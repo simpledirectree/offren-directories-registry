@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:17:49.488496+00:00Z",
+  "lastUpdated": "2025-11-08T04:18:06.203912+00:00Z",
   "stats": {
-    "totalDirectories": 46,
+    "totalDirectories": 47,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 46.0,
-    "totalListings": 456,
-    "aiEnhancedDirectories": 46
+    "avgDirectoriesPerRepo": 47.0,
+    "totalListings": 466,
+    "aiEnhancedDirectories": 47
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -606,12 +606,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-load-balancing-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:18:06.203912+00:00Z",
+      "lastUpdated": "2025-11-08T04:18:06.203912+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 46,
+      "directoryCount": 47,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:19:06.884256+00:00Z",
+  "lastUpdated": "2025-11-08T15:21:06.194750+00:00Z",
   "stats": {
-    "totalDirectories": 1280,
+    "totalDirectories": 1281,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1280.0,
-    "totalListings": 12163,
-    "aiEnhancedDirectories": 1280
+    "avgDirectoriesPerRepo": 1281.0,
+    "totalListings": 12173,
+    "aiEnhancedDirectories": 1281
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16648,12 +16648,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-college-planning-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:21:06.194750+00:00Z",
+      "lastUpdated": "2025-11-08T15:21:06.194750+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1280,
+      "directoryCount": 1281,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:21:43.117806+00:00Z",
+  "lastUpdated": "2025-11-08T08:22:43.642136+00:00Z",
   "stats": {
-    "totalDirectories": 803,
+    "totalDirectories": 804,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 803.0,
-    "totalListings": 7782,
-    "aiEnhancedDirectories": 803
+    "avgDirectoriesPerRepo": 804.0,
+    "totalListings": 7786,
+    "aiEnhancedDirectories": 804
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10447,12 +10447,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-agricultural-photography-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:22:43.642136+00:00Z",
+      "lastUpdated": "2025-11-08T08:22:43.642136+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 803,
+      "directoryCount": 804,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

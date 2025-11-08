@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:37:59.257937+00:00Z",
+  "lastUpdated": "2025-11-08T04:38:19.135598+00:00Z",
   "stats": {
-    "totalDirectories": 118,
+    "totalDirectories": 119,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 118.0,
-    "totalListings": 1162,
-    "aiEnhancedDirectories": 118
+    "avgDirectoriesPerRepo": 119.0,
+    "totalListings": 1172,
+    "aiEnhancedDirectories": 119
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1542,12 +1542,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-dj-services-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:38:19.135598+00:00Z",
+      "lastUpdated": "2025-11-08T04:38:19.135598+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 118,
+      "directoryCount": 119,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

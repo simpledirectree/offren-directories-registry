@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:32:06.805994+00:00Z",
+  "lastUpdated": "2025-11-08T11:34:33.026997+00:00Z",
   "stats": {
-    "totalDirectories": 1022,
+    "totalDirectories": 1023,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1022.0,
-    "totalListings": 9808,
-    "aiEnhancedDirectories": 1022
+    "avgDirectoriesPerRepo": 1023.0,
+    "totalListings": 9814,
+    "aiEnhancedDirectories": 1023
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13294,12 +13294,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-lawyers-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:34:33.026997+00:00Z",
+      "lastUpdated": "2025-11-08T11:34:33.026997+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1022,
+      "directoryCount": 1023,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

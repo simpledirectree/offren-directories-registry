@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:20:50.600590+00:00Z",
+  "lastUpdated": "2025-11-08T05:21:08.540775+00:00Z",
   "stats": {
-    "totalDirectories": 274,
+    "totalDirectories": 275,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 274.0,
-    "totalListings": 2684,
-    "aiEnhancedDirectories": 274
+    "avgDirectoriesPerRepo": 275.0,
+    "totalListings": 2694,
+    "aiEnhancedDirectories": 275
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3570,12 +3570,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-traditional-chinese-medicine-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:21:08.540775+00:00Z",
+      "lastUpdated": "2025-11-08T05:21:08.540775+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 274,
+      "directoryCount": 275,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

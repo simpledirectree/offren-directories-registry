@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:59:21.151412+00:00Z",
+  "lastUpdated": "2025-11-08T06:59:38.745098+00:00Z",
   "stats": {
-    "totalDirectories": 629,
+    "totalDirectories": 630,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 629.0,
-    "totalListings": 6110,
-    "aiEnhancedDirectories": 629
+    "avgDirectoriesPerRepo": 630.0,
+    "totalListings": 6120,
+    "aiEnhancedDirectories": 630
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8185,12 +8185,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-judo-classes-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:59:38.745098+00:00Z",
+      "lastUpdated": "2025-11-08T06:59:38.745098+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 629,
+      "directoryCount": 630,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

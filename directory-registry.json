@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:18:34.860198+00:00Z",
+  "lastUpdated": "2025-11-08T07:18:52.381910+00:00Z",
   "stats": {
-    "totalDirectories": 698,
+    "totalDirectories": 699,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 698.0,
-    "totalListings": 6786,
-    "aiEnhancedDirectories": 698
+    "avgDirectoriesPerRepo": 699.0,
+    "totalListings": 6796,
+    "aiEnhancedDirectories": 699
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9082,12 +9082,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-pci-dss-compliance-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:18:52.381910+00:00Z",
+      "lastUpdated": "2025-11-08T07:18:52.381910+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 698,
+      "directoryCount": 699,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

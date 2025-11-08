@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:48:09.234193+00:00Z",
+  "lastUpdated": "2025-11-08T21:48:49.381959+00:00Z",
   "stats": {
-    "totalDirectories": 1738,
+    "totalDirectories": 1739,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1738.0,
-    "totalListings": 16462,
-    "aiEnhancedDirectories": 1738
+    "avgDirectoriesPerRepo": 1739.0,
+    "totalListings": 16472,
+    "aiEnhancedDirectories": 1739
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22602,12 +22602,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-ethnic-catering-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:48:49.381959+00:00Z",
+      "lastUpdated": "2025-11-08T21:48:49.381959+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1738,
+      "directoryCount": 1739,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

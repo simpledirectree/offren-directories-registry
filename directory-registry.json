@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:56:08.268287+00:00Z",
+  "lastUpdated": "2025-11-08T15:57:53.515817+00:00Z",
   "stats": {
-    "totalDirectories": 1319,
+    "totalDirectories": 1320,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1319.0,
-    "totalListings": 12527,
-    "aiEnhancedDirectories": 1319
+    "avgDirectoriesPerRepo": 1320.0,
+    "totalListings": 12532,
+    "aiEnhancedDirectories": 1320
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17155,12 +17155,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-specialty-cuisine-catering-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:57:53.515817+00:00Z",
+      "lastUpdated": "2025-11-08T15:57:53.515817+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1319,
+      "directoryCount": 1320,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

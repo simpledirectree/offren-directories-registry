@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:29:25.226185+00:00Z",
+  "lastUpdated": "2025-11-08T17:29:57.979755+00:00Z",
   "stats": {
-    "totalDirectories": 1426,
+    "totalDirectories": 1427,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1426.0,
-    "totalListings": 13544,
-    "aiEnhancedDirectories": 1426
+    "avgDirectoriesPerRepo": 1427.0,
+    "totalListings": 13554,
+    "aiEnhancedDirectories": 1427
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18546,12 +18546,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-direct-restaurant-delivery-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:29:57.979755+00:00Z",
+      "lastUpdated": "2025-11-08T17:29:57.979755+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1426,
+      "directoryCount": 1427,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

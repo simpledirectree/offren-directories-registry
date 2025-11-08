@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:10:20.286851+00:00Z",
+  "lastUpdated": "2025-11-08T06:10:38.721623+00:00Z",
   "stats": {
-    "totalDirectories": 452,
+    "totalDirectories": 453,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 452.0,
-    "totalListings": 4390,
-    "aiEnhancedDirectories": 452
+    "avgDirectoriesPerRepo": 453.0,
+    "totalListings": 4400,
+    "aiEnhancedDirectories": 453
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5884,12 +5884,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-neurologists-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:10:38.721623+00:00Z",
+      "lastUpdated": "2025-11-08T06:10:38.721623+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 452,
+      "directoryCount": 453,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

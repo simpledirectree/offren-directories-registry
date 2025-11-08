@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:11:03.375857+00:00Z",
+  "lastUpdated": "2025-11-08T10:11:16.558553+00:00Z",
   "stats": {
-    "totalDirectories": 931,
+    "totalDirectories": 932,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 931.0,
-    "totalListings": 8959,
-    "aiEnhancedDirectories": 931
+    "avgDirectoriesPerRepo": 932.0,
+    "totalListings": 8960,
+    "aiEnhancedDirectories": 932
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12111,12 +12111,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-sales-training-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:11:16.558553+00:00Z",
+      "lastUpdated": "2025-11-08T10:11:16.558553+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 931,
+      "directoryCount": 932,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:49:24.998307+00:00Z",
+  "lastUpdated": "2025-11-08T06:49:39.162276+00:00Z",
   "stats": {
-    "totalDirectories": 591,
+    "totalDirectories": 592,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 591.0,
-    "totalListings": 5752,
-    "aiEnhancedDirectories": 591
+    "avgDirectoriesPerRepo": 592.0,
+    "totalListings": 5762,
+    "aiEnhancedDirectories": 592
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7691,12 +7691,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-dent-repair-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:49:39.162276+00:00Z",
+      "lastUpdated": "2025-11-08T06:49:39.162276+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 591,
+      "directoryCount": 592,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

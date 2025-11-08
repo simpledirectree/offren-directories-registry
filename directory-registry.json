@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:13:15.005973+00:00Z",
+  "lastUpdated": "2025-11-08T11:14:19.780137+00:00Z",
   "stats": {
-    "totalDirectories": 1001,
+    "totalDirectories": 1002,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1001.0,
-    "totalListings": 9601,
-    "aiEnhancedDirectories": 1001
+    "avgDirectoriesPerRepo": 1002.0,
+    "totalListings": 9611,
+    "aiEnhancedDirectories": 1002
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13021,12 +13021,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-cellulite-treatment-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:14:19.780137+00:00Z",
+      "lastUpdated": "2025-11-08T11:14:19.780137+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1001,
+      "directoryCount": 1002,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

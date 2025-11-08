@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:55:13.268893+00:00Z",
+  "lastUpdated": "2025-11-08T10:55:53.960088+00:00Z",
   "stats": {
-    "totalDirectories": 981,
+    "totalDirectories": 982,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 981.0,
-    "totalListings": 9408,
-    "aiEnhancedDirectories": 981
+    "avgDirectoriesPerRepo": 982.0,
+    "totalListings": 9418,
+    "aiEnhancedDirectories": 982
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12761,12 +12761,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-after-school-care-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:55:53.960088+00:00Z",
+      "lastUpdated": "2025-11-08T10:55:53.960088+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 981,
+      "directoryCount": 982,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

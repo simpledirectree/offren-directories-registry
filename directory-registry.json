@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:24:16.792502+00:00Z",
+  "lastUpdated": "2025-11-08T09:24:29.380158+00:00Z",
   "stats": {
-    "totalDirectories": 878,
+    "totalDirectories": 879,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 878.0,
-    "totalListings": 8476,
-    "aiEnhancedDirectories": 878
+    "avgDirectoriesPerRepo": 879.0,
+    "totalListings": 8486,
+    "aiEnhancedDirectories": 879
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11422,12 +11422,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-commercial-kitchen-rentals-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:24:29.380158+00:00Z",
+      "lastUpdated": "2025-11-08T09:24:29.380158+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 878,
+      "directoryCount": 879,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

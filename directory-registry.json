@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:58:48.259484+00:00Z",
+  "lastUpdated": "2025-11-08T03:59:04.555691+00:00Z",
   "stats": {
-    "totalDirectories": 2450,
+    "totalDirectories": 2451,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2450.0,
-    "totalListings": 22886,
-    "aiEnhancedDirectories": 2449
+    "avgDirectoriesPerRepo": 2451.0,
+    "totalListings": 22896,
+    "aiEnhancedDirectories": 2450
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31857,12 +31857,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-dermaplaning-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:59:04.555691+00:00Z",
+      "lastUpdated": "2025-11-08T03:59:04.555691+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2450,
+      "directoryCount": 2451,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

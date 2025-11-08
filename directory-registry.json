@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:39:01.701269+00:00Z",
+  "lastUpdated": "2025-11-08T21:39:15.930950+00:00Z",
   "stats": {
-    "totalDirectories": 1725,
+    "totalDirectories": 1726,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1725.0,
-    "totalListings": 16337,
-    "aiEnhancedDirectories": 1725
+    "avgDirectoriesPerRepo": 1726.0,
+    "totalListings": 16347,
+    "aiEnhancedDirectories": 1726
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22433,12 +22433,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-equal-employment-opportunity-compliance-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:39:15.930950+00:00Z",
+      "lastUpdated": "2025-11-08T21:39:15.930950+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1725,
+      "directoryCount": 1726,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

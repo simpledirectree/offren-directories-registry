@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:29:53.948974+00:00Z",
+  "lastUpdated": "2025-11-08T08:30:32.493370+00:00Z",
   "stats": {
-    "totalDirectories": 809,
+    "totalDirectories": 810,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 809.0,
-    "totalListings": 7835,
-    "aiEnhancedDirectories": 809
+    "avgDirectoriesPerRepo": 810.0,
+    "totalListings": 7845,
+    "aiEnhancedDirectories": 810
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10525,12 +10525,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-accounts-receivable-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:30:32.493370+00:00Z",
+      "lastUpdated": "2025-11-08T08:30:32.493370+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 809,
+      "directoryCount": 810,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

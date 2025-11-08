@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:20:50.191466+00:00Z",
+  "lastUpdated": "2025-11-08T04:21:07.475351+00:00Z",
   "stats": {
-    "totalDirectories": 57,
+    "totalDirectories": 58,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 57.0,
-    "totalListings": 566,
-    "aiEnhancedDirectories": 57
+    "avgDirectoriesPerRepo": 58.0,
+    "totalListings": 576,
+    "aiEnhancedDirectories": 58
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -749,12 +749,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-it-certification-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:21:07.475351+00:00Z",
+      "lastUpdated": "2025-11-08T04:21:07.475351+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 57,
+      "directoryCount": 58,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

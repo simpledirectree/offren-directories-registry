@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:28:43.345163+00:00Z",
+  "lastUpdated": "2025-11-08T06:28:56.661341+00:00Z",
   "stats": {
-    "totalDirectories": 517,
+    "totalDirectories": 518,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 517.0,
-    "totalListings": 5035,
-    "aiEnhancedDirectories": 517
+    "avgDirectoriesPerRepo": 518.0,
+    "totalListings": 5045,
+    "aiEnhancedDirectories": 518
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6729,12 +6729,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-employee-engagement-surveys-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:28:56.661341+00:00Z",
+      "lastUpdated": "2025-11-08T06:28:56.661341+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 517,
+      "directoryCount": 518,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

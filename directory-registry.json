@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:57:06.464559+00:00Z",
+  "lastUpdated": "2025-11-08T07:58:08.909567+00:00Z",
   "stats": {
-    "totalDirectories": 778,
+    "totalDirectories": 779,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 778.0,
-    "totalListings": 7550,
-    "aiEnhancedDirectories": 778
+    "avgDirectoriesPerRepo": 779.0,
+    "totalListings": 7558,
+    "aiEnhancedDirectories": 779
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10122,12 +10122,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-irrigation-repair-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:58:08.909567+00:00Z",
+      "lastUpdated": "2025-11-08T07:58:08.909567+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 778,
+      "directoryCount": 779,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

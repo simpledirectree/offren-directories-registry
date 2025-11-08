@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:27:23.777050+00:00Z",
+  "lastUpdated": "2025-11-08T02:28:27.513292+00:00Z",
   "stats": {
-    "totalDirectories": 2316,
+    "totalDirectories": 2317,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2316.0,
-    "totalListings": 21652,
-    "aiEnhancedDirectories": 2315
+    "avgDirectoriesPerRepo": 2317.0,
+    "totalListings": 21655,
+    "aiEnhancedDirectories": 2316
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30115,12 +30115,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-ghost-kitchen-delivery-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:28:27.513292+00:00Z",
+      "lastUpdated": "2025-11-08T02:28:27.513292+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2316,
+      "directoryCount": 2317,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:29:40.929425+00:00Z",
+  "lastUpdated": "2025-11-08T07:29:58.681020+00:00Z",
   "stats": {
-    "totalDirectories": 739,
+    "totalDirectories": 740,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 739.0,
-    "totalListings": 7177,
-    "aiEnhancedDirectories": 739
+    "avgDirectoriesPerRepo": 740.0,
+    "totalListings": 7187,
+    "aiEnhancedDirectories": 740
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9615,12 +9615,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-iv-therapy-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:29:58.681020+00:00Z",
+      "lastUpdated": "2025-11-08T07:29:58.681020+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 739,
+      "directoryCount": 740,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

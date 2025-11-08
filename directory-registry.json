@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:48:24.923624+00:00Z",
+  "lastUpdated": "2025-11-08T08:48:40.598537+00:00Z",
   "stats": {
-    "totalDirectories": 835,
+    "totalDirectories": 836,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 835.0,
-    "totalListings": 8086,
-    "aiEnhancedDirectories": 835
+    "avgDirectoriesPerRepo": 836.0,
+    "totalListings": 8096,
+    "aiEnhancedDirectories": 836
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10863,12 +10863,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-climate-controlled-storage-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:48:40.598537+00:00Z",
+      "lastUpdated": "2025-11-08T08:48:40.598537+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 835,
+      "directoryCount": 836,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

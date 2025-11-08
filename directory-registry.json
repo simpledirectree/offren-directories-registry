@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:13:26.104063+00:00Z",
+  "lastUpdated": "2025-11-08T09:14:54.061443+00:00Z",
   "stats": {
-    "totalDirectories": 866,
+    "totalDirectories": 867,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 866.0,
-    "totalListings": 8356,
-    "aiEnhancedDirectories": 866
+    "avgDirectoriesPerRepo": 867.0,
+    "totalListings": 8366,
+    "aiEnhancedDirectories": 867
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11266,12 +11266,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-bridal-beauty-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:14:54.061443+00:00Z",
+      "lastUpdated": "2025-11-08T09:14:54.061443+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 866,
+      "directoryCount": 867,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

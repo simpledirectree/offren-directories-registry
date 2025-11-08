@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:50:49.721974+00:00Z",
+  "lastUpdated": "2025-11-08T00:51:03.946187+00:00Z",
   "stats": {
-    "totalDirectories": 2204,
+    "totalDirectories": 2205,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2204.0,
-    "totalListings": 20613,
-    "aiEnhancedDirectories": 2203
+    "avgDirectoriesPerRepo": 2205.0,
+    "totalListings": 20623,
+    "aiEnhancedDirectories": 2204
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28659,12 +28659,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-self-defense-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:51:03.946187+00:00Z",
+      "lastUpdated": "2025-11-08T00:51:03.946187+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2204,
+      "directoryCount": 2205,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

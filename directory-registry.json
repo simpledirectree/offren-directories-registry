@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:54:36.042761+00:00Z",
+  "lastUpdated": "2025-11-08T06:54:50.291815+00:00Z",
   "stats": {
-    "totalDirectories": 610,
+    "totalDirectories": 611,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 610.0,
-    "totalListings": 5933,
-    "aiEnhancedDirectories": 610
+    "avgDirectoriesPerRepo": 611.0,
+    "totalListings": 5943,
+    "aiEnhancedDirectories": 611
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7938,12 +7938,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-roofing-repair-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:54:50.291815+00:00Z",
+      "lastUpdated": "2025-11-08T06:54:50.291815+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 610,
+      "directoryCount": 611,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

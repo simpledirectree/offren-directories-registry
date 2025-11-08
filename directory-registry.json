@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:47:37.877650+00:00Z",
+  "lastUpdated": "2025-11-08T07:47:52.289363+00:00Z",
   "stats": {
-    "totalDirectories": 768,
+    "totalDirectories": 769,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 768.0,
-    "totalListings": 7451,
-    "aiEnhancedDirectories": 768
+    "avgDirectoriesPerRepo": 769.0,
+    "totalListings": 7461,
+    "aiEnhancedDirectories": 769
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9992,12 +9992,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-conference-planning-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:47:52.289363+00:00Z",
+      "lastUpdated": "2025-11-08T07:47:52.289363+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 768,
+      "directoryCount": 769,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

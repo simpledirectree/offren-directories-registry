@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:44:20.882235+00:00Z",
+  "lastUpdated": "2025-11-08T22:45:01.884971+00:00Z",
   "stats": {
-    "totalDirectories": 1801,
+    "totalDirectories": 1802,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1801.0,
-    "totalListings": 17052,
-    "aiEnhancedDirectories": 1801
+    "avgDirectoriesPerRepo": 1802.0,
+    "totalListings": 17062,
+    "aiEnhancedDirectories": 1802
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23421,12 +23421,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-preschool-programs-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:45:01.884971+00:00Z",
+      "lastUpdated": "2025-11-08T22:45:01.884971+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1801,
+      "directoryCount": 1802,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

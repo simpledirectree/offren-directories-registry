@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:14:57.534138+00:00Z",
+  "lastUpdated": "2025-11-08T05:15:12.600329+00:00Z",
   "stats": {
-    "totalDirectories": 252,
+    "totalDirectories": 253,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 252.0,
-    "totalListings": 2470,
-    "aiEnhancedDirectories": 252
+    "avgDirectoriesPerRepo": 253.0,
+    "totalListings": 2480,
+    "aiEnhancedDirectories": 253
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3284,12 +3284,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-executive-coaching-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:15:12.600329+00:00Z",
+      "lastUpdated": "2025-11-08T05:15:12.600329+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 252,
+      "directoryCount": 253,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

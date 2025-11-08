@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:48:31.259013+00:00Z",
+  "lastUpdated": "2025-11-08T10:49:14.070273+00:00Z",
   "stats": {
-    "totalDirectories": 969,
+    "totalDirectories": 970,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 969.0,
-    "totalListings": 9288,
-    "aiEnhancedDirectories": 969
+    "avgDirectoriesPerRepo": 970.0,
+    "totalListings": 9298,
+    "aiEnhancedDirectories": 970
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12605,12 +12605,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-adhd-support-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:49:14.070273+00:00Z",
+      "lastUpdated": "2025-11-08T10:49:14.070273+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 969,
+      "directoryCount": 970,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

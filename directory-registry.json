@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:13:14.714099+00:00Z",
+  "lastUpdated": "2025-11-08T10:13:30.006444+00:00Z",
   "stats": {
-    "totalDirectories": 935,
+    "totalDirectories": 936,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 935.0,
-    "totalListings": 8990,
-    "aiEnhancedDirectories": 935
+    "avgDirectoriesPerRepo": 936.0,
+    "totalListings": 9000,
+    "aiEnhancedDirectories": 936
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12163,12 +12163,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-cleanup-crews-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:13:30.006444+00:00Z",
+      "lastUpdated": "2025-11-08T10:13:30.006444+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 935,
+      "directoryCount": 936,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

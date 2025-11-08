@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:00:55.411544+00:00Z",
+  "lastUpdated": "2025-11-08T13:01:11.387217+00:00Z",
   "stats": {
-    "totalDirectories": 1126,
+    "totalDirectories": 1127,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1126.0,
-    "totalListings": 10744,
-    "aiEnhancedDirectories": 1126
+    "avgDirectoriesPerRepo": 1127.0,
+    "totalListings": 10754,
+    "aiEnhancedDirectories": 1127
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14646,12 +14646,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-virtual-tutoring-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:01:11.387217+00:00Z",
+      "lastUpdated": "2025-11-08T13:01:11.387217+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1126,
+      "directoryCount": 1127,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

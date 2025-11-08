@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:36:40.583476+00:00Z",
+  "lastUpdated": "2025-11-08T10:36:54.459592+00:00Z",
   "stats": {
-    "totalDirectories": 955,
+    "totalDirectories": 956,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 955.0,
-    "totalListings": 9182,
-    "aiEnhancedDirectories": 955
+    "avgDirectoriesPerRepo": 956.0,
+    "totalListings": 9192,
+    "aiEnhancedDirectories": 956
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12423,12 +12423,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-barbershops-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:36:54.459592+00:00Z",
+      "lastUpdated": "2025-11-08T10:36:54.459592+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 955,
+      "directoryCount": 956,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

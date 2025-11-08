@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:23:02.605746+00:00Z",
+  "lastUpdated": "2025-11-08T05:23:17.210079+00:00Z",
   "stats": {
-    "totalDirectories": 282,
+    "totalDirectories": 283,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 282.0,
-    "totalListings": 2757,
-    "aiEnhancedDirectories": 282
+    "avgDirectoriesPerRepo": 283.0,
+    "totalListings": 2767,
+    "aiEnhancedDirectories": 283
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3674,12 +3674,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-gel-nails-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:23:17.210079+00:00Z",
+      "lastUpdated": "2025-11-08T05:23:17.210079+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 282,
+      "directoryCount": 283,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

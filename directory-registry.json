@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:27:55.095901+00:00Z",
+  "lastUpdated": "2025-11-08T05:28:09.647320+00:00Z",
   "stats": {
-    "totalDirectories": 300,
+    "totalDirectories": 301,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 300.0,
-    "totalListings": 2937,
-    "aiEnhancedDirectories": 300
+    "avgDirectoriesPerRepo": 301.0,
+    "totalListings": 2947,
+    "aiEnhancedDirectories": 301
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3908,12 +3908,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-specialty-plant-care-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:28:09.647320+00:00Z",
+      "lastUpdated": "2025-11-08T05:28:09.647320+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 300,
+      "directoryCount": 301,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

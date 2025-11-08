@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:33:59.993346+00:00Z",
+  "lastUpdated": "2025-11-08T07:34:28.302682+00:00Z",
   "stats": {
-    "totalDirectories": 754,
+    "totalDirectories": 755,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 754.0,
-    "totalListings": 7325,
-    "aiEnhancedDirectories": 754
+    "avgDirectoriesPerRepo": 755.0,
+    "totalListings": 7335,
+    "aiEnhancedDirectories": 755
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9810,12 +9810,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-customer-service-training-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:34:28.302682+00:00Z",
+      "lastUpdated": "2025-11-08T07:34:28.302682+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 754,
+      "directoryCount": 755,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:20:41.327227+00:00Z",
+  "lastUpdated": "2025-11-08T12:22:12.529093+00:00Z",
   "stats": {
-    "totalDirectories": 1078,
+    "totalDirectories": 1079,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1078.0,
-    "totalListings": 10299,
-    "aiEnhancedDirectories": 1078
+    "avgDirectoriesPerRepo": 1079.0,
+    "totalListings": 10309,
+    "aiEnhancedDirectories": 1079
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14022,12 +14022,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-contract-review-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:22:12.529093+00:00Z",
+      "lastUpdated": "2025-11-08T12:22:12.529093+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1078,
+      "directoryCount": 1079,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

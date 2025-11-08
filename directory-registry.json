@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:41:20.943639+00:00Z",
+  "lastUpdated": "2025-11-08T06:41:38.794014+00:00Z",
   "stats": {
-    "totalDirectories": 562,
+    "totalDirectories": 563,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 562.0,
-    "totalListings": 5485,
-    "aiEnhancedDirectories": 562
+    "avgDirectoriesPerRepo": 563.0,
+    "totalListings": 5495,
+    "aiEnhancedDirectories": 563
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7314,12 +7314,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-benefits-administration-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:41:38.794014+00:00Z",
+      "lastUpdated": "2025-11-08T06:41:38.794014+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 562,
+      "directoryCount": 563,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

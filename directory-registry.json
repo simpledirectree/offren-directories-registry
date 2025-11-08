@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:35:47.430031+00:00Z",
+  "lastUpdated": "2025-11-08T22:37:33.136867+00:00Z",
   "stats": {
-    "totalDirectories": 1795,
+    "totalDirectories": 1796,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1795.0,
-    "totalListings": 16997,
-    "aiEnhancedDirectories": 1795
+    "avgDirectoriesPerRepo": 1796.0,
+    "totalListings": 17002,
+    "aiEnhancedDirectories": 1796
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23343,12 +23343,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-specialty-cuisine-catering-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:37:33.136867+00:00Z",
+      "lastUpdated": "2025-11-08T22:37:33.136867+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1795,
+      "directoryCount": 1796,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

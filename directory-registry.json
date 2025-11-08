@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:42:17.836690+00:00Z",
+  "lastUpdated": "2025-11-08T04:42:32.297687+00:00Z",
   "stats": {
-    "totalDirectories": 134,
+    "totalDirectories": 135,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 134.0,
-    "totalListings": 1311,
-    "aiEnhancedDirectories": 134
+    "avgDirectoriesPerRepo": 135.0,
+    "totalListings": 1321,
+    "aiEnhancedDirectories": 135
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1750,12 +1750,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-urgent-care-centers-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:42:32.297687+00:00Z",
+      "lastUpdated": "2025-11-08T04:42:32.297687+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 134,
+      "directoryCount": 135,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

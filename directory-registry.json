@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:34:11.783250+00:00Z",
+  "lastUpdated": "2025-11-08T22:34:50.302293+00:00Z",
   "stats": {
-    "totalDirectories": 1792,
+    "totalDirectories": 1793,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1792.0,
-    "totalListings": 16974,
-    "aiEnhancedDirectories": 1792
+    "avgDirectoriesPerRepo": 1793.0,
+    "totalListings": 16977,
+    "aiEnhancedDirectories": 1793
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23304,12 +23304,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-electrical-wiring-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:34:50.302293+00:00Z",
+      "lastUpdated": "2025-11-08T22:34:50.302293+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1792,
+      "directoryCount": 1793,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

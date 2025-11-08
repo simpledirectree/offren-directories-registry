@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:55:32.265845+00:00Z",
+  "lastUpdated": "2025-11-08T13:55:47.066801+00:00Z",
   "stats": {
-    "totalDirectories": 1191,
+    "totalDirectories": 1192,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1191.0,
-    "totalListings": 11347,
-    "aiEnhancedDirectories": 1191
+    "avgDirectoriesPerRepo": 1192.0,
+    "totalListings": 11357,
+    "aiEnhancedDirectories": 1192
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15491,12 +15491,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-craft-services-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:55:47.066801+00:00Z",
+      "lastUpdated": "2025-11-08T13:55:47.066801+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1191,
+      "directoryCount": 1192,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

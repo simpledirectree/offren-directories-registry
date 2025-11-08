@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:43:42.271207+00:00Z",
+  "lastUpdated": "2025-11-08T21:44:22.191468+00:00Z",
   "stats": {
-    "totalDirectories": 1732,
+    "totalDirectories": 1733,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1732.0,
-    "totalListings": 16402,
-    "aiEnhancedDirectories": 1732
+    "avgDirectoriesPerRepo": 1733.0,
+    "totalListings": 16412,
+    "aiEnhancedDirectories": 1733
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22524,12 +22524,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-salt-therapy-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:44:22.191468+00:00Z",
+      "lastUpdated": "2025-11-08T21:44:22.191468+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1732,
+      "directoryCount": 1733,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

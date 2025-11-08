@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:14:38.874245+00:00Z",
+  "lastUpdated": "2025-11-08T19:15:18.549180+00:00Z",
   "stats": {
-    "totalDirectories": 1548,
+    "totalDirectories": 1549,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1548.0,
-    "totalListings": 14703,
-    "aiEnhancedDirectories": 1548
+    "avgDirectoriesPerRepo": 1549.0,
+    "totalListings": 14713,
+    "aiEnhancedDirectories": 1549
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20132,12 +20132,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-meeting-space-rentals-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:15:18.549180+00:00Z",
+      "lastUpdated": "2025-11-08T19:15:18.549180+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1548,
+      "directoryCount": 1549,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

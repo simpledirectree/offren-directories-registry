@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:25:16.262764+00:00Z",
+  "lastUpdated": "2025-11-08T04:25:32.469681+00:00Z",
   "stats": {
-    "totalDirectories": 73,
+    "totalDirectories": 74,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 73.0,
-    "totalListings": 717,
-    "aiEnhancedDirectories": 73
+    "avgDirectoriesPerRepo": 74.0,
+    "totalListings": 727,
+    "aiEnhancedDirectories": 74
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -957,12 +957,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-fountains-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:25:32.469681+00:00Z",
+      "lastUpdated": "2025-11-08T04:25:32.469681+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 73,
+      "directoryCount": 74,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

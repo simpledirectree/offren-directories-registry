@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:58:07.433966+00:00Z",
+  "lastUpdated": "2025-11-08T23:59:15.562085+00:00Z",
   "stats": {
-    "totalDirectories": 1896,
+    "totalDirectories": 1897,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1896.0,
-    "totalListings": 17912,
-    "aiEnhancedDirectories": 1896
+    "avgDirectoriesPerRepo": 1897.0,
+    "totalListings": 17922,
+    "aiEnhancedDirectories": 1897
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24656,12 +24656,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-language-instruction-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:59:15.562085+00:00Z",
+      "lastUpdated": "2025-11-08T23:59:15.562085+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1896,
+      "directoryCount": 1897,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:36:30.028220+00:00Z",
+  "lastUpdated": "2025-11-08T23:36:46.097330+00:00Z",
   "stats": {
-    "totalDirectories": 1862,
+    "totalDirectories": 1863,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1862.0,
-    "totalListings": 17630,
-    "aiEnhancedDirectories": 1862
+    "avgDirectoriesPerRepo": 1863.0,
+    "totalListings": 17635,
+    "aiEnhancedDirectories": 1863
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24214,12 +24214,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-judo-classes-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:36:46.097330+00:00Z",
+      "lastUpdated": "2025-11-08T23:36:46.097330+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1862,
+      "directoryCount": 1863,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

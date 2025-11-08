@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:36:26.001130+00:00Z",
+  "lastUpdated": "2025-11-08T02:36:41.127697+00:00Z",
   "stats": {
-    "totalDirectories": 2321,
+    "totalDirectories": 2322,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2321.0,
-    "totalListings": 21677,
-    "aiEnhancedDirectories": 2320
+    "avgDirectoriesPerRepo": 2322.0,
+    "totalListings": 21685,
+    "aiEnhancedDirectories": 2321
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30180,12 +30180,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-accessibility-design-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:36:41.127697+00:00Z",
+      "lastUpdated": "2025-11-08T02:36:41.127697+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2321,
+      "directoryCount": 2322,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

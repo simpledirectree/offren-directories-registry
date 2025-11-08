@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:59:46.739542+00:00Z",
+  "lastUpdated": "2025-11-08T23:00:01.172280+00:00Z",
   "stats": {
-    "totalDirectories": 1815,
+    "totalDirectories": 1816,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1815.0,
-    "totalListings": 17192,
-    "aiEnhancedDirectories": 1815
+    "avgDirectoriesPerRepo": 1816.0,
+    "totalListings": 17202,
+    "aiEnhancedDirectories": 1816
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23603,12 +23603,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-siem-services-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:00:01.172280+00:00Z",
+      "lastUpdated": "2025-11-08T23:00:01.172280+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1815,
+      "directoryCount": 1816,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

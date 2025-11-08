@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:34:46.268342+00:00Z",
+  "lastUpdated": "2025-11-08T07:35:05.026779+00:00Z",
   "stats": {
-    "totalDirectories": 756,
+    "totalDirectories": 757,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 756.0,
-    "totalListings": 7345,
-    "aiEnhancedDirectories": 756
+    "avgDirectoriesPerRepo": 757.0,
+    "totalListings": 7355,
+    "aiEnhancedDirectories": 757
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9836,12 +9836,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-incident-response-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:35:05.026779+00:00Z",
+      "lastUpdated": "2025-11-08T07:35:05.026779+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 756,
+      "directoryCount": 757,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:31:09.682017+00:00Z",
+  "lastUpdated": "2025-11-08T05:31:26.007755+00:00Z",
   "stats": {
-    "totalDirectories": 312,
+    "totalDirectories": 313,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 312.0,
-    "totalListings": 3057,
-    "aiEnhancedDirectories": 312
+    "avgDirectoriesPerRepo": 313.0,
+    "totalListings": 3067,
+    "aiEnhancedDirectories": 313
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4064,12 +4064,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-professional-organizing-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:31:26.007755+00:00Z",
+      "lastUpdated": "2025-11-08T05:31:26.007755+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 312,
+      "directoryCount": 313,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:10:42.531943+00:00Z",
+  "lastUpdated": "2025-11-08T02:10:59.418160+00:00Z",
   "stats": {
-    "totalDirectories": 2297,
+    "totalDirectories": 2298,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2297.0,
-    "totalListings": 21468,
-    "aiEnhancedDirectories": 2296
+    "avgDirectoriesPerRepo": 2298.0,
+    "totalListings": 21478,
+    "aiEnhancedDirectories": 2297
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29868,12 +29868,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-medical-imaging-services-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:10:59.418160+00:00Z",
+      "lastUpdated": "2025-11-08T02:10:59.418160+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2297,
+      "directoryCount": 2298,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:03:02.260024+00:00Z",
+  "lastUpdated": "2025-11-08T05:03:19.811143+00:00Z",
   "stats": {
-    "totalDirectories": 210,
+    "totalDirectories": 211,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 210.0,
-    "totalListings": 2060,
-    "aiEnhancedDirectories": 210
+    "avgDirectoriesPerRepo": 211.0,
+    "totalListings": 2070,
+    "aiEnhancedDirectories": 211
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2738,12 +2738,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-plant-purchasing-assistance-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:03:19.811143+00:00Z",
+      "lastUpdated": "2025-11-08T05:03:19.811143+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 210,
+      "directoryCount": 211,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

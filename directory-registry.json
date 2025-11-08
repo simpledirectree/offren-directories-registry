@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:38:50.906206+00:00Z",
+  "lastUpdated": "2025-11-08T10:39:04.145591+00:00Z",
   "stats": {
-    "totalDirectories": 959,
+    "totalDirectories": 960,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 959.0,
-    "totalListings": 9217,
-    "aiEnhancedDirectories": 959
+    "avgDirectoriesPerRepo": 960.0,
+    "totalListings": 9224,
+    "aiEnhancedDirectories": 960
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12475,12 +12475,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-family-style-restaurants-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:39:04.145591+00:00Z",
+      "lastUpdated": "2025-11-08T10:39:04.145591+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 959,
+      "directoryCount": 960,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

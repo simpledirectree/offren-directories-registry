@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:33:56.307861+00:00Z",
+  "lastUpdated": "2025-11-08T06:34:09.341180+00:00Z",
   "stats": {
-    "totalDirectories": 536,
+    "totalDirectories": 537,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 536.0,
-    "totalListings": 5225,
-    "aiEnhancedDirectories": 536
+    "avgDirectoriesPerRepo": 537.0,
+    "totalListings": 5235,
+    "aiEnhancedDirectories": 537
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6976,12 +6976,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-micro-weddings-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:34:09.341180+00:00Z",
+      "lastUpdated": "2025-11-08T06:34:09.341180+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 536,
+      "directoryCount": 537,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:37:16.666345+00:00Z",
+  "lastUpdated": "2025-11-08T08:37:29.521940+00:00Z",
   "stats": {
-    "totalDirectories": 818,
+    "totalDirectories": 819,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 818.0,
-    "totalListings": 7919,
-    "aiEnhancedDirectories": 818
+    "avgDirectoriesPerRepo": 819.0,
+    "totalListings": 7929,
+    "aiEnhancedDirectories": 819
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10642,12 +10642,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-strategy-development-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:37:29.521940+00:00Z",
+      "lastUpdated": "2025-11-08T08:37:29.521940+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 818,
+      "directoryCount": 819,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

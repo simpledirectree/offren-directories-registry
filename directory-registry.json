@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:14:14.172417+00:00Z",
+  "lastUpdated": "2025-11-08T07:14:28.157159+00:00Z",
   "stats": {
-    "totalDirectories": 682,
+    "totalDirectories": 683,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 682.0,
-    "totalListings": 6629,
-    "aiEnhancedDirectories": 682
+    "avgDirectoriesPerRepo": 683.0,
+    "totalListings": 6639,
+    "aiEnhancedDirectories": 683
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8874,12 +8874,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-oral-surgery-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:14:28.157159+00:00Z",
+      "lastUpdated": "2025-11-08T07:14:28.157159+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 682,
+      "directoryCount": 683,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

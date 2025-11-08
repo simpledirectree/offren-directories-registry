@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:38:45.277033+00:00Z",
+  "lastUpdated": "2025-11-08T13:38:58.547632+00:00Z",
   "stats": {
-    "totalDirectories": 1168,
+    "totalDirectories": 1169,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1168.0,
-    "totalListings": 11131,
-    "aiEnhancedDirectories": 1168
+    "avgDirectoriesPerRepo": 1169.0,
+    "totalListings": 11136,
+    "aiEnhancedDirectories": 1169
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15192,12 +15192,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-technical-training-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:38:58.547632+00:00Z",
+      "lastUpdated": "2025-11-08T13:38:58.547632+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1168,
+      "directoryCount": 1169,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

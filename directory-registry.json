@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:37:13.596066+00:00Z",
+  "lastUpdated": "2025-11-08T04:37:28.818914+00:00Z",
   "stats": {
-    "totalDirectories": 115,
+    "totalDirectories": 116,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 115.0,
-    "totalListings": 1137,
-    "aiEnhancedDirectories": 115
+    "avgDirectoriesPerRepo": 116.0,
+    "totalListings": 1147,
+    "aiEnhancedDirectories": 116
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1503,12 +1503,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-hospice-services-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:37:28.818914+00:00Z",
+      "lastUpdated": "2025-11-08T04:37:28.818914+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 115,
+      "directoryCount": 116,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

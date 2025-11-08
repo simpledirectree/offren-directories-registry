@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:36:37.904246+00:00Z",
+  "lastUpdated": "2025-11-08T19:37:55.224479+00:00Z",
   "stats": {
-    "totalDirectories": 1576,
+    "totalDirectories": 1577,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1576.0,
-    "totalListings": 14970,
-    "aiEnhancedDirectories": 1576
+    "avgDirectoriesPerRepo": 1577.0,
+    "totalListings": 14980,
+    "aiEnhancedDirectories": 1577
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20496,12 +20496,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-conflict-resolution-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:37:55.224479+00:00Z",
+      "lastUpdated": "2025-11-08T19:37:55.224479+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1576,
+      "directoryCount": 1577,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

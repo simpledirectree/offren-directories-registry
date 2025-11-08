@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:33:04.898791+00:00Z",
+  "lastUpdated": "2025-11-08T00:37:31.038736+00:00Z",
   "stats": {
-    "totalDirectories": 2188,
+    "totalDirectories": 2189,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2188.0,
-    "totalListings": 20475,
-    "aiEnhancedDirectories": 2187
+    "avgDirectoriesPerRepo": 2189.0,
+    "totalListings": 20479,
+    "aiEnhancedDirectories": 2188
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28451,12 +28451,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-plant-based-meal-prep-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:37:31.038736+00:00Z",
+      "lastUpdated": "2025-11-08T00:37:31.038736+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2188,
+      "directoryCount": 2189,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

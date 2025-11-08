@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:21:50.419190+00:00Z",
+  "lastUpdated": "2025-11-08T14:22:04.801820+00:00Z",
   "stats": {
-    "totalDirectories": 1216,
+    "totalDirectories": 1217,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1216.0,
-    "totalListings": 11580,
-    "aiEnhancedDirectories": 1216
+    "avgDirectoriesPerRepo": 1217.0,
+    "totalListings": 11590,
+    "aiEnhancedDirectories": 1217
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15816,12 +15816,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-wine-bars-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:22:04.801820+00:00Z",
+      "lastUpdated": "2025-11-08T14:22:04.801820+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1216,
+      "directoryCount": 1217,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

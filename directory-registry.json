@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:52:09.353904+00:00Z",
+  "lastUpdated": "2025-11-08T06:52:26.160485+00:00Z",
   "stats": {
-    "totalDirectories": 601,
+    "totalDirectories": 602,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 601.0,
-    "totalListings": 5852,
-    "aiEnhancedDirectories": 601
+    "avgDirectoriesPerRepo": 602.0,
+    "totalListings": 5862,
+    "aiEnhancedDirectories": 602
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7821,12 +7821,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-warehouse-labor-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:52:26.160485+00:00Z",
+      "lastUpdated": "2025-11-08T06:52:26.160485+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 601,
+      "directoryCount": 602,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

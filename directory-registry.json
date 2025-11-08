@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:30:37.061312+00:00Z",
+  "lastUpdated": "2025-11-08T06:30:51.566965+00:00Z",
   "stats": {
-    "totalDirectories": 524,
+    "totalDirectories": 525,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 524.0,
-    "totalListings": 5105,
-    "aiEnhancedDirectories": 524
+    "avgDirectoriesPerRepo": 525.0,
+    "totalListings": 5115,
+    "aiEnhancedDirectories": 525
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6820,12 +6820,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-leadership-development-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:30:51.566965+00:00Z",
+      "lastUpdated": "2025-11-08T06:30:51.566965+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 524,
+      "directoryCount": 525,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:46:08.374779+00:00Z",
+  "lastUpdated": "2025-11-08T01:46:25.477790+00:00Z",
   "stats": {
-    "totalDirectories": 2268,
+    "totalDirectories": 2269,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2268.0,
-    "totalListings": 21205,
-    "aiEnhancedDirectories": 2267
+    "avgDirectoriesPerRepo": 2269.0,
+    "totalListings": 21215,
+    "aiEnhancedDirectories": 2268
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29491,12 +29491,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-investment-advisory-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:46:25.477790+00:00Z",
+      "lastUpdated": "2025-11-08T01:46:25.477790+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2268,
+      "directoryCount": 2269,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

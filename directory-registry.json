@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:22:51.149101+00:00Z",
+  "lastUpdated": "2025-11-08T04:23:03.974801+00:00Z",
   "stats": {
-    "totalDirectories": 64,
+    "totalDirectories": 65,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 64.0,
-    "totalListings": 636,
-    "aiEnhancedDirectories": 64
+    "avgDirectoriesPerRepo": 65.0,
+    "totalListings": 637,
+    "aiEnhancedDirectories": 65
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -840,12 +840,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-c-net-development-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:23:03.974801+00:00Z",
+      "lastUpdated": "2025-11-08T04:23:03.974801+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 64,
+      "directoryCount": 65,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

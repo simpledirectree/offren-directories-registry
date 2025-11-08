@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:04:09.524796+00:00Z",
+  "lastUpdated": "2025-11-08T06:04:23.531520+00:00Z",
   "stats": {
-    "totalDirectories": 430,
+    "totalDirectories": 431,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 430.0,
-    "totalListings": 4175,
-    "aiEnhancedDirectories": 430
+    "avgDirectoriesPerRepo": 431.0,
+    "totalListings": 4185,
+    "aiEnhancedDirectories": 431
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5598,12 +5598,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-engine-replacement-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:04:23.531520+00:00Z",
+      "lastUpdated": "2025-11-08T06:04:23.531520+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 430,
+      "directoryCount": 431,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

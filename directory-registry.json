@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:18:40.244301+00:00Z",
+  "lastUpdated": "2025-11-08T14:19:21.185819+00:00Z",
   "stats": {
-    "totalDirectories": 1212,
+    "totalDirectories": 1213,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1212.0,
-    "totalListings": 11540,
-    "aiEnhancedDirectories": 1212
+    "avgDirectoriesPerRepo": 1213.0,
+    "totalListings": 11550,
+    "aiEnhancedDirectories": 1213
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15764,12 +15764,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-vacation-rental-management-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:19:21.185819+00:00Z",
+      "lastUpdated": "2025-11-08T14:19:21.185819+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1212,
+      "directoryCount": 1213,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

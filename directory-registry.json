@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:18:34.180593+00:00Z",
+  "lastUpdated": "2025-11-08T06:18:51.746679+00:00Z",
   "stats": {
-    "totalDirectories": 481,
+    "totalDirectories": 482,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 481.0,
-    "totalListings": 4679,
-    "aiEnhancedDirectories": 481
+    "avgDirectoriesPerRepo": 482.0,
+    "totalListings": 4689,
+    "aiEnhancedDirectories": 482
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6261,12 +6261,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-lean-six-sigma-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:18:51.746679+00:00Z",
+      "lastUpdated": "2025-11-08T06:18:51.746679+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 481,
+      "directoryCount": 482,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

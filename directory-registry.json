@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:14:19.289927+00:00Z",
+  "lastUpdated": "2025-11-08T23:16:14.834656+00:00Z",
   "stats": {
-    "totalDirectories": 1834,
+    "totalDirectories": 1835,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1834.0,
-    "totalListings": 17377,
-    "aiEnhancedDirectories": 1834
+    "avgDirectoriesPerRepo": 1835.0,
+    "totalListings": 17387,
+    "aiEnhancedDirectories": 1835
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23850,12 +23850,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-eyebrow-tinting-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:16:14.834656+00:00Z",
+      "lastUpdated": "2025-11-08T23:16:14.834656+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1834,
+      "directoryCount": 1835,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:00:15.554048+00:00Z",
+  "lastUpdated": "2025-11-08T06:00:28.071926+00:00Z",
   "stats": {
-    "totalDirectories": 416,
+    "totalDirectories": 417,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 416.0,
-    "totalListings": 4054,
-    "aiEnhancedDirectories": 416
+    "avgDirectoriesPerRepo": 417.0,
+    "totalListings": 4064,
+    "aiEnhancedDirectories": 417
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5416,12 +5416,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-design-system-creation-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:00:28.071926+00:00Z",
+      "lastUpdated": "2025-11-08T06:00:28.071926+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 416,
+      "directoryCount": 417,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

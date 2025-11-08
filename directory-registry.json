@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:38:23.277096+00:00Z",
+  "lastUpdated": "2025-11-08T12:38:38.495877+00:00Z",
   "stats": {
-    "totalDirectories": 1098,
+    "totalDirectories": 1099,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1098.0,
-    "totalListings": 10495,
-    "aiEnhancedDirectories": 1098
+    "avgDirectoriesPerRepo": 1099.0,
+    "totalListings": 10505,
+    "aiEnhancedDirectories": 1099
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14282,12 +14282,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-3d-modeling-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:38:38.495877+00:00Z",
+      "lastUpdated": "2025-11-08T12:38:38.495877+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1098,
+      "directoryCount": 1099,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:15:54.148003+00:00Z",
+  "lastUpdated": "2025-11-08T13:16:57.667765+00:00Z",
   "stats": {
-    "totalDirectories": 1152,
+    "totalDirectories": 1153,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1152.0,
-    "totalListings": 10990,
-    "aiEnhancedDirectories": 1152
+    "avgDirectoriesPerRepo": 1153.0,
+    "totalListings": 11000,
+    "aiEnhancedDirectories": 1153
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14984,12 +14984,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-live-bands-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:16:57.667765+00:00Z",
+      "lastUpdated": "2025-11-08T13:16:57.667765+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1152,
+      "directoryCount": 1153,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

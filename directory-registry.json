@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:52:27.829642+00:00Z",
+  "lastUpdated": "2025-11-08T11:53:07.472361+00:00Z",
   "stats": {
-    "totalDirectories": 1047,
+    "totalDirectories": 1048,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1047.0,
-    "totalListings": 10028,
-    "aiEnhancedDirectories": 1047
+    "avgDirectoriesPerRepo": 1048.0,
+    "totalListings": 10038,
+    "aiEnhancedDirectories": 1048
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13619,12 +13619,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-tune-ups-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:53:07.472361+00:00Z",
+      "lastUpdated": "2025-11-08T11:53:07.472361+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1047,
+      "directoryCount": 1048,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

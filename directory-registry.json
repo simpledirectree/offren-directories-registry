@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:43:06.112540+00:00Z",
+  "lastUpdated": "2025-11-08T08:44:12.278345+00:00Z",
   "stats": {
-    "totalDirectories": 827,
+    "totalDirectories": 828,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 827.0,
-    "totalListings": 8009,
-    "aiEnhancedDirectories": 827
+    "avgDirectoriesPerRepo": 828.0,
+    "totalListings": 8019,
+    "aiEnhancedDirectories": 828
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10759,12 +10759,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-spa-facials-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:44:12.278345+00:00Z",
+      "lastUpdated": "2025-11-08T08:44:12.278345+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 827,
+      "directoryCount": 828,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

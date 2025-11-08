@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:56:33.025876+00:00Z",
+  "lastUpdated": "2025-11-08T00:56:47.355903+00:00Z",
   "stats": {
-    "totalDirectories": 2211,
+    "totalDirectories": 2212,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2211.0,
-    "totalListings": 20683,
-    "aiEnhancedDirectories": 2210
+    "avgDirectoriesPerRepo": 2212.0,
+    "totalListings": 20688,
+    "aiEnhancedDirectories": 2211
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28750,12 +28750,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-soil-amendment-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:56:47.355903+00:00Z",
+      "lastUpdated": "2025-11-08T00:56:47.355903+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2211,
+      "directoryCount": 2212,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

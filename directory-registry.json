@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:07:58.001452+00:00Z",
+  "lastUpdated": "2025-11-08T12:08:38.543829+00:00Z",
   "stats": {
-    "totalDirectories": 1065,
+    "totalDirectories": 1066,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1065.0,
-    "totalListings": 10193,
-    "aiEnhancedDirectories": 1065
+    "avgDirectoriesPerRepo": 1066.0,
+    "totalListings": 10203,
+    "aiEnhancedDirectories": 1066
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13853,12 +13853,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-lasik-surgery-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:08:38.543829+00:00Z",
+      "lastUpdated": "2025-11-08T12:08:38.543829+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1065,
+      "directoryCount": 1066,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

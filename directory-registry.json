@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:11:49.685953+00:00Z",
+  "lastUpdated": "2025-11-08T05:12:05.116099+00:00Z",
   "stats": {
-    "totalDirectories": 240,
+    "totalDirectories": 241,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 240.0,
-    "totalListings": 2351,
-    "aiEnhancedDirectories": 240
+    "avgDirectoriesPerRepo": 241.0,
+    "totalListings": 2361,
+    "aiEnhancedDirectories": 241
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3128,12 +3128,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-food-delivery-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:12:05.116099+00:00Z",
+      "lastUpdated": "2025-11-08T05:12:05.116099+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 240,
+      "directoryCount": 241,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

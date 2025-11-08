@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:03:32.045444+00:00Z",
+  "lastUpdated": "2025-11-08T08:03:45.913207+00:00Z",
   "stats": {
-    "totalDirectories": 785,
+    "totalDirectories": 786,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 785.0,
-    "totalListings": 7612,
-    "aiEnhancedDirectories": 785
+    "avgDirectoriesPerRepo": 786.0,
+    "totalListings": 7622,
+    "aiEnhancedDirectories": 786
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10213,12 +10213,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-sod-installation-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:03:45.913207+00:00Z",
+      "lastUpdated": "2025-11-08T08:03:45.913207+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 785,
+      "directoryCount": 786,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

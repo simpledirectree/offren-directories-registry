@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:17:09.046782+00:00Z",
+  "lastUpdated": "2025-11-08T23:18:14.864610+00:00Z",
   "stats": {
-    "totalDirectories": 1837,
+    "totalDirectories": 1838,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1837.0,
-    "totalListings": 17402,
-    "aiEnhancedDirectories": 1837
+    "avgDirectoriesPerRepo": 1838.0,
+    "totalListings": 17412,
+    "aiEnhancedDirectories": 1838
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23889,12 +23889,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-spa-facials-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:18:14.864610+00:00Z",
+      "lastUpdated": "2025-11-08T23:18:14.864610+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1837,
+      "directoryCount": 1838,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

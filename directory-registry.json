@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:09:15.933711+00:00Z",
+  "lastUpdated": "2025-11-08T13:09:30.387334+00:00Z",
   "stats": {
-    "totalDirectories": 1141,
+    "totalDirectories": 1142,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1141.0,
-    "totalListings": 10883,
-    "aiEnhancedDirectories": 1141
+    "avgDirectoriesPerRepo": 1142.0,
+    "totalListings": 10893,
+    "aiEnhancedDirectories": 1142
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14841,12 +14841,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-neurologists-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:09:30.387334+00:00Z",
+      "lastUpdated": "2025-11-08T13:09:30.387334+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1141,
+      "directoryCount": 1142,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

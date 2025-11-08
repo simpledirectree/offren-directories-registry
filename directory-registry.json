@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:39:21.895157+00:00Z",
+  "lastUpdated": "2025-11-08T20:41:41.993837+00:00Z",
   "stats": {
-    "totalDirectories": 1651,
+    "totalDirectories": 1652,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1651.0,
-    "totalListings": 15667,
-    "aiEnhancedDirectories": 1651
+    "avgDirectoriesPerRepo": 1652.0,
+    "totalListings": 15677,
+    "aiEnhancedDirectories": 1652
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21471,12 +21471,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-drop-off-catering-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:41:41.993837+00:00Z",
+      "lastUpdated": "2025-11-08T20:41:41.993837+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1651,
+      "directoryCount": 1652,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

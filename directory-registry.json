@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:09:43.224910+00:00Z",
+  "lastUpdated": "2025-11-08T07:10:01.358061+00:00Z",
   "stats": {
-    "totalDirectories": 666,
+    "totalDirectories": 667,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 666.0,
-    "totalListings": 6469,
-    "aiEnhancedDirectories": 666
+    "avgDirectoriesPerRepo": 667.0,
+    "totalListings": 6479,
+    "aiEnhancedDirectories": 667
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8666,12 +8666,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-call-centers-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:10:01.358061+00:00Z",
+      "lastUpdated": "2025-11-08T07:10:01.358061+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 666,
+      "directoryCount": 667,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

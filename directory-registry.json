@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:05:05.846821+00:00Z",
+  "lastUpdated": "2025-11-08T12:05:19.182454+00:00Z",
   "stats": {
-    "totalDirectories": 1062,
+    "totalDirectories": 1063,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1062.0,
-    "totalListings": 10168,
-    "aiEnhancedDirectories": 1062
+    "avgDirectoriesPerRepo": 1063.0,
+    "totalListings": 10173,
+    "aiEnhancedDirectories": 1063
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13814,12 +13814,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-salt-therapy-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:05:19.182454+00:00Z",
+      "lastUpdated": "2025-11-08T12:05:19.182454+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1062,
+      "directoryCount": 1063,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

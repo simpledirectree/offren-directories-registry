@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:28:43.233227+00:00Z",
+  "lastUpdated": "2025-11-08T04:29:02.581739+00:00Z",
   "stats": {
-    "totalDirectories": 85,
+    "totalDirectories": 86,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 85.0,
-    "totalListings": 837,
-    "aiEnhancedDirectories": 85
+    "avgDirectoriesPerRepo": 86.0,
+    "totalListings": 847,
+    "aiEnhancedDirectories": 86
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1113,12 +1113,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-buyer-representation-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:29:02.581739+00:00Z",
+      "lastUpdated": "2025-11-08T04:29:02.581739+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 85,
+      "directoryCount": 86,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

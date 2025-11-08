@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:46:54.904703+00:00Z",
+  "lastUpdated": "2025-11-08T13:48:22.546700+00:00Z",
   "stats": {
-    "totalDirectories": 1178,
+    "totalDirectories": 1179,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1178.0,
-    "totalListings": 11226,
-    "aiEnhancedDirectories": 1178
+    "avgDirectoriesPerRepo": 1179.0,
+    "totalListings": 11236,
+    "aiEnhancedDirectories": 1179
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15322,12 +15322,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-crm-development-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:48:22.546700+00:00Z",
+      "lastUpdated": "2025-11-08T13:48:22.546700+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1178,
+      "directoryCount": 1179,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:23:36.465394+00:00Z",
+  "lastUpdated": "2025-11-08T22:26:00.490081+00:00Z",
   "stats": {
-    "totalDirectories": 1779,
+    "totalDirectories": 1780,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1779.0,
-    "totalListings": 16853,
-    "aiEnhancedDirectories": 1779
+    "avgDirectoriesPerRepo": 1780.0,
+    "totalListings": 16863,
+    "aiEnhancedDirectories": 1780
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23135,12 +23135,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-liability-insurance-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:26:00.490081+00:00Z",
+      "lastUpdated": "2025-11-08T22:26:00.490081+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1779,
+      "directoryCount": 1780,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

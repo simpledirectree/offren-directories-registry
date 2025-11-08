@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:11:00.802373+00:00Z",
+  "lastUpdated": "2025-11-08T11:11:41.473735+00:00Z",
   "stats": {
-    "totalDirectories": 997,
+    "totalDirectories": 998,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 997.0,
-    "totalListings": 9565,
-    "aiEnhancedDirectories": 997
+    "avgDirectoriesPerRepo": 998.0,
+    "totalListings": 9575,
+    "aiEnhancedDirectories": 998
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12969,12 +12969,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-productivity-training-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:11:41.473735+00:00Z",
+      "lastUpdated": "2025-11-08T11:11:41.473735+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 997,
+      "directoryCount": 998,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

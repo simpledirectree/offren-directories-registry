@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:46:14.906687+00:00Z",
+  "lastUpdated": "2025-11-08T05:46:30.900967+00:00Z",
   "stats": {
-    "totalDirectories": 366,
+    "totalDirectories": 367,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 366.0,
-    "totalListings": 3592,
-    "aiEnhancedDirectories": 366
+    "avgDirectoriesPerRepo": 367.0,
+    "totalListings": 3602,
+    "aiEnhancedDirectories": 367
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4766,12 +4766,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-golf-courses-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:46:30.900967+00:00Z",
+      "lastUpdated": "2025-11-08T05:46:30.900967+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 366,
+      "directoryCount": 367,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

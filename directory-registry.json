@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:02:06.214669+00:00Z",
+  "lastUpdated": "2025-11-08T00:03:12.649236+00:00Z",
   "stats": {
-    "totalDirectories": 2145,
+    "totalDirectories": 2146,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2145.0,
-    "totalListings": 20087,
-    "aiEnhancedDirectories": 2144
+    "avgDirectoriesPerRepo": 2146.0,
+    "totalListings": 20097,
+    "aiEnhancedDirectories": 2145
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -27892,12 +27892,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-bookkeeping-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:03:12.649236+00:00Z",
+      "lastUpdated": "2025-11-08T00:03:12.649236+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2145,
+      "directoryCount": 2146,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

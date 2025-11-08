@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:46:25.477790+00:00Z",
+  "lastUpdated": "2025-11-08T01:46:40.670419+00:00Z",
   "stats": {
-    "totalDirectories": 2269,
+    "totalDirectories": 2270,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2269.0,
-    "totalListings": 21215,
-    "aiEnhancedDirectories": 2268
+    "avgDirectoriesPerRepo": 2270.0,
+    "totalListings": 21220,
+    "aiEnhancedDirectories": 2269
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29504,12 +29504,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-ui-ux-design-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:46:40.670419+00:00Z",
+      "lastUpdated": "2025-11-08T01:46:40.670419+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2269,
+      "directoryCount": 2270,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

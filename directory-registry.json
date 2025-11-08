@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:31:57.688878+00:00Z",
+  "lastUpdated": "2025-11-08T04:32:15.681556+00:00Z",
   "stats": {
-    "totalDirectories": 96,
+    "totalDirectories": 97,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 96.0,
-    "totalListings": 947,
-    "aiEnhancedDirectories": 96
+    "avgDirectoriesPerRepo": 97.0,
+    "totalListings": 957,
+    "aiEnhancedDirectories": 97
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1256,12 +1256,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-farm-maintenance-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:32:15.681556+00:00Z",
+      "lastUpdated": "2025-11-08T04:32:15.681556+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 96,
+      "directoryCount": 97,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:24:29.380158+00:00Z",
+  "lastUpdated": "2025-11-08T09:25:59.862143+00:00Z",
   "stats": {
-    "totalDirectories": 879,
+    "totalDirectories": 880,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 879.0,
-    "totalListings": 8486,
-    "aiEnhancedDirectories": 879
+    "avgDirectoriesPerRepo": 880.0,
+    "totalListings": 8496,
+    "aiEnhancedDirectories": 880
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11435,12 +11435,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-retail-consulting-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:25:59.862143+00:00Z",
+      "lastUpdated": "2025-11-08T09:25:59.862143+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 879,
+      "directoryCount": 880,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

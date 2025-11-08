@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:42:28.105578+00:00Z",
+  "lastUpdated": "2025-11-08T12:43:33.365470+00:00Z",
   "stats": {
-    "totalDirectories": 1106,
+    "totalDirectories": 1107,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1106.0,
-    "totalListings": 10565,
-    "aiEnhancedDirectories": 1106
+    "avgDirectoriesPerRepo": 1107.0,
+    "totalListings": 10575,
+    "aiEnhancedDirectories": 1107
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14386,12 +14386,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-penalty-abatement-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:43:33.365470+00:00Z",
+      "lastUpdated": "2025-11-08T12:43:33.365470+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1106,
+      "directoryCount": 1107,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

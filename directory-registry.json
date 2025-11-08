@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:17:29.551180+00:00Z",
+  "lastUpdated": "2025-11-08T06:17:44.480607+00:00Z",
   "stats": {
-    "totalDirectories": 477,
+    "totalDirectories": 478,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 477.0,
-    "totalListings": 4639,
-    "aiEnhancedDirectories": 477
+    "avgDirectoriesPerRepo": 478.0,
+    "totalListings": 4649,
+    "aiEnhancedDirectories": 478
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6209,12 +6209,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-cfo-services-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:17:44.480607+00:00Z",
+      "lastUpdated": "2025-11-08T06:17:44.480607+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 477,
+      "directoryCount": 478,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

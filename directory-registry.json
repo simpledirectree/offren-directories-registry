@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:56:00.441506+00:00Z",
+  "lastUpdated": "2025-11-08T23:57:02.397927+00:00Z",
   "stats": {
-    "totalDirectories": 1894,
+    "totalDirectories": 1895,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1894.0,
-    "totalListings": 17901,
-    "aiEnhancedDirectories": 1894
+    "avgDirectoriesPerRepo": 1895.0,
+    "totalListings": 17902,
+    "aiEnhancedDirectories": 1895
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24630,12 +24630,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-adult-day-programs-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:57:02.397927+00:00Z",
+      "lastUpdated": "2025-11-08T23:57:02.397927+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1894,
+      "directoryCount": 1895,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

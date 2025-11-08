@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:18:57.029246+00:00Z",
+  "lastUpdated": "2025-11-08T23:19:37.138901+00:00Z",
   "stats": {
-    "totalDirectories": 1839,
+    "totalDirectories": 1840,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1839.0,
-    "totalListings": 17415,
-    "aiEnhancedDirectories": 1839
+    "avgDirectoriesPerRepo": 1840.0,
+    "totalListings": 17421,
+    "aiEnhancedDirectories": 1840
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23915,12 +23915,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-daycare-centers-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:19:37.138901+00:00Z",
+      "lastUpdated": "2025-11-08T23:19:37.138901+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1839,
+      "directoryCount": 1840,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

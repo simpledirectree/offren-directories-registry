@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:23:04.493706+00:00Z",
+  "lastUpdated": "2025-11-08T21:23:19.960701+00:00Z",
   "stats": {
-    "totalDirectories": 1709,
+    "totalDirectories": 1710,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1709.0,
-    "totalListings": 16188,
-    "aiEnhancedDirectories": 1709
+    "avgDirectoriesPerRepo": 1710.0,
+    "totalListings": 16198,
+    "aiEnhancedDirectories": 1710
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22225,12 +22225,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-transmission-repair-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:23:19.960701+00:00Z",
+      "lastUpdated": "2025-11-08T21:23:19.960701+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1709,
+      "directoryCount": 1710,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

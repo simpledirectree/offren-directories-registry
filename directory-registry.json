@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:45:01.860981+00:00Z",
+  "lastUpdated": "2025-11-08T18:46:59.152642+00:00Z",
   "stats": {
-    "totalDirectories": 1516,
+    "totalDirectories": 1517,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1516.0,
-    "totalListings": 14402,
-    "aiEnhancedDirectories": 1516
+    "avgDirectoriesPerRepo": 1517.0,
+    "totalListings": 14412,
+    "aiEnhancedDirectories": 1517
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19716,12 +19716,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-nail-art-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:46:59.152642+00:00Z",
+      "lastUpdated": "2025-11-08T18:46:59.152642+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1516,
+      "directoryCount": 1517,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

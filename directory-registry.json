@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:11:50.668850+00:00Z",
+  "lastUpdated": "2025-11-08T07:12:04.474987+00:00Z",
   "stats": {
-    "totalDirectories": 673,
+    "totalDirectories": 674,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 673.0,
-    "totalListings": 6539,
-    "aiEnhancedDirectories": 673
+    "avgDirectoriesPerRepo": 674.0,
+    "totalListings": 6549,
+    "aiEnhancedDirectories": 674
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8757,12 +8757,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-school-cleaning-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:12:04.474987+00:00Z",
+      "lastUpdated": "2025-11-08T07:12:04.474987+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 673,
+      "directoryCount": 674,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

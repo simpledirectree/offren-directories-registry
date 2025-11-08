@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:42:06.518766+00:00Z",
+  "lastUpdated": "2025-11-08T15:44:28.802603+00:00Z",
   "stats": {
-    "totalDirectories": 1306,
+    "totalDirectories": 1307,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1306.0,
-    "totalListings": 12416,
-    "aiEnhancedDirectories": 1306
+    "avgDirectoriesPerRepo": 1307.0,
+    "totalListings": 12426,
+    "aiEnhancedDirectories": 1307
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16986,12 +16986,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-illusionists-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:44:28.802603+00:00Z",
+      "lastUpdated": "2025-11-08T15:44:28.802603+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1306,
+      "directoryCount": 1307,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

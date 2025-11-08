@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:44:53.342138+00:00Z",
+  "lastUpdated": "2025-11-08T03:45:13.815167+00:00Z",
   "stats": {
-    "totalDirectories": 2402,
+    "totalDirectories": 2403,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2402.0,
-    "totalListings": 22420,
-    "aiEnhancedDirectories": 2401
+    "avgDirectoriesPerRepo": 2403.0,
+    "totalListings": 22430,
+    "aiEnhancedDirectories": 2402
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31233,12 +31233,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-workplace-policy-development-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:45:13.815167+00:00Z",
+      "lastUpdated": "2025-11-08T03:45:13.815167+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2402,
+      "directoryCount": 2403,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

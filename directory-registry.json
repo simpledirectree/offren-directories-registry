@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:54:26.090195+00:00Z",
+  "lastUpdated": "2025-11-08T19:55:09.196788+00:00Z",
   "stats": {
-    "totalDirectories": 1596,
+    "totalDirectories": 1597,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1596.0,
-    "totalListings": 15155,
-    "aiEnhancedDirectories": 1596
+    "avgDirectoriesPerRepo": 1597.0,
+    "totalListings": 15165,
+    "aiEnhancedDirectories": 1597
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20756,12 +20756,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-estate-planning-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:55:09.196788+00:00Z",
+      "lastUpdated": "2025-11-08T19:55:09.196788+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1596,
+      "directoryCount": 1597,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

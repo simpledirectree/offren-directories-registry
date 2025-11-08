@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:51:38.141653+00:00Z",
+  "lastUpdated": "2025-11-08T17:51:52.680566+00:00Z",
   "stats": {
-    "totalDirectories": 1451,
+    "totalDirectories": 1452,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1451.0,
-    "totalListings": 13789,
-    "aiEnhancedDirectories": 1451
+    "avgDirectoriesPerRepo": 1452.0,
+    "totalListings": 13794,
+    "aiEnhancedDirectories": 1452
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18871,12 +18871,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-hvac-installation-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:51:52.680566+00:00Z",
+      "lastUpdated": "2025-11-08T17:51:52.680566+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1451,
+      "directoryCount": 1452,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

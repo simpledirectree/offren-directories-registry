@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:05:57.218905+00:00Z",
+  "lastUpdated": "2025-11-08T05:06:12.567045+00:00Z",
   "stats": {
-    "totalDirectories": 220,
+    "totalDirectories": 221,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 220.0,
-    "totalListings": 2160,
-    "aiEnhancedDirectories": 220
+    "avgDirectoriesPerRepo": 221.0,
+    "totalListings": 2170,
+    "aiEnhancedDirectories": 221
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2868,12 +2868,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-forensic-accounting-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:06:12.567045+00:00Z",
+      "lastUpdated": "2025-11-08T05:06:12.567045+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 220,
+      "directoryCount": 221,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

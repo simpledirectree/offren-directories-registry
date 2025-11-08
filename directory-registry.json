@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:24:42.231541+00:00Z",
+  "lastUpdated": "2025-11-08T04:24:58.337159+00:00Z",
   "stats": {
-    "totalDirectories": 71,
+    "totalDirectories": 72,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 71.0,
-    "totalListings": 697,
-    "aiEnhancedDirectories": 71
+    "avgDirectoriesPerRepo": 72.0,
+    "totalListings": 707,
+    "aiEnhancedDirectories": 72
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -931,12 +931,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-remarketing-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:24:58.337159+00:00Z",
+      "lastUpdated": "2025-11-08T04:24:58.337159+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 71,
+      "directoryCount": 72,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

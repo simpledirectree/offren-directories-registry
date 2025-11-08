@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:10:56.724855+00:00Z",
+  "lastUpdated": "2025-11-08T22:11:12.057583+00:00Z",
   "stats": {
-    "totalDirectories": 1762,
+    "totalDirectories": 1763,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1762.0,
-    "totalListings": 16683,
-    "aiEnhancedDirectories": 1762
+    "avgDirectoriesPerRepo": 1763.0,
+    "totalListings": 16693,
+    "aiEnhancedDirectories": 1763
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22914,12 +22914,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-garden-center-consultation-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:11:12.057583+00:00Z",
+      "lastUpdated": "2025-11-08T22:11:12.057583+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1762,
+      "directoryCount": 1763,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:25:01.863825+00:00Z",
+  "lastUpdated": "2025-11-08T12:25:16.059815+00:00Z",
   "stats": {
-    "totalDirectories": 1085,
+    "totalDirectories": 1086,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1085.0,
-    "totalListings": 10369,
-    "aiEnhancedDirectories": 1085
+    "avgDirectoriesPerRepo": 1086.0,
+    "totalListings": 10379,
+    "aiEnhancedDirectories": 1086
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14113,12 +14113,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-caf-s-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:25:16.059815+00:00Z",
+      "lastUpdated": "2025-11-08T12:25:16.059815+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1085,
+      "directoryCount": 1086,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

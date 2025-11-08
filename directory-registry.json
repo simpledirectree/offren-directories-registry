@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:55:16.942813+00:00Z",
+  "lastUpdated": "2025-11-08T21:55:29.576199+00:00Z",
   "stats": {
-    "totalDirectories": 1748,
+    "totalDirectories": 1749,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1748.0,
-    "totalListings": 16559,
-    "aiEnhancedDirectories": 1748
+    "avgDirectoriesPerRepo": 1749.0,
+    "totalListings": 16560,
+    "aiEnhancedDirectories": 1749
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22732,12 +22732,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-keyword-research-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:55:29.576199+00:00Z",
+      "lastUpdated": "2025-11-08T21:55:29.576199+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1748,
+      "directoryCount": 1749,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

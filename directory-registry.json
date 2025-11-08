@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:13:30.006444+00:00Z",
+  "lastUpdated": "2025-11-08T10:14:08.328575+00:00Z",
   "stats": {
-    "totalDirectories": 936,
+    "totalDirectories": 937,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 936.0,
-    "totalListings": 9000,
-    "aiEnhancedDirectories": 936
+    "avgDirectoriesPerRepo": 937.0,
+    "totalListings": 9008,
+    "aiEnhancedDirectories": 937
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12176,12 +12176,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-affiliate-marketing-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:14:08.328575+00:00Z",
+      "lastUpdated": "2025-11-08T10:14:08.328575+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 936,
+      "directoryCount": 937,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

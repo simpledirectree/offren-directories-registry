@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:31:40.237876+00:00Z",
+  "lastUpdated": "2025-11-08T18:32:21.258925+00:00Z",
   "stats": {
-    "totalDirectories": 1499,
+    "totalDirectories": 1500,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1499.0,
-    "totalListings": 14239,
-    "aiEnhancedDirectories": 1499
+    "avgDirectoriesPerRepo": 1500.0,
+    "totalListings": 14249,
+    "aiEnhancedDirectories": 1500
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19495,12 +19495,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-hair-cutting-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:32:21.258925+00:00Z",
+      "lastUpdated": "2025-11-08T18:32:21.258925+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1499,
+      "directoryCount": 1500,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

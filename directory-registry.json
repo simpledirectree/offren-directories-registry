@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:24:07.477121+00:00Z",
+  "lastUpdated": "2025-11-08T04:24:24.247121+00:00Z",
   "stats": {
-    "totalDirectories": 69,
+    "totalDirectories": 70,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 69.0,
-    "totalListings": 677,
-    "aiEnhancedDirectories": 69
+    "avgDirectoriesPerRepo": 70.0,
+    "totalListings": 687,
+    "aiEnhancedDirectories": 70
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -905,12 +905,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-plastic-surgery-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:24:24.247121+00:00Z",
+      "lastUpdated": "2025-11-08T04:24:24.247121+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 69,
+      "directoryCount": 70,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

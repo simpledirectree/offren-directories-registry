@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:40:54.880412+00:00Z",
+  "lastUpdated": "2025-11-08T03:41:11.485486+00:00Z",
   "stats": {
-    "totalDirectories": 2392,
+    "totalDirectories": 2393,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2392.0,
-    "totalListings": 22323,
-    "aiEnhancedDirectories": 2391
+    "avgDirectoriesPerRepo": 2393.0,
+    "totalListings": 22333,
+    "aiEnhancedDirectories": 2392
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31103,12 +31103,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-commercial-real-estate-loans-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:41:11.485486+00:00Z",
+      "lastUpdated": "2025-11-08T03:41:11.485486+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2392,
+      "directoryCount": 2393,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

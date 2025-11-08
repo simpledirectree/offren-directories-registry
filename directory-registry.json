@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:43:37.156504+00:00Z",
+  "lastUpdated": "2025-11-08T09:44:43.097576+00:00Z",
   "stats": {
-    "totalDirectories": 901,
+    "totalDirectories": 902,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 901.0,
-    "totalListings": 8690,
-    "aiEnhancedDirectories": 901
+    "avgDirectoriesPerRepo": 902.0,
+    "totalListings": 8700,
+    "aiEnhancedDirectories": 902
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11721,12 +11721,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-data-lakes-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:44:43.097576+00:00Z",
+      "lastUpdated": "2025-11-08T09:44:43.097576+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 901,
+      "directoryCount": 902,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

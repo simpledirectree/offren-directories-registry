@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:13:45.809850+00:00Z",
+  "lastUpdated": "2025-11-08T05:14:04.280557+00:00Z",
   "stats": {
-    "totalDirectories": 248,
+    "totalDirectories": 249,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 248.0,
-    "totalListings": 2430,
-    "aiEnhancedDirectories": 248
+    "avgDirectoriesPerRepo": 249.0,
+    "totalListings": 2440,
+    "aiEnhancedDirectories": 249
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3232,12 +3232,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-cloud-migration-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:14:04.280557+00:00Z",
+      "lastUpdated": "2025-11-08T05:14:04.280557+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 248,
+      "directoryCount": 249,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

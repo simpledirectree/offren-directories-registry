@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:08:58.362823+00:00Z",
+  "lastUpdated": "2025-11-08T14:11:17.973218+00:00Z",
   "stats": {
-    "totalDirectories": 1202,
+    "totalDirectories": 1203,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1202.0,
-    "totalListings": 11440,
-    "aiEnhancedDirectories": 1202
+    "avgDirectoriesPerRepo": 1203.0,
+    "totalListings": 11450,
+    "aiEnhancedDirectories": 1203
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15634,12 +15634,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-interpretation-services-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:11:17.973218+00:00Z",
+      "lastUpdated": "2025-11-08T14:11:17.973218+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1202,
+      "directoryCount": 1203,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

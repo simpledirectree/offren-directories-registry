@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:03:22.643022+00:00Z",
+  "lastUpdated": "2025-11-08T13:03:38.111238+00:00Z",
   "stats": {
-    "totalDirectories": 1132,
+    "totalDirectories": 1133,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1132.0,
-    "totalListings": 10799,
-    "aiEnhancedDirectories": 1132
+    "avgDirectoriesPerRepo": 1133.0,
+    "totalListings": 10809,
+    "aiEnhancedDirectories": 1133
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14724,12 +14724,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-learning-support-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:03:38.111238+00:00Z",
+      "lastUpdated": "2025-11-08T13:03:38.111238+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1132,
+      "directoryCount": 1133,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

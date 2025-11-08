@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:25:34.138302+00:00Z",
+  "lastUpdated": "2025-11-08T21:25:48.803193+00:00Z",
   "stats": {
-    "totalDirectories": 1714,
+    "totalDirectories": 1715,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1714.0,
-    "totalListings": 16235,
-    "aiEnhancedDirectories": 1714
+    "avgDirectoriesPerRepo": 1715.0,
+    "totalListings": 16242,
+    "aiEnhancedDirectories": 1715
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22290,12 +22290,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-athletic-meal-prep-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:25:48.803193+00:00Z",
+      "lastUpdated": "2025-11-08T21:25:48.803193+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1714,
+      "directoryCount": 1715,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

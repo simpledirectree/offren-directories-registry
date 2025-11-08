@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:48:55.493524+00:00Z",
+  "lastUpdated": "2025-11-08T03:49:13.508033+00:00Z",
   "stats": {
-    "totalDirectories": 2416,
+    "totalDirectories": 2417,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2416.0,
-    "totalListings": 22560,
-    "aiEnhancedDirectories": 2415
+    "avgDirectoriesPerRepo": 2417.0,
+    "totalListings": 22570,
+    "aiEnhancedDirectories": 2416
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31415,12 +31415,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-mergers-and-acquisitions-law-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:49:13.508033+00:00Z",
+      "lastUpdated": "2025-11-08T03:49:13.508033+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2416,
+      "directoryCount": 2417,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

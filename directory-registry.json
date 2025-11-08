@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:27:24.554070+00:00Z",
+  "lastUpdated": "2025-11-08T20:28:02.939060+00:00Z",
   "stats": {
-    "totalDirectories": 1638,
+    "totalDirectories": 1639,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1638.0,
-    "totalListings": 15544,
-    "aiEnhancedDirectories": 1638
+    "avgDirectoriesPerRepo": 1639.0,
+    "totalListings": 15547,
+    "aiEnhancedDirectories": 1639
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21302,12 +21302,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-roofing-installation-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:28:02.939060+00:00Z",
+      "lastUpdated": "2025-11-08T20:28:02.939060+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1638,
+      "directoryCount": 1639,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:37:48.188336+00:00Z",
+  "lastUpdated": "2025-11-08T06:38:05.796352+00:00Z",
   "stats": {
-    "totalDirectories": 550,
+    "totalDirectories": 551,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 550.0,
-    "totalListings": 5365,
-    "aiEnhancedDirectories": 550
+    "avgDirectoriesPerRepo": 551.0,
+    "totalListings": 5375,
+    "aiEnhancedDirectories": 551
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7158,12 +7158,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-snow-removal-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:38:05.796352+00:00Z",
+      "lastUpdated": "2025-11-08T06:38:05.796352+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 550,
+      "directoryCount": 551,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

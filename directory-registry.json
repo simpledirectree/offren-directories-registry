@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:01:34.174402+00:00Z",
+  "lastUpdated": "2025-11-08T08:02:13.792918+00:00Z",
   "stats": {
-    "totalDirectories": 782,
+    "totalDirectories": 783,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 782.0,
-    "totalListings": 7588,
-    "aiEnhancedDirectories": 782
+    "avgDirectoriesPerRepo": 783.0,
+    "totalListings": 7598,
+    "aiEnhancedDirectories": 783
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10174,12 +10174,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-sculpture-instruction-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:02:13.792918+00:00Z",
+      "lastUpdated": "2025-11-08T08:02:13.792918+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 782,
+      "directoryCount": 783,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:16:17.343069+00:00Z",
+  "lastUpdated": "2025-11-08T03:17:00.388519+00:00Z",
   "stats": {
-    "totalDirectories": 2360,
+    "totalDirectories": 2361,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2360.0,
-    "totalListings": 22035,
-    "aiEnhancedDirectories": 2359
+    "avgDirectoriesPerRepo": 2361.0,
+    "totalListings": 22045,
+    "aiEnhancedDirectories": 2360
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30687,12 +30687,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-cash-flow-management-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:17:00.388519+00:00Z",
+      "lastUpdated": "2025-11-08T03:17:00.388519+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2360,
+      "directoryCount": 2361,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

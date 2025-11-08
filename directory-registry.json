@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:43:25.618422+00:00Z",
+  "lastUpdated": "2025-11-08T11:48:35.662584+00:00Z",
   "stats": {
-    "totalDirectories": 1037,
+    "totalDirectories": 1038,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1037.0,
-    "totalListings": 9941,
-    "aiEnhancedDirectories": 1037
+    "avgDirectoriesPerRepo": 1038.0,
+    "totalListings": 9949,
+    "aiEnhancedDirectories": 1038
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13489,12 +13489,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-string-quartets-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:48:35.662584+00:00Z",
+      "lastUpdated": "2025-11-08T11:48:35.662584+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1037,
+      "directoryCount": 1038,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:06:47.273890+00:00Z",
+  "lastUpdated": "2025-11-08T07:07:05.873359+00:00Z",
   "stats": {
-    "totalDirectories": 656,
+    "totalDirectories": 657,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 656.0,
-    "totalListings": 6369,
-    "aiEnhancedDirectories": 656
+    "avgDirectoriesPerRepo": 657.0,
+    "totalListings": 6379,
+    "aiEnhancedDirectories": 657
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8536,12 +8536,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-medicaid-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:07:05.873359+00:00Z",
+      "lastUpdated": "2025-11-08T07:07:05.873359+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 656,
+      "directoryCount": 657,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

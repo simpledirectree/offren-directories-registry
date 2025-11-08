@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:18:52.799317+00:00Z",
+  "lastUpdated": "2025-11-08T04:19:11.870242+00:00Z",
   "stats": {
-    "totalDirectories": 50,
+    "totalDirectories": 51,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 50.0,
-    "totalListings": 496,
-    "aiEnhancedDirectories": 50
+    "avgDirectoriesPerRepo": 51.0,
+    "totalListings": 506,
+    "aiEnhancedDirectories": 51
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -658,12 +658,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-art-instruction-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:19:11.870242+00:00Z",
+      "lastUpdated": "2025-11-08T04:19:11.870242+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 50,
+      "directoryCount": 51,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

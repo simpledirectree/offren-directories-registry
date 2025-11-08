@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:21:41.980435+00:00Z",
+  "lastUpdated": "2025-11-08T04:21:57.779878+00:00Z",
   "stats": {
-    "totalDirectories": 60,
+    "totalDirectories": 61,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 60.0,
-    "totalListings": 596,
-    "aiEnhancedDirectories": 60
+    "avgDirectoriesPerRepo": 61.0,
+    "totalListings": 606,
+    "aiEnhancedDirectories": 61
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -788,12 +788,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-vehicle-storage-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:21:57.779878+00:00Z",
+      "lastUpdated": "2025-11-08T04:21:57.779878+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 60,
+      "directoryCount": 61,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

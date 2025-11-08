@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:02:51.797485+00:00Z",
+  "lastUpdated": "2025-11-08T20:04:04.380762+00:00Z",
   "stats": {
-    "totalDirectories": 1609,
+    "totalDirectories": 1610,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1609.0,
-    "totalListings": 15277,
-    "aiEnhancedDirectories": 1609
+    "avgDirectoriesPerRepo": 1610.0,
+    "totalListings": 15287,
+    "aiEnhancedDirectories": 1610
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20925,12 +20925,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-fashion-rental-styling-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:04:04.380762+00:00Z",
+      "lastUpdated": "2025-11-08T20:04:04.380762+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1609,
+      "directoryCount": 1610,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

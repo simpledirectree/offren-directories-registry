@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:13:31.642214+00:00Z",
+  "lastUpdated": "2025-11-08T05:13:45.809850+00:00Z",
   "stats": {
-    "totalDirectories": 247,
+    "totalDirectories": 248,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 247.0,
-    "totalListings": 2420,
-    "aiEnhancedDirectories": 247
+    "avgDirectoriesPerRepo": 248.0,
+    "totalListings": 2430,
+    "aiEnhancedDirectories": 248
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3219,12 +3219,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-feasibility-studies-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:13:45.809850+00:00Z",
+      "lastUpdated": "2025-11-08T05:13:45.809850+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 247,
+      "directoryCount": 248,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

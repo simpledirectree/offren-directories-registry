@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:07:43.222802+00:00Z",
+  "lastUpdated": "2025-11-08T23:07:57.919318+00:00Z",
   "stats": {
-    "totalDirectories": 1823,
+    "totalDirectories": 1824,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1823.0,
-    "totalListings": 17272,
-    "aiEnhancedDirectories": 1823
+    "avgDirectoriesPerRepo": 1824.0,
+    "totalListings": 17282,
+    "aiEnhancedDirectories": 1824
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23707,12 +23707,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-hardwood-flooring-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:07:57.919318+00:00Z",
+      "lastUpdated": "2025-11-08T23:07:57.919318+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1823,
+      "directoryCount": 1824,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:26:58.871265+00:00Z",
+  "lastUpdated": "2025-11-08T22:28:05.706619+00:00Z",
   "stats": {
-    "totalDirectories": 1782,
+    "totalDirectories": 1783,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1782.0,
-    "totalListings": 16883,
-    "aiEnhancedDirectories": 1782
+    "avgDirectoriesPerRepo": 1783.0,
+    "totalListings": 16893,
+    "aiEnhancedDirectories": 1783
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23174,12 +23174,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-electrical-wiring-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:28:05.706619+00:00Z",
+      "lastUpdated": "2025-11-08T22:28:05.706619+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1782,
+      "directoryCount": 1783,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

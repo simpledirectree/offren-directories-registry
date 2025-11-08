@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:53:44.204980+00:00Z",
+  "lastUpdated": "2025-11-08T19:54:26.090195+00:00Z",
   "stats": {
-    "totalDirectories": 1595,
+    "totalDirectories": 1596,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1595.0,
-    "totalListings": 15145,
-    "aiEnhancedDirectories": 1595
+    "avgDirectoriesPerRepo": 1596.0,
+    "totalListings": 15155,
+    "aiEnhancedDirectories": 1596
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20743,12 +20743,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-gyms-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:54:26.090195+00:00Z",
+      "lastUpdated": "2025-11-08T19:54:26.090195+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1595,
+      "directoryCount": 1596,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:31:05.796154+00:00Z",
+  "lastUpdated": "2025-11-08T04:31:24.915653+00:00Z",
   "stats": {
-    "totalDirectories": 93,
+    "totalDirectories": 94,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 93.0,
-    "totalListings": 917,
-    "aiEnhancedDirectories": 93
+    "avgDirectoriesPerRepo": 94.0,
+    "totalListings": 927,
+    "aiEnhancedDirectories": 94
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1217,12 +1217,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-masonry-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:31:24.915653+00:00Z",
+      "lastUpdated": "2025-11-08T04:31:24.915653+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 93,
+      "directoryCount": 94,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

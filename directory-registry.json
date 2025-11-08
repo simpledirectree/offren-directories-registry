@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:44:34.205076+00:00Z",
+  "lastUpdated": "2025-11-08T06:44:48.234581+00:00Z",
   "stats": {
-    "totalDirectories": 574,
+    "totalDirectories": 575,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 574.0,
-    "totalListings": 5596,
-    "aiEnhancedDirectories": 574
+    "avgDirectoriesPerRepo": 575.0,
+    "totalListings": 5606,
+    "aiEnhancedDirectories": 575
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7470,12 +7470,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-wedding-catering-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:44:48.234581+00:00Z",
+      "lastUpdated": "2025-11-08T06:44:48.234581+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 574,
+      "directoryCount": 575,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

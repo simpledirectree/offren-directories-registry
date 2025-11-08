@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:52:26.160485+00:00Z",
+  "lastUpdated": "2025-11-08T06:52:43.588869+00:00Z",
   "stats": {
-    "totalDirectories": 602,
+    "totalDirectories": 603,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 602.0,
-    "totalListings": 5862,
-    "aiEnhancedDirectories": 602
+    "avgDirectoriesPerRepo": 603.0,
+    "totalListings": 5872,
+    "aiEnhancedDirectories": 603
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7834,12 +7834,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-network-monitoring-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:52:43.588869+00:00Z",
+      "lastUpdated": "2025-11-08T06:52:43.588869+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 602,
+      "directoryCount": 603,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

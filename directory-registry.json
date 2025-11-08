@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:02:10.514158+00:00Z",
+  "lastUpdated": "2025-11-08T13:02:27.227820+00:00Z",
   "stats": {
-    "totalDirectories": 1129,
+    "totalDirectories": 1130,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1129.0,
-    "totalListings": 10769,
-    "aiEnhancedDirectories": 1129
+    "avgDirectoriesPerRepo": 1130.0,
+    "totalListings": 10779,
+    "aiEnhancedDirectories": 1130
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14685,12 +14685,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-direct-restaurant-delivery-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:02:27.227820+00:00Z",
+      "lastUpdated": "2025-11-08T13:02:27.227820+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1129,
+      "directoryCount": 1130,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

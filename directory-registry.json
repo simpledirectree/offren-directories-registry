@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:25:59.619924+00:00Z",
+  "lastUpdated": "2025-11-08T01:26:15.237299+00:00Z",
   "stats": {
-    "totalDirectories": 2248,
+    "totalDirectories": 2249,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2248.0,
-    "totalListings": 21014,
-    "aiEnhancedDirectories": 2247
+    "avgDirectoriesPerRepo": 2249.0,
+    "totalListings": 21024,
+    "aiEnhancedDirectories": 2248
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29231,12 +29231,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-nail-art-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:26:15.237299+00:00Z",
+      "lastUpdated": "2025-11-08T01:26:15.237299+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2248,
+      "directoryCount": 2249,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

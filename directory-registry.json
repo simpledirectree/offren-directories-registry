@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:15:20.206889+00:00Z",
+  "lastUpdated": "2025-11-08T04:15:33.461849+00:00Z",
   "stats": {
-    "totalDirectories": 37,
+    "totalDirectories": 38,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 37.0,
-    "totalListings": 366,
-    "aiEnhancedDirectories": 37
+    "avgDirectoriesPerRepo": 38.0,
+    "totalListings": 376,
+    "aiEnhancedDirectories": 38
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -489,12 +489,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-identity-and-access-management-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:15:33.461849+00:00Z",
+      "lastUpdated": "2025-11-08T04:15:33.461849+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 37,
+      "directoryCount": 38,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

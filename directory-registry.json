@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:57:18.488591+00:00Z",
+  "lastUpdated": "2025-11-08T06:57:30.886306+00:00Z",
   "stats": {
-    "totalDirectories": 621,
+    "totalDirectories": 622,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 621.0,
-    "totalListings": 6043,
-    "aiEnhancedDirectories": 621
+    "avgDirectoriesPerRepo": 622.0,
+    "totalListings": 6045,
+    "aiEnhancedDirectories": 622
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8081,12 +8081,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-unemployment-claims-management-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:57:30.886306+00:00Z",
+      "lastUpdated": "2025-11-08T06:57:30.886306+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 621,
+      "directoryCount": 622,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

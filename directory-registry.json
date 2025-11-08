@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:26:37.588871+00:00Z",
+  "lastUpdated": "2025-11-08T12:27:43.711060+00:00Z",
   "stats": {
-    "totalDirectories": 1088,
+    "totalDirectories": 1089,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1088.0,
-    "totalListings": 10399,
-    "aiEnhancedDirectories": 1088
+    "avgDirectoriesPerRepo": 1089.0,
+    "totalListings": 10409,
+    "aiEnhancedDirectories": 1089
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14152,12 +14152,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-optical-retail-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:27:43.711060+00:00Z",
+      "lastUpdated": "2025-11-08T12:27:43.711060+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1088,
+      "directoryCount": 1089,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

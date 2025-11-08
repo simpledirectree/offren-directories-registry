@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:43:21.237503+00:00Z",
+  "lastUpdated": "2025-11-08T20:44:00.749681+00:00Z",
   "stats": {
-    "totalDirectories": 1657,
+    "totalDirectories": 1658,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1657.0,
-    "totalListings": 15721,
-    "aiEnhancedDirectories": 1657
+    "avgDirectoriesPerRepo": 1658.0,
+    "totalListings": 15731,
+    "aiEnhancedDirectories": 1658
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21549,12 +21549,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-gutter-cleaning-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:44:00.749681+00:00Z",
+      "lastUpdated": "2025-11-08T20:44:00.749681+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1657,
+      "directoryCount": 1658,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

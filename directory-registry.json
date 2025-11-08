@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:02:43.894522+00:00Z",
+  "lastUpdated": "2025-11-08T05:03:02.260024+00:00Z",
   "stats": {
-    "totalDirectories": 209,
+    "totalDirectories": 210,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 209.0,
-    "totalListings": 2050,
-    "aiEnhancedDirectories": 209
+    "avgDirectoriesPerRepo": 210.0,
+    "totalListings": 2060,
+    "aiEnhancedDirectories": 210
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2725,12 +2725,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-tree-removal-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:03:02.260024+00:00Z",
+      "lastUpdated": "2025-11-08T05:03:02.260024+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 209,
+      "directoryCount": 210,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

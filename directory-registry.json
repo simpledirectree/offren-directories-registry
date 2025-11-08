@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:28:00.536326+00:00Z",
+  "lastUpdated": "2025-11-08T13:28:15.116507+00:00Z",
   "stats": {
-    "totalDirectories": 1158,
+    "totalDirectories": 1159,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1158.0,
-    "totalListings": 11050,
-    "aiEnhancedDirectories": 1158
+    "avgDirectoriesPerRepo": 1159.0,
+    "totalListings": 11060,
+    "aiEnhancedDirectories": 1159
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15062,12 +15062,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-irrigation-system-design-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:28:15.116507+00:00Z",
+      "lastUpdated": "2025-11-08T13:28:15.116507+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1158,
+      "directoryCount": 1159,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

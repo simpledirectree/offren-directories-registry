@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:12:19.575067+00:00Z",
+  "lastUpdated": "2025-11-08T10:12:34.155104+00:00Z",
   "stats": {
-    "totalDirectories": 933,
+    "totalDirectories": 934,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 933.0,
-    "totalListings": 8970,
-    "aiEnhancedDirectories": 933
+    "avgDirectoriesPerRepo": 934.0,
+    "totalListings": 8980,
+    "aiEnhancedDirectories": 934
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12137,12 +12137,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-vegan-catering-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:12:34.155104+00:00Z",
+      "lastUpdated": "2025-11-08T10:12:34.155104+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 933,
+      "directoryCount": 934,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

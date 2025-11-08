@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:22:07.822660+00:00Z",
+  "lastUpdated": "2025-11-08T23:23:11.729554+00:00Z",
   "stats": {
-    "totalDirectories": 1845,
+    "totalDirectories": 1846,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1845.0,
-    "totalListings": 17468,
-    "aiEnhancedDirectories": 1845
+    "avgDirectoriesPerRepo": 1846.0,
+    "totalListings": 17475,
+    "aiEnhancedDirectories": 1846
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23993,12 +23993,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-notary-services-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:23:11.729554+00:00Z",
+      "lastUpdated": "2025-11-08T23:23:11.729554+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1845,
+      "directoryCount": 1846,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

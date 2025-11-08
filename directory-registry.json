@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:02:30.979715+00:00Z",
+  "lastUpdated": "2025-11-08T06:02:48.589271+00:00Z",
   "stats": {
-    "totalDirectories": 424,
+    "totalDirectories": 425,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 424.0,
-    "totalListings": 4124,
-    "aiEnhancedDirectories": 424
+    "avgDirectoriesPerRepo": 425.0,
+    "totalListings": 4134,
+    "aiEnhancedDirectories": 425
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5520,12 +5520,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-microservices-architecture-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:02:48.589271+00:00Z",
+      "lastUpdated": "2025-11-08T06:02:48.589271+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 424,
+      "directoryCount": 425,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

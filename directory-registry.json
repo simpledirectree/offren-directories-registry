@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:04:35.253142+00:00Z",
+  "lastUpdated": "2025-11-08T07:04:49.519881+00:00Z",
   "stats": {
-    "totalDirectories": 648,
+    "totalDirectories": 649,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 648.0,
-    "totalListings": 6294,
-    "aiEnhancedDirectories": 648
+    "avgDirectoriesPerRepo": 649.0,
+    "totalListings": 6304,
+    "aiEnhancedDirectories": 649
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8432,12 +8432,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-mobile-auto-repair-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:04:49.519881+00:00Z",
+      "lastUpdated": "2025-11-08T07:04:49.519881+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 648,
+      "directoryCount": 649,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

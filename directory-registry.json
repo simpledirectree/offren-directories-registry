@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:44:09.808704+00:00Z",
+  "lastUpdated": "2025-11-08T04:44:23.837670+00:00Z",
   "stats": {
-    "totalDirectories": 141,
+    "totalDirectories": 142,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 141.0,
-    "totalListings": 1381,
-    "aiEnhancedDirectories": 141
+    "avgDirectoriesPerRepo": 142.0,
+    "totalListings": 1391,
+    "aiEnhancedDirectories": 142
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1841,12 +1841,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-dementia-care-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:44:23.837670+00:00Z",
+      "lastUpdated": "2025-11-08T04:44:23.837670+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 141,
+      "directoryCount": 142,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

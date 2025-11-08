@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:14:53.534514+00:00Z",
+  "lastUpdated": "2025-11-08T06:15:11.685376+00:00Z",
   "stats": {
-    "totalDirectories": 468,
+    "totalDirectories": 469,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 468.0,
-    "totalListings": 4549,
-    "aiEnhancedDirectories": 468
+    "avgDirectoriesPerRepo": 469.0,
+    "totalListings": 4559,
+    "aiEnhancedDirectories": 469
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6092,12 +6092,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-medical-grade-treatments-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:15:11.685376+00:00Z",
+      "lastUpdated": "2025-11-08T06:15:11.685376+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 468,
+      "directoryCount": 469,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

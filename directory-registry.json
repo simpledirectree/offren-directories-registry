@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:49:16.847832+00:00Z",
+  "lastUpdated": "2025-11-08T07:50:23.344053+00:00Z",
   "stats": {
-    "totalDirectories": 773,
+    "totalDirectories": 774,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 773.0,
-    "totalListings": 7501,
-    "aiEnhancedDirectories": 773
+    "avgDirectoriesPerRepo": 774.0,
+    "totalListings": 7511,
+    "aiEnhancedDirectories": 774
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10057,12 +10057,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-sales-tax-compliance-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:50:23.344053+00:00Z",
+      "lastUpdated": "2025-11-08T07:50:23.344053+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 773,
+      "directoryCount": 774,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

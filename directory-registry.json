@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:57:36.678255+00:00Z",
+  "lastUpdated": "2025-11-08T04:57:49.419600+00:00Z",
   "stats": {
-    "totalDirectories": 190,
+    "totalDirectories": 191,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 190.0,
-    "totalListings": 1860,
-    "aiEnhancedDirectories": 190
+    "avgDirectoriesPerRepo": 191.0,
+    "totalListings": 1870,
+    "aiEnhancedDirectories": 191
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2478,12 +2478,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-functional-fitness-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:57:49.419600+00:00Z",
+      "lastUpdated": "2025-11-08T04:57:49.419600+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 190,
+      "directoryCount": 191,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

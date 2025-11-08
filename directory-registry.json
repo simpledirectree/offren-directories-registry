@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:20:35.549347+00:00Z",
+  "lastUpdated": "2025-11-08T17:20:50.991575+00:00Z",
   "stats": {
-    "totalDirectories": 1414,
+    "totalDirectories": 1415,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1414.0,
-    "totalListings": 13436,
-    "aiEnhancedDirectories": 1414
+    "avgDirectoriesPerRepo": 1415.0,
+    "totalListings": 13446,
+    "aiEnhancedDirectories": 1415
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18390,12 +18390,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-vision-insurance-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:20:50.991575+00:00Z",
+      "lastUpdated": "2025-11-08T17:20:50.991575+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1414,
+      "directoryCount": 1415,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

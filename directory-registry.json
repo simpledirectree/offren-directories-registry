@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:56:46.262779+00:00Z",
+  "lastUpdated": "2025-11-08T04:57:00.402261+00:00Z",
   "stats": {
-    "totalDirectories": 187,
+    "totalDirectories": 188,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 187.0,
-    "totalListings": 1830,
-    "aiEnhancedDirectories": 187
+    "avgDirectoriesPerRepo": 188.0,
+    "totalListings": 1840,
+    "aiEnhancedDirectories": 188
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2439,12 +2439,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-preschool-programs-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:57:00.402261+00:00Z",
+      "lastUpdated": "2025-11-08T04:57:00.402261+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 187,
+      "directoryCount": 188,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

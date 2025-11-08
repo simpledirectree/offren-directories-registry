@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:07:32.540599+00:00Z",
+  "lastUpdated": "2025-11-08T11:09:01.242537+00:00Z",
   "stats": {
-    "totalDirectories": 993,
+    "totalDirectories": 994,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 993.0,
-    "totalListings": 9525,
-    "aiEnhancedDirectories": 993
+    "avgDirectoriesPerRepo": 994.0,
+    "totalListings": 9535,
+    "aiEnhancedDirectories": 994
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12917,12 +12917,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-server-administration-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:09:01.242537+00:00Z",
+      "lastUpdated": "2025-11-08T11:09:01.242537+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 993,
+      "directoryCount": 994,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

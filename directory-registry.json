@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:26:41.761546+00:00Z",
+  "lastUpdated": "2025-11-08T22:26:58.871265+00:00Z",
   "stats": {
-    "totalDirectories": 1781,
+    "totalDirectories": 1782,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1781.0,
-    "totalListings": 16873,
-    "aiEnhancedDirectories": 1781
+    "avgDirectoriesPerRepo": 1782.0,
+    "totalListings": 16883,
+    "aiEnhancedDirectories": 1782
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23161,12 +23161,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-dental-insurance-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:26:58.871265+00:00Z",
+      "lastUpdated": "2025-11-08T22:26:58.871265+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1781,
+      "directoryCount": 1782,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:13:44.835576+00:00Z",
+  "lastUpdated": "2025-11-08T22:13:58.616019+00:00Z",
   "stats": {
-    "totalDirectories": 1768,
+    "totalDirectories": 1769,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1768.0,
-    "totalListings": 16743,
-    "aiEnhancedDirectories": 1768
+    "avgDirectoriesPerRepo": 1769.0,
+    "totalListings": 16753,
+    "aiEnhancedDirectories": 1769
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22992,12 +22992,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-escrow-services-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:13:58.616019+00:00Z",
+      "lastUpdated": "2025-11-08T22:13:58.616019+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1768,
+      "directoryCount": 1769,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

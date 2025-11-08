@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:03:27.819351+00:00Z",
+  "lastUpdated": "2025-11-08T07:03:45.341285+00:00Z",
   "stats": {
-    "totalDirectories": 644,
+    "totalDirectories": 645,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 644.0,
-    "totalListings": 6254,
-    "aiEnhancedDirectories": 644
+    "avgDirectoriesPerRepo": 645.0,
+    "totalListings": 6264,
+    "aiEnhancedDirectories": 645
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8380,12 +8380,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-herbal-medicine-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:03:45.341285+00:00Z",
+      "lastUpdated": "2025-11-08T07:03:45.341285+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 644,
+      "directoryCount": 645,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

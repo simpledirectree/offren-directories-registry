@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:54:59.045748+00:00Z",
+  "lastUpdated": "2025-11-08T23:55:14.870171+00:00Z",
   "stats": {
-    "totalDirectories": 1890,
+    "totalDirectories": 1891,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1890.0,
-    "totalListings": 17866,
-    "aiEnhancedDirectories": 1890
+    "avgDirectoriesPerRepo": 1891.0,
+    "totalListings": 17876,
+    "aiEnhancedDirectories": 1891
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24578,12 +24578,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-fat-reduction-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:55:14.870171+00:00Z",
+      "lastUpdated": "2025-11-08T23:55:14.870171+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1890,
+      "directoryCount": 1891,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

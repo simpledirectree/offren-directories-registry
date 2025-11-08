@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:11:11.840712+00:00Z",
+  "lastUpdated": "2025-11-08T06:11:29.921081+00:00Z",
   "stats": {
-    "totalDirectories": 455,
+    "totalDirectories": 456,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 455.0,
-    "totalListings": 4420,
-    "aiEnhancedDirectories": 455
+    "avgDirectoriesPerRepo": 456.0,
+    "totalListings": 4430,
+    "aiEnhancedDirectories": 456
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5923,12 +5923,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-baling-services-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:11:29.921081+00:00Z",
+      "lastUpdated": "2025-11-08T06:11:29.921081+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 455,
+      "directoryCount": 456,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

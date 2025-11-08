@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:29:00.754884+00:00Z",
+  "lastUpdated": "2025-11-08T18:30:08.859788+00:00Z",
   "stats": {
-    "totalDirectories": 1497,
+    "totalDirectories": 1498,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1497.0,
-    "totalListings": 14224,
-    "aiEnhancedDirectories": 1497
+    "avgDirectoriesPerRepo": 1498.0,
+    "totalListings": 14229,
+    "aiEnhancedDirectories": 1498
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19469,12 +19469,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-personal-shopping-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:30:08.859788+00:00Z",
+      "lastUpdated": "2025-11-08T18:30:08.859788+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1497,
+      "directoryCount": 1498,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

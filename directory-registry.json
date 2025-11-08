@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:17:27.004453+00:00Z",
+  "lastUpdated": "2025-11-08T08:17:42.078107+00:00Z",
   "stats": {
-    "totalDirectories": 799,
+    "totalDirectories": 800,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 799.0,
-    "totalListings": 7748,
-    "aiEnhancedDirectories": 799
+    "avgDirectoriesPerRepo": 800.0,
+    "totalListings": 7758,
+    "aiEnhancedDirectories": 800
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10395,12 +10395,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-cabinet-refinishing-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:17:42.078107+00:00Z",
+      "lastUpdated": "2025-11-08T08:17:42.078107+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 799,
+      "directoryCount": 800,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:09:06.276185+00:00Z",
+  "lastUpdated": "2025-11-08T00:09:20.573766+00:00Z",
   "stats": {
-    "totalDirectories": 2154,
+    "totalDirectories": 2155,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2154.0,
-    "totalListings": 20172,
-    "aiEnhancedDirectories": 2153
+    "avgDirectoriesPerRepo": 2155.0,
+    "totalListings": 20176,
+    "aiEnhancedDirectories": 2154
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28009,12 +28009,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-cloud-management-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:09:20.573766+00:00Z",
+      "lastUpdated": "2025-11-08T00:09:20.573766+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2154,
+      "directoryCount": 2155,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

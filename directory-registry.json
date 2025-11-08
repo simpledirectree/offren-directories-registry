@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:38:13.724401+00:00Z",
+  "lastUpdated": "2025-11-08T15:38:29.571063+00:00Z",
   "stats": {
-    "totalDirectories": 1301,
+    "totalDirectories": 1302,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1301.0,
-    "totalListings": 12366,
-    "aiEnhancedDirectories": 1301
+    "avgDirectoriesPerRepo": 1302.0,
+    "totalListings": 12376,
+    "aiEnhancedDirectories": 1302
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16921,12 +16921,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-diners-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:38:29.571063+00:00Z",
+      "lastUpdated": "2025-11-08T15:38:29.571063+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1301,
+      "directoryCount": 1302,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

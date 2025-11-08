@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:50:30.915470+00:00Z",
+  "lastUpdated": "2025-11-08T06:50:49.609735+00:00Z",
   "stats": {
-    "totalDirectories": 595,
+    "totalDirectories": 596,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 595.0,
-    "totalListings": 5792,
-    "aiEnhancedDirectories": 595
+    "avgDirectoriesPerRepo": 596.0,
+    "totalListings": 5802,
+    "aiEnhancedDirectories": 596
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7743,12 +7743,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-commercial-brokerage-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:50:49.609735+00:00Z",
+      "lastUpdated": "2025-11-08T06:50:49.609735+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 595,
+      "directoryCount": 596,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

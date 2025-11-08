@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:33:42.771284+00:00Z",
+  "lastUpdated": "2025-11-08T10:36:26.595188+00:00Z",
   "stats": {
-    "totalDirectories": 953,
+    "totalDirectories": 954,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 953.0,
-    "totalListings": 9162,
-    "aiEnhancedDirectories": 953
+    "avgDirectoriesPerRepo": 954.0,
+    "totalListings": 9172,
+    "aiEnhancedDirectories": 954
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12397,12 +12397,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-quick-service-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:36:26.595188+00:00Z",
+      "lastUpdated": "2025-11-08T10:36:26.595188+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 953,
+      "directoryCount": 954,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

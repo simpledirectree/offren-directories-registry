@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:38:04.099836+00:00Z",
+  "lastUpdated": "2025-11-08T03:38:17.758672+00:00Z",
   "stats": {
-    "totalDirectories": 2386,
+    "totalDirectories": 2387,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2386.0,
-    "totalListings": 22279,
-    "aiEnhancedDirectories": 2385
+    "avgDirectoriesPerRepo": 2387.0,
+    "totalListings": 22282,
+    "aiEnhancedDirectories": 2386
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31025,12 +31025,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-ui-ux-design-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:38:17.758672+00:00Z",
+      "lastUpdated": "2025-11-08T03:38:17.758672+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2386,
+      "directoryCount": 2387,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

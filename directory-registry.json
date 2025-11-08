@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:57:27.983576+00:00Z",
+  "lastUpdated": "2025-11-08T14:57:43.218168+00:00Z",
   "stats": {
-    "totalDirectories": 1257,
+    "totalDirectories": 1258,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1257.0,
-    "totalListings": 11950,
-    "aiEnhancedDirectories": 1257
+    "avgDirectoriesPerRepo": 1258.0,
+    "totalListings": 11960,
+    "aiEnhancedDirectories": 1258
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16349,12 +16349,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-venue-selection-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:57:43.218168+00:00Z",
+      "lastUpdated": "2025-11-08T14:57:43.218168+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1257,
+      "directoryCount": 1258,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

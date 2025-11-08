@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:17:44.379188+00:00Z",
+  "lastUpdated": "2025-11-08T00:17:59.386594+00:00Z",
   "stats": {
-    "totalDirectories": 2167,
+    "totalDirectories": 2168,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2167.0,
-    "totalListings": 20283,
-    "aiEnhancedDirectories": 2166
+    "avgDirectoriesPerRepo": 2168.0,
+    "totalListings": 20293,
+    "aiEnhancedDirectories": 2167
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28178,12 +28178,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-cellulite-treatment-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:17:59.386594+00:00Z",
+      "lastUpdated": "2025-11-08T00:17:59.386594+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2167,
+      "directoryCount": 2168,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

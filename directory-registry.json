@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:22:06.472625+00:00Z",
+  "lastUpdated": "2025-11-08T09:23:12.487743+00:00Z",
   "stats": {
-    "totalDirectories": 876,
+    "totalDirectories": 877,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 876.0,
-    "totalListings": 8456,
-    "aiEnhancedDirectories": 876
+    "avgDirectoriesPerRepo": 877.0,
+    "totalListings": 8466,
+    "aiEnhancedDirectories": 877
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11396,12 +11396,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-real-estate-services-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:23:12.487743+00:00Z",
+      "lastUpdated": "2025-11-08T09:23:12.487743+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 876,
+      "directoryCount": 877,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:12:42.155599+00:00Z",
+  "lastUpdated": "2025-11-08T00:13:23.648939+00:00Z",
   "stats": {
-    "totalDirectories": 2158,
+    "totalDirectories": 2159,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2158.0,
-    "totalListings": 20206,
-    "aiEnhancedDirectories": 2157
+    "avgDirectoriesPerRepo": 2159.0,
+    "totalListings": 20216,
+    "aiEnhancedDirectories": 2158
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28061,12 +28061,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-conference-planning-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:13:23.648939+00:00Z",
+      "lastUpdated": "2025-11-08T00:13:23.648939+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2158,
+      "directoryCount": 2159,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

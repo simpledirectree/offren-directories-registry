@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:19:12.587011+00:00Z",
+  "lastUpdated": "2025-11-08T06:19:26.328539+00:00Z",
   "stats": {
-    "totalDirectories": 483,
+    "totalDirectories": 484,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 483.0,
-    "totalListings": 4699,
-    "aiEnhancedDirectories": 483
+    "avgDirectoriesPerRepo": 484.0,
+    "totalListings": 4709,
+    "aiEnhancedDirectories": 484
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6287,12 +6287,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-traditional-chinese-medicine-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:19:26.328539+00:00Z",
+      "lastUpdated": "2025-11-08T06:19:26.328539+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 483,
+      "directoryCount": 484,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

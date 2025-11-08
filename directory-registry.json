@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:46:48.630832+00:00Z",
+  "lastUpdated": "2025-11-08T05:47:04.220863+00:00Z",
   "stats": {
-    "totalDirectories": 368,
+    "totalDirectories": 369,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 368.0,
-    "totalListings": 3612,
-    "aiEnhancedDirectories": 368
+    "avgDirectoriesPerRepo": 369.0,
+    "totalListings": 3619,
+    "aiEnhancedDirectories": 369
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4792,12 +4792,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-meal-prep-services-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:47:04.220863+00:00Z",
+      "lastUpdated": "2025-11-08T05:47:04.220863+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 368,
+      "directoryCount": 369,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

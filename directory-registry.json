@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:11:12.533417+00:00Z",
+  "lastUpdated": "2025-11-08T12:11:25.263615+00:00Z",
   "stats": {
-    "totalDirectories": 1068,
+    "totalDirectories": 1069,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1068.0,
-    "totalListings": 10223,
-    "aiEnhancedDirectories": 1068
+    "avgDirectoriesPerRepo": 1069.0,
+    "totalListings": 10228,
+    "aiEnhancedDirectories": 1069
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13892,12 +13892,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-garden-tool-sharpening-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:11:25.263615+00:00Z",
+      "lastUpdated": "2025-11-08T12:11:25.263615+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1068,
+      "directoryCount": 1069,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:21:48.728228+00:00Z",
+  "lastUpdated": "2025-11-08T03:24:07.479090+00:00Z",
   "stats": {
-    "totalDirectories": 2368,
+    "totalDirectories": 2369,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2368.0,
-    "totalListings": 22106,
-    "aiEnhancedDirectories": 2367
+    "avgDirectoriesPerRepo": 2369.0,
+    "totalListings": 22116,
+    "aiEnhancedDirectories": 2368
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30791,12 +30791,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-event-space-rentals-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:24:07.479090+00:00Z",
+      "lastUpdated": "2025-11-08T03:24:07.479090+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2368,
+      "directoryCount": 2369,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

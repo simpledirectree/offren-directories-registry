@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:13:02.449896+00:00Z",
+  "lastUpdated": "2025-11-08T05:13:18.678864+00:00Z",
   "stats": {
-    "totalDirectories": 245,
+    "totalDirectories": 246,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 245.0,
-    "totalListings": 2400,
-    "aiEnhancedDirectories": 245
+    "avgDirectoriesPerRepo": 246.0,
+    "totalListings": 2410,
+    "aiEnhancedDirectories": 246
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3193,12 +3193,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-casual-dining-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:13:18.678864+00:00Z",
+      "lastUpdated": "2025-11-08T05:13:18.678864+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 245,
+      "directoryCount": 246,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

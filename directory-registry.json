@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:54:18.144024+00:00Z",
+  "lastUpdated": "2025-11-08T03:54:34.262546+00:00Z",
   "stats": {
-    "totalDirectories": 2434,
+    "totalDirectories": 2435,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2434.0,
-    "totalListings": 22735,
-    "aiEnhancedDirectories": 2433
+    "avgDirectoriesPerRepo": 2435.0,
+    "totalListings": 22745,
+    "aiEnhancedDirectories": 2434
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31649,12 +31649,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-recruitment-support-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:54:34.262546+00:00Z",
+      "lastUpdated": "2025-11-08T03:54:34.262546+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2434,
+      "directoryCount": 2435,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

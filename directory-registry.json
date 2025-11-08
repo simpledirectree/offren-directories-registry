@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:30:14.097980+00:00Z",
+  "lastUpdated": "2025-11-08T22:30:56.583300+00:00Z",
   "stats": {
-    "totalDirectories": 1785,
+    "totalDirectories": 1786,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1785.0,
-    "totalListings": 16909,
-    "aiEnhancedDirectories": 1785
+    "avgDirectoriesPerRepo": 1786.0,
+    "totalListings": 16919,
+    "aiEnhancedDirectories": 1786
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23213,12 +23213,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-piano-lessons-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:30:56.583300+00:00Z",
+      "lastUpdated": "2025-11-08T22:30:56.583300+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1785,
+      "directoryCount": 1786,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

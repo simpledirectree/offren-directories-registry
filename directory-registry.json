@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:53:10.147751+00:00Z",
+  "lastUpdated": "2025-11-08T05:53:28.775404+00:00Z",
   "stats": {
-    "totalDirectories": 391,
+    "totalDirectories": 392,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 391.0,
-    "totalListings": 3827,
-    "aiEnhancedDirectories": 391
+    "avgDirectoriesPerRepo": 392.0,
+    "totalListings": 3837,
+    "aiEnhancedDirectories": 392
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5091,12 +5091,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-waterproofing-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:53:28.775404+00:00Z",
+      "lastUpdated": "2025-11-08T05:53:28.775404+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 391,
+      "directoryCount": 392,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

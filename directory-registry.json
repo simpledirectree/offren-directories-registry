@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:28:46.142945+00:00Z",
+  "lastUpdated": "2025-11-08T20:29:26.814616+00:00Z",
   "stats": {
-    "totalDirectories": 1640,
+    "totalDirectories": 1641,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1640.0,
-    "totalListings": 15557,
-    "aiEnhancedDirectories": 1640
+    "avgDirectoriesPerRepo": 1641.0,
+    "totalListings": 15567,
+    "aiEnhancedDirectories": 1641
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21328,12 +21328,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-productivity-training-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:29:26.814616+00:00Z",
+      "lastUpdated": "2025-11-08T20:29:26.814616+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1640,
+      "directoryCount": 1641,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:42:10.484695+00:00Z",
+  "lastUpdated": "2025-11-08T20:42:50.508096+00:00Z",
   "stats": {
-    "totalDirectories": 1654,
+    "totalDirectories": 1655,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1654.0,
-    "totalListings": 15691,
-    "aiEnhancedDirectories": 1654
+    "avgDirectoriesPerRepo": 1655.0,
+    "totalListings": 15701,
+    "aiEnhancedDirectories": 1655
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21510,12 +21510,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-kitchen-design-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:42:50.508096+00:00Z",
+      "lastUpdated": "2025-11-08T20:42:50.508096+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1654,
+      "directoryCount": 1655,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

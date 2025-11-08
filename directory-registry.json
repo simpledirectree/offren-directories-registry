@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:50:15.859245+00:00Z",
+  "lastUpdated": "2025-11-08T22:50:32.878964+00:00Z",
   "stats": {
-    "totalDirectories": 1806,
+    "totalDirectories": 1807,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1806.0,
-    "totalListings": 17102,
-    "aiEnhancedDirectories": 1806
+    "avgDirectoriesPerRepo": 1807.0,
+    "totalListings": 17112,
+    "aiEnhancedDirectories": 1807
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23486,12 +23486,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-tax-preparation-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:50:32.878964+00:00Z",
+      "lastUpdated": "2025-11-08T22:50:32.878964+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1806,
+      "directoryCount": 1807,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

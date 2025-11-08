@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:21:35.532925+00:00Z",
+  "lastUpdated": "2025-11-08T05:21:52.855465+00:00Z",
   "stats": {
-    "totalDirectories": 277,
+    "totalDirectories": 278,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 277.0,
-    "totalListings": 2707,
-    "aiEnhancedDirectories": 277
+    "avgDirectoriesPerRepo": 278.0,
+    "totalListings": 2717,
+    "aiEnhancedDirectories": 278
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3609,12 +3609,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-business-insurance-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:21:52.855465+00:00Z",
+      "lastUpdated": "2025-11-08T05:21:52.855465+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 277,
+      "directoryCount": 278,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

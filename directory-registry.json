@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:01:27.585060+00:00Z",
+  "lastUpdated": "2025-11-08T16:02:39.590932+00:00Z",
   "stats": {
-    "totalDirectories": 1322,
+    "totalDirectories": 1323,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1322.0,
-    "totalListings": 12552,
-    "aiEnhancedDirectories": 1322
+    "avgDirectoriesPerRepo": 1323.0,
+    "totalListings": 12562,
+    "aiEnhancedDirectories": 1323
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17194,12 +17194,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-social-celebration-planning-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:02:39.590932+00:00Z",
+      "lastUpdated": "2025-11-08T16:02:39.590932+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1322,
+      "directoryCount": 1323,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

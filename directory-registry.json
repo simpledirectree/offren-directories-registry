@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:38:29.571063+00:00Z",
+  "lastUpdated": "2025-11-08T15:39:11.967582+00:00Z",
   "stats": {
-    "totalDirectories": 1302,
+    "totalDirectories": 1303,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1302.0,
-    "totalListings": 12376,
-    "aiEnhancedDirectories": 1302
+    "avgDirectoriesPerRepo": 1303.0,
+    "totalListings": 12386,
+    "aiEnhancedDirectories": 1303
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16934,12 +16934,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-coaching-services-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:39:11.967582+00:00Z",
+      "lastUpdated": "2025-11-08T15:39:11.967582+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1302,
+      "directoryCount": 1303,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

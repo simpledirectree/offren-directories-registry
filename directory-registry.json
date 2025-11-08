@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:14:08.328575+00:00Z",
+  "lastUpdated": "2025-11-08T10:16:00.892926+00:00Z",
   "stats": {
-    "totalDirectories": 937,
+    "totalDirectories": 938,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 937.0,
-    "totalListings": 9008,
-    "aiEnhancedDirectories": 937
+    "avgDirectoriesPerRepo": 938.0,
+    "totalListings": 9017,
+    "aiEnhancedDirectories": 938
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12189,12 +12189,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-judo-classes-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:16:00.892926+00:00Z",
+      "lastUpdated": "2025-11-08T10:16:00.892926+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 937,
+      "directoryCount": 938,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

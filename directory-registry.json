@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:28:27.513292+00:00Z",
+  "lastUpdated": "2025-11-08T02:31:18.409772+00:00Z",
   "stats": {
-    "totalDirectories": 2317,
+    "totalDirectories": 2318,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2317.0,
-    "totalListings": 21655,
-    "aiEnhancedDirectories": 2316
+    "avgDirectoriesPerRepo": 2318.0,
+    "totalListings": 21665,
+    "aiEnhancedDirectories": 2317
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30128,12 +30128,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-bistros-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:31:18.409772+00:00Z",
+      "lastUpdated": "2025-11-08T02:31:18.409772+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2317,
+      "directoryCount": 2318,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

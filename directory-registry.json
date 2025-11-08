@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:32:14.999119+00:00Z",
+  "lastUpdated": "2025-11-08T06:32:33.447079+00:00Z",
   "stats": {
-    "totalDirectories": 530,
+    "totalDirectories": 531,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 530.0,
-    "totalListings": 5165,
-    "aiEnhancedDirectories": 530
+    "avgDirectoriesPerRepo": 531.0,
+    "totalListings": 5175,
+    "aiEnhancedDirectories": 531
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6898,12 +6898,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-head-shaving-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:32:33.447079+00:00Z",
+      "lastUpdated": "2025-11-08T06:32:33.447079+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 530,
+      "directoryCount": 531,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

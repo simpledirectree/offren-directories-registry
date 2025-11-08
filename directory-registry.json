@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:07:49.877807+00:00Z",
+  "lastUpdated": "2025-11-08T04:08:08.567714+00:00Z",
   "stats": {
-    "totalDirectories": 10,
+    "totalDirectories": 11,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 10.0,
-    "totalListings": 97,
-    "aiEnhancedDirectories": 10
+    "avgDirectoriesPerRepo": 11.0,
+    "totalListings": 107,
+    "aiEnhancedDirectories": 11
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -138,12 +138,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-turbo-installation-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:08:08.567714+00:00Z",
+      "lastUpdated": "2025-11-08T04:08:08.567714+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 10,
+      "directoryCount": 11,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

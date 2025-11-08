@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:28:33.419785+00:00Z",
+  "lastUpdated": "2025-11-08T18:28:48.642440+00:00Z",
   "stats": {
-    "totalDirectories": 1495,
+    "totalDirectories": 1496,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1495.0,
-    "totalListings": 14213,
-    "aiEnhancedDirectories": 1495
+    "avgDirectoriesPerRepo": 1496.0,
+    "totalListings": 14223,
+    "aiEnhancedDirectories": 1496
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19443,12 +19443,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-prenatal-yoga-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:28:48.642440+00:00Z",
+      "lastUpdated": "2025-11-08T18:28:48.642440+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1495,
+      "directoryCount": 1496,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

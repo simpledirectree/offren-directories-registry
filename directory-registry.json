@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:27:52.554324+00:00Z",
+  "lastUpdated": "2025-11-08T18:28:33.419785+00:00Z",
   "stats": {
-    "totalDirectories": 1494,
+    "totalDirectories": 1495,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1494.0,
-    "totalListings": 14203,
-    "aiEnhancedDirectories": 1494
+    "avgDirectoriesPerRepo": 1495.0,
+    "totalListings": 14213,
+    "aiEnhancedDirectories": 1495
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19430,12 +19430,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-mulching-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:28:33.419785+00:00Z",
+      "lastUpdated": "2025-11-08T18:28:33.419785+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1494,
+      "directoryCount": 1495,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

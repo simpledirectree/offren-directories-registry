@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:07:26.334246+00:00Z",
+  "lastUpdated": "2025-11-08T09:08:27.978005+00:00Z",
   "stats": {
-    "totalDirectories": 858,
+    "totalDirectories": 859,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 858.0,
-    "totalListings": 8293,
-    "aiEnhancedDirectories": 858
+    "avgDirectoriesPerRepo": 859.0,
+    "totalListings": 8294,
+    "aiEnhancedDirectories": 859
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11162,12 +11162,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-pipe-repair-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:08:27.978005+00:00Z",
+      "lastUpdated": "2025-11-08T09:08:27.978005+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 858,
+      "directoryCount": 859,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

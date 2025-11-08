@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:00:32.485940+00:00Z",
+  "lastUpdated": "2025-11-08T03:00:48.272549+00:00Z",
   "stats": {
-    "totalDirectories": 2347,
+    "totalDirectories": 2348,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2347.0,
-    "totalListings": 21910,
-    "aiEnhancedDirectories": 2346
+    "avgDirectoriesPerRepo": 2348.0,
+    "totalListings": 21920,
+    "aiEnhancedDirectories": 2347
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30518,12 +30518,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-master-data-management-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:00:48.272549+00:00Z",
+      "lastUpdated": "2025-11-08T03:00:48.272549+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2347,
+      "directoryCount": 2348,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

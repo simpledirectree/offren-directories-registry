@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:35:25.154429+00:00Z",
+  "lastUpdated": "2025-11-08T11:36:05.043264+00:00Z",
   "stats": {
-    "totalDirectories": 1025,
+    "totalDirectories": 1026,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1025.0,
-    "totalListings": 9828,
-    "aiEnhancedDirectories": 1025
+    "avgDirectoriesPerRepo": 1026.0,
+    "totalListings": 9838,
+    "aiEnhancedDirectories": 1026
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13333,12 +13333,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-photo-editing-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:36:05.043264+00:00Z",
+      "lastUpdated": "2025-11-08T11:36:05.043264+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1025,
+      "directoryCount": 1026,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

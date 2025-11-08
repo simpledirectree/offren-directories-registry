@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:19:59.486989+00:00Z",
+  "lastUpdated": "2025-11-08T12:20:13.748083+00:00Z",
   "stats": {
-    "totalDirectories": 1075,
+    "totalDirectories": 1076,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1075.0,
-    "totalListings": 10278,
-    "aiEnhancedDirectories": 1075
+    "avgDirectoriesPerRepo": 1076.0,
+    "totalListings": 10288,
+    "aiEnhancedDirectories": 1076
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13983,12 +13983,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-customer-service-process-development-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:20:13.748083+00:00Z",
+      "lastUpdated": "2025-11-08T12:20:13.748083+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1075,
+      "directoryCount": 1076,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

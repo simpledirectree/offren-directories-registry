@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:12:59.746557+00:00Z",
+  "lastUpdated": "2025-11-08T16:13:41.387475+00:00Z",
   "stats": {
-    "totalDirectories": 1333,
+    "totalDirectories": 1334,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1333.0,
-    "totalListings": 12662,
-    "aiEnhancedDirectories": 1333
+    "avgDirectoriesPerRepo": 1334.0,
+    "totalListings": 12672,
+    "aiEnhancedDirectories": 1334
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17337,12 +17337,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-tire-sales-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:13:41.387475+00:00Z",
+      "lastUpdated": "2025-11-08T16:13:41.387475+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1333,
+      "directoryCount": 1334,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

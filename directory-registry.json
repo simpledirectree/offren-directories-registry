@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:09:30.177277+00:00Z",
+  "lastUpdated": "2025-11-08T06:09:46.243891+00:00Z",
   "stats": {
-    "totalDirectories": 449,
+    "totalDirectories": 450,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 449.0,
-    "totalListings": 4360,
-    "aiEnhancedDirectories": 449
+    "avgDirectoriesPerRepo": 450.0,
+    "totalListings": 4370,
+    "aiEnhancedDirectories": 450
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5845,12 +5845,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-switch-configuration-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:09:46.243891+00:00Z",
+      "lastUpdated": "2025-11-08T06:09:46.243891+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 449,
+      "directoryCount": 450,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

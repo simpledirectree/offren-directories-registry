@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:54:49.422571+00:00Z",
+  "lastUpdated": "2025-11-08T07:57:06.464559+00:00Z",
   "stats": {
-    "totalDirectories": 777,
+    "totalDirectories": 778,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 777.0,
-    "totalListings": 7540,
-    "aiEnhancedDirectories": 777
+    "avgDirectoriesPerRepo": 778.0,
+    "totalListings": 7550,
+    "aiEnhancedDirectories": 778
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10109,12 +10109,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-motion-graphics-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:57:06.464559+00:00Z",
+      "lastUpdated": "2025-11-08T07:57:06.464559+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 777,
+      "directoryCount": 778,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

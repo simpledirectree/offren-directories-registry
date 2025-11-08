@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:20:54.092359+00:00Z",
+  "lastUpdated": "2025-11-08T03:21:06.150722+00:00Z",
   "stats": {
-    "totalDirectories": 2366,
+    "totalDirectories": 2367,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2366.0,
-    "totalListings": 22095,
-    "aiEnhancedDirectories": 2365
+    "avgDirectoriesPerRepo": 2367.0,
+    "totalListings": 22096,
+    "aiEnhancedDirectories": 2366
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30765,12 +30765,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-24-7-soc-monitoring-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:21:06.150722+00:00Z",
+      "lastUpdated": "2025-11-08T03:21:06.150722+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2366,
+      "directoryCount": 2367,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

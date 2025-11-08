@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:21:06.924795+00:00Z",
+  "lastUpdated": "2025-11-08T17:21:21.594970+00:00Z",
   "stats": {
-    "totalDirectories": 1416,
+    "totalDirectories": 1417,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1416.0,
-    "totalListings": 13456,
-    "aiEnhancedDirectories": 1416
+    "avgDirectoriesPerRepo": 1417.0,
+    "totalListings": 13463,
+    "aiEnhancedDirectories": 1417
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18416,12 +18416,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-real-estate-law-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:21:21.594970+00:00Z",
+      "lastUpdated": "2025-11-08T17:21:21.594970+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1416,
+      "directoryCount": 1417,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

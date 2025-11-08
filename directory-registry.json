@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:12:02.291656+00:00Z",
+  "lastUpdated": "2025-11-08T04:12:20.206441+00:00Z",
   "stats": {
-    "totalDirectories": 25,
+    "totalDirectories": 26,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 25.0,
-    "totalListings": 247,
-    "aiEnhancedDirectories": 25
+    "avgDirectoriesPerRepo": 26.0,
+    "totalListings": 257,
+    "aiEnhancedDirectories": 26
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -333,12 +333,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-assembly-line-workers-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:12:20.206441+00:00Z",
+      "lastUpdated": "2025-11-08T04:12:20.206441+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 25,
+      "directoryCount": 26,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

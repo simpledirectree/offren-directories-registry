@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:06:02.715850+00:00Z",
+  "lastUpdated": "2025-11-08T14:07:05.925603+00:00Z",
   "stats": {
-    "totalDirectories": 1200,
+    "totalDirectories": 1201,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1200.0,
-    "totalListings": 11428,
-    "aiEnhancedDirectories": 1200
+    "avgDirectoriesPerRepo": 1201.0,
+    "totalListings": 11435,
+    "aiEnhancedDirectories": 1201
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15608,12 +15608,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-adult-day-programs-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:07:05.925603+00:00Z",
+      "lastUpdated": "2025-11-08T14:07:05.925603+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1200,
+      "directoryCount": 1201,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

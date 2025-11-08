@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:55:47.066801+00:00Z",
+  "lastUpdated": "2025-11-08T13:56:02.714589+00:00Z",
   "stats": {
-    "totalDirectories": 1192,
+    "totalDirectories": 1193,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1192.0,
-    "totalListings": 11357,
-    "aiEnhancedDirectories": 1192
+    "avgDirectoriesPerRepo": 1193.0,
+    "totalListings": 11367,
+    "aiEnhancedDirectories": 1193
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15504,12 +15504,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-financial-analysis-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:56:02.714589+00:00Z",
+      "lastUpdated": "2025-11-08T13:56:02.714589+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1192,
+      "directoryCount": 1193,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:47:38.491001+00:00Z",
+  "lastUpdated": "2025-11-08T19:48:43.939911+00:00Z",
   "stats": {
-    "totalDirectories": 1586,
+    "totalDirectories": 1587,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1586.0,
-    "totalListings": 15065,
-    "aiEnhancedDirectories": 1586
+    "avgDirectoriesPerRepo": 1587.0,
+    "totalListings": 15075,
+    "aiEnhancedDirectories": 1587
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20626,12 +20626,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-personal-injury-law-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:48:43.939911+00:00Z",
+      "lastUpdated": "2025-11-08T19:48:43.939911+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1586,
+      "directoryCount": 1587,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

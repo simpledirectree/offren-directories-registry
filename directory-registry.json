@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:47:24.138589+00:00Z",
+  "lastUpdated": "2025-11-08T22:48:30.219214+00:00Z",
   "stats": {
-    "totalDirectories": 1803,
+    "totalDirectories": 1804,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1803.0,
-    "totalListings": 17072,
-    "aiEnhancedDirectories": 1803
+    "avgDirectoriesPerRepo": 1804.0,
+    "totalListings": 17082,
+    "aiEnhancedDirectories": 1804
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23447,12 +23447,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-grocery-delivery-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:48:30.219214+00:00Z",
+      "lastUpdated": "2025-11-08T22:48:30.219214+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1803,
+      "directoryCount": 1804,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

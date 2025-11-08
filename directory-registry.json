@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:01:53.770041+00:00Z",
+  "lastUpdated": "2025-11-08T13:02:10.514158+00:00Z",
   "stats": {
-    "totalDirectories": 1128,
+    "totalDirectories": 1129,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1128.0,
-    "totalListings": 10759,
-    "aiEnhancedDirectories": 1128
+    "avgDirectoriesPerRepo": 1129.0,
+    "totalListings": 10769,
+    "aiEnhancedDirectories": 1129
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14672,12 +14672,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-family-style-restaurants-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:02:10.514158+00:00Z",
+      "lastUpdated": "2025-11-08T13:02:10.514158+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1128,
+      "directoryCount": 1129,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

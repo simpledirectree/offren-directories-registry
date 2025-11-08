@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:43:42.619369+00:00Z",
+  "lastUpdated": "2025-11-08T19:45:37.478985+00:00Z",
   "stats": {
-    "totalDirectories": 1582,
+    "totalDirectories": 1583,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1582.0,
-    "totalListings": 15025,
-    "aiEnhancedDirectories": 1582
+    "avgDirectoriesPerRepo": 1583.0,
+    "totalListings": 15035,
+    "aiEnhancedDirectories": 1583
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20574,12 +20574,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-naturopathy-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:45:37.478985+00:00Z",
+      "lastUpdated": "2025-11-08T19:45:37.478985+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1582,
+      "directoryCount": 1583,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

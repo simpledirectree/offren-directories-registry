@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:14:10.802590+00:00Z",
+  "lastUpdated": "2025-11-08T14:15:43.535557+00:00Z",
   "stats": {
-    "totalDirectories": 1206,
+    "totalDirectories": 1207,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1206.0,
-    "totalListings": 11480,
-    "aiEnhancedDirectories": 1206
+    "avgDirectoriesPerRepo": 1207.0,
+    "totalListings": 11490,
+    "aiEnhancedDirectories": 1207
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15686,12 +15686,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-solar-panel-installation-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:15:43.535557+00:00Z",
+      "lastUpdated": "2025-11-08T14:15:43.535557+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1206,
+      "directoryCount": 1207,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

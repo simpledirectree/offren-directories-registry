@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:05:55.529926+00:00Z",
+  "lastUpdated": "2025-11-08T04:06:08.704640+00:00Z",
   "stats": {
-    "totalDirectories": 3,
+    "totalDirectories": 4,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 3.0,
-    "totalListings": 30,
-    "aiEnhancedDirectories": 3
+    "avgDirectoriesPerRepo": 4.0,
+    "totalListings": 40,
+    "aiEnhancedDirectories": 4
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -47,12 +47,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-crystal-healing-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:06:08.704640+00:00Z",
+      "lastUpdated": "2025-11-08T04:06:08.704640+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 3,
+      "directoryCount": 4,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

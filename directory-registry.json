@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:28:25.144310+00:00Z",
+  "lastUpdated": "2025-11-08T11:29:34.102194+00:00Z",
   "stats": {
-    "totalDirectories": 1019,
+    "totalDirectories": 1020,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1019.0,
-    "totalListings": 9778,
-    "aiEnhancedDirectories": 1019
+    "avgDirectoriesPerRepo": 1020.0,
+    "totalListings": 9788,
+    "aiEnhancedDirectories": 1020
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13255,12 +13255,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-primary-care-physicians-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:29:34.102194+00:00Z",
+      "lastUpdated": "2025-11-08T11:29:34.102194+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1019,
+      "directoryCount": 1020,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

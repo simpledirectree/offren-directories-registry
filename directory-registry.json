@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:03:37.705243+00:00Z",
+  "lastUpdated": "2025-11-08T12:05:05.846821+00:00Z",
   "stats": {
-    "totalDirectories": 1061,
+    "totalDirectories": 1062,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1061.0,
-    "totalListings": 10158,
-    "aiEnhancedDirectories": 1061
+    "avgDirectoriesPerRepo": 1062.0,
+    "totalListings": 10168,
+    "aiEnhancedDirectories": 1062
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13801,12 +13801,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-substance-abuse-counseling-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:05:05.846821+00:00Z",
+      "lastUpdated": "2025-11-08T12:05:05.846821+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1061,
+      "directoryCount": 1062,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

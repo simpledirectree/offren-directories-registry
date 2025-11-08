@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:17:12.131164+00:00Z",
+  "lastUpdated": "2025-11-08T05:17:25.321564+00:00Z",
   "stats": {
-    "totalDirectories": 260,
+    "totalDirectories": 261,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 260.0,
-    "totalListings": 2550,
-    "aiEnhancedDirectories": 260
+    "avgDirectoriesPerRepo": 261.0,
+    "totalListings": 2560,
+    "aiEnhancedDirectories": 261
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3388,12 +3388,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-direct-restaurant-delivery-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:17:25.321564+00:00Z",
+      "lastUpdated": "2025-11-08T05:17:25.321564+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 260,
+      "directoryCount": 261,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

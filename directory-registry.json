@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:07:59.542154+00:00Z",
+  "lastUpdated": "2025-11-08T06:08:12.622616+00:00Z",
   "stats": {
-    "totalDirectories": 443,
+    "totalDirectories": 444,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 443.0,
-    "totalListings": 4305,
-    "aiEnhancedDirectories": 443
+    "avgDirectoriesPerRepo": 444.0,
+    "totalListings": 4310,
+    "aiEnhancedDirectories": 444
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5767,12 +5767,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-event-space-rentals-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:08:12.622616+00:00Z",
+      "lastUpdated": "2025-11-08T06:08:12.622616+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 443,
+      "directoryCount": 444,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

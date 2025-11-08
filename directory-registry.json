@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:58:20.330057+00:00Z",
+  "lastUpdated": "2025-11-08T04:58:34.761646+00:00Z",
   "stats": {
-    "totalDirectories": 193,
+    "totalDirectories": 194,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 193.0,
-    "totalListings": 1890,
-    "aiEnhancedDirectories": 193
+    "avgDirectoriesPerRepo": 194.0,
+    "totalListings": 1900,
+    "aiEnhancedDirectories": 194
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2517,12 +2517,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-technology-procurement-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:58:34.761646+00:00Z",
+      "lastUpdated": "2025-11-08T04:58:34.761646+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 193,
+      "directoryCount": 194,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

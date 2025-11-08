@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:48:35.339245+00:00Z",
+  "lastUpdated": "2025-11-08T01:48:51.275605+00:00Z",
   "stats": {
-    "totalDirectories": 2274,
+    "totalDirectories": 2275,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2274.0,
-    "totalListings": 21251,
-    "aiEnhancedDirectories": 2273
+    "avgDirectoriesPerRepo": 2275.0,
+    "totalListings": 21261,
+    "aiEnhancedDirectories": 2274
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29569,12 +29569,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-homework-help-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:48:51.275605+00:00Z",
+      "lastUpdated": "2025-11-08T01:48:51.275605+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2274,
+      "directoryCount": 2275,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

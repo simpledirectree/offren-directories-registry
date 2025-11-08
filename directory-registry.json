@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:29:57.751588+00:00Z",
+  "lastUpdated": "2025-11-08T04:30:14.734307+00:00Z",
   "stats": {
-    "totalDirectories": 89,
+    "totalDirectories": 90,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 89.0,
-    "totalListings": 877,
-    "aiEnhancedDirectories": 89
+    "avgDirectoriesPerRepo": 90.0,
+    "totalListings": 887,
+    "aiEnhancedDirectories": 90
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1165,12 +1165,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-energy-consulting-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:30:14.734307+00:00Z",
+      "lastUpdated": "2025-11-08T04:30:14.734307+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 89,
+      "directoryCount": 90,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

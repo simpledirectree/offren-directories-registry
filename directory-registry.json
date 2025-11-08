@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:05:59.944062+00:00Z",
+  "lastUpdated": "2025-11-08T13:06:14.228037+00:00Z",
   "stats": {
-    "totalDirectories": 1136,
+    "totalDirectories": 1137,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1136.0,
-    "totalListings": 10838,
-    "aiEnhancedDirectories": 1136
+    "avgDirectoriesPerRepo": 1137.0,
+    "totalListings": 10848,
+    "aiEnhancedDirectories": 1137
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14776,12 +14776,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-bank-reconciliation-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:06:14.228037+00:00Z",
+      "lastUpdated": "2025-11-08T13:06:14.228037+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1136,
+      "directoryCount": 1137,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

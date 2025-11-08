@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:44:41.685261+00:00Z",
+  "lastUpdated": "2025-11-08T04:44:55.951058+00:00Z",
   "stats": {
-    "totalDirectories": 143,
+    "totalDirectories": 144,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 143.0,
-    "totalListings": 1401,
-    "aiEnhancedDirectories": 143
+    "avgDirectoriesPerRepo": 144.0,
+    "totalListings": 1411,
+    "aiEnhancedDirectories": 144
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1867,12 +1867,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-weeding-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:44:55.951058+00:00Z",
+      "lastUpdated": "2025-11-08T04:44:55.951058+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 143,
+      "directoryCount": 144,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

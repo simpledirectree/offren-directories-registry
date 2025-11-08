@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:25:25.324196+00:00Z",
+  "lastUpdated": "2025-11-08T18:26:05.579305+00:00Z",
   "stats": {
-    "totalDirectories": 1491,
+    "totalDirectories": 1492,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1491.0,
-    "totalListings": 14173,
-    "aiEnhancedDirectories": 1491
+    "avgDirectoriesPerRepo": 1492.0,
+    "totalListings": 14183,
+    "aiEnhancedDirectories": 1492
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19391,12 +19391,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-custom-home-building-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:26:05.579305+00:00Z",
+      "lastUpdated": "2025-11-08T18:26:05.579305+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1491,
+      "directoryCount": 1492,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

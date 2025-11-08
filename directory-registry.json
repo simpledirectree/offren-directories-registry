@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:38:59.520308+00:00Z",
+  "lastUpdated": "2025-11-08T02:40:32.399022+00:00Z",
   "stats": {
-    "totalDirectories": 2324,
+    "totalDirectories": 2325,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2324.0,
-    "totalListings": 21700,
-    "aiEnhancedDirectories": 2323
+    "avgDirectoriesPerRepo": 2325.0,
+    "totalListings": 21702,
+    "aiEnhancedDirectories": 2324
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30219,12 +30219,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-email-marketing-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:40:32.399022+00:00Z",
+      "lastUpdated": "2025-11-08T02:40:32.399022+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2324,
+      "directoryCount": 2325,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

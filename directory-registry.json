@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:20:43.381214+00:00Z",
+  "lastUpdated": "2025-11-08T16:21:24.269038+00:00Z",
   "stats": {
-    "totalDirectories": 1341,
+    "totalDirectories": 1342,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1341.0,
-    "totalListings": 12742,
-    "aiEnhancedDirectories": 1341
+    "avgDirectoriesPerRepo": 1342.0,
+    "totalListings": 12752,
+    "aiEnhancedDirectories": 1342
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17441,12 +17441,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-life-insurance-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:21:24.269038+00:00Z",
+      "lastUpdated": "2025-11-08T16:21:24.269038+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1341,
+      "directoryCount": 1342,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

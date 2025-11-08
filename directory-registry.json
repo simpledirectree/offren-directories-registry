@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:18:40.760124+00:00Z",
+  "lastUpdated": "2025-11-08T00:18:55.794746+00:00Z",
   "stats": {
-    "totalDirectories": 2171,
+    "totalDirectories": 2172,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2171.0,
-    "totalListings": 20317,
-    "aiEnhancedDirectories": 2170
+    "avgDirectoriesPerRepo": 2172.0,
+    "totalListings": 20327,
+    "aiEnhancedDirectories": 2171
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28230,12 +28230,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-24-7-monitoring-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:18:55.794746+00:00Z",
+      "lastUpdated": "2025-11-08T00:18:55.794746+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2171,
+      "directoryCount": 2172,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

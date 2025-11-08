@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:53:32.267909+00:00Z",
+  "lastUpdated": "2025-11-08T20:54:12.424307+00:00Z",
   "stats": {
-    "totalDirectories": 1669,
+    "totalDirectories": 1670,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1669.0,
-    "totalListings": 15827,
-    "aiEnhancedDirectories": 1669
+    "avgDirectoriesPerRepo": 1670.0,
+    "totalListings": 15837,
+    "aiEnhancedDirectories": 1670
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21705,12 +21705,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-garden-planting-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:54:12.424307+00:00Z",
+      "lastUpdated": "2025-11-08T20:54:12.424307+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1669,
+      "directoryCount": 1670,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

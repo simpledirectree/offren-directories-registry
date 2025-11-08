@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:07:30.551775+00:00Z",
+  "lastUpdated": "2025-11-08T06:07:45.065686+00:00Z",
   "stats": {
-    "totalDirectories": 441,
+    "totalDirectories": 442,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 441.0,
-    "totalListings": 4285,
-    "aiEnhancedDirectories": 441
+    "avgDirectoriesPerRepo": 442.0,
+    "totalListings": 4295,
+    "aiEnhancedDirectories": 442
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5741,12 +5741,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-assisted-living-facilities-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:07:45.065686+00:00Z",
+      "lastUpdated": "2025-11-08T06:07:45.065686+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 441,
+      "directoryCount": 442,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

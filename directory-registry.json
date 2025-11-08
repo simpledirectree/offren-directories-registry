@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:11:12.057583+00:00Z",
+  "lastUpdated": "2025-11-08T22:11:26.431643+00:00Z",
   "stats": {
-    "totalDirectories": 1763,
+    "totalDirectories": 1764,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1763.0,
-    "totalListings": 16693,
-    "aiEnhancedDirectories": 1763
+    "avgDirectoriesPerRepo": 1764.0,
+    "totalListings": 16703,
+    "aiEnhancedDirectories": 1764
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22927,12 +22927,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-customer-service-outsourcing-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:11:26.431643+00:00Z",
+      "lastUpdated": "2025-11-08T22:11:26.431643+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1763,
+      "directoryCount": 1764,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

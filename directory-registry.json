@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:50:10.879370+00:00Z",
+  "lastUpdated": "2025-11-08T04:50:25.578734+00:00Z",
   "stats": {
-    "totalDirectories": 163,
+    "totalDirectories": 164,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 163.0,
-    "totalListings": 1600,
-    "aiEnhancedDirectories": 163
+    "avgDirectoriesPerRepo": 164.0,
+    "totalListings": 1610,
+    "aiEnhancedDirectories": 164
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2127,12 +2127,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-dental-implants-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:50:25.578734+00:00Z",
+      "lastUpdated": "2025-11-08T04:50:25.578734+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 163,
+      "directoryCount": 164,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

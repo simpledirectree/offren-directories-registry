@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:20:18.422692+00:00Z",
+  "lastUpdated": "2025-11-08T05:20:32.005172+00:00Z",
   "stats": {
-    "totalDirectories": 272,
+    "totalDirectories": 273,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 272.0,
-    "totalListings": 2664,
-    "aiEnhancedDirectories": 272
+    "avgDirectoriesPerRepo": 273.0,
+    "totalListings": 2674,
+    "aiEnhancedDirectories": 273
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3544,12 +3544,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-culinary-instruction-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:20:32.005172+00:00Z",
+      "lastUpdated": "2025-11-08T05:20:32.005172+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 272,
+      "directoryCount": 273,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:12:49.872349+00:00Z",
+  "lastUpdated": "2025-11-08T05:13:02.449896+00:00Z",
   "stats": {
-    "totalDirectories": 244,
+    "totalDirectories": 245,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 244.0,
-    "totalListings": 2390,
-    "aiEnhancedDirectories": 244
+    "avgDirectoriesPerRepo": 245.0,
+    "totalListings": 2400,
+    "aiEnhancedDirectories": 245
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3180,12 +3180,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-website-optimization-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:13:02.449896+00:00Z",
+      "lastUpdated": "2025-11-08T05:13:02.449896+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 244,
+      "directoryCount": 245,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

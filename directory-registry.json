@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:08:38.543829+00:00Z",
+  "lastUpdated": "2025-11-08T12:10:33.711601+00:00Z",
   "stats": {
-    "totalDirectories": 1066,
+    "totalDirectories": 1067,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1066.0,
-    "totalListings": 10203,
-    "aiEnhancedDirectories": 1066
+    "avgDirectoriesPerRepo": 1067.0,
+    "totalListings": 10213,
+    "aiEnhancedDirectories": 1067
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13866,12 +13866,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-dance-fitness-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:10:33.711601+00:00Z",
+      "lastUpdated": "2025-11-08T12:10:33.711601+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1066,
+      "directoryCount": 1067,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

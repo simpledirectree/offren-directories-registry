@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:42:51.673346+00:00Z",
+  "lastUpdated": "2025-11-08T02:44:44.035885+00:00Z",
   "stats": {
-    "totalDirectories": 2330,
+    "totalDirectories": 2331,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2330.0,
-    "totalListings": 21752,
-    "aiEnhancedDirectories": 2329
+    "avgDirectoriesPerRepo": 2331.0,
+    "totalListings": 21762,
+    "aiEnhancedDirectories": 2330
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30297,12 +30297,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-general-contracting-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:44:44.035885+00:00Z",
+      "lastUpdated": "2025-11-08T02:44:44.035885+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2330,
+      "directoryCount": 2331,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

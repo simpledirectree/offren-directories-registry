@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:34:29.875031+00:00Z",
+  "lastUpdated": "2025-11-08T05:34:43.557472+00:00Z",
   "stats": {
-    "totalDirectories": 324,
+    "totalDirectories": 325,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 324.0,
-    "totalListings": 3177,
-    "aiEnhancedDirectories": 324
+    "avgDirectoriesPerRepo": 325.0,
+    "totalListings": 3187,
+    "aiEnhancedDirectories": 325
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4220,12 +4220,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-kosher-catering-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:34:43.557472+00:00Z",
+      "lastUpdated": "2025-11-08T05:34:43.557472+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 324,
+      "directoryCount": 325,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:22:58.642256+00:00Z",
+  "lastUpdated": "2025-11-08T02:23:15.635915+00:00Z",
   "stats": {
-    "totalDirectories": 2311,
+    "totalDirectories": 2312,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2311.0,
-    "totalListings": 21603,
-    "aiEnhancedDirectories": 2310
+    "avgDirectoriesPerRepo": 2312.0,
+    "totalListings": 21612,
+    "aiEnhancedDirectories": 2311
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30050,12 +30050,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-real-estate-law-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:23:15.635915+00:00Z",
+      "lastUpdated": "2025-11-08T02:23:15.635915+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2311,
+      "directoryCount": 2312,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

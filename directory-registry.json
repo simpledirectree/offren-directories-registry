@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:41:35.860586+00:00Z",
+  "lastUpdated": "2025-11-08T12:41:48.015175+00:00Z",
   "stats": {
-    "totalDirectories": 1104,
+    "totalDirectories": 1105,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1104.0,
-    "totalListings": 10554,
-    "aiEnhancedDirectories": 1104
+    "avgDirectoriesPerRepo": 1105.0,
+    "totalListings": 10555,
+    "aiEnhancedDirectories": 1105
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14360,12 +14360,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-website-design-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:41:48.015175+00:00Z",
+      "lastUpdated": "2025-11-08T12:41:48.015175+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1104,
+      "directoryCount": 1105,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

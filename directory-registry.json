@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:17:44.365092+00:00Z",
+  "lastUpdated": "2025-11-08T09:18:50.739924+00:00Z",
   "stats": {
-    "totalDirectories": 870,
+    "totalDirectories": 871,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 870.0,
-    "totalListings": 8396,
-    "aiEnhancedDirectories": 870
+    "avgDirectoriesPerRepo": 871.0,
+    "totalListings": 8406,
+    "aiEnhancedDirectories": 871
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11318,12 +11318,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-data-lakes-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:18:50.739924+00:00Z",
+      "lastUpdated": "2025-11-08T09:18:50.739924+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 870,
+      "directoryCount": 871,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

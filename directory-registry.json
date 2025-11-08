@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:36:53.143352+00:00Z",
+  "lastUpdated": "2025-11-08T13:38:04.240988+00:00Z",
   "stats": {
-    "totalDirectories": 1164,
+    "totalDirectories": 1165,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1164.0,
-    "totalListings": 11104,
-    "aiEnhancedDirectories": 1164
+    "avgDirectoriesPerRepo": 1165.0,
+    "totalListings": 11114,
+    "aiEnhancedDirectories": 1165
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15140,12 +15140,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-shrub-maintenance-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:38:04.240988+00:00Z",
+      "lastUpdated": "2025-11-08T13:38:04.240988+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1164,
+      "directoryCount": 1165,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

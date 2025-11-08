@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:34:43.557472+00:00Z",
+  "lastUpdated": "2025-11-08T05:34:58.840439+00:00Z",
   "stats": {
-    "totalDirectories": 325,
+    "totalDirectories": 326,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 325.0,
-    "totalListings": 3187,
-    "aiEnhancedDirectories": 325
+    "avgDirectoriesPerRepo": 326.0,
+    "totalListings": 3197,
+    "aiEnhancedDirectories": 326
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4233,12 +4233,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-trauma-therapy-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:34:58.840439+00:00Z",
+      "lastUpdated": "2025-11-08T05:34:58.840439+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 325,
+      "directoryCount": 326,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

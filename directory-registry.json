@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:16:24.544854+00:00Z",
+  "lastUpdated": "2025-11-08T04:16:47.660211+00:00Z",
   "stats": {
-    "totalDirectories": 41,
+    "totalDirectories": 42,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 41.0,
-    "totalListings": 406,
-    "aiEnhancedDirectories": 41
+    "avgDirectoriesPerRepo": 42.0,
+    "totalListings": 416,
+    "aiEnhancedDirectories": 42
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -541,12 +541,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-vocational-training-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:16:47.660211+00:00Z",
+      "lastUpdated": "2025-11-08T04:16:47.660211+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 41,
+      "directoryCount": 42,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

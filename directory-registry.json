@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:36:48.998700+00:00Z",
+  "lastUpdated": "2025-11-08T05:37:09.819675+00:00Z",
   "stats": {
-    "totalDirectories": 333,
+    "totalDirectories": 334,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 333.0,
-    "totalListings": 3267,
-    "aiEnhancedDirectories": 333
+    "avgDirectoriesPerRepo": 334.0,
+    "totalListings": 3277,
+    "aiEnhancedDirectories": 334
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4337,12 +4337,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-therapists-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:37:09.819675+00:00Z",
+      "lastUpdated": "2025-11-08T05:37:09.819675+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 333,
+      "directoryCount": 334,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

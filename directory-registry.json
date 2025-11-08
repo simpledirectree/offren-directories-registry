@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:51:27.009773+00:00Z",
+  "lastUpdated": "2025-11-08T15:52:59.401259+00:00Z",
   "stats": {
-    "totalDirectories": 1316,
+    "totalDirectories": 1317,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1316.0,
-    "totalListings": 12505,
-    "aiEnhancedDirectories": 1316
+    "avgDirectoriesPerRepo": 1317.0,
+    "totalListings": 12510,
+    "aiEnhancedDirectories": 1317
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17116,12 +17116,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-collision-repair-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:52:59.401259+00:00Z",
+      "lastUpdated": "2025-11-08T15:52:59.401259+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1316,
+      "directoryCount": 1317,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:20:37.997199+00:00Z",
+  "lastUpdated": "2025-11-08T21:20:52.151052+00:00Z",
   "stats": {
-    "totalDirectories": 1704,
+    "totalDirectories": 1705,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1704.0,
-    "totalListings": 16151,
-    "aiEnhancedDirectories": 1704
+    "avgDirectoriesPerRepo": 1705.0,
+    "totalListings": 16161,
+    "aiEnhancedDirectories": 1705
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22160,12 +22160,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-diet-specific-catering-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:20:52.151052+00:00Z",
+      "lastUpdated": "2025-11-08T21:20:52.151052+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1704,
+      "directoryCount": 1705,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:41:02.269467+00:00Z",
+  "lastUpdated": "2025-11-08T06:41:20.943639+00:00Z",
   "stats": {
-    "totalDirectories": 561,
+    "totalDirectories": 562,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 561.0,
-    "totalListings": 5475,
-    "aiEnhancedDirectories": 561
+    "avgDirectoriesPerRepo": 562.0,
+    "totalListings": 5485,
+    "aiEnhancedDirectories": 562
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7301,12 +7301,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-background-check-services-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:41:20.943639+00:00Z",
+      "lastUpdated": "2025-11-08T06:41:20.943639+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 561,
+      "directoryCount": 562,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

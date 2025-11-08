@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:08:55.475154+00:00Z",
+  "lastUpdated": "2025-11-08T07:09:09.632351+00:00Z",
   "stats": {
-    "totalDirectories": 663,
+    "totalDirectories": 664,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 663.0,
-    "totalListings": 6439,
-    "aiEnhancedDirectories": 663
+    "avgDirectoriesPerRepo": 664.0,
+    "totalListings": 6449,
+    "aiEnhancedDirectories": 664
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8627,12 +8627,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-auto-diagnostics-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:09:09.632351+00:00Z",
+      "lastUpdated": "2025-11-08T07:09:09.632351+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 663,
+      "directoryCount": 664,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

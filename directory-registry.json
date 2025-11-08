@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:38:05.796352+00:00Z",
+  "lastUpdated": "2025-11-08T06:38:20.956187+00:00Z",
   "stats": {
-    "totalDirectories": 551,
+    "totalDirectories": 552,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 551.0,
-    "totalListings": 5375,
-    "aiEnhancedDirectories": 551
+    "avgDirectoriesPerRepo": 552.0,
+    "totalListings": 5385,
+    "aiEnhancedDirectories": 552
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7171,12 +7171,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-controller-services-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:38:20.956187+00:00Z",
+      "lastUpdated": "2025-11-08T06:38:20.956187+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 551,
+      "directoryCount": 552,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

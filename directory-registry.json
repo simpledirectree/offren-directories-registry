@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:02:11.385347+00:00Z",
+  "lastUpdated": "2025-11-08T06:02:30.979715+00:00Z",
   "stats": {
-    "totalDirectories": 423,
+    "totalDirectories": 424,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 423.0,
-    "totalListings": 4114,
-    "aiEnhancedDirectories": 423
+    "avgDirectoriesPerRepo": 424.0,
+    "totalListings": 4124,
+    "aiEnhancedDirectories": 424
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5507,12 +5507,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-security-audits-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:02:30.979715+00:00Z",
+      "lastUpdated": "2025-11-08T06:02:30.979715+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 423,
+      "directoryCount": 424,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

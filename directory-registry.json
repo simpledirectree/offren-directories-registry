@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:54:53.503499+00:00Z",
+  "lastUpdated": "2025-11-08T03:55:08.684637+00:00Z",
   "stats": {
-    "totalDirectories": 2436,
+    "totalDirectories": 2437,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2436.0,
-    "totalListings": 22755,
-    "aiEnhancedDirectories": 2435
+    "avgDirectoriesPerRepo": 2437.0,
+    "totalListings": 22763,
+    "aiEnhancedDirectories": 2436
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31675,12 +31675,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-planting-services-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:55:08.684637+00:00Z",
+      "lastUpdated": "2025-11-08T03:55:08.684637+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2436,
+      "directoryCount": 2437,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

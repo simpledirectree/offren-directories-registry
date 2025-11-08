@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:19:58.384096+00:00Z",
+  "lastUpdated": "2025-11-08T00:21:00.393867+00:00Z",
   "stats": {
-    "totalDirectories": 2173,
+    "totalDirectories": 2174,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2173.0,
-    "totalListings": 20337,
-    "aiEnhancedDirectories": 2172
+    "avgDirectoriesPerRepo": 2174.0,
+    "totalListings": 20338,
+    "aiEnhancedDirectories": 2173
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28256,12 +28256,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-venture-capital-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:21:00.393867+00:00Z",
+      "lastUpdated": "2025-11-08T00:21:00.393867+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2173,
+      "directoryCount": 2174,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

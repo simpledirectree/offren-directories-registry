@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:35:18.764896+00:00Z",
+  "lastUpdated": "2025-11-08T07:41:44.261029+00:00Z",
   "stats": {
-    "totalDirectories": 758,
+    "totalDirectories": 759,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 758.0,
-    "totalListings": 7365,
-    "aiEnhancedDirectories": 758
+    "avgDirectoriesPerRepo": 759.0,
+    "totalListings": 7375,
+    "aiEnhancedDirectories": 759
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9862,12 +9862,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-energy-healing-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:41:44.261029+00:00Z",
+      "lastUpdated": "2025-11-08T07:41:44.261029+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 758,
+      "directoryCount": 759,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

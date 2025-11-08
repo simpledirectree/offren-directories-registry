@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:34:28.302682+00:00Z",
+  "lastUpdated": "2025-11-08T07:34:46.268342+00:00Z",
   "stats": {
-    "totalDirectories": 755,
+    "totalDirectories": 756,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 755.0,
-    "totalListings": 7335,
-    "aiEnhancedDirectories": 755
+    "avgDirectoriesPerRepo": 756.0,
+    "totalListings": 7345,
+    "aiEnhancedDirectories": 756
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9823,12 +9823,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-tire-sales-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:34:46.268342+00:00Z",
+      "lastUpdated": "2025-11-08T07:34:46.268342+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 755,
+      "directoryCount": 756,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

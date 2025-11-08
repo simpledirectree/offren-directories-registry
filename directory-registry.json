@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:43:33.332911+00:00Z",
+  "lastUpdated": "2025-11-08T16:44:13.351823+00:00Z",
   "stats": {
-    "totalDirectories": 1371,
+    "totalDirectories": 1372,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1371.0,
-    "totalListings": 13028,
-    "aiEnhancedDirectories": 1371
+    "avgDirectoriesPerRepo": 1372.0,
+    "totalListings": 13038,
+    "aiEnhancedDirectories": 1372
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17831,12 +17831,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-cost-analysis-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:44:13.351823+00:00Z",
+      "lastUpdated": "2025-11-08T16:44:13.351823+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1371,
+      "directoryCount": 1372,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

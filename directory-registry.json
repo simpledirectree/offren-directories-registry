@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:33:06.186560+00:00Z",
+  "lastUpdated": "2025-11-08T21:33:20.197783+00:00Z",
   "stats": {
-    "totalDirectories": 1719,
+    "totalDirectories": 1720,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1719.0,
-    "totalListings": 16280,
-    "aiEnhancedDirectories": 1719
+    "avgDirectoriesPerRepo": 1720.0,
+    "totalListings": 16287,
+    "aiEnhancedDirectories": 1720
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22355,12 +22355,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-family-law-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:33:20.197783+00:00Z",
+      "lastUpdated": "2025-11-08T21:33:20.197783+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1719,
+      "directoryCount": 1720,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

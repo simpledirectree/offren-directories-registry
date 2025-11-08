@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:48:47.545446+00:00Z",
+  "lastUpdated": "2025-11-08T06:49:05.284058+00:00Z",
   "stats": {
-    "totalDirectories": 589,
+    "totalDirectories": 590,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 589.0,
-    "totalListings": 5732,
-    "aiEnhancedDirectories": 589
+    "avgDirectoriesPerRepo": 590.0,
+    "totalListings": 5742,
+    "aiEnhancedDirectories": 590
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7665,12 +7665,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-moving-assistants-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:49:05.284058+00:00Z",
+      "lastUpdated": "2025-11-08T06:49:05.284058+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 589,
+      "directoryCount": 590,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

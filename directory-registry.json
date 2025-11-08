@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:10:05.191584+00:00Z",
+  "lastUpdated": "2025-11-08T06:10:20.286851+00:00Z",
   "stats": {
-    "totalDirectories": 451,
+    "totalDirectories": 452,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 451.0,
-    "totalListings": 4380,
-    "aiEnhancedDirectories": 451
+    "avgDirectoriesPerRepo": 452.0,
+    "totalListings": 4390,
+    "aiEnhancedDirectories": 452
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5871,12 +5871,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-upholstery-cleaning-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:10:20.286851+00:00Z",
+      "lastUpdated": "2025-11-08T06:10:20.286851+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 451,
+      "directoryCount": 452,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:34:54.103212+00:00Z",
+  "lastUpdated": "2025-11-08T23:35:33.256712+00:00Z",
   "stats": {
-    "totalDirectories": 1859,
+    "totalDirectories": 1860,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1859.0,
-    "totalListings": 17605,
-    "aiEnhancedDirectories": 1859
+    "avgDirectoriesPerRepo": 1860.0,
+    "totalListings": 17610,
+    "aiEnhancedDirectories": 1860
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24175,12 +24175,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-salt-therapy-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:35:33.256712+00:00Z",
+      "lastUpdated": "2025-11-08T23:35:33.256712+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1859,
+      "directoryCount": 1860,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

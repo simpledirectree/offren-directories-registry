@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:08:20.270404+00:00Z",
+  "lastUpdated": "2025-11-08T05:08:36.633791+00:00Z",
   "stats": {
-    "totalDirectories": 229,
+    "totalDirectories": 230,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 229.0,
-    "totalListings": 2241,
-    "aiEnhancedDirectories": 229
+    "avgDirectoriesPerRepo": 230.0,
+    "totalListings": 2251,
+    "aiEnhancedDirectories": 230
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2985,12 +2985,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-fulfillment-services-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:08:36.633791+00:00Z",
+      "lastUpdated": "2025-11-08T05:08:36.633791+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 229,
+      "directoryCount": 230,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

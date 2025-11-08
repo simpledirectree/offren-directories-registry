@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:17:01.705216+00:00Z",
+  "lastUpdated": "2025-11-08T16:17:44.402375+00:00Z",
   "stats": {
-    "totalDirectories": 1337,
+    "totalDirectories": 1338,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1337.0,
-    "totalListings": 12702,
-    "aiEnhancedDirectories": 1337
+    "avgDirectoriesPerRepo": 1338.0,
+    "totalListings": 12712,
+    "aiEnhancedDirectories": 1338
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17389,12 +17389,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-vehicle-storage-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:17:44.402375+00:00Z",
+      "lastUpdated": "2025-11-08T16:17:44.402375+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1337,
+      "directoryCount": 1338,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:47:01.821770+00:00Z",
+  "lastUpdated": "2025-11-08T20:48:30.882106+00:00Z",
   "stats": {
-    "totalDirectories": 1660,
+    "totalDirectories": 1661,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1660.0,
-    "totalListings": 15746,
-    "aiEnhancedDirectories": 1660
+    "avgDirectoriesPerRepo": 1661.0,
+    "totalListings": 15756,
+    "aiEnhancedDirectories": 1661
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21588,12 +21588,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-big-data-infrastructure-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:48:30.882106+00:00Z",
+      "lastUpdated": "2025-11-08T20:48:30.882106+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1660,
+      "directoryCount": 1661,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

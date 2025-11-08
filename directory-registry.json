@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:09:36.950943+00:00Z",
+  "lastUpdated": "2025-11-08T00:11:34.956592+00:00Z",
   "stats": {
-    "totalDirectories": 2156,
+    "totalDirectories": 2157,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2156.0,
-    "totalListings": 20186,
-    "aiEnhancedDirectories": 2155
+    "avgDirectoriesPerRepo": 2157.0,
+    "totalListings": 20196,
+    "aiEnhancedDirectories": 2156
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28035,12 +28035,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-goal-setting-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:11:34.956592+00:00Z",
+      "lastUpdated": "2025-11-08T00:11:34.956592+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2156,
+      "directoryCount": 2157,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

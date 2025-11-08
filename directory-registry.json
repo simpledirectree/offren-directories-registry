@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:29:28.368420+00:00Z",
+  "lastUpdated": "2025-11-08T06:29:47.592061+00:00Z",
   "stats": {
-    "totalDirectories": 520,
+    "totalDirectories": 521,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 520.0,
-    "totalListings": 5065,
-    "aiEnhancedDirectories": 520
+    "avgDirectoriesPerRepo": 521.0,
+    "totalListings": 5075,
+    "aiEnhancedDirectories": 521
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6768,12 +6768,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-load-balancing-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:29:47.592061+00:00Z",
+      "lastUpdated": "2025-11-08T06:29:47.592061+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 520,
+      "directoryCount": 521,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:48:32.934669+00:00Z",
+  "lastUpdated": "2025-11-08T07:48:47.603860+00:00Z",
   "stats": {
-    "totalDirectories": 770,
+    "totalDirectories": 771,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 770.0,
-    "totalListings": 7471,
-    "aiEnhancedDirectories": 770
+    "avgDirectoriesPerRepo": 771.0,
+    "totalListings": 7481,
+    "aiEnhancedDirectories": 771
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10018,12 +10018,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-crisis-communications-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:48:47.603860+00:00Z",
+      "lastUpdated": "2025-11-08T07:48:47.603860+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 770,
+      "directoryCount": 771,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

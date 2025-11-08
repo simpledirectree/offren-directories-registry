@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:46:11.964643+00:00Z",
+  "lastUpdated": "2025-11-08T10:46:51.892311+00:00Z",
   "stats": {
-    "totalDirectories": 966,
+    "totalDirectories": 967,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 966.0,
-    "totalListings": 9267,
-    "aiEnhancedDirectories": 966
+    "avgDirectoriesPerRepo": 967.0,
+    "totalListings": 9277,
+    "aiEnhancedDirectories": 967
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12566,12 +12566,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-guest-management-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:46:51.892311+00:00Z",
+      "lastUpdated": "2025-11-08T10:46:51.892311+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 966,
+      "directoryCount": 967,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

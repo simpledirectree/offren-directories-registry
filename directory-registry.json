@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:32:33.447079+00:00Z",
+  "lastUpdated": "2025-11-08T06:32:48.956586+00:00Z",
   "stats": {
-    "totalDirectories": 531,
+    "totalDirectories": 532,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 531.0,
-    "totalListings": 5175,
-    "aiEnhancedDirectories": 531
+    "avgDirectoriesPerRepo": 532.0,
+    "totalListings": 5185,
+    "aiEnhancedDirectories": 532
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6911,12 +6911,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-restorative-yoga-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:32:48.956586+00:00Z",
+      "lastUpdated": "2025-11-08T06:32:48.956586+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 531,
+      "directoryCount": 532,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

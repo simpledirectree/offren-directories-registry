@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:54:25.840722+00:00Z",
+  "lastUpdated": "2025-11-08T14:55:08.653034+00:00Z",
   "stats": {
-    "totalDirectories": 1255,
+    "totalDirectories": 1256,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1255.0,
-    "totalListings": 11938,
-    "aiEnhancedDirectories": 1255
+    "avgDirectoriesPerRepo": 1256.0,
+    "totalListings": 11948,
+    "aiEnhancedDirectories": 1256
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16323,12 +16323,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-hatha-yoga-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:55:08.653034+00:00Z",
+      "lastUpdated": "2025-11-08T14:55:08.653034+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1255,
+      "directoryCount": 1256,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

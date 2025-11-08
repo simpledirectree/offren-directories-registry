@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:58:18.381983+00:00Z",
+  "lastUpdated": "2025-11-08T00:58:33.027809+00:00Z",
   "stats": {
-    "totalDirectories": 2213,
+    "totalDirectories": 2214,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2213.0,
-    "totalListings": 20698,
-    "aiEnhancedDirectories": 2212
+    "avgDirectoriesPerRepo": 2214.0,
+    "totalListings": 20704,
+    "aiEnhancedDirectories": 2213
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28776,12 +28776,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-aromatherapy-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:58:33.027809+00:00Z",
+      "lastUpdated": "2025-11-08T00:58:33.027809+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2213,
+      "directoryCount": 2214,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

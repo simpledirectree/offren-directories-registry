@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:30:50.359991+00:00Z",
+  "lastUpdated": "2025-11-08T07:31:02.923004+00:00Z",
   "stats": {
-    "totalDirectories": 743,
+    "totalDirectories": 744,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 743.0,
-    "totalListings": 7217,
-    "aiEnhancedDirectories": 743
+    "avgDirectoriesPerRepo": 744.0,
+    "totalListings": 7227,
+    "aiEnhancedDirectories": 744
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9667,12 +9667,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-operations-consulting-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:31:02.923004+00:00Z",
+      "lastUpdated": "2025-11-08T07:31:02.923004+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 743,
+      "directoryCount": 744,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

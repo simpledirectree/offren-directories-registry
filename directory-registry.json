@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:00:01.172280+00:00Z",
+  "lastUpdated": "2025-11-08T23:00:41.427869+00:00Z",
   "stats": {
-    "totalDirectories": 1816,
+    "totalDirectories": 1817,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1816.0,
-    "totalListings": 17202,
-    "aiEnhancedDirectories": 1816
+    "avgDirectoriesPerRepo": 1817.0,
+    "totalListings": 17212,
+    "aiEnhancedDirectories": 1817
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23616,12 +23616,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-customs-assistance-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:00:41.427869+00:00Z",
+      "lastUpdated": "2025-11-08T23:00:41.427869+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1816,
+      "directoryCount": 1817,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

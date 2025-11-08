@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:46:55.924784+00:00Z",
+  "lastUpdated": "2025-11-08T01:48:08.087010+00:00Z",
   "stats": {
-    "totalDirectories": 2271,
+    "totalDirectories": 2272,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2271.0,
-    "totalListings": 21230,
-    "aiEnhancedDirectories": 2270
+    "avgDirectoriesPerRepo": 2272.0,
+    "totalListings": 21240,
+    "aiEnhancedDirectories": 2271
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29530,12 +29530,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-sleep-studies-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:48:08.087010+00:00Z",
+      "lastUpdated": "2025-11-08T01:48:08.087010+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2271,
+      "directoryCount": 2272,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

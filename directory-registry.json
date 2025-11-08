@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:46:55.235264+00:00Z",
+  "lastUpdated": "2025-11-08T03:47:10.416873+00:00Z",
   "stats": {
-    "totalDirectories": 2409,
+    "totalDirectories": 2410,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2409.0,
-    "totalListings": 22490,
-    "aiEnhancedDirectories": 2408
+    "avgDirectoriesPerRepo": 2410.0,
+    "totalListings": 22500,
+    "aiEnhancedDirectories": 2409
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31324,12 +31324,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-prototyping-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:47:10.416873+00:00Z",
+      "lastUpdated": "2025-11-08T03:47:10.416873+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2409,
+      "directoryCount": 2410,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

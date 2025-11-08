@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:06:46.784420+00:00Z",
+  "lastUpdated": "2025-11-08T05:07:03.057761+00:00Z",
   "stats": {
-    "totalDirectories": 223,
+    "totalDirectories": 224,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 223.0,
-    "totalListings": 2190,
-    "aiEnhancedDirectories": 223
+    "avgDirectoriesPerRepo": 224.0,
+    "totalListings": 2200,
+    "aiEnhancedDirectories": 224
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2907,12 +2907,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-transmission-replacement-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:07:03.057761+00:00Z",
+      "lastUpdated": "2025-11-08T05:07:03.057761+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 223,
+      "directoryCount": 224,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

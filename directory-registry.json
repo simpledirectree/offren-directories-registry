@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:20:17.757514+00:00Z",
+  "lastUpdated": "2025-11-08T07:20:31.219623+00:00Z",
   "stats": {
-    "totalDirectories": 704,
+    "totalDirectories": 705,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 704.0,
-    "totalListings": 6846,
-    "aiEnhancedDirectories": 704
+    "avgDirectoriesPerRepo": 705.0,
+    "totalListings": 6856,
+    "aiEnhancedDirectories": 705
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9160,12 +9160,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-electrical-wiring-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:20:31.219623+00:00Z",
+      "lastUpdated": "2025-11-08T07:20:31.219623+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 704,
+      "directoryCount": 705,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

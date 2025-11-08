@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:12:21.679256+00:00Z",
+  "lastUpdated": "2025-11-08T08:13:24.555859+00:00Z",
   "stats": {
-    "totalDirectories": 795,
+    "totalDirectories": 796,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 795.0,
-    "totalListings": 7712,
-    "aiEnhancedDirectories": 795
+    "avgDirectoriesPerRepo": 796.0,
+    "totalListings": 7718,
+    "aiEnhancedDirectories": 796
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10343,12 +10343,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-pet-waste-removal-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:13:24.555859+00:00Z",
+      "lastUpdated": "2025-11-08T08:13:24.555859+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 795,
+      "directoryCount": 796,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:09:08.361259+00:00Z",
+  "lastUpdated": "2025-11-08T04:09:23.452877+00:00Z",
   "stats": {
-    "totalDirectories": 14,
+    "totalDirectories": 15,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 14.0,
-    "totalListings": 137,
-    "aiEnhancedDirectories": 14
+    "avgDirectoriesPerRepo": 15.0,
+    "totalListings": 147,
+    "aiEnhancedDirectories": 15
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -190,12 +190,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-technical-writing-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:09:23.452877+00:00Z",
+      "lastUpdated": "2025-11-08T04:09:23.452877+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 14,
+      "directoryCount": 15,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

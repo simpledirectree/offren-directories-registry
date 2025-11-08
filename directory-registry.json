@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:45:12.829820+00:00Z",
+  "lastUpdated": "2025-11-08T07:45:25.210396+00:00Z",
   "stats": {
-    "totalDirectories": 763,
+    "totalDirectories": 764,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 763.0,
-    "totalListings": 7410,
-    "aiEnhancedDirectories": 763
+    "avgDirectoriesPerRepo": 764.0,
+    "totalListings": 7411,
+    "aiEnhancedDirectories": 764
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9927,12 +9927,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-brand-positioning-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:45:25.210396+00:00Z",
+      "lastUpdated": "2025-11-08T07:45:25.210396+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 763,
+      "directoryCount": 764,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

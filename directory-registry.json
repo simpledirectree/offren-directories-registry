@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:16:37.099735+00:00Z",
+  "lastUpdated": "2025-11-08T06:16:54.076110+00:00Z",
   "stats": {
-    "totalDirectories": 474,
+    "totalDirectories": 475,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 474.0,
-    "totalListings": 4609,
-    "aiEnhancedDirectories": 474
+    "avgDirectoriesPerRepo": 475.0,
+    "totalListings": 4619,
+    "aiEnhancedDirectories": 475
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6170,12 +6170,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-title-services-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:16:54.076110+00:00Z",
+      "lastUpdated": "2025-11-08T06:16:54.076110+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 474,
+      "directoryCount": 475,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

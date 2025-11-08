@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:12:06.963275+00:00Z",
+  "lastUpdated": "2025-11-08T06:12:22.151047+00:00Z",
   "stats": {
-    "totalDirectories": 458,
+    "totalDirectories": 459,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 458.0,
-    "totalListings": 4450,
-    "aiEnhancedDirectories": 458
+    "avgDirectoriesPerRepo": 459.0,
+    "totalListings": 4460,
+    "aiEnhancedDirectories": 459
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5962,12 +5962,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-commercial-moving-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:12:22.151047+00:00Z",
+      "lastUpdated": "2025-11-08T06:12:22.151047+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 458,
+      "directoryCount": 459,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

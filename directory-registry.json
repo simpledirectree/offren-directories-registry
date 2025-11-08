@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:46:58.822511+00:00Z",
+  "lastUpdated": "2025-11-08T23:47:39.260017+00:00Z",
   "stats": {
-    "totalDirectories": 1878,
+    "totalDirectories": 1879,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1878.0,
-    "totalListings": 17760,
-    "aiEnhancedDirectories": 1878
+    "avgDirectoriesPerRepo": 1879.0,
+    "totalListings": 17770,
+    "aiEnhancedDirectories": 1879
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24422,12 +24422,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-esl-instruction-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:47:39.260017+00:00Z",
+      "lastUpdated": "2025-11-08T23:47:39.260017+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1878,
+      "directoryCount": 1879,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

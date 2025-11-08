@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:14:46.151210+00:00Z",
+  "lastUpdated": "2025-11-08T04:15:05.340426+00:00Z",
   "stats": {
-    "totalDirectories": 35,
+    "totalDirectories": 36,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 35.0,
-    "totalListings": 347,
-    "aiEnhancedDirectories": 35
+    "avgDirectoriesPerRepo": 36.0,
+    "totalListings": 357,
+    "aiEnhancedDirectories": 36
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -463,12 +463,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-restructuring-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:15:05.340426+00:00Z",
+      "lastUpdated": "2025-11-08T04:15:05.340426+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 35,
+      "directoryCount": 36,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:33:34.459687+00:00Z",
+  "lastUpdated": "2025-11-08T23:34:39.807170+00:00Z",
   "stats": {
-    "totalDirectories": 1857,
+    "totalDirectories": 1858,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1857.0,
-    "totalListings": 17585,
-    "aiEnhancedDirectories": 1857
+    "avgDirectoriesPerRepo": 1858.0,
+    "totalListings": 17595,
+    "aiEnhancedDirectories": 1858
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24149,12 +24149,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-guitar-lessons-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:34:39.807170+00:00Z",
+      "lastUpdated": "2025-11-08T23:34:39.807170+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1857,
+      "directoryCount": 1858,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:12:18.424116+00:00Z",
+  "lastUpdated": "2025-11-08T12:17:03.859560+00:00Z",
   "stats": {
-    "totalDirectories": 1071,
+    "totalDirectories": 1072,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1071.0,
-    "totalListings": 10248,
-    "aiEnhancedDirectories": 1071
+    "avgDirectoriesPerRepo": 1072.0,
+    "totalListings": 10255,
+    "aiEnhancedDirectories": 1072
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13931,12 +13931,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-preschool-programs-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:17:03.859560+00:00Z",
+      "lastUpdated": "2025-11-08T12:17:03.859560+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1071,
+      "directoryCount": 1072,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

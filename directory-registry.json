@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:04:44.235755+00:00Z",
+  "lastUpdated": "2025-11-08T16:06:10.214042+00:00Z",
   "stats": {
-    "totalDirectories": 1326,
+    "totalDirectories": 1327,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1326.0,
-    "totalListings": 12592,
-    "aiEnhancedDirectories": 1326
+    "avgDirectoriesPerRepo": 1327.0,
+    "totalListings": 12602,
+    "aiEnhancedDirectories": 1327
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17246,12 +17246,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-framing-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:06:10.214042+00:00Z",
+      "lastUpdated": "2025-11-08T16:06:10.214042+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1326,
+      "directoryCount": 1327,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

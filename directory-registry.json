@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:10:02.649000+00:00Z",
+  "lastUpdated": "2025-11-08T20:11:31.351732+00:00Z",
   "stats": {
-    "totalDirectories": 1618,
+    "totalDirectories": 1619,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1618.0,
-    "totalListings": 15352,
-    "aiEnhancedDirectories": 1618
+    "avgDirectoriesPerRepo": 1619.0,
+    "totalListings": 15362,
+    "aiEnhancedDirectories": 1619
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21042,12 +21042,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-prenatal-massage-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:11:31.351732+00:00Z",
+      "lastUpdated": "2025-11-08T20:11:31.351732+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1618,
+      "directoryCount": 1619,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:35:16.387330+00:00Z",
+  "lastUpdated": "2025-11-08T02:36:26.001130+00:00Z",
   "stats": {
-    "totalDirectories": 2320,
+    "totalDirectories": 2321,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2320.0,
-    "totalListings": 21676,
-    "aiEnhancedDirectories": 2319
+    "avgDirectoriesPerRepo": 2321.0,
+    "totalListings": 21677,
+    "aiEnhancedDirectories": 2320
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30167,12 +30167,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-general-house-cleaning-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:36:26.001130+00:00Z",
+      "lastUpdated": "2025-11-08T02:36:26.001130+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2320,
+      "directoryCount": 2321,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

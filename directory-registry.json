@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:40:48.037211+00:00Z",
+  "lastUpdated": "2025-11-08T10:43:52.601298+00:00Z",
   "stats": {
-    "totalDirectories": 962,
+    "totalDirectories": 963,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 962.0,
-    "totalListings": 9236,
-    "aiEnhancedDirectories": 962
+    "avgDirectoriesPerRepo": 963.0,
+    "totalListings": 9237,
+    "aiEnhancedDirectories": 963
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12514,12 +12514,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-ant-control-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:43:52.601298+00:00Z",
+      "lastUpdated": "2025-11-08T10:43:52.601298+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 962,
+      "directoryCount": 963,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

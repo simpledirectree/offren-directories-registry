@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:32:14.316566+00:00Z",
+  "lastUpdated": "2025-11-08T23:33:19.158895+00:00Z",
   "stats": {
-    "totalDirectories": 1855,
+    "totalDirectories": 1856,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1855.0,
-    "totalListings": 17565,
-    "aiEnhancedDirectories": 1855
+    "avgDirectoriesPerRepo": 1856.0,
+    "totalListings": 17575,
+    "aiEnhancedDirectories": 1856
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24123,12 +24123,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-bridal-beauty-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:33:19.158895+00:00Z",
+      "lastUpdated": "2025-11-08T23:33:19.158895+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1855,
+      "directoryCount": 1856,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

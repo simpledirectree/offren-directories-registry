@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:30:12.087341+00:00Z",
+  "lastUpdated": "2025-11-08T16:31:21.833398+00:00Z",
   "stats": {
-    "totalDirectories": 1353,
+    "totalDirectories": 1354,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1353.0,
-    "totalListings": 12862,
-    "aiEnhancedDirectories": 1353
+    "avgDirectoriesPerRepo": 1354.0,
+    "totalListings": 12867,
+    "aiEnhancedDirectories": 1354
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17597,12 +17597,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-plumbing-fixtures-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:31:21.833398+00:00Z",
+      "lastUpdated": "2025-11-08T16:31:21.833398+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1353,
+      "directoryCount": 1354,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

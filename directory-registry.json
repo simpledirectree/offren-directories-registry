@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:35:15.975418+00:00Z",
+  "lastUpdated": "2025-11-08T06:35:31.298682+00:00Z",
   "stats": {
-    "totalDirectories": 541,
+    "totalDirectories": 542,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 541.0,
-    "totalListings": 5275,
-    "aiEnhancedDirectories": 541
+    "avgDirectoriesPerRepo": 542.0,
+    "totalListings": 5285,
+    "aiEnhancedDirectories": 542
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7041,12 +7041,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-media-relations-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:35:31.298682+00:00Z",
+      "lastUpdated": "2025-11-08T06:35:31.298682+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 541,
+      "directoryCount": 542,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

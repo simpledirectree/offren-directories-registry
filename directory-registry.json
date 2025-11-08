@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:27:39.945197+00:00Z",
+  "lastUpdated": "2025-11-08T00:28:21.290599+00:00Z",
   "stats": {
-    "totalDirectories": 2179,
+    "totalDirectories": 2180,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2179.0,
-    "totalListings": 20388,
-    "aiEnhancedDirectories": 2178
+    "avgDirectoriesPerRepo": 2180.0,
+    "totalListings": 20398,
+    "aiEnhancedDirectories": 2179
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28334,12 +28334,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-mammography-services-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:28:21.290599+00:00Z",
+      "lastUpdated": "2025-11-08T00:28:21.290599+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2179,
+      "directoryCount": 2180,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

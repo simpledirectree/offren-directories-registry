@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:08:43.670056+00:00Z",
+  "lastUpdated": "2025-11-08T09:08:57.770545+00:00Z",
   "stats": {
-    "totalDirectories": 860,
+    "totalDirectories": 861,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 860.0,
-    "totalListings": 8304,
-    "aiEnhancedDirectories": 860
+    "avgDirectoriesPerRepo": 861.0,
+    "totalListings": 8314,
+    "aiEnhancedDirectories": 861
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11188,12 +11188,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-regulatory-compliance-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:08:57.770545+00:00Z",
+      "lastUpdated": "2025-11-08T09:08:57.770545+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 860,
+      "directoryCount": 861,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

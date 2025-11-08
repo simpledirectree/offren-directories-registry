@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:01:50.723847+00:00Z",
+  "lastUpdated": "2025-11-08T05:02:09.711618+00:00Z",
   "stats": {
-    "totalDirectories": 206,
+    "totalDirectories": 207,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 206.0,
-    "totalListings": 2020,
-    "aiEnhancedDirectories": 206
+    "avgDirectoriesPerRepo": 207.0,
+    "totalListings": 2030,
+    "aiEnhancedDirectories": 207
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2686,12 +2686,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-solo-musicians-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:02:09.711618+00:00Z",
+      "lastUpdated": "2025-11-08T05:02:09.711618+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 206,
+      "directoryCount": 207,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

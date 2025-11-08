@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:43:32.664047+00:00Z",
+  "lastUpdated": "2025-11-08T22:44:20.882235+00:00Z",
   "stats": {
-    "totalDirectories": 1800,
+    "totalDirectories": 1801,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1800.0,
-    "totalListings": 17042,
-    "aiEnhancedDirectories": 1800
+    "avgDirectoriesPerRepo": 1801.0,
+    "totalListings": 17052,
+    "aiEnhancedDirectories": 1801
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23408,12 +23408,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-virtual-assistant-services-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:44:20.882235+00:00Z",
+      "lastUpdated": "2025-11-08T22:44:20.882235+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1800,
+      "directoryCount": 1801,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

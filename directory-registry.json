@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:31:55.837166+00:00Z",
+  "lastUpdated": "2025-11-08T19:32:10.834419+00:00Z",
   "stats": {
-    "totalDirectories": 1567,
+    "totalDirectories": 1568,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1567.0,
-    "totalListings": 14893,
-    "aiEnhancedDirectories": 1567
+    "avgDirectoriesPerRepo": 1568.0,
+    "totalListings": 14903,
+    "aiEnhancedDirectories": 1568
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20379,12 +20379,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-construction-labor-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:32:10.834419+00:00Z",
+      "lastUpdated": "2025-11-08T19:32:10.834419+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1567,
+      "directoryCount": 1568,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

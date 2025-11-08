@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:11:46.816604+00:00Z",
+  "lastUpdated": "2025-11-08T06:12:06.963275+00:00Z",
   "stats": {
-    "totalDirectories": 457,
+    "totalDirectories": 458,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 457.0,
-    "totalListings": 4440,
-    "aiEnhancedDirectories": 457
+    "avgDirectoriesPerRepo": 458.0,
+    "totalListings": 4450,
+    "aiEnhancedDirectories": 458
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5949,12 +5949,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-permit-assistance-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:12:06.963275+00:00Z",
+      "lastUpdated": "2025-11-08T06:12:06.963275+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 457,
+      "directoryCount": 458,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

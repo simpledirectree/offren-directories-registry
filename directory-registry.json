@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:33:26.410056+00:00Z",
+  "lastUpdated": "2025-11-08T16:35:43.061661+00:00Z",
   "stats": {
-    "totalDirectories": 1357,
+    "totalDirectories": 1358,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1357.0,
-    "totalListings": 12888,
-    "aiEnhancedDirectories": 1357
+    "avgDirectoriesPerRepo": 1358.0,
+    "totalListings": 12898,
+    "aiEnhancedDirectories": 1358
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17649,12 +17649,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-catering-companies-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:35:43.061661+00:00Z",
+      "lastUpdated": "2025-11-08T16:35:43.061661+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1357,
+      "directoryCount": 1358,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

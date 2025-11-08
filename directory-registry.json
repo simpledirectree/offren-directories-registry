@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:36:41.127697+00:00Z",
+  "lastUpdated": "2025-11-08T02:38:43.889484+00:00Z",
   "stats": {
-    "totalDirectories": 2322,
+    "totalDirectories": 2323,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2322.0,
-    "totalListings": 21685,
-    "aiEnhancedDirectories": 2321
+    "avgDirectoriesPerRepo": 2323.0,
+    "totalListings": 21690,
+    "aiEnhancedDirectories": 2322
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30193,12 +30193,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-marriage-and-family-therapy-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:38:43.889484+00:00Z",
+      "lastUpdated": "2025-11-08T02:38:43.889484+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2322,
+      "directoryCount": 2323,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

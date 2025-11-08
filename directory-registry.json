@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:15:32.766594+00:00Z",
+  "lastUpdated": "2025-11-08T02:15:48.205011+00:00Z",
   "stats": {
-    "totalDirectories": 2305,
+    "totalDirectories": 2306,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2305.0,
-    "totalListings": 21547,
-    "aiEnhancedDirectories": 2304
+    "avgDirectoriesPerRepo": 2306.0,
+    "totalListings": 21557,
+    "aiEnhancedDirectories": 2305
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29972,12 +29972,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-wedding-vendors-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:15:48.205011+00:00Z",
+      "lastUpdated": "2025-11-08T02:15:48.205011+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2305,
+      "directoryCount": 2306,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

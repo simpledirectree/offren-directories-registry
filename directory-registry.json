@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:15:05.340426+00:00Z",
+  "lastUpdated": "2025-11-08T04:15:20.206889+00:00Z",
   "stats": {
-    "totalDirectories": 36,
+    "totalDirectories": 37,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 36.0,
-    "totalListings": 357,
-    "aiEnhancedDirectories": 36
+    "avgDirectoriesPerRepo": 37.0,
+    "totalListings": 366,
+    "aiEnhancedDirectories": 37
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -476,12 +476,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-flower-bed-maintenance-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:15:20.206889+00:00Z",
+      "lastUpdated": "2025-11-08T04:15:20.206889+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 36,
+      "directoryCount": 37,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

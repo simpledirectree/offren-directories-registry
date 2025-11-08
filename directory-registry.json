@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:26:12.383567+00:00Z",
+  "lastUpdated": "2025-11-08T06:26:29.804720+00:00Z",
   "stats": {
-    "totalDirectories": 508,
+    "totalDirectories": 509,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 508.0,
-    "totalListings": 4945,
-    "aiEnhancedDirectories": 508
+    "avgDirectoriesPerRepo": 509.0,
+    "totalListings": 4955,
+    "aiEnhancedDirectories": 509
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6612,12 +6612,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-vendor-sourcing-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:26:29.804720+00:00Z",
+      "lastUpdated": "2025-11-08T06:26:29.804720+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 508,
+      "directoryCount": 509,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

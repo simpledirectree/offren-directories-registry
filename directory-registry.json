@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:21:52.855465+00:00Z",
+  "lastUpdated": "2025-11-08T05:22:10.763918+00:00Z",
   "stats": {
-    "totalDirectories": 278,
+    "totalDirectories": 279,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 278.0,
-    "totalListings": 2717,
-    "aiEnhancedDirectories": 278
+    "avgDirectoriesPerRepo": 279.0,
+    "totalListings": 2727,
+    "aiEnhancedDirectories": 279
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3622,12 +3622,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "christian-owned-anti-money-laundering-compliance-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:22:10.763918+00:00Z",
+      "lastUpdated": "2025-11-08T05:22:10.763918+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 278,
+      "directoryCount": 279,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:42:42.350171+00:00Z",
+  "lastUpdated": "2025-11-08T05:42:59.025102+00:00Z",
   "stats": {
-    "totalDirectories": 354,
+    "totalDirectories": 355,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 354.0,
-    "totalListings": 3472,
-    "aiEnhancedDirectories": 354
+    "avgDirectoriesPerRepo": 355.0,
+    "totalListings": 3482,
+    "aiEnhancedDirectories": 355
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4610,12 +4610,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-gyms-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:42:59.025102+00:00Z",
+      "lastUpdated": "2025-11-08T05:42:59.025102+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 354,
+      "directoryCount": 355,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

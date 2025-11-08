@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:05:50.568058+00:00Z",
+  "lastUpdated": "2025-11-08T06:06:05.878940+00:00Z",
   "stats": {
-    "totalDirectories": 436,
+    "totalDirectories": 437,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 436.0,
-    "totalListings": 4235,
-    "aiEnhancedDirectories": 436
+    "avgDirectoriesPerRepo": 437.0,
+    "totalListings": 4245,
+    "aiEnhancedDirectories": 437
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5676,12 +5676,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-international-moving-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:06:05.878940+00:00Z",
+      "lastUpdated": "2025-11-08T06:06:05.878940+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 436,
+      "directoryCount": 437,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

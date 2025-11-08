@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:47:59.332079+00:00Z",
+  "lastUpdated": "2025-11-08T05:48:17.780177+00:00Z",
   "stats": {
-    "totalDirectories": 372,
+    "totalDirectories": 373,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 372.0,
-    "totalListings": 3649,
-    "aiEnhancedDirectories": 372
+    "avgDirectoriesPerRepo": 373.0,
+    "totalListings": 3659,
+    "aiEnhancedDirectories": 373
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4844,12 +4844,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-react-development-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:48:17.780177+00:00Z",
+      "lastUpdated": "2025-11-08T05:48:17.780177+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 372,
+      "directoryCount": 373,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:03:45.913207+00:00Z",
+  "lastUpdated": "2025-11-08T08:03:59.679770+00:00Z",
   "stats": {
-    "totalDirectories": 786,
+    "totalDirectories": 787,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 786.0,
-    "totalListings": 7622,
-    "aiEnhancedDirectories": 786
+    "avgDirectoriesPerRepo": 787.0,
+    "totalListings": 7632,
+    "aiEnhancedDirectories": 787
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10226,12 +10226,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-specialty-event-services-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:03:59.679770+00:00Z",
+      "lastUpdated": "2025-11-08T08:03:59.679770+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 786,
+      "directoryCount": 787,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

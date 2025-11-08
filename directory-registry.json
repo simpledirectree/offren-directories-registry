@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:21:24.269038+00:00Z",
+  "lastUpdated": "2025-11-08T16:21:41.451452+00:00Z",
   "stats": {
-    "totalDirectories": 1342,
+    "totalDirectories": 1343,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1342.0,
-    "totalListings": 12752,
-    "aiEnhancedDirectories": 1342
+    "avgDirectoriesPerRepo": 1343.0,
+    "totalListings": 12762,
+    "aiEnhancedDirectories": 1343
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17454,12 +17454,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-full-stack-development-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:21:41.451452+00:00Z",
+      "lastUpdated": "2025-11-08T16:21:41.451452+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1342,
+      "directoryCount": 1343,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

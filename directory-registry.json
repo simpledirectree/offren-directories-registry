@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:39:23.237095+00:00Z",
+  "lastUpdated": "2025-11-08T09:40:27.150215+00:00Z",
   "stats": {
-    "totalDirectories": 897,
+    "totalDirectories": 898,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 897.0,
-    "totalListings": 8659,
-    "aiEnhancedDirectories": 897
+    "avgDirectoriesPerRepo": 898.0,
+    "totalListings": 8669,
+    "aiEnhancedDirectories": 898
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11669,12 +11669,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-led-therapy-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:40:27.150215+00:00Z",
+      "lastUpdated": "2025-11-08T09:40:27.150215+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 897,
+      "directoryCount": 898,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

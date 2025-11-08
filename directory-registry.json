@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:14:28.157159+00:00Z",
+  "lastUpdated": "2025-11-08T07:14:40.907302+00:00Z",
   "stats": {
-    "totalDirectories": 683,
+    "totalDirectories": 684,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 683.0,
-    "totalListings": 6639,
-    "aiEnhancedDirectories": 683
+    "avgDirectoriesPerRepo": 684.0,
+    "totalListings": 6649,
+    "aiEnhancedDirectories": 684
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8887,12 +8887,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-admissions-guidance-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:14:40.907302+00:00Z",
+      "lastUpdated": "2025-11-08T07:14:40.907302+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 683,
+      "directoryCount": 684,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

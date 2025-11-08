@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:24:56.759821+00:00Z",
+  "lastUpdated": "2025-11-08T16:27:03.557746+00:00Z",
   "stats": {
-    "totalDirectories": 1345,
+    "totalDirectories": 1346,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1345.0,
-    "totalListings": 12782,
-    "aiEnhancedDirectories": 1345
+    "avgDirectoriesPerRepo": 1346.0,
+    "totalListings": 12792,
+    "aiEnhancedDirectories": 1346
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17493,12 +17493,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-drain-cleaning-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:27:03.557746+00:00Z",
+      "lastUpdated": "2025-11-08T16:27:03.557746+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1345,
+      "directoryCount": 1346,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:26:16.482876+00:00Z",
+  "lastUpdated": "2025-11-08T05:26:34.314270+00:00Z",
   "stats": {
-    "totalDirectories": 294,
+    "totalDirectories": 295,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 294.0,
-    "totalListings": 2877,
-    "aiEnhancedDirectories": 294
+    "avgDirectoriesPerRepo": 295.0,
+    "totalListings": 2887,
+    "aiEnhancedDirectories": 295
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3830,12 +3830,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-chimney-sweeping-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:26:34.314270+00:00Z",
+      "lastUpdated": "2025-11-08T05:26:34.314270+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 294,
+      "directoryCount": 295,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

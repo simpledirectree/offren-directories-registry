@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:27:34.924583+00:00Z",
+  "lastUpdated": "2025-11-08T06:27:53.144646+00:00Z",
   "stats": {
-    "totalDirectories": 513,
+    "totalDirectories": 514,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 513.0,
-    "totalListings": 4995,
-    "aiEnhancedDirectories": 513
+    "avgDirectoriesPerRepo": 514.0,
+    "totalListings": 5005,
+    "aiEnhancedDirectories": 514
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6677,12 +6677,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-compensation-consulting-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:27:53.144646+00:00Z",
+      "lastUpdated": "2025-11-08T06:27:53.144646+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 513,
+      "directoryCount": 514,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

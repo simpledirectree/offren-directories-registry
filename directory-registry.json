@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:57:28.053453+00:00Z",
+  "lastUpdated": "2025-11-08T22:58:09.340934+00:00Z",
   "stats": {
-    "totalDirectories": 1813,
+    "totalDirectories": 1814,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1813.0,
-    "totalListings": 17172,
-    "aiEnhancedDirectories": 1813
+    "avgDirectoriesPerRepo": 1814.0,
+    "totalListings": 17182,
+    "aiEnhancedDirectories": 1814
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23577,12 +23577,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-pet-cremation-services-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:58:09.340934+00:00Z",
+      "lastUpdated": "2025-11-08T22:58:09.340934+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1813,
+      "directoryCount": 1814,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

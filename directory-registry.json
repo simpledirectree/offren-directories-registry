@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:56:32.079729+00:00Z",
+  "lastUpdated": "2025-11-08T22:56:46.693269+00:00Z",
   "stats": {
-    "totalDirectories": 1811,
+    "totalDirectories": 1812,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1811.0,
-    "totalListings": 17152,
-    "aiEnhancedDirectories": 1811
+    "avgDirectoriesPerRepo": 1812.0,
+    "totalListings": 17162,
+    "aiEnhancedDirectories": 1812
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23551,12 +23551,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-gdpr-compliance-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:56:46.693269+00:00Z",
+      "lastUpdated": "2025-11-08T22:56:46.693269+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1811,
+      "directoryCount": 1812,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

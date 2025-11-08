@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:48:51.275605+00:00Z",
+  "lastUpdated": "2025-11-08T01:49:34.528275+00:00Z",
   "stats": {
-    "totalDirectories": 2275,
+    "totalDirectories": 2276,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2275.0,
-    "totalListings": 21261,
-    "aiEnhancedDirectories": 2274
+    "avgDirectoriesPerRepo": 2276.0,
+    "totalListings": 21271,
+    "aiEnhancedDirectories": 2275
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29582,12 +29582,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-load-balancing-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:49:34.528275+00:00Z",
+      "lastUpdated": "2025-11-08T01:49:34.528275+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2275,
+      "directoryCount": 2276,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

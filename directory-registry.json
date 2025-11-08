@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:23:54.245764+00:00Z",
+  "lastUpdated": "2025-11-08T04:24:07.477121+00:00Z",
   "stats": {
-    "totalDirectories": 68,
+    "totalDirectories": 69,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 68.0,
-    "totalListings": 667,
-    "aiEnhancedDirectories": 68
+    "avgDirectoriesPerRepo": 69.0,
+    "totalListings": 677,
+    "aiEnhancedDirectories": 69
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -892,12 +892,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-engine-rebuilding-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:24:07.477121+00:00Z",
+      "lastUpdated": "2025-11-08T04:24:07.477121+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 68,
+      "directoryCount": 69,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

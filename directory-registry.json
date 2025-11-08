@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:56:04.807333+00:00Z",
+  "lastUpdated": "2025-11-08T18:56:46.379046+00:00Z",
   "stats": {
-    "totalDirectories": 1529,
+    "totalDirectories": 1530,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1529.0,
-    "totalListings": 14520,
-    "aiEnhancedDirectories": 1529
+    "avgDirectoriesPerRepo": 1530.0,
+    "totalListings": 14530,
+    "aiEnhancedDirectories": 1530
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19885,12 +19885,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-paint-protection-film-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:56:46.379046+00:00Z",
+      "lastUpdated": "2025-11-08T18:56:46.379046+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1529,
+      "directoryCount": 1530,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

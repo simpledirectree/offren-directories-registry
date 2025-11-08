@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:34:27.479643+00:00Z",
+  "lastUpdated": "2025-11-08T06:34:42.449688+00:00Z",
   "stats": {
-    "totalDirectories": 538,
+    "totalDirectories": 539,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 538.0,
-    "totalListings": 5245,
-    "aiEnhancedDirectories": 538
+    "avgDirectoriesPerRepo": 539.0,
+    "totalListings": 5255,
+    "aiEnhancedDirectories": 539
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7002,12 +7002,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-sod-installation-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:34:42.449688+00:00Z",
+      "lastUpdated": "2025-11-08T06:34:42.449688+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 538,
+      "directoryCount": 539,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

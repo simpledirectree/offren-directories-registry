@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:31:43.807548+00:00Z",
+  "lastUpdated": "2025-11-08T00:32:23.732102+00:00Z",
   "stats": {
-    "totalDirectories": 2186,
+    "totalDirectories": 2187,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2186.0,
-    "totalListings": 20458,
-    "aiEnhancedDirectories": 2185
+    "avgDirectoriesPerRepo": 2187.0,
+    "totalListings": 20465,
+    "aiEnhancedDirectories": 2186
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28425,12 +28425,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-virtual-assistants-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:32:23.732102+00:00Z",
+      "lastUpdated": "2025-11-08T00:32:23.732102+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2186,
+      "directoryCount": 2187,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

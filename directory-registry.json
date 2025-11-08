@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:49:37.220895+00:00Z",
+  "lastUpdated": "2025-11-08T20:49:51.113756+00:00Z",
   "stats": {
-    "totalDirectories": 1662,
+    "totalDirectories": 1663,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1662.0,
-    "totalListings": 15766,
-    "aiEnhancedDirectories": 1662
+    "avgDirectoriesPerRepo": 1663.0,
+    "totalListings": 15772,
+    "aiEnhancedDirectories": 1663
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21614,12 +21614,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-aeration-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:49:51.113756+00:00Z",
+      "lastUpdated": "2025-11-08T20:49:51.113756+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1662,
+      "directoryCount": 1663,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:02:41.172332+00:00Z",
+  "lastUpdated": "2025-11-08T04:02:59.213003+00:00Z",
   "stats": {
-    "totalDirectories": 2464,
+    "totalDirectories": 2465,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2464.0,
-    "totalListings": 23017,
-    "aiEnhancedDirectories": 2463
+    "avgDirectoriesPerRepo": 2465.0,
+    "totalListings": 23027,
+    "aiEnhancedDirectories": 2464
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -32039,12 +32039,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-financial-dashboards-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:02:59.213003+00:00Z",
+      "lastUpdated": "2025-11-08T04:02:59.213003+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2464,
+      "directoryCount": 2465,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

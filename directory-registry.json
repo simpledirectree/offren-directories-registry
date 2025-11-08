@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:15:06.213654+00:00Z",
+  "lastUpdated": "2025-11-08T13:15:21.415404+00:00Z",
   "stats": {
-    "totalDirectories": 1149,
+    "totalDirectories": 1150,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1149.0,
-    "totalListings": 10960,
-    "aiEnhancedDirectories": 1149
+    "avgDirectoriesPerRepo": 1150.0,
+    "totalListings": 10970,
+    "aiEnhancedDirectories": 1150
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14945,12 +14945,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-contingency-recruiting-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:15:21.415404+00:00Z",
+      "lastUpdated": "2025-11-08T13:15:21.415404+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1149,
+      "directoryCount": 1150,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

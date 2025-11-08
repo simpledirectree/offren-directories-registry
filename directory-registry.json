@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:35:19.908898+00:00Z",
+  "lastUpdated": "2025-11-08T08:36:24.323790+00:00Z",
   "stats": {
-    "totalDirectories": 815,
+    "totalDirectories": 816,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 815.0,
-    "totalListings": 7889,
-    "aiEnhancedDirectories": 815
+    "avgDirectoriesPerRepo": 816.0,
+    "totalListings": 7899,
+    "aiEnhancedDirectories": 816
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10603,12 +10603,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-life-coaching-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:36:24.323790+00:00Z",
+      "lastUpdated": "2025-11-08T08:36:24.323790+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 815,
+      "directoryCount": 816,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

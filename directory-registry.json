@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:06:58.351903+00:00Z",
+  "lastUpdated": "2025-11-08T09:07:13.085287+00:00Z",
   "stats": {
-    "totalDirectories": 856,
+    "totalDirectories": 857,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 856.0,
-    "totalListings": 8278,
-    "aiEnhancedDirectories": 856
+    "avgDirectoriesPerRepo": 857.0,
+    "totalListings": 8288,
+    "aiEnhancedDirectories": 857
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11136,12 +11136,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-cognitive-behavioral-therapy-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:07:13.085287+00:00Z",
+      "lastUpdated": "2025-11-08T09:07:13.085287+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 856,
+      "directoryCount": 857,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

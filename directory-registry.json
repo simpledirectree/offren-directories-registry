@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:24:22.500721+00:00Z",
+  "lastUpdated": "2025-11-08T15:25:32.541711+00:00Z",
   "stats": {
-    "totalDirectories": 1284,
+    "totalDirectories": 1285,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1284.0,
-    "totalListings": 12203,
-    "aiEnhancedDirectories": 1284
+    "avgDirectoriesPerRepo": 1285.0,
+    "totalListings": 12213,
+    "aiEnhancedDirectories": 1285
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16700,12 +16700,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-auto-glass-repair-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:25:32.541711+00:00Z",
+      "lastUpdated": "2025-11-08T15:25:32.541711+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1284,
+      "directoryCount": 1285,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

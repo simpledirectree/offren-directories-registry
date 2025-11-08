@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:25:27.760439+00:00Z",
+  "lastUpdated": "2025-11-08T05:25:45.486159+00:00Z",
   "stats": {
-    "totalDirectories": 291,
+    "totalDirectories": 292,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 291.0,
-    "totalListings": 2847,
-    "aiEnhancedDirectories": 291
+    "avgDirectoriesPerRepo": 292.0,
+    "totalListings": 2857,
+    "aiEnhancedDirectories": 292
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3791,12 +3791,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-muay-thai-classes-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:25:45.486159+00:00Z",
+      "lastUpdated": "2025-11-08T05:25:45.486159+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 291,
+      "directoryCount": 292,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

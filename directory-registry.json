@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:57:25.786608+00:00Z",
+  "lastUpdated": "2025-11-08T21:58:05.090519+00:00Z",
   "stats": {
-    "totalDirectories": 1753,
+    "totalDirectories": 1754,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1753.0,
-    "totalListings": 16595,
-    "aiEnhancedDirectories": 1753
+    "avgDirectoriesPerRepo": 1754.0,
+    "totalListings": 16603,
+    "aiEnhancedDirectories": 1754
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22797,12 +22797,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-dialectical-behavior-therapy-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:58:05.090519+00:00Z",
+      "lastUpdated": "2025-11-08T21:58:05.090519+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1753,
+      "directoryCount": 1754,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

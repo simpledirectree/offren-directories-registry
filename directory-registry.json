@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:51:19.206877+00:00Z",
+  "lastUpdated": "2025-11-08T05:51:31.618209+00:00Z",
   "stats": {
-    "totalDirectories": 384,
+    "totalDirectories": 385,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 384.0,
-    "totalListings": 3762,
-    "aiEnhancedDirectories": 384
+    "avgDirectoriesPerRepo": 385.0,
+    "totalListings": 3767,
+    "aiEnhancedDirectories": 385
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5000,12 +5000,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-logo-design-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:51:31.618209+00:00Z",
+      "lastUpdated": "2025-11-08T05:51:31.618209+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 384,
+      "directoryCount": 385,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

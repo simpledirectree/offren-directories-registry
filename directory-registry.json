@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:42:56.724553+00:00Z",
+  "lastUpdated": "2025-11-08T06:43:12.453876+00:00Z",
   "stats": {
-    "totalDirectories": 568,
+    "totalDirectories": 569,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 568.0,
-    "totalListings": 5536,
-    "aiEnhancedDirectories": 568
+    "avgDirectoriesPerRepo": 569.0,
+    "totalListings": 5546,
+    "aiEnhancedDirectories": 569
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7392,12 +7392,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-plastic-surgery-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:43:12.453876+00:00Z",
+      "lastUpdated": "2025-11-08T06:43:12.453876+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 568,
+      "directoryCount": 569,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

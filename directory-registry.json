@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:10:02.186131+00:00Z",
+  "lastUpdated": "2025-11-08T13:10:17.515716+00:00Z",
   "stats": {
-    "totalDirectories": 1144,
+    "totalDirectories": 1145,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1144.0,
-    "totalListings": 10913,
-    "aiEnhancedDirectories": 1144
+    "avgDirectoriesPerRepo": 1145.0,
+    "totalListings": 10923,
+    "aiEnhancedDirectories": 1145
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14880,12 +14880,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-bumper-repair-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:10:17.515716+00:00Z",
+      "lastUpdated": "2025-11-08T13:10:17.515716+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1144,
+      "directoryCount": 1145,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

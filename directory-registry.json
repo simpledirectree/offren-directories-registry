@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:28:21.290599+00:00Z",
+  "lastUpdated": "2025-11-08T00:28:49.624903+00:00Z",
   "stats": {
-    "totalDirectories": 2180,
+    "totalDirectories": 2181,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2180.0,
-    "totalListings": 20398,
-    "aiEnhancedDirectories": 2179
+    "avgDirectoriesPerRepo": 2181.0,
+    "totalListings": 20408,
+    "aiEnhancedDirectories": 2180
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28347,12 +28347,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-furniture-disassembly-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:28:49.624903+00:00Z",
+      "lastUpdated": "2025-11-08T00:28:49.624903+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2180,
+      "directoryCount": 2181,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

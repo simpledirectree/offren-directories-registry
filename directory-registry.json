@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:56:42.026883+00:00Z",
+  "lastUpdated": "2025-11-08T11:59:30.026119+00:00Z",
   "stats": {
-    "totalDirectories": 1054,
+    "totalDirectories": 1055,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1054.0,
-    "totalListings": 10093,
-    "aiEnhancedDirectories": 1054
+    "avgDirectoriesPerRepo": 1055.0,
+    "totalListings": 10103,
+    "aiEnhancedDirectories": 1055
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13710,12 +13710,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-email-security-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:59:30.026119+00:00Z",
+      "lastUpdated": "2025-11-08T11:59:30.026119+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1054,
+      "directoryCount": 1055,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

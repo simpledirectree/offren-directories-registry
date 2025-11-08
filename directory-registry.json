@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:37:41.144634+00:00Z",
+  "lastUpdated": "2025-11-08T04:37:59.257937+00:00Z",
   "stats": {
-    "totalDirectories": 117,
+    "totalDirectories": 118,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 117.0,
-    "totalListings": 1152,
-    "aiEnhancedDirectories": 117
+    "avgDirectoriesPerRepo": 118.0,
+    "totalListings": 1162,
+    "aiEnhancedDirectories": 118
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1529,12 +1529,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-managed-security-services-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:37:59.257937+00:00Z",
+      "lastUpdated": "2025-11-08T04:37:59.257937+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 117,
+      "directoryCount": 118,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

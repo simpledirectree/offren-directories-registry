@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:34:15.721099+00:00Z",
+  "lastUpdated": "2025-11-08T04:34:33.949954+00:00Z",
   "stats": {
-    "totalDirectories": 104,
+    "totalDirectories": 105,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 104.0,
-    "totalListings": 1027,
-    "aiEnhancedDirectories": 104
+    "avgDirectoriesPerRepo": 105.0,
+    "totalListings": 1037,
+    "aiEnhancedDirectories": 105
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1360,12 +1360,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-dent-repair-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:34:33.949954+00:00Z",
+      "lastUpdated": "2025-11-08T04:34:33.949954+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 104,
+      "directoryCount": 105,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

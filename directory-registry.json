@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:30:47.665473+00:00Z",
+  "lastUpdated": "2025-11-08T04:31:05.796154+00:00Z",
   "stats": {
-    "totalDirectories": 92,
+    "totalDirectories": 93,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 92.0,
-    "totalListings": 907,
-    "aiEnhancedDirectories": 92
+    "avgDirectoriesPerRepo": 93.0,
+    "totalListings": 917,
+    "aiEnhancedDirectories": 93
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1204,12 +1204,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-angular-development-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:31:05.796154+00:00Z",
+      "lastUpdated": "2025-11-08T04:31:05.796154+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 92,
+      "directoryCount": 93,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

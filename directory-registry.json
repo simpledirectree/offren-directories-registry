@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:11:25.263615+00:00Z",
+  "lastUpdated": "2025-11-08T12:12:04.545328+00:00Z",
   "stats": {
-    "totalDirectories": 1069,
+    "totalDirectories": 1070,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1069.0,
-    "totalListings": 10228,
-    "aiEnhancedDirectories": 1069
+    "avgDirectoriesPerRepo": 1070.0,
+    "totalListings": 10238,
+    "aiEnhancedDirectories": 1070
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13905,12 +13905,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-workplace-policy-development-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:12:04.545328+00:00Z",
+      "lastUpdated": "2025-11-08T12:12:04.545328+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1069,
+      "directoryCount": 1070,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

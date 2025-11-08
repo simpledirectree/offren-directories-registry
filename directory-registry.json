@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:10:17.515716+00:00Z",
+  "lastUpdated": "2025-11-08T13:11:25.329521+00:00Z",
   "stats": {
-    "totalDirectories": 1145,
+    "totalDirectories": 1146,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1145.0,
-    "totalListings": 10923,
-    "aiEnhancedDirectories": 1145
+    "avgDirectoriesPerRepo": 1146.0,
+    "totalListings": 10933,
+    "aiEnhancedDirectories": 1146
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14893,12 +14893,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-rheumatologists-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:11:25.329521+00:00Z",
+      "lastUpdated": "2025-11-08T13:11:25.329521+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1145,
+      "directoryCount": 1146,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

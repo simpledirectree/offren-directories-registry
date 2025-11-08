@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:00:26.192779+00:00Z",
+  "lastUpdated": "2025-11-08T10:01:29.247200+00:00Z",
   "stats": {
-    "totalDirectories": 922,
+    "totalDirectories": 923,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 922.0,
-    "totalListings": 8882,
-    "aiEnhancedDirectories": 922
+    "avgDirectoriesPerRepo": 923.0,
+    "totalListings": 8892,
+    "aiEnhancedDirectories": 923
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11994,12 +11994,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-writing-workshops-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:01:29.247200+00:00Z",
+      "lastUpdated": "2025-11-08T10:01:29.247200+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 922,
+      "directoryCount": 923,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

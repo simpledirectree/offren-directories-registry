@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:35:10.022471+00:00Z",
+  "lastUpdated": "2025-11-08T20:36:28.660301+00:00Z",
   "stats": {
-    "totalDirectories": 1647,
+    "totalDirectories": 1648,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1647.0,
-    "totalListings": 15627,
-    "aiEnhancedDirectories": 1647
+    "avgDirectoriesPerRepo": 1648.0,
+    "totalListings": 15637,
+    "aiEnhancedDirectories": 1648
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21419,12 +21419,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-cost-analysis-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:36:28.660301+00:00Z",
+      "lastUpdated": "2025-11-08T20:36:28.660301+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1647,
+      "directoryCount": 1648,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

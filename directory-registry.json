@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:18:18.498910+00:00Z",
+  "lastUpdated": "2025-11-08T07:18:34.860198+00:00Z",
   "stats": {
-    "totalDirectories": 697,
+    "totalDirectories": 698,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 697.0,
-    "totalListings": 6776,
-    "aiEnhancedDirectories": 697
+    "avgDirectoriesPerRepo": 698.0,
+    "totalListings": 6786,
+    "aiEnhancedDirectories": 698
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9069,12 +9069,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-cost-accounting-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:18:34.860198+00:00Z",
+      "lastUpdated": "2025-11-08T07:18:34.860198+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 697,
+      "directoryCount": 698,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

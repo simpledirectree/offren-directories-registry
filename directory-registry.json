@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:41:06.757969+00:00Z",
+  "lastUpdated": "2025-11-08T05:41:22.597694+00:00Z",
   "stats": {
-    "totalDirectories": 348,
+    "totalDirectories": 349,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 348.0,
-    "totalListings": 3417,
-    "aiEnhancedDirectories": 348
+    "avgDirectoriesPerRepo": 349.0,
+    "totalListings": 3427,
+    "aiEnhancedDirectories": 349
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4532,12 +4532,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-engine-rebuilding-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:41:22.597694+00:00Z",
+      "lastUpdated": "2025-11-08T05:41:22.597694+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 348,
+      "directoryCount": 349,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

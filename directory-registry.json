@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:25:32.541711+00:00Z",
+  "lastUpdated": "2025-11-08T15:26:38.444129+00:00Z",
   "stats": {
-    "totalDirectories": 1285,
+    "totalDirectories": 1286,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1285.0,
-    "totalListings": 12213,
-    "aiEnhancedDirectories": 1285
+    "avgDirectoriesPerRepo": 1286.0,
+    "totalListings": 12223,
+    "aiEnhancedDirectories": 1286
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16713,12 +16713,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-furnaces-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:26:38.444129+00:00Z",
+      "lastUpdated": "2025-11-08T15:26:38.444129+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1285,
+      "directoryCount": 1286,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

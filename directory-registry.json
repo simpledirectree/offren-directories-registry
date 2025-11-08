@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:56:47.848952+00:00Z",
+  "lastUpdated": "2025-11-08T06:57:02.281975+00:00Z",
   "stats": {
-    "totalDirectories": 619,
+    "totalDirectories": 620,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 619.0,
-    "totalListings": 6023,
-    "aiEnhancedDirectories": 619
+    "avgDirectoriesPerRepo": 620.0,
+    "totalListings": 6033,
+    "aiEnhancedDirectories": 620
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8055,12 +8055,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-furniture-disassembly-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:57:02.281975+00:00Z",
+      "lastUpdated": "2025-11-08T06:57:02.281975+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 619,
+      "directoryCount": 620,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

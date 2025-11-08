@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:45:21.843804+00:00Z",
+  "lastUpdated": "2025-11-08T06:45:33.303725+00:00Z",
   "stats": {
-    "totalDirectories": 577,
+    "totalDirectories": 578,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 577.0,
-    "totalListings": 5626,
-    "aiEnhancedDirectories": 577
+    "avgDirectoriesPerRepo": 578.0,
+    "totalListings": 5627,
+    "aiEnhancedDirectories": 578
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7509,12 +7509,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-title-services-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:45:33.303725+00:00Z",
+      "lastUpdated": "2025-11-08T06:45:33.303725+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 577,
+      "directoryCount": 578,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

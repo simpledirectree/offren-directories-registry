@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:54:47.893638+00:00Z",
+  "lastUpdated": "2025-11-08T17:55:03.800339+00:00Z",
   "stats": {
-    "totalDirectories": 1455,
+    "totalDirectories": 1456,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1455.0,
-    "totalListings": 13824,
-    "aiEnhancedDirectories": 1455
+    "avgDirectoriesPerRepo": 1456.0,
+    "totalListings": 13834,
+    "aiEnhancedDirectories": 1456
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18923,12 +18923,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-24-hour-fitness-centers-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:55:03.800339+00:00Z",
+      "lastUpdated": "2025-11-08T17:55:03.800339+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1455,
+      "directoryCount": 1456,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:33:21.291700+00:00Z",
+  "lastUpdated": "2025-11-08T19:33:34.110768+00:00Z",
   "stats": {
-    "totalDirectories": 1571,
+    "totalDirectories": 1572,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1571.0,
-    "totalListings": 14928,
-    "aiEnhancedDirectories": 1571
+    "avgDirectoriesPerRepo": 1572.0,
+    "totalListings": 14930,
+    "aiEnhancedDirectories": 1572
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20431,12 +20431,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-market-analysis-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:33:34.110768+00:00Z",
+      "lastUpdated": "2025-11-08T19:33:34.110768+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1571,
+      "directoryCount": 1572,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

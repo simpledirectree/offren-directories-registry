@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:36:27.498403+00:00Z",
+  "lastUpdated": "2025-11-08T09:37:57.641483+00:00Z",
   "stats": {
-    "totalDirectories": 892,
+    "totalDirectories": 893,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 892.0,
-    "totalListings": 8609,
-    "aiEnhancedDirectories": 892
+    "avgDirectoriesPerRepo": 893.0,
+    "totalListings": 8619,
+    "aiEnhancedDirectories": 893
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11604,12 +11604,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-irrigation-repair-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:37:57.641483+00:00Z",
+      "lastUpdated": "2025-11-08T09:37:57.641483+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 892,
+      "directoryCount": 893,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

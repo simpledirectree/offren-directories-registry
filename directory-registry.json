@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:28:06.658586+00:00Z",
+  "lastUpdated": "2025-11-08T04:28:22.781662+00:00Z",
   "stats": {
-    "totalDirectories": 83,
+    "totalDirectories": 84,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 83.0,
-    "totalListings": 817,
-    "aiEnhancedDirectories": 83
+    "avgDirectoriesPerRepo": 84.0,
+    "totalListings": 827,
+    "aiEnhancedDirectories": 84
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1087,12 +1087,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-farm-equipment-rental-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:28:22.781662+00:00Z",
+      "lastUpdated": "2025-11-08T04:28:22.781662+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 83,
+      "directoryCount": 84,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

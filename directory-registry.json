@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:01:39.003996+00:00Z",
+  "lastUpdated": "2025-11-08T12:02:18.275513+00:00Z",
   "stats": {
-    "totalDirectories": 1057,
+    "totalDirectories": 1058,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1057.0,
-    "totalListings": 10118,
-    "aiEnhancedDirectories": 1057
+    "avgDirectoriesPerRepo": 1058.0,
+    "totalListings": 10128,
+    "aiEnhancedDirectories": 1058
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13749,12 +13749,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-vinyl-wrapping-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:02:18.275513+00:00Z",
+      "lastUpdated": "2025-11-08T12:02:18.275513+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1057,
+      "directoryCount": 1058,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

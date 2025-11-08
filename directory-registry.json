@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:34:29.370203+00:00Z",
+  "lastUpdated": "2025-11-08T18:36:14.111230+00:00Z",
   "stats": {
-    "totalDirectories": 1503,
+    "totalDirectories": 1504,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1503.0,
-    "totalListings": 14279,
-    "aiEnhancedDirectories": 1503
+    "avgDirectoriesPerRepo": 1504.0,
+    "totalListings": 14289,
+    "aiEnhancedDirectories": 1504
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19547,12 +19547,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-vinyl-wrapping-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:36:14.111230+00:00Z",
+      "lastUpdated": "2025-11-08T18:36:14.111230+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1503,
+      "directoryCount": 1504,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

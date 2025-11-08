@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:55:33.812225+00:00Z",
+  "lastUpdated": "2025-11-08T06:55:51.434058+00:00Z",
   "stats": {
-    "totalDirectories": 614,
+    "totalDirectories": 615,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 614.0,
-    "totalListings": 5973,
-    "aiEnhancedDirectories": 614
+    "avgDirectoriesPerRepo": 615.0,
+    "totalListings": 5983,
+    "aiEnhancedDirectories": 615
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7990,12 +7990,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-facility-maintenance-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:55:51.434058+00:00Z",
+      "lastUpdated": "2025-11-08T06:55:51.434058+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 614,
+      "directoryCount": 615,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

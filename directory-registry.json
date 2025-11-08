@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:49:55.309262+00:00Z",
+  "lastUpdated": "2025-11-08T19:50:59.014858+00:00Z",
   "stats": {
-    "totalDirectories": 1588,
+    "totalDirectories": 1589,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1588.0,
-    "totalListings": 15085,
-    "aiEnhancedDirectories": 1588
+    "avgDirectoriesPerRepo": 1589.0,
+    "totalListings": 15095,
+    "aiEnhancedDirectories": 1589
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20652,12 +20652,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-speech-therapy-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:50:59.014858+00:00Z",
+      "lastUpdated": "2025-11-08T19:50:59.014858+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1588,
+      "directoryCount": 1589,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:20:52.151052+00:00Z",
+  "lastUpdated": "2025-11-08T21:21:05.830178+00:00Z",
   "stats": {
-    "totalDirectories": 1705,
+    "totalDirectories": 1706,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1705.0,
-    "totalListings": 16161,
-    "aiEnhancedDirectories": 1705
+    "avgDirectoriesPerRepo": 1706.0,
+    "totalListings": 16165,
+    "aiEnhancedDirectories": 1706
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22173,12 +22173,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-hair-treatments-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:21:05.830178+00:00Z",
+      "lastUpdated": "2025-11-08T21:21:05.830178+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1705,
+      "directoryCount": 1706,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

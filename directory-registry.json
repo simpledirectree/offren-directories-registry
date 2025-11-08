@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:58:33.406048+00:00Z",
+  "lastUpdated": "2025-11-08T06:58:51.547701+00:00Z",
   "stats": {
-    "totalDirectories": 626,
+    "totalDirectories": 627,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 626.0,
-    "totalListings": 6085,
-    "aiEnhancedDirectories": 626
+    "avgDirectoriesPerRepo": 627.0,
+    "totalListings": 6095,
+    "aiEnhancedDirectories": 627
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8146,12 +8146,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-storage-services-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:58:51.547701+00:00Z",
+      "lastUpdated": "2025-11-08T06:58:51.547701+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 626,
+      "directoryCount": 627,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

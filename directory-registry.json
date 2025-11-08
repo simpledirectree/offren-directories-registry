@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:40:29.164092+00:00Z",
+  "lastUpdated": "2025-11-08T08:40:44.443558+00:00Z",
   "stats": {
-    "totalDirectories": 823,
+    "totalDirectories": 824,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 823.0,
-    "totalListings": 7969,
-    "aiEnhancedDirectories": 823
+    "avgDirectoriesPerRepo": 824.0,
+    "totalListings": 7979,
+    "aiEnhancedDirectories": 824
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10707,12 +10707,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-document-formatting-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:40:44.443558+00:00Z",
+      "lastUpdated": "2025-11-08T08:40:44.443558+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 823,
+      "directoryCount": 824,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

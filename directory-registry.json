@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:16:05.328038+00:00Z",
+  "lastUpdated": "2025-11-08T04:16:24.544854+00:00Z",
   "stats": {
-    "totalDirectories": 40,
+    "totalDirectories": 41,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 40.0,
-    "totalListings": 396,
-    "aiEnhancedDirectories": 40
+    "avgDirectoriesPerRepo": 41.0,
+    "totalListings": 406,
+    "aiEnhancedDirectories": 41
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -528,12 +528,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-pos-system-installation-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:16:24.544854+00:00Z",
+      "lastUpdated": "2025-11-08T04:16:24.544854+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 40,
+      "directoryCount": 41,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

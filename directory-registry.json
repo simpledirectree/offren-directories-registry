@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:54:36.552864+00:00Z",
+  "lastUpdated": "2025-11-08T05:54:50.615470+00:00Z",
   "stats": {
-    "totalDirectories": 396,
+    "totalDirectories": 397,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 396.0,
-    "totalListings": 3869,
-    "aiEnhancedDirectories": 396
+    "avgDirectoriesPerRepo": 397.0,
+    "totalListings": 3872,
+    "aiEnhancedDirectories": 397
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5156,12 +5156,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-compliance-assessments-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:54:50.615470+00:00Z",
+      "lastUpdated": "2025-11-08T05:54:50.615470+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 396,
+      "directoryCount": 397,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:29:59.979475+00:00Z",
+  "lastUpdated": "2025-11-08T22:30:14.097980+00:00Z",
   "stats": {
-    "totalDirectories": 1784,
+    "totalDirectories": 1785,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1784.0,
-    "totalListings": 16903,
-    "aiEnhancedDirectories": 1784
+    "avgDirectoriesPerRepo": 1785.0,
+    "totalListings": 16909,
+    "aiEnhancedDirectories": 1785
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23200,12 +23200,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-starter-repair-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:30:14.097980+00:00Z",
+      "lastUpdated": "2025-11-08T22:30:14.097980+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1784,
+      "directoryCount": 1785,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:07:34.565826+00:00Z",
+  "lastUpdated": "2025-11-08T15:12:00.746846+00:00Z",
   "stats": {
-    "totalDirectories": 1274,
+    "totalDirectories": 1275,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1274.0,
-    "totalListings": 12105,
-    "aiEnhancedDirectories": 1274
+    "avgDirectoriesPerRepo": 1275.0,
+    "totalListings": 12115,
+    "aiEnhancedDirectories": 1275
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16570,12 +16570,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-farm-equipment-rental-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:12:00.746846+00:00Z",
+      "lastUpdated": "2025-11-08T15:12:00.746846+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1274,
+      "directoryCount": 1275,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

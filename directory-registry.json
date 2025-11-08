@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:14:03.973813+00:00Z",
+  "lastUpdated": "2025-11-08T23:14:19.289927+00:00Z",
   "stats": {
-    "totalDirectories": 1833,
+    "totalDirectories": 1834,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1833.0,
-    "totalListings": 17367,
-    "aiEnhancedDirectories": 1833
+    "avgDirectoriesPerRepo": 1834.0,
+    "totalListings": 17377,
+    "aiEnhancedDirectories": 1834
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23837,12 +23837,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-teletherapy-platforms-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:14:19.289927+00:00Z",
+      "lastUpdated": "2025-11-08T23:14:19.289927+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1833,
+      "directoryCount": 1834,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

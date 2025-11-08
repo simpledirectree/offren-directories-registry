@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:41:46.612820+00:00Z",
+  "lastUpdated": "2025-11-08T11:42:01.179733+00:00Z",
   "stats": {
-    "totalDirectories": 1034,
+    "totalDirectories": 1035,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1034.0,
-    "totalListings": 9911,
-    "aiEnhancedDirectories": 1034
+    "avgDirectoriesPerRepo": 1035.0,
+    "totalListings": 9921,
+    "aiEnhancedDirectories": 1035
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13450,12 +13450,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-document-formatting-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:42:01.179733+00:00Z",
+      "lastUpdated": "2025-11-08T11:42:01.179733+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1034,
+      "directoryCount": 1035,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

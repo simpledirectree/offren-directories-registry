@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:40:44.443558+00:00Z",
+  "lastUpdated": "2025-11-08T08:40:58.752232+00:00Z",
   "stats": {
-    "totalDirectories": 824,
+    "totalDirectories": 825,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 824.0,
-    "totalListings": 7979,
-    "aiEnhancedDirectories": 824
+    "avgDirectoriesPerRepo": 825.0,
+    "totalListings": 7989,
+    "aiEnhancedDirectories": 825
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10720,12 +10720,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-trademark-law-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:40:58.752232+00:00Z",
+      "lastUpdated": "2025-11-08T08:40:58.752232+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 824,
+      "directoryCount": 825,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

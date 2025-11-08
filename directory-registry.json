@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:58:09.340934+00:00Z",
+  "lastUpdated": "2025-11-08T22:59:46.739542+00:00Z",
   "stats": {
-    "totalDirectories": 1814,
+    "totalDirectories": 1815,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1814.0,
-    "totalListings": 17182,
-    "aiEnhancedDirectories": 1814
+    "avgDirectoriesPerRepo": 1815.0,
+    "totalListings": 17192,
+    "aiEnhancedDirectories": 1815
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23590,12 +23590,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-color-analysis-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:59:46.739542+00:00Z",
+      "lastUpdated": "2025-11-08T22:59:46.739542+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1814,
+      "directoryCount": 1815,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

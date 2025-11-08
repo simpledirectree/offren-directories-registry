@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:29:36.563693+00:00Z",
+  "lastUpdated": "2025-11-08T04:29:57.751588+00:00Z",
   "stats": {
-    "totalDirectories": 88,
+    "totalDirectories": 89,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 88.0,
-    "totalListings": 867,
-    "aiEnhancedDirectories": 88
+    "avgDirectoriesPerRepo": 89.0,
+    "totalListings": 877,
+    "aiEnhancedDirectories": 89
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1152,12 +1152,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-landing-pages-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:29:57.751588+00:00Z",
+      "lastUpdated": "2025-11-08T04:29:57.751588+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 88,
+      "directoryCount": 89,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

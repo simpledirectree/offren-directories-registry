@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:48:23.071235+00:00Z",
+  "lastUpdated": "2025-11-08T23:49:04.732227+00:00Z",
   "stats": {
-    "totalDirectories": 1882,
+    "totalDirectories": 1883,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1882.0,
-    "totalListings": 17800,
-    "aiEnhancedDirectories": 1882
+    "avgDirectoriesPerRepo": 1883.0,
+    "totalListings": 17810,
+    "aiEnhancedDirectories": 1883
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24474,12 +24474,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-loading-services-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:49:04.732227+00:00Z",
+      "lastUpdated": "2025-11-08T23:49:04.732227+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1882,
+      "directoryCount": 1883,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

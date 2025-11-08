@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:28:48.482521+00:00Z",
+  "lastUpdated": "2025-11-08T16:29:30.773802+00:00Z",
   "stats": {
-    "totalDirectories": 1351,
+    "totalDirectories": 1352,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1351.0,
-    "totalListings": 12842,
-    "aiEnhancedDirectories": 1351
+    "avgDirectoriesPerRepo": 1352.0,
+    "totalListings": 12852,
+    "aiEnhancedDirectories": 1352
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17571,12 +17571,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-teen-driver-education-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:29:30.773802+00:00Z",
+      "lastUpdated": "2025-11-08T16:29:30.773802+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1351,
+      "directoryCount": 1352,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

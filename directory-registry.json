@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:33:24.153795+00:00Z",
+  "lastUpdated": "2025-11-08T04:33:42.459035+00:00Z",
   "stats": {
-    "totalDirectories": 101,
+    "totalDirectories": 102,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 101.0,
-    "totalListings": 997,
-    "aiEnhancedDirectories": 101
+    "avgDirectoriesPerRepo": 102.0,
+    "totalListings": 1007,
+    "aiEnhancedDirectories": 102
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1321,12 +1321,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-etl-services-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:33:42.459035+00:00Z",
+      "lastUpdated": "2025-11-08T04:33:42.459035+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 101,
+      "directoryCount": 102,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

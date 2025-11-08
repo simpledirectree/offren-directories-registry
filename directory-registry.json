@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:16:06.542349+00:00Z",
+  "lastUpdated": "2025-11-08T15:16:20.995513+00:00Z",
   "stats": {
-    "totalDirectories": 1278,
+    "totalDirectories": 1279,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1278.0,
-    "totalListings": 12145,
-    "aiEnhancedDirectories": 1278
+    "avgDirectoriesPerRepo": 1279.0,
+    "totalListings": 12155,
+    "aiEnhancedDirectories": 1279
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16622,12 +16622,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-immersion-programs-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:16:20.995513+00:00Z",
+      "lastUpdated": "2025-11-08T15:16:20.995513+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1278,
+      "directoryCount": 1279,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

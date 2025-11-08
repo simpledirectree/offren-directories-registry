@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:20:46.818228+00:00Z",
+  "lastUpdated": "2025-11-08T07:21:01.258451+00:00Z",
   "stats": {
-    "totalDirectories": 706,
+    "totalDirectories": 707,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 706.0,
-    "totalListings": 6866,
-    "aiEnhancedDirectories": 706
+    "avgDirectoriesPerRepo": 707.0,
+    "totalListings": 6876,
+    "aiEnhancedDirectories": 707
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9186,12 +9186,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-headlight-restoration-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:21:01.258451+00:00Z",
+      "lastUpdated": "2025-11-08T07:21:01.258451+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 706,
+      "directoryCount": 707,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

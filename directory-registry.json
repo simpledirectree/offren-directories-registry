@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:51:17.813635+00:00Z",
+  "lastUpdated": "2025-11-08T16:52:27.557612+00:00Z",
   "stats": {
-    "totalDirectories": 1381,
+    "totalDirectories": 1382,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1381.0,
-    "totalListings": 13107,
-    "aiEnhancedDirectories": 1381
+    "avgDirectoriesPerRepo": 1382.0,
+    "totalListings": 13117,
+    "aiEnhancedDirectories": 1382
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17961,12 +17961,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-karate-classes-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:52:27.557612+00:00Z",
+      "lastUpdated": "2025-11-08T16:52:27.557612+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1381,
+      "directoryCount": 1382,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

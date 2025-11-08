@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:58:33.027809+00:00Z",
+  "lastUpdated": "2025-11-08T01:01:04.383012+00:00Z",
   "stats": {
-    "totalDirectories": 2214,
+    "totalDirectories": 2215,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2214.0,
-    "totalListings": 20704,
-    "aiEnhancedDirectories": 2213
+    "avgDirectoriesPerRepo": 2215.0,
+    "totalListings": 20705,
+    "aiEnhancedDirectories": 2214
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28789,12 +28789,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-breakfast-restaurants-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:01:04.383012+00:00Z",
+      "lastUpdated": "2025-11-08T01:01:04.383012+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2214,
+      "directoryCount": 2215,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

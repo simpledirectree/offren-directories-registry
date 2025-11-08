@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:37:18.768216+00:00Z",
+  "lastUpdated": "2025-11-08T12:38:23.277096+00:00Z",
   "stats": {
-    "totalDirectories": 1097,
+    "totalDirectories": 1098,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1097.0,
-    "totalListings": 10485,
-    "aiEnhancedDirectories": 1097
+    "avgDirectoriesPerRepo": 1098.0,
+    "totalListings": 10495,
+    "aiEnhancedDirectories": 1098
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14269,12 +14269,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-software-re-engineering-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:38:23.277096+00:00Z",
+      "lastUpdated": "2025-11-08T12:38:23.277096+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1097,
+      "directoryCount": 1098,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

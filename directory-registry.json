@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:44:44.035885+00:00Z",
+  "lastUpdated": "2025-11-08T02:44:59.903927+00:00Z",
   "stats": {
-    "totalDirectories": 2331,
+    "totalDirectories": 2332,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2331.0,
-    "totalListings": 21762,
-    "aiEnhancedDirectories": 2330
+    "avgDirectoriesPerRepo": 2332.0,
+    "totalListings": 21772,
+    "aiEnhancedDirectories": 2331
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30310,12 +30310,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-detox-programs-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:44:59.903927+00:00Z",
+      "lastUpdated": "2025-11-08T02:44:59.903927+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2331,
+      "directoryCount": 2332,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

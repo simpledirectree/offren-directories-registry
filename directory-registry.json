@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:02:11.032636+00:00Z",
+  "lastUpdated": "2025-11-08T20:02:51.797485+00:00Z",
   "stats": {
-    "totalDirectories": 1608,
+    "totalDirectories": 1609,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1608.0,
-    "totalListings": 15267,
-    "aiEnhancedDirectories": 1608
+    "avgDirectoriesPerRepo": 1609.0,
+    "totalListings": 15277,
+    "aiEnhancedDirectories": 1609
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20912,12 +20912,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-golf-coaching-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:02:51.797485+00:00Z",
+      "lastUpdated": "2025-11-08T20:02:51.797485+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1608,
+      "directoryCount": 1609,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

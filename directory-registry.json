@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:07:15.332854+00:00Z",
+  "lastUpdated": "2025-11-08T04:07:33.899575+00:00Z",
   "stats": {
-    "totalDirectories": 8,
+    "totalDirectories": 9,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 8.0,
-    "totalListings": 77,
-    "aiEnhancedDirectories": 8
+    "avgDirectoriesPerRepo": 9.0,
+    "totalListings": 87,
+    "aiEnhancedDirectories": 9
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -112,12 +112,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-preschool-programs-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:07:33.899575+00:00Z",
+      "lastUpdated": "2025-11-08T04:07:33.899575+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 8,
+      "directoryCount": 9,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

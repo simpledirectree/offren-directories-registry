@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:43:33.365470+00:00Z",
+  "lastUpdated": "2025-11-08T12:45:03.596653+00:00Z",
   "stats": {
-    "totalDirectories": 1107,
+    "totalDirectories": 1108,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1107.0,
-    "totalListings": 10575,
-    "aiEnhancedDirectories": 1107
+    "avgDirectoriesPerRepo": 1108.0,
+    "totalListings": 10583,
+    "aiEnhancedDirectories": 1108
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14399,12 +14399,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-full-time-nannies-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:45:03.596653+00:00Z",
+      "lastUpdated": "2025-11-08T12:45:03.596653+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1107,
+      "directoryCount": 1108,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

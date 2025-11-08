@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:16:20.995513+00:00Z",
+  "lastUpdated": "2025-11-08T15:19:06.884256+00:00Z",
   "stats": {
-    "totalDirectories": 1279,
+    "totalDirectories": 1280,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1279.0,
-    "totalListings": 12155,
-    "aiEnhancedDirectories": 1279
+    "avgDirectoriesPerRepo": 1280.0,
+    "totalListings": 12163,
+    "aiEnhancedDirectories": 1280
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16635,12 +16635,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-landscape-renovation-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:19:06.884256+00:00Z",
+      "lastUpdated": "2025-11-08T15:19:06.884256+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1279,
+      "directoryCount": 1280,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

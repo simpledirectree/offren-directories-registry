@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:21:35.139004+00:00Z",
+  "lastUpdated": "2025-11-08T10:26:42.952308+00:00Z",
   "stats": {
-    "totalDirectories": 942,
+    "totalDirectories": 943,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 942.0,
-    "totalListings": 9057,
-    "aiEnhancedDirectories": 942
+    "avgDirectoriesPerRepo": 943.0,
+    "totalListings": 9062,
+    "aiEnhancedDirectories": 943
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12254,12 +12254,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-personal-chef-services-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:26:42.952308+00:00Z",
+      "lastUpdated": "2025-11-08T10:26:42.952308+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 942,
+      "directoryCount": 943,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

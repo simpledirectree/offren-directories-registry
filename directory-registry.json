@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:12:20.316646+00:00Z",
+  "lastUpdated": "2025-11-08T05:12:33.059460+00:00Z",
   "stats": {
-    "totalDirectories": 242,
+    "totalDirectories": 243,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 242.0,
-    "totalListings": 2371,
-    "aiEnhancedDirectories": 242
+    "avgDirectoriesPerRepo": 243.0,
+    "totalListings": 2380,
+    "aiEnhancedDirectories": 243
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3154,12 +3154,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-ashtanga-yoga-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:12:33.059460+00:00Z",
+      "lastUpdated": "2025-11-08T05:12:33.059460+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 242,
+      "directoryCount": 243,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

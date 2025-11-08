@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:36:04.709637+00:00Z",
+  "lastUpdated": "2025-11-08T12:36:47.372492+00:00Z",
   "stats": {
-    "totalDirectories": 1094,
+    "totalDirectories": 1095,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1094.0,
-    "totalListings": 10455,
-    "aiEnhancedDirectories": 1094
+    "avgDirectoriesPerRepo": 1095.0,
+    "totalListings": 10465,
+    "aiEnhancedDirectories": 1095
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14230,12 +14230,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-emergency-medicine-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:36:47.372492+00:00Z",
+      "lastUpdated": "2025-11-08T12:36:47.372492+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1094,
+      "directoryCount": 1095,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

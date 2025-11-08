@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:09:41.258687+00:00Z",
+  "lastUpdated": "2025-11-08T11:09:55.988060+00:00Z",
   "stats": {
-    "totalDirectories": 995,
+    "totalDirectories": 996,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 995.0,
-    "totalListings": 9545,
-    "aiEnhancedDirectories": 995
+    "avgDirectoriesPerRepo": 996.0,
+    "totalListings": 9555,
+    "aiEnhancedDirectories": 996
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12943,12 +12943,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-comedians-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:09:55.988060+00:00Z",
+      "lastUpdated": "2025-11-08T11:09:55.988060+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 995,
+      "directoryCount": 996,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

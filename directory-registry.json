@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:13:41.576306+00:00Z",
+  "lastUpdated": "2025-11-08T04:13:58.654138+00:00Z",
   "stats": {
-    "totalDirectories": 31,
+    "totalDirectories": 32,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 31.0,
-    "totalListings": 307,
-    "aiEnhancedDirectories": 31
+    "avgDirectoriesPerRepo": 32.0,
+    "totalListings": 317,
+    "aiEnhancedDirectories": 32
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -411,12 +411,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-wireless-networks-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:13:58.654138+00:00Z",
+      "lastUpdated": "2025-11-08T04:13:58.654138+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 31,
+      "directoryCount": 32,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

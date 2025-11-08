@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:55:58.710553+00:00Z",
+  "lastUpdated": "2025-11-08T05:56:13.337723+00:00Z",
   "stats": {
-    "totalDirectories": 401,
+    "totalDirectories": 402,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 401.0,
-    "totalListings": 3912,
-    "aiEnhancedDirectories": 401
+    "avgDirectoriesPerRepo": 402.0,
+    "totalListings": 3922,
+    "aiEnhancedDirectories": 402
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5221,12 +5221,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-essay-coaching-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:56:13.337723+00:00Z",
+      "lastUpdated": "2025-11-08T05:56:13.337723+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 401,
+      "directoryCount": 402,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

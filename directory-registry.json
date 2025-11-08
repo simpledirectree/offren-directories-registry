@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:52:29.971464+00:00Z",
+  "lastUpdated": "2025-11-08T13:52:46.141577+00:00Z",
   "stats": {
-    "totalDirectories": 1186,
+    "totalDirectories": 1187,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1186.0,
-    "totalListings": 11306,
-    "aiEnhancedDirectories": 1186
+    "avgDirectoriesPerRepo": 1187.0,
+    "totalListings": 11316,
+    "aiEnhancedDirectories": 1187
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15426,12 +15426,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-behavioral-training-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:52:46.141577+00:00Z",
+      "lastUpdated": "2025-11-08T13:52:46.141577+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1186,
+      "directoryCount": 1187,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

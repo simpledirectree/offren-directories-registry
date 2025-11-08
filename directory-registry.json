@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:11:16.558553+00:00Z",
+  "lastUpdated": "2025-11-08T10:12:19.575067+00:00Z",
   "stats": {
-    "totalDirectories": 932,
+    "totalDirectories": 933,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 932.0,
-    "totalListings": 8960,
-    "aiEnhancedDirectories": 932
+    "avgDirectoriesPerRepo": 933.0,
+    "totalListings": 8970,
+    "aiEnhancedDirectories": 933
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12124,12 +12124,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-quickbooks-training-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:12:19.575067+00:00Z",
+      "lastUpdated": "2025-11-08T10:12:19.575067+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 932,
+      "directoryCount": 933,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

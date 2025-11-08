@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:23:14.220156+00:00Z",
+  "lastUpdated": "2025-11-08T06:23:33.403781+00:00Z",
   "stats": {
-    "totalDirectories": 498,
+    "totalDirectories": 499,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 498.0,
-    "totalListings": 4845,
-    "aiEnhancedDirectories": 498
+    "avgDirectoriesPerRepo": 499.0,
+    "totalListings": 4855,
+    "aiEnhancedDirectories": 499
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6482,12 +6482,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-teletherapy-platforms-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:23:33.403781+00:00Z",
+      "lastUpdated": "2025-11-08T06:23:33.403781+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 498,
+      "directoryCount": 499,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

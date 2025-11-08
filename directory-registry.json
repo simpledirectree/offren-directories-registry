@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:49:55.992984+00:00Z",
+  "lastUpdated": "2025-11-08T04:50:10.879370+00:00Z",
   "stats": {
-    "totalDirectories": 162,
+    "totalDirectories": 163,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 162.0,
-    "totalListings": 1590,
-    "aiEnhancedDirectories": 162
+    "avgDirectoriesPerRepo": 163.0,
+    "totalListings": 1600,
+    "aiEnhancedDirectories": 163
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2114,12 +2114,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-trampoline-parks-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:50:10.879370+00:00Z",
+      "lastUpdated": "2025-11-08T04:50:10.879370+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 162,
+      "directoryCount": 163,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

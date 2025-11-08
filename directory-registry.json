@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:01:51.936062+00:00Z",
+  "lastUpdated": "2025-11-08T06:02:11.385347+00:00Z",
   "stats": {
-    "totalDirectories": 422,
+    "totalDirectories": 423,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 422.0,
-    "totalListings": 4104,
-    "aiEnhancedDirectories": 422
+    "avgDirectoriesPerRepo": 423.0,
+    "totalListings": 4114,
+    "aiEnhancedDirectories": 423
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5494,12 +5494,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-event-planning-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:02:11.385347+00:00Z",
+      "lastUpdated": "2025-11-08T06:02:11.385347+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 422,
+      "directoryCount": 423,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

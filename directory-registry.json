@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:43:52.601298+00:00Z",
+  "lastUpdated": "2025-11-08T10:44:32.191458+00:00Z",
   "stats": {
-    "totalDirectories": 963,
+    "totalDirectories": 964,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 963.0,
-    "totalListings": 9237,
-    "aiEnhancedDirectories": 963
+    "avgDirectoriesPerRepo": 964.0,
+    "totalListings": 9247,
+    "aiEnhancedDirectories": 964
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12527,12 +12527,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-pos-system-installation-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:44:32.191458+00:00Z",
+      "lastUpdated": "2025-11-08T10:44:32.191458+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 963,
+      "directoryCount": 964,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

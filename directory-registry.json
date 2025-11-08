@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:44:00.749681+00:00Z",
+  "lastUpdated": "2025-11-08T20:45:32.486521+00:00Z",
   "stats": {
-    "totalDirectories": 1658,
+    "totalDirectories": 1659,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1658.0,
-    "totalListings": 15731,
-    "aiEnhancedDirectories": 1658
+    "avgDirectoriesPerRepo": 1659.0,
+    "totalListings": 15736,
+    "aiEnhancedDirectories": 1659
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21562,12 +21562,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-music-instruction-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:45:32.486521+00:00Z",
+      "lastUpdated": "2025-11-08T20:45:32.486521+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1658,
+      "directoryCount": 1659,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

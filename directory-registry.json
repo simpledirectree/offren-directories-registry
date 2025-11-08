@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:27:51.005708+00:00Z",
+  "lastUpdated": "2025-11-08T16:28:32.684097+00:00Z",
   "stats": {
-    "totalDirectories": 1349,
+    "totalDirectories": 1350,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1349.0,
-    "totalListings": 12822,
-    "aiEnhancedDirectories": 1349
+    "avgDirectoriesPerRepo": 1350.0,
+    "totalListings": 12832,
+    "aiEnhancedDirectories": 1350
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17545,12 +17545,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-prenatal-fitness-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:28:32.684097+00:00Z",
+      "lastUpdated": "2025-11-08T16:28:32.684097+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1349,
+      "directoryCount": 1350,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

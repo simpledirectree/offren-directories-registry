@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:22:43.642136+00:00Z",
+  "lastUpdated": "2025-11-08T08:24:12.154280+00:00Z",
   "stats": {
-    "totalDirectories": 804,
+    "totalDirectories": 805,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 804.0,
-    "totalListings": 7786,
-    "aiEnhancedDirectories": 804
+    "avgDirectoriesPerRepo": 805.0,
+    "totalListings": 7795,
+    "aiEnhancedDirectories": 805
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10460,12 +10460,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-green-cleaning-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:24:12.154280+00:00Z",
+      "lastUpdated": "2025-11-08T08:24:12.154280+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 804,
+      "directoryCount": 805,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

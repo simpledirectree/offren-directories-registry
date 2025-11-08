@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:59:55.436735+00:00Z",
+  "lastUpdated": "2025-11-08T07:00:10.172763+00:00Z",
   "stats": {
-    "totalDirectories": 631,
+    "totalDirectories": 632,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 631.0,
-    "totalListings": 6130,
-    "aiEnhancedDirectories": 631
+    "avgDirectoriesPerRepo": 632.0,
+    "totalListings": 6139,
+    "aiEnhancedDirectories": 632
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8211,12 +8211,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-move-in-cleaning-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:00:10.172763+00:00Z",
+      "lastUpdated": "2025-11-08T07:00:10.172763+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 631,
+      "directoryCount": 632,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

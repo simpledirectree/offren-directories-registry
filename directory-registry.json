@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:47:26.729036+00:00Z",
+  "lastUpdated": "2025-11-08T12:47:41.879636+00:00Z",
   "stats": {
-    "totalDirectories": 1109,
+    "totalDirectories": 1110,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1109.0,
-    "totalListings": 10593,
-    "aiEnhancedDirectories": 1109
+    "avgDirectoriesPerRepo": 1110.0,
+    "totalListings": 10598,
+    "aiEnhancedDirectories": 1110
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14425,12 +14425,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-energy-healing-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:47:41.879636+00:00Z",
+      "lastUpdated": "2025-11-08T12:47:41.879636+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1109,
+      "directoryCount": 1110,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

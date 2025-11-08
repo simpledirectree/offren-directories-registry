@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:11:31.351732+00:00Z",
+  "lastUpdated": "2025-11-08T20:12:13.205617+00:00Z",
   "stats": {
-    "totalDirectories": 1619,
+    "totalDirectories": 1620,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1619.0,
-    "totalListings": 15362,
-    "aiEnhancedDirectories": 1619
+    "avgDirectoriesPerRepo": 1620.0,
+    "totalListings": 15372,
+    "aiEnhancedDirectories": 1620
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21055,12 +21055,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-abs-repair-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:12:13.205617+00:00Z",
+      "lastUpdated": "2025-11-08T20:12:13.205617+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1619,
+      "directoryCount": 1620,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

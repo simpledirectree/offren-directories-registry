@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:39:15.021141+00:00Z",
+  "lastUpdated": "2025-11-08T03:39:55.225827+00:00Z",
   "stats": {
-    "totalDirectories": 2389,
+    "totalDirectories": 2390,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2389.0,
-    "totalListings": 22302,
-    "aiEnhancedDirectories": 2388
+    "avgDirectoriesPerRepo": 2390.0,
+    "totalListings": 22303,
+    "aiEnhancedDirectories": 2389
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31064,12 +31064,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-air-conditioning-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:39:55.225827+00:00Z",
+      "lastUpdated": "2025-11-08T03:39:55.225827+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2389,
+      "directoryCount": 2390,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

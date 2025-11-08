@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:10:38.015198+00:00Z",
+  "lastUpdated": "2025-11-08T05:11:19.155697+00:00Z",
   "stats": {
-    "totalDirectories": 237,
+    "totalDirectories": 238,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 237.0,
-    "totalListings": 2321,
-    "aiEnhancedDirectories": 237
+    "avgDirectoriesPerRepo": 238.0,
+    "totalListings": 2331,
+    "aiEnhancedDirectories": 238
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3089,12 +3089,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-illustration-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:11:19.155697+00:00Z",
+      "lastUpdated": "2025-11-08T05:11:19.155697+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 237,
+      "directoryCount": 238,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

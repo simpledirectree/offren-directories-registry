@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:48:07.546688+00:00Z",
+  "lastUpdated": "2025-11-08T16:48:47.282198+00:00Z",
   "stats": {
-    "totalDirectories": 1377,
+    "totalDirectories": 1378,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1377.0,
-    "totalListings": 13081,
-    "aiEnhancedDirectories": 1377
+    "avgDirectoriesPerRepo": 1378.0,
+    "totalListings": 13082,
+    "aiEnhancedDirectories": 1378
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17909,12 +17909,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-babysitters-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:48:47.282198+00:00Z",
+      "lastUpdated": "2025-11-08T16:48:47.282198+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1377,
+      "directoryCount": 1378,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

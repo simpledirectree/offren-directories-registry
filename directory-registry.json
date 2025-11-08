@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:47:19.707973+00:00Z",
+  "lastUpdated": "2025-11-08T08:48:24.923624+00:00Z",
   "stats": {
-    "totalDirectories": 834,
+    "totalDirectories": 835,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 834.0,
-    "totalListings": 8076,
-    "aiEnhancedDirectories": 834
+    "avgDirectoriesPerRepo": 835.0,
+    "totalListings": 8086,
+    "aiEnhancedDirectories": 835
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10850,12 +10850,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-talent-management-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:48:24.923624+00:00Z",
+      "lastUpdated": "2025-11-08T08:48:24.923624+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 834,
+      "directoryCount": 835,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

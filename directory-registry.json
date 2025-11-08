@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:41:41.936557+00:00Z",
+  "lastUpdated": "2025-11-08T04:42:00.643777+00:00Z",
   "stats": {
-    "totalDirectories": 132,
+    "totalDirectories": 133,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 132.0,
-    "totalListings": 1291,
-    "aiEnhancedDirectories": 132
+    "avgDirectoriesPerRepo": 133.0,
+    "totalListings": 1301,
+    "aiEnhancedDirectories": 133
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1724,12 +1724,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-farm-equipment-rental-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:42:00.643777+00:00Z",
+      "lastUpdated": "2025-11-08T04:42:00.643777+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 132,
+      "directoryCount": 133,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

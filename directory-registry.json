@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:48:47.603860+00:00Z",
+  "lastUpdated": "2025-11-08T07:49:02.547107+00:00Z",
   "stats": {
-    "totalDirectories": 771,
+    "totalDirectories": 772,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 771.0,
-    "totalListings": 7481,
-    "aiEnhancedDirectories": 771
+    "avgDirectoriesPerRepo": 772.0,
+    "totalListings": 7491,
+    "aiEnhancedDirectories": 772
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10031,12 +10031,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-veterinarians-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:49:02.547107+00:00Z",
+      "lastUpdated": "2025-11-08T07:49:02.547107+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 771,
+      "directoryCount": 772,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

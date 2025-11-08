@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:43:45.787296+00:00Z",
+  "lastUpdated": "2025-11-08T06:44:01.828152+00:00Z",
   "stats": {
-    "totalDirectories": 571,
+    "totalDirectories": 572,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 571.0,
-    "totalListings": 5566,
-    "aiEnhancedDirectories": 571
+    "avgDirectoriesPerRepo": 572.0,
+    "totalListings": 5576,
+    "aiEnhancedDirectories": 572
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7431,12 +7431,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-senior-fitness-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:44:01.828152+00:00Z",
+      "lastUpdated": "2025-11-08T06:44:01.828152+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 571,
+      "directoryCount": 572,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:01:17.855069+00:00Z",
+  "lastUpdated": "2025-11-08T04:01:34.680631+00:00Z",
   "stats": {
-    "totalDirectories": 2459,
+    "totalDirectories": 2460,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2459.0,
-    "totalListings": 22967,
-    "aiEnhancedDirectories": 2458
+    "avgDirectoriesPerRepo": 2460.0,
+    "totalListings": 22977,
+    "aiEnhancedDirectories": 2459
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31974,12 +31974,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-team-building-activities-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:01:34.680631+00:00Z",
+      "lastUpdated": "2025-11-08T04:01:34.680631+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2459,
+      "directoryCount": 2460,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

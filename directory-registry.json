@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:58:16.723435+00:00Z",
+  "lastUpdated": "2025-11-08T05:58:30.612160+00:00Z",
   "stats": {
-    "totalDirectories": 409,
+    "totalDirectories": 410,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 409.0,
-    "totalListings": 3992,
-    "aiEnhancedDirectories": 409
+    "avgDirectoriesPerRepo": 410.0,
+    "totalListings": 4002,
+    "aiEnhancedDirectories": 410
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5325,12 +5325,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-dance-fitness-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:58:30.612160+00:00Z",
+      "lastUpdated": "2025-11-08T05:58:30.612160+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 409,
+      "directoryCount": 410,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

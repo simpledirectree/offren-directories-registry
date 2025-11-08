@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:54:16.176358+00:00Z",
+  "lastUpdated": "2025-11-08T13:54:56.607173+00:00Z",
   "stats": {
-    "totalDirectories": 1188,
+    "totalDirectories": 1189,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1188.0,
-    "totalListings": 11317,
-    "aiEnhancedDirectories": 1188
+    "avgDirectoriesPerRepo": 1189.0,
+    "totalListings": 11327,
+    "aiEnhancedDirectories": 1189
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15452,12 +15452,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-sugaring-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:54:56.607173+00:00Z",
+      "lastUpdated": "2025-11-08T13:54:56.607173+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1188,
+      "directoryCount": 1189,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

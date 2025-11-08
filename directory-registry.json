@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:55:08.653034+00:00Z",
+  "lastUpdated": "2025-11-08T14:57:27.983576+00:00Z",
   "stats": {
-    "totalDirectories": 1256,
+    "totalDirectories": 1257,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1256.0,
-    "totalListings": 11948,
-    "aiEnhancedDirectories": 1256
+    "avgDirectoriesPerRepo": 1257.0,
+    "totalListings": 11950,
+    "aiEnhancedDirectories": 1257
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16336,12 +16336,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-basic-electrical-work-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:57:27.983576+00:00Z",
+      "lastUpdated": "2025-11-08T14:57:27.983576+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1256,
+      "directoryCount": 1257,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

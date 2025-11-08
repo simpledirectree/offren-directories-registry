@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:08:02.417362+00:00Z",
+  "lastUpdated": "2025-11-08T18:08:42.805557+00:00Z",
   "stats": {
-    "totalDirectories": 1470,
+    "totalDirectories": 1471,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1470.0,
-    "totalListings": 13963,
-    "aiEnhancedDirectories": 1470
+    "avgDirectoriesPerRepo": 1471.0,
+    "totalListings": 13973,
+    "aiEnhancedDirectories": 1471
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19118,12 +19118,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-nail-salons-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:08:42.805557+00:00Z",
+      "lastUpdated": "2025-11-08T18:08:42.805557+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1470,
+      "directoryCount": 1471,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

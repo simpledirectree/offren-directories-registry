@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:01:34.680631+00:00Z",
+  "lastUpdated": "2025-11-08T04:01:54.460517+00:00Z",
   "stats": {
-    "totalDirectories": 2460,
+    "totalDirectories": 2461,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2460.0,
-    "totalListings": 22977,
-    "aiEnhancedDirectories": 2459
+    "avgDirectoriesPerRepo": 2461.0,
+    "totalListings": 22987,
+    "aiEnhancedDirectories": 2460
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31987,12 +31987,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-multi-family-management-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:01:54.460517+00:00Z",
+      "lastUpdated": "2025-11-08T04:01:54.460517+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2460,
+      "directoryCount": 2461,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

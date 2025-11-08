@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:55:56.955658+00:00Z",
+  "lastUpdated": "2025-11-08T21:56:35.038724+00:00Z",
   "stats": {
-    "totalDirectories": 1751,
+    "totalDirectories": 1752,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1751.0,
-    "totalListings": 16575,
-    "aiEnhancedDirectories": 1751
+    "avgDirectoriesPerRepo": 1752.0,
+    "totalListings": 16585,
+    "aiEnhancedDirectories": 1752
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22771,12 +22771,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-business-intelligence-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:56:35.038724+00:00Z",
+      "lastUpdated": "2025-11-08T21:56:35.038724+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1751,
+      "directoryCount": 1752,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

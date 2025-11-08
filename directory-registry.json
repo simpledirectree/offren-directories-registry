@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:18:14.864610+00:00Z",
+  "lastUpdated": "2025-11-08T23:18:57.029246+00:00Z",
   "stats": {
-    "totalDirectories": 1838,
+    "totalDirectories": 1839,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1838.0,
-    "totalListings": 17412,
-    "aiEnhancedDirectories": 1838
+    "avgDirectoriesPerRepo": 1839.0,
+    "totalListings": 17415,
+    "aiEnhancedDirectories": 1839
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23902,12 +23902,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-day-of-wedding-coordination-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:18:57.029246+00:00Z",
+      "lastUpdated": "2025-11-08T23:18:57.029246+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1838,
+      "directoryCount": 1839,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

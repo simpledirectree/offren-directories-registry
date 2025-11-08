@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:23:19.960701+00:00Z",
+  "lastUpdated": "2025-11-08T21:24:21.973767+00:00Z",
   "stats": {
-    "totalDirectories": 1710,
+    "totalDirectories": 1711,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1710.0,
-    "totalListings": 16198,
-    "aiEnhancedDirectories": 1710
+    "avgDirectoriesPerRepo": 1711.0,
+    "totalListings": 16208,
+    "aiEnhancedDirectories": 1711
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22238,12 +22238,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-equipment-repair-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:24:21.973767+00:00Z",
+      "lastUpdated": "2025-11-08T21:24:21.973767+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1710,
+      "directoryCount": 1711,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

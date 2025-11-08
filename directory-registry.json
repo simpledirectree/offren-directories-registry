@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:23:17.210079+00:00Z",
+  "lastUpdated": "2025-11-08T05:23:34.288502+00:00Z",
   "stats": {
-    "totalDirectories": 283,
+    "totalDirectories": 284,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 283.0,
-    "totalListings": 2767,
-    "aiEnhancedDirectories": 283
+    "avgDirectoriesPerRepo": 284.0,
+    "totalListings": 2777,
+    "aiEnhancedDirectories": 284
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3687,12 +3687,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-commercial-lease-negotiation-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:23:34.288502+00:00Z",
+      "lastUpdated": "2025-11-08T05:23:34.288502+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 283,
+      "directoryCount": 284,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

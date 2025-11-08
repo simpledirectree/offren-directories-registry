@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:35:48.539970+00:00Z",
+  "lastUpdated": "2025-11-08T06:36:03.773368+00:00Z",
   "stats": {
-    "totalDirectories": 543,
+    "totalDirectories": 544,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 543.0,
-    "totalListings": 5295,
-    "aiEnhancedDirectories": 543
+    "avgDirectoriesPerRepo": 544.0,
+    "totalListings": 5305,
+    "aiEnhancedDirectories": 544
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7067,12 +7067,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-low-vision-services-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:36:03.773368+00:00Z",
+      "lastUpdated": "2025-11-08T06:36:03.773368+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 543,
+      "directoryCount": 544,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

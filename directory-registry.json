@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:24:56.943983+00:00Z",
+  "lastUpdated": "2025-11-08T20:25:11.062032+00:00Z",
   "stats": {
-    "totalDirectories": 1632,
+    "totalDirectories": 1633,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1632.0,
-    "totalListings": 15484,
-    "aiEnhancedDirectories": 1632
+    "avgDirectoriesPerRepo": 1633.0,
+    "totalListings": 15494,
+    "aiEnhancedDirectories": 1633
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21224,12 +21224,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-cleanup-crews-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:25:11.062032+00:00Z",
+      "lastUpdated": "2025-11-08T20:25:11.062032+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1632,
+      "directoryCount": 1633,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:34:56.715162+00:00Z",
+  "lastUpdated": "2025-11-08T14:36:00.877372+00:00Z",
   "stats": {
-    "totalDirectories": 1232,
+    "totalDirectories": 1233,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1232.0,
-    "totalListings": 11715,
-    "aiEnhancedDirectories": 1232
+    "avgDirectoriesPerRepo": 1233.0,
+    "totalListings": 11725,
+    "aiEnhancedDirectories": 1233
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16024,12 +16024,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-personal-chef-services-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:36:00.877372+00:00Z",
+      "lastUpdated": "2025-11-08T14:36:00.877372+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1232,
+      "directoryCount": 1233,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

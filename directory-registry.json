@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:48:35.835280+00:00Z",
+  "lastUpdated": "2025-11-08T05:48:51.668458+00:00Z",
   "stats": {
-    "totalDirectories": 374,
+    "totalDirectories": 375,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 374.0,
-    "totalListings": 3669,
-    "aiEnhancedDirectories": 374
+    "avgDirectoriesPerRepo": 375.0,
+    "totalListings": 3679,
+    "aiEnhancedDirectories": 375
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4870,12 +4870,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-mail-forwarding-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:48:51.668458+00:00Z",
+      "lastUpdated": "2025-11-08T05:48:51.668458+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 374,
+      "directoryCount": 375,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

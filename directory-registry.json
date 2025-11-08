@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:50:33.732896+00:00Z",
+  "lastUpdated": "2025-11-08T20:51:10.726400+00:00Z",
   "stats": {
-    "totalDirectories": 1664,
+    "totalDirectories": 1665,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1664.0,
-    "totalListings": 15782,
-    "aiEnhancedDirectories": 1664
+    "avgDirectoriesPerRepo": 1665.0,
+    "totalListings": 15787,
+    "aiEnhancedDirectories": 1665
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21640,12 +21640,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-data-entry-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:51:10.726400+00:00Z",
+      "lastUpdated": "2025-11-08T20:51:10.726400+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1664,
+      "directoryCount": 1665,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

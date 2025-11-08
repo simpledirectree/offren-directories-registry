@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:11:29.921081+00:00Z",
+  "lastUpdated": "2025-11-08T06:11:46.816604+00:00Z",
   "stats": {
-    "totalDirectories": 456,
+    "totalDirectories": 457,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 456.0,
-    "totalListings": 4430,
-    "aiEnhancedDirectories": 456
+    "avgDirectoriesPerRepo": 457.0,
+    "totalListings": 4440,
+    "aiEnhancedDirectories": 457
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5936,12 +5936,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-environmental-compliance-consulting-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:11:46.816604+00:00Z",
+      "lastUpdated": "2025-11-08T06:11:46.816604+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 456,
+      "directoryCount": 457,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

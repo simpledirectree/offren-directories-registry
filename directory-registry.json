@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:19:20.339984+00:00Z",
+  "lastUpdated": "2025-11-08T22:19:35.896144+00:00Z",
   "stats": {
-    "totalDirectories": 1772,
+    "totalDirectories": 1773,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1772.0,
-    "totalListings": 16783,
-    "aiEnhancedDirectories": 1772
+    "avgDirectoriesPerRepo": 1773.0,
+    "totalListings": 16793,
+    "aiEnhancedDirectories": 1773
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23044,12 +23044,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-virtual-assistants-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:19:35.896144+00:00Z",
+      "lastUpdated": "2025-11-08T22:19:35.896144+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1772,
+      "directoryCount": 1773,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

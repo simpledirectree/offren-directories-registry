@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:50:23.344053+00:00Z",
+  "lastUpdated": "2025-11-08T07:51:26.771324+00:00Z",
   "stats": {
-    "totalDirectories": 774,
+    "totalDirectories": 775,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 774.0,
-    "totalListings": 7511,
-    "aiEnhancedDirectories": 774
+    "avgDirectoriesPerRepo": 775.0,
+    "totalListings": 7520,
+    "aiEnhancedDirectories": 775
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10070,12 +10070,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-baseball-coaching-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:51:26.771324+00:00Z",
+      "lastUpdated": "2025-11-08T07:51:26.771324+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 774,
+      "directoryCount": 775,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

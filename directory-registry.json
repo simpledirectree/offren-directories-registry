@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:44:12.278345+00:00Z",
+  "lastUpdated": "2025-11-08T08:45:40.137751+00:00Z",
   "stats": {
-    "totalDirectories": 828,
+    "totalDirectories": 829,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 828.0,
-    "totalListings": 8019,
-    "aiEnhancedDirectories": 828
+    "avgDirectoriesPerRepo": 829.0,
+    "totalListings": 8026,
+    "aiEnhancedDirectories": 829
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10772,12 +10772,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-violin-lessons-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:45:40.137751+00:00Z",
+      "lastUpdated": "2025-11-08T08:45:40.137751+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 828,
+      "directoryCount": 829,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

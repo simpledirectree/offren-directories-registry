@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:36:46.505585+00:00Z",
+  "lastUpdated": "2025-11-08T01:37:05.052191+00:00Z",
   "stats": {
-    "totalDirectories": 2257,
+    "totalDirectories": 2258,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2257.0,
-    "totalListings": 21095,
-    "aiEnhancedDirectories": 2256
+    "avgDirectoriesPerRepo": 2258.0,
+    "totalListings": 21105,
+    "aiEnhancedDirectories": 2257
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29348,12 +29348,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-language-instruction-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:37:05.052191+00:00Z",
+      "lastUpdated": "2025-11-08T01:37:05.052191+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2257,
+      "directoryCount": 2258,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

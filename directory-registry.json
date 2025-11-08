@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:11:01.112029+00:00Z",
+  "lastUpdated": "2025-11-08T07:11:18.514145+00:00Z",
   "stats": {
-    "totalDirectories": 670,
+    "totalDirectories": 671,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 670.0,
-    "totalListings": 6509,
-    "aiEnhancedDirectories": 670
+    "avgDirectoriesPerRepo": 671.0,
+    "totalListings": 6519,
+    "aiEnhancedDirectories": 671
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8718,12 +8718,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-interior-design-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:11:18.514145+00:00Z",
+      "lastUpdated": "2025-11-08T07:11:18.514145+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 670,
+      "directoryCount": 671,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:17:35.860568+00:00Z",
+  "lastUpdated": "2025-11-08T04:17:49.488496+00:00Z",
   "stats": {
-    "totalDirectories": 45,
+    "totalDirectories": 46,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 45.0,
-    "totalListings": 446,
-    "aiEnhancedDirectories": 45
+    "avgDirectoriesPerRepo": 46.0,
+    "totalListings": 456,
+    "aiEnhancedDirectories": 46
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -593,12 +593,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-conference-planning-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:17:49.488496+00:00Z",
+      "lastUpdated": "2025-11-08T04:17:49.488496+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 45,
+      "directoryCount": 46,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:05:21.923238+00:00Z",
+  "lastUpdated": "2025-11-08T05:05:40.863307+00:00Z",
   "stats": {
-    "totalDirectories": 218,
+    "totalDirectories": 219,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 218.0,
-    "totalListings": 2140,
-    "aiEnhancedDirectories": 218
+    "avgDirectoriesPerRepo": 219.0,
+    "totalListings": 2150,
+    "aiEnhancedDirectories": 219
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2842,12 +2842,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-space-planning-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:05:40.863307+00:00Z",
+      "lastUpdated": "2025-11-08T05:05:40.863307+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 218,
+      "directoryCount": 219,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:19:18.992868+00:00Z",
+  "lastUpdated": "2025-11-08T19:21:49.427468+00:00Z",
   "stats": {
-    "totalDirectories": 1556,
+    "totalDirectories": 1557,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1556.0,
-    "totalListings": 14783,
-    "aiEnhancedDirectories": 1556
+    "avgDirectoriesPerRepo": 1557.0,
+    "totalListings": 14793,
+    "aiEnhancedDirectories": 1557
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20236,12 +20236,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-user-persona-development-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:21:49.427468+00:00Z",
+      "lastUpdated": "2025-11-08T19:21:49.427468+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1556,
+      "directoryCount": 1557,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

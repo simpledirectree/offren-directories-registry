@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:29:47.592061+00:00Z",
+  "lastUpdated": "2025-11-08T06:30:02.726205+00:00Z",
   "stats": {
-    "totalDirectories": 521,
+    "totalDirectories": 522,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 521.0,
-    "totalListings": 5075,
-    "aiEnhancedDirectories": 521
+    "avgDirectoriesPerRepo": 522.0,
+    "totalListings": 5085,
+    "aiEnhancedDirectories": 522
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6781,12 +6781,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-door-repair-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:30:02.726205+00:00Z",
+      "lastUpdated": "2025-11-08T06:30:02.726205+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 521,
+      "directoryCount": 522,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

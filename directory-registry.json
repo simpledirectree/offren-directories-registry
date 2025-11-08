@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:00:23.804350+00:00Z",
+  "lastUpdated": "2025-11-08T15:01:03.618445+00:00Z",
   "stats": {
-    "totalDirectories": 1262,
+    "totalDirectories": 1263,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1262.0,
-    "totalListings": 11992,
-    "aiEnhancedDirectories": 1262
+    "avgDirectoriesPerRepo": 1263.0,
+    "totalListings": 12002,
+    "aiEnhancedDirectories": 1263
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16414,12 +16414,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-postnatal-recovery-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:01:03.618445+00:00Z",
+      "lastUpdated": "2025-11-08T15:01:03.618445+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1262,
+      "directoryCount": 1263,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

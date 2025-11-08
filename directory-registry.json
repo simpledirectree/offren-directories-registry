@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:30:32.662405+00:00Z",
+  "lastUpdated": "2025-11-08T04:30:47.665473+00:00Z",
   "stats": {
-    "totalDirectories": 91,
+    "totalDirectories": 92,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 91.0,
-    "totalListings": 897,
-    "aiEnhancedDirectories": 91
+    "avgDirectoriesPerRepo": 92.0,
+    "totalListings": 907,
+    "aiEnhancedDirectories": 92
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1191,12 +1191,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-dentists-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:30:47.665473+00:00Z",
+      "lastUpdated": "2025-11-08T04:30:47.665473+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 91,
+      "directoryCount": 92,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:11:36.128304+00:00Z",
+  "lastUpdated": "2025-11-08T07:11:50.668850+00:00Z",
   "stats": {
-    "totalDirectories": 672,
+    "totalDirectories": 673,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 672.0,
-    "totalListings": 6529,
-    "aiEnhancedDirectories": 672
+    "avgDirectoriesPerRepo": 673.0,
+    "totalListings": 6539,
+    "aiEnhancedDirectories": 673
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8744,12 +8744,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-shopping-ads-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:11:50.668850+00:00Z",
+      "lastUpdated": "2025-11-08T07:11:50.668850+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 672,
+      "directoryCount": 673,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

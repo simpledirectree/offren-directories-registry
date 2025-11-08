@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:54:24.860402+00:00Z",
+  "lastUpdated": "2025-11-08T11:54:38.963375+00:00Z",
   "stats": {
-    "totalDirectories": 1050,
+    "totalDirectories": 1051,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1050.0,
-    "totalListings": 10053,
-    "aiEnhancedDirectories": 1050
+    "avgDirectoriesPerRepo": 1051.0,
+    "totalListings": 10063,
+    "aiEnhancedDirectories": 1051
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13658,12 +13658,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-fashion-rental-styling-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:54:38.963375+00:00Z",
+      "lastUpdated": "2025-11-08T11:54:38.963375+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1050,
+      "directoryCount": 1051,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

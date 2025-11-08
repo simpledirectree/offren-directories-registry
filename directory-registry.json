@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:00:48.272549+00:00Z",
+  "lastUpdated": "2025-11-08T03:01:03.643398+00:00Z",
   "stats": {
-    "totalDirectories": 2348,
+    "totalDirectories": 2349,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2348.0,
-    "totalListings": 21920,
-    "aiEnhancedDirectories": 2347
+    "avgDirectoriesPerRepo": 2349.0,
+    "totalListings": 21930,
+    "aiEnhancedDirectories": 2348
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30531,12 +30531,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-dental-insurance-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:01:03.643398+00:00Z",
+      "lastUpdated": "2025-11-08T03:01:03.643398+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2348,
+      "directoryCount": 2349,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

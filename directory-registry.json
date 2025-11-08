@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:32:04.221731+00:00Z",
+  "lastUpdated": "2025-11-08T07:32:19.117167+00:00Z",
   "stats": {
-    "totalDirectories": 747,
+    "totalDirectories": 748,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 747.0,
-    "totalListings": 7257,
-    "aiEnhancedDirectories": 747
+    "avgDirectoriesPerRepo": 748.0,
+    "totalListings": 7267,
+    "aiEnhancedDirectories": 748
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9719,12 +9719,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-botox-injections-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:32:19.117167+00:00Z",
+      "lastUpdated": "2025-11-08T07:32:19.117167+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 747,
+      "directoryCount": 748,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

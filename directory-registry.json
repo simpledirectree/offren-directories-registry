@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:46:05.807696+00:00Z",
+  "lastUpdated": "2025-11-08T14:46:47.691901+00:00Z",
   "stats": {
-    "totalDirectories": 1246,
+    "totalDirectories": 1247,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1246.0,
-    "totalListings": 11854,
-    "aiEnhancedDirectories": 1246
+    "avgDirectoriesPerRepo": 1247.0,
+    "totalListings": 11864,
+    "aiEnhancedDirectories": 1247
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16206,12 +16206,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-roadside-assistance-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:46:47.691901+00:00Z",
+      "lastUpdated": "2025-11-08T14:46:47.691901+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1246,
+      "directoryCount": 1247,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

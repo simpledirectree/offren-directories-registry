@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:38:28.341209+00:00Z",
+  "lastUpdated": "2025-11-08T23:38:40.618153+00:00Z",
   "stats": {
-    "totalDirectories": 1865,
+    "totalDirectories": 1866,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1865.0,
-    "totalListings": 17648,
-    "aiEnhancedDirectories": 1865
+    "avgDirectoriesPerRepo": 1866.0,
+    "totalListings": 17649,
+    "aiEnhancedDirectories": 1866
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24253,12 +24253,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-security-management-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:38:40.618153+00:00Z",
+      "lastUpdated": "2025-11-08T23:38:40.618153+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1865,
+      "directoryCount": 1866,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

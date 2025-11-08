@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:39:18.279485+00:00Z",
+  "lastUpdated": "2025-11-08T19:39:59.219311+00:00Z",
   "stats": {
-    "totalDirectories": 1579,
+    "totalDirectories": 1580,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1579.0,
-    "totalListings": 15000,
-    "aiEnhancedDirectories": 1579
+    "avgDirectoriesPerRepo": 1580.0,
+    "totalListings": 15010,
+    "aiEnhancedDirectories": 1580
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20535,12 +20535,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-led-therapy-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:39:59.219311+00:00Z",
+      "lastUpdated": "2025-11-08T19:39:59.219311+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1579,
+      "directoryCount": 1580,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

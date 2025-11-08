@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:39:50.448703+00:00Z",
+  "lastUpdated": "2025-11-08T00:41:25.856244+00:00Z",
   "stats": {
-    "totalDirectories": 2193,
+    "totalDirectories": 2194,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2193.0,
-    "totalListings": 20510,
-    "aiEnhancedDirectories": 2192
+    "avgDirectoriesPerRepo": 2194.0,
+    "totalListings": 20520,
+    "aiEnhancedDirectories": 2193
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28516,12 +28516,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-barbershops-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:41:25.856244+00:00Z",
+      "lastUpdated": "2025-11-08T00:41:25.856244+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2193,
+      "directoryCount": 2194,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

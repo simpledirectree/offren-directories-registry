@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:15:47.030361+00:00Z",
+  "lastUpdated": "2025-11-08T06:16:01.141489+00:00Z",
   "stats": {
-    "totalDirectories": 471,
+    "totalDirectories": 472,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 471.0,
-    "totalListings": 4579,
-    "aiEnhancedDirectories": 471
+    "avgDirectoriesPerRepo": 472.0,
+    "totalListings": 4589,
+    "aiEnhancedDirectories": 472
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6131,12 +6131,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-garden-bed-preparation-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:16:01.141489+00:00Z",
+      "lastUpdated": "2025-11-08T06:16:01.141489+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 471,
+      "directoryCount": 472,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

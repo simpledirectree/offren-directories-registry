@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:32:21.258925+00:00Z",
+  "lastUpdated": "2025-11-08T18:33:03.548609+00:00Z",
   "stats": {
-    "totalDirectories": 1500,
+    "totalDirectories": 1501,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1500.0,
-    "totalListings": 14249,
-    "aiEnhancedDirectories": 1500
+    "avgDirectoriesPerRepo": 1501.0,
+    "totalListings": 14259,
+    "aiEnhancedDirectories": 1501
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19508,12 +19508,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-cardiac-testing-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:33:03.548609+00:00Z",
+      "lastUpdated": "2025-11-08T18:33:03.548609+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1500,
+      "directoryCount": 1501,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

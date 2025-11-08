@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:25:48.561199+00:00Z",
+  "lastUpdated": "2025-11-08T20:26:03.034723+00:00Z",
   "stats": {
-    "totalDirectories": 1634,
+    "totalDirectories": 1635,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1634.0,
-    "totalListings": 15504,
-    "aiEnhancedDirectories": 1634
+    "avgDirectoriesPerRepo": 1635.0,
+    "totalListings": 15514,
+    "aiEnhancedDirectories": 1635
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21250,12 +21250,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-windshield-replacement-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:26:03.034723+00:00Z",
+      "lastUpdated": "2025-11-08T20:26:03.034723+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1634,
+      "directoryCount": 1635,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

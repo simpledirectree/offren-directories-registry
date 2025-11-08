@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:32:40.596650+00:00Z",
+  "lastUpdated": "2025-11-08T19:33:21.291700+00:00Z",
   "stats": {
-    "totalDirectories": 1570,
+    "totalDirectories": 1571,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1570.0,
-    "totalListings": 14918,
-    "aiEnhancedDirectories": 1570
+    "avgDirectoriesPerRepo": 1571.0,
+    "totalListings": 14928,
+    "aiEnhancedDirectories": 1571
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20418,12 +20418,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-general-house-cleaning-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:33:21.291700+00:00Z",
+      "lastUpdated": "2025-11-08T19:33:21.291700+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1570,
+      "directoryCount": 1571,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

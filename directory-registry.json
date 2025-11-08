@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:41:55.995917+00:00Z",
+  "lastUpdated": "2025-11-08T20:42:10.484695+00:00Z",
   "stats": {
-    "totalDirectories": 1653,
+    "totalDirectories": 1654,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1653.0,
-    "totalListings": 15685,
-    "aiEnhancedDirectories": 1653
+    "avgDirectoriesPerRepo": 1654.0,
+    "totalListings": 15691,
+    "aiEnhancedDirectories": 1654
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21497,12 +21497,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-tree-planting-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:42:10.484695+00:00Z",
+      "lastUpdated": "2025-11-08T20:42:10.484695+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1653,
+      "directoryCount": 1654,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:48:30.219214+00:00Z",
+  "lastUpdated": "2025-11-08T22:49:35.618529+00:00Z",
   "stats": {
-    "totalDirectories": 1804,
+    "totalDirectories": 1805,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1804.0,
-    "totalListings": 17082,
-    "aiEnhancedDirectories": 1804
+    "avgDirectoriesPerRepo": 1805.0,
+    "totalListings": 17092,
+    "aiEnhancedDirectories": 1805
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23460,12 +23460,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-substance-abuse-counseling-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:49:35.618529+00:00Z",
+      "lastUpdated": "2025-11-08T22:49:35.618529+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1804,
+      "directoryCount": 1805,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

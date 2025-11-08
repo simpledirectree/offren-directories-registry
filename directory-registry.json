@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:32:21.121297+00:00Z",
+  "lastUpdated": "2025-11-08T15:32:36.551567+00:00Z",
   "stats": {
-    "totalDirectories": 1292,
+    "totalDirectories": 1293,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1292.0,
-    "totalListings": 12276,
-    "aiEnhancedDirectories": 1292
+    "avgDirectoriesPerRepo": 1293.0,
+    "totalListings": 12286,
+    "aiEnhancedDirectories": 1293
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16804,12 +16804,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-sauna-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:32:36.551567+00:00Z",
+      "lastUpdated": "2025-11-08T15:32:36.551567+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1292,
+      "directoryCount": 1293,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

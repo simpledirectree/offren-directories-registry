@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:57:49.419600+00:00Z",
+  "lastUpdated": "2025-11-08T04:58:07.258743+00:00Z",
   "stats": {
-    "totalDirectories": 191,
+    "totalDirectories": 192,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 191.0,
-    "totalListings": 1870,
-    "aiEnhancedDirectories": 191
+    "avgDirectoriesPerRepo": 192.0,
+    "totalListings": 1880,
+    "aiEnhancedDirectories": 192
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2491,12 +2491,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-roofing-replacement-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:58:07.258743+00:00Z",
+      "lastUpdated": "2025-11-08T04:58:07.258743+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 191,
+      "directoryCount": 192,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

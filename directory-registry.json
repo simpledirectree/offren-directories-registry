@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:57:03.397518+00:00Z",
+  "lastUpdated": "2025-11-08T05:57:26.288022+00:00Z",
   "stats": {
-    "totalDirectories": 405,
+    "totalDirectories": 406,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 405.0,
-    "totalListings": 3952,
-    "aiEnhancedDirectories": 405
+    "avgDirectoriesPerRepo": 406.0,
+    "totalListings": 3962,
+    "aiEnhancedDirectories": 406
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5273,12 +5273,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-general-contracting-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:57:26.288022+00:00Z",
+      "lastUpdated": "2025-11-08T05:57:26.288022+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 405,
+      "directoryCount": 406,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

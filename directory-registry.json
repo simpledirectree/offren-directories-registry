@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:40:50.389945+00:00Z",
+  "lastUpdated": "2025-11-08T12:41:04.919172+00:00Z",
   "stats": {
-    "totalDirectories": 1101,
+    "totalDirectories": 1102,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1101.0,
-    "totalListings": 10525,
-    "aiEnhancedDirectories": 1101
+    "avgDirectoriesPerRepo": 1102.0,
+    "totalListings": 10535,
+    "aiEnhancedDirectories": 1102
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14321,12 +14321,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-search-engine-optimization-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:41:04.919172+00:00Z",
+      "lastUpdated": "2025-11-08T12:41:04.919172+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1101,
+      "directoryCount": 1102,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

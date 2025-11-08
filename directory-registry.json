@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:19:26.588088+00:00Z",
+  "lastUpdated": "2025-11-08T05:19:43.350645+00:00Z",
   "stats": {
-    "totalDirectories": 269,
+    "totalDirectories": 270,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 269.0,
-    "totalListings": 2634,
-    "aiEnhancedDirectories": 269
+    "avgDirectoriesPerRepo": 270.0,
+    "totalListings": 2644,
+    "aiEnhancedDirectories": 270
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3505,12 +3505,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-telecommunications-consulting-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:19:43.350645+00:00Z",
+      "lastUpdated": "2025-11-08T05:19:43.350645+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 269,
+      "directoryCount": 270,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

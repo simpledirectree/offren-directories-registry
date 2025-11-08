@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:06:56.696013+00:00Z",
+  "lastUpdated": "2025-11-08T03:08:00.948848+00:00Z",
   "stats": {
-    "totalDirectories": 2353,
+    "totalDirectories": 2354,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2353.0,
-    "totalListings": 21965,
-    "aiEnhancedDirectories": 2352
+    "avgDirectoriesPerRepo": 2354.0,
+    "totalListings": 21975,
+    "aiEnhancedDirectories": 2353
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30596,12 +30596,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-fire-pits-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:08:00.948848+00:00Z",
+      "lastUpdated": "2025-11-08T03:08:00.948848+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2353,
+      "directoryCount": 2354,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

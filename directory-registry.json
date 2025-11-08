@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:33:56.299328+00:00Z",
+  "lastUpdated": "2025-11-08T05:34:13.658256+00:00Z",
   "stats": {
-    "totalDirectories": 322,
+    "totalDirectories": 323,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 322.0,
-    "totalListings": 3157,
-    "aiEnhancedDirectories": 322
+    "avgDirectoriesPerRepo": 323.0,
+    "totalListings": 3167,
+    "aiEnhancedDirectories": 323
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4194,12 +4194,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-local-moving-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:34:13.658256+00:00Z",
+      "lastUpdated": "2025-11-08T05:34:13.658256+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 322,
+      "directoryCount": 323,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

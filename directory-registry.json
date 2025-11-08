@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:20:18.129878+00:00Z",
+  "lastUpdated": "2025-11-08T14:21:50.419190+00:00Z",
   "stats": {
-    "totalDirectories": 1215,
+    "totalDirectories": 1216,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1215.0,
-    "totalListings": 11570,
-    "aiEnhancedDirectories": 1215
+    "avgDirectoriesPerRepo": 1216.0,
+    "totalListings": 11580,
+    "aiEnhancedDirectories": 1216
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15803,12 +15803,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-antique-moving-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:21:50.419190+00:00Z",
+      "lastUpdated": "2025-11-08T14:21:50.419190+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1215,
+      "directoryCount": 1216,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

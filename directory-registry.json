@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:55:48.621199+00:00Z",
+  "lastUpdated": "2025-11-08T00:56:33.025876+00:00Z",
   "stats": {
-    "totalDirectories": 2210,
+    "totalDirectories": 2211,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2210.0,
-    "totalListings": 20673,
-    "aiEnhancedDirectories": 2209
+    "avgDirectoriesPerRepo": 2211.0,
+    "totalListings": 20683,
+    "aiEnhancedDirectories": 2210
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28737,12 +28737,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-acting-instruction-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:56:33.025876+00:00Z",
+      "lastUpdated": "2025-11-08T00:56:33.025876+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2210,
+      "directoryCount": 2211,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

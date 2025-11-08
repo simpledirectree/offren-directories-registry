@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:06:55.777957+00:00Z",
+  "lastUpdated": "2025-11-08T21:08:00.661340+00:00Z",
   "stats": {
-    "totalDirectories": 1689,
+    "totalDirectories": 1690,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1689.0,
-    "totalListings": 16019,
-    "aiEnhancedDirectories": 1689
+    "avgDirectoriesPerRepo": 1690.0,
+    "totalListings": 16029,
+    "aiEnhancedDirectories": 1690
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21965,12 +21965,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-engine-rebuilding-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:08:00.661340+00:00Z",
+      "lastUpdated": "2025-11-08T21:08:00.661340+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1689,
+      "directoryCount": 1690,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

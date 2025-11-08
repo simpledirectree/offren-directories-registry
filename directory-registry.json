@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:39:08.372241+00:00Z",
+  "lastUpdated": "2025-11-08T09:39:23.237095+00:00Z",
   "stats": {
-    "totalDirectories": 896,
+    "totalDirectories": 897,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 896.0,
-    "totalListings": 8649,
-    "aiEnhancedDirectories": 896
+    "avgDirectoriesPerRepo": 897.0,
+    "totalListings": 8659,
+    "aiEnhancedDirectories": 897
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11656,12 +11656,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-brand-identity-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:39:23.237095+00:00Z",
+      "lastUpdated": "2025-11-08T09:39:23.237095+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 896,
+      "directoryCount": 897,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

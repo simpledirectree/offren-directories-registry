@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:58:33.805454+00:00Z",
+  "lastUpdated": "2025-11-08T03:58:48.259484+00:00Z",
   "stats": {
-    "totalDirectories": 2449,
+    "totalDirectories": 2450,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2449.0,
-    "totalListings": 22883,
-    "aiEnhancedDirectories": 2448
+    "avgDirectoriesPerRepo": 2450.0,
+    "totalListings": 22886,
+    "aiEnhancedDirectories": 2449
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31844,12 +31844,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-senior-fitness-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:58:48.259484+00:00Z",
+      "lastUpdated": "2025-11-08T03:58:48.259484+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2449,
+      "directoryCount": 2450,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

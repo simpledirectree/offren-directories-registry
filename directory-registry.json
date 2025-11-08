@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:05:27.430300+00:00Z",
+  "lastUpdated": "2025-11-08T20:07:49.262812+00:00Z",
   "stats": {
-    "totalDirectories": 1613,
+    "totalDirectories": 1614,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1613.0,
-    "totalListings": 15317,
-    "aiEnhancedDirectories": 1613
+    "avgDirectoriesPerRepo": 1614.0,
+    "totalListings": 15327,
+    "aiEnhancedDirectories": 1614
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20977,12 +20977,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-banking-relationship-management-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:07:49.262812+00:00Z",
+      "lastUpdated": "2025-11-08T20:07:49.262812+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1613,
+      "directoryCount": 1614,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

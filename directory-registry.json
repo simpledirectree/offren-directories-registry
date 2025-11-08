@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:39:44.061392+00:00Z",
+  "lastUpdated": "2025-11-08T10:40:48.037211+00:00Z",
   "stats": {
-    "totalDirectories": 961,
+    "totalDirectories": 962,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 961.0,
-    "totalListings": 9233,
-    "aiEnhancedDirectories": 961
+    "avgDirectoriesPerRepo": 962.0,
+    "totalListings": 9236,
+    "aiEnhancedDirectories": 962
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12501,12 +12501,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-media-relations-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:40:48.037211+00:00Z",
+      "lastUpdated": "2025-11-08T10:40:48.037211+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 961,
+      "directoryCount": 962,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

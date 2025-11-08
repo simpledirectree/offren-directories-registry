@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:54:21.124551+00:00Z",
+  "lastUpdated": "2025-11-08T21:54:36.620775+00:00Z",
   "stats": {
-    "totalDirectories": 1746,
+    "totalDirectories": 1747,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1746.0,
-    "totalListings": 16539,
-    "aiEnhancedDirectories": 1746
+    "avgDirectoriesPerRepo": 1747.0,
+    "totalListings": 16549,
+    "aiEnhancedDirectories": 1747
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22706,12 +22706,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-skin-care-facilities-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:54:36.620775+00:00Z",
+      "lastUpdated": "2025-11-08T21:54:36.620775+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1746,
+      "directoryCount": 1747,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

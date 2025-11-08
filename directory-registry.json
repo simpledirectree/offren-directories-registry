@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:02:45.599115+00:00Z",
+  "lastUpdated": "2025-11-08T02:03:27.509638+00:00Z",
   "stats": {
-    "totalDirectories": 2290,
+    "totalDirectories": 2291,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2290.0,
-    "totalListings": 21404,
-    "aiEnhancedDirectories": 2289
+    "avgDirectoriesPerRepo": 2291.0,
+    "totalListings": 21414,
+    "aiEnhancedDirectories": 2290
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29777,12 +29777,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-buffet-catering-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:03:27.509638+00:00Z",
+      "lastUpdated": "2025-11-08T02:03:27.509638+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2290,
+      "directoryCount": 2291,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

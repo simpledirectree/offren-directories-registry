@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:42:49.693769+00:00Z",
+  "lastUpdated": "2025-11-08T13:44:05.766742+00:00Z",
   "stats": {
-    "totalDirectories": 1174,
+    "totalDirectories": 1175,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1174.0,
-    "totalListings": 11186,
-    "aiEnhancedDirectories": 1174
+    "avgDirectoriesPerRepo": 1175.0,
+    "totalListings": 11196,
+    "aiEnhancedDirectories": 1175
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15270,12 +15270,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-homework-help-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:44:05.766742+00:00Z",
+      "lastUpdated": "2025-11-08T13:44:05.766742+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1174,
+      "directoryCount": 1175,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

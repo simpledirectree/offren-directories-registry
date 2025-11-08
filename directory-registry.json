@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:52:09.779655+00:00Z",
+  "lastUpdated": "2025-11-08T04:52:22.926141+00:00Z",
   "stats": {
-    "totalDirectories": 170,
+    "totalDirectories": 171,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 170.0,
-    "totalListings": 1665,
-    "aiEnhancedDirectories": 170
+    "avgDirectoriesPerRepo": 171.0,
+    "totalListings": 1670,
+    "aiEnhancedDirectories": 171
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2218,12 +2218,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-optometry-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:52:22.926141+00:00Z",
+      "lastUpdated": "2025-11-08T04:52:22.926141+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 170,
+      "directoryCount": 171,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

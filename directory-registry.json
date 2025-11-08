@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:09:02.510519+00:00Z",
+  "lastUpdated": "2025-11-08T13:09:15.933711+00:00Z",
   "stats": {
-    "totalDirectories": 1140,
+    "totalDirectories": 1141,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1140.0,
-    "totalListings": 10873,
-    "aiEnhancedDirectories": 1140
+    "avgDirectoriesPerRepo": 1141.0,
+    "totalListings": 10883,
+    "aiEnhancedDirectories": 1141
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14828,12 +14828,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-compliance-training-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:09:15.933711+00:00Z",
+      "lastUpdated": "2025-11-08T13:09:15.933711+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1140,
+      "directoryCount": 1141,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:51:21.773624+00:00Z",
+  "lastUpdated": "2025-11-08T02:54:06.811649+00:00Z",
   "stats": {
-    "totalDirectories": 2336,
+    "totalDirectories": 2337,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2336.0,
-    "totalListings": 21810,
-    "aiEnhancedDirectories": 2335
+    "avgDirectoriesPerRepo": 2337.0,
+    "totalListings": 21815,
+    "aiEnhancedDirectories": 2336
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30375,12 +30375,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-swimming-coaching-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:54:06.811649+00:00Z",
+      "lastUpdated": "2025-11-08T02:54:06.811649+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2336,
+      "directoryCount": 2337,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

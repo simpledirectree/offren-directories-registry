@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:04:15.685225+00:00Z",
+  "lastUpdated": "2025-11-08T04:04:34.549490+00:00Z",
   "stats": {
-    "totalDirectories": 2469,
+    "totalDirectories": 2470,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2469.0,
-    "totalListings": 23067,
-    "aiEnhancedDirectories": 2468
+    "avgDirectoriesPerRepo": 2470.0,
+    "totalListings": 23077,
+    "aiEnhancedDirectories": 2469
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -32104,12 +32104,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-sauna-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:04:34.549490+00:00Z",
+      "lastUpdated": "2025-11-08T04:04:34.549490+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2469,
+      "directoryCount": 2470,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

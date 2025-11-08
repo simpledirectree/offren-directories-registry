@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:04:17.018666+00:00Z",
+  "lastUpdated": "2025-11-08T07:04:35.253142+00:00Z",
   "stats": {
-    "totalDirectories": 647,
+    "totalDirectories": 648,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 647.0,
-    "totalListings": 6284,
-    "aiEnhancedDirectories": 647
+    "avgDirectoriesPerRepo": 648.0,
+    "totalListings": 6294,
+    "aiEnhancedDirectories": 648
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8419,12 +8419,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-hiit-training-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:04:35.253142+00:00Z",
+      "lastUpdated": "2025-11-08T07:04:35.253142+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 647,
+      "directoryCount": 648,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

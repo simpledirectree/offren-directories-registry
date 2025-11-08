@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:14:22.361249+00:00Z",
+  "lastUpdated": "2025-11-08T05:14:39.910639+00:00Z",
   "stats": {
-    "totalDirectories": 250,
+    "totalDirectories": 251,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 250.0,
-    "totalListings": 2450,
-    "aiEnhancedDirectories": 250
+    "avgDirectoriesPerRepo": 251.0,
+    "totalListings": 2460,
+    "aiEnhancedDirectories": 251
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3258,12 +3258,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-makeup-application-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:14:39.910639+00:00Z",
+      "lastUpdated": "2025-11-08T05:14:39.910639+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 250,
+      "directoryCount": 251,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

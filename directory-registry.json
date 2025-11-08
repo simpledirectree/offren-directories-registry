@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:25:59.862143+00:00Z",
+  "lastUpdated": "2025-11-08T09:26:13.535763+00:00Z",
   "stats": {
-    "totalDirectories": 880,
+    "totalDirectories": 881,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 880.0,
-    "totalListings": 8496,
-    "aiEnhancedDirectories": 880
+    "avgDirectoriesPerRepo": 881.0,
+    "totalListings": 8501,
+    "aiEnhancedDirectories": 881
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11448,12 +11448,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-full-time-daycare-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:26:13.535763+00:00Z",
+      "lastUpdated": "2025-11-08T09:26:13.535763+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 880,
+      "directoryCount": 881,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

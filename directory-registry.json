@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:27:53.144646+00:00Z",
+  "lastUpdated": "2025-11-08T06:28:11.126594+00:00Z",
   "stats": {
-    "totalDirectories": 514,
+    "totalDirectories": 515,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 514.0,
-    "totalListings": 5005,
-    "aiEnhancedDirectories": 514
+    "avgDirectoriesPerRepo": 515.0,
+    "totalListings": 5015,
+    "aiEnhancedDirectories": 515
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6690,12 +6690,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-external-auditing-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:28:11.126594+00:00Z",
+      "lastUpdated": "2025-11-08T06:28:11.126594+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 514,
+      "directoryCount": 515,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:38:35.506780+00:00Z",
+  "lastUpdated": "2025-11-08T16:38:51.384468+00:00Z",
   "stats": {
-    "totalDirectories": 1364,
+    "totalDirectories": 1365,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1364.0,
-    "totalListings": 12958,
-    "aiEnhancedDirectories": 1364
+    "avgDirectoriesPerRepo": 1365.0,
+    "totalListings": 12968,
+    "aiEnhancedDirectories": 1365
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17740,12 +17740,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-disease-management-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:38:51.384468+00:00Z",
+      "lastUpdated": "2025-11-08T16:38:51.384468+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1364,
+      "directoryCount": 1365,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

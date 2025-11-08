@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:50:26.761464+00:00Z",
+  "lastUpdated": "2025-11-08T21:52:46.925498+00:00Z",
   "stats": {
-    "totalDirectories": 1742,
+    "totalDirectories": 1743,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1742.0,
-    "totalListings": 16499,
-    "aiEnhancedDirectories": 1742
+    "avgDirectoriesPerRepo": 1743.0,
+    "totalListings": 16509,
+    "aiEnhancedDirectories": 1743
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22654,12 +22654,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-pet-sitting-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:52:46.925498+00:00Z",
+      "lastUpdated": "2025-11-08T21:52:46.925498+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1742,
+      "directoryCount": 1743,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

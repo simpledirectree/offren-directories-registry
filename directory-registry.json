@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:44:55.951058+00:00Z",
+  "lastUpdated": "2025-11-08T04:45:10.290924+00:00Z",
   "stats": {
-    "totalDirectories": 144,
+    "totalDirectories": 145,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 144.0,
-    "totalListings": 1411,
-    "aiEnhancedDirectories": 144
+    "avgDirectoriesPerRepo": 145.0,
+    "totalListings": 1421,
+    "aiEnhancedDirectories": 145
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1880,12 +1880,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-soil-amendment-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:45:10.290924+00:00Z",
+      "lastUpdated": "2025-11-08T04:45:10.290924+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 144,
+      "directoryCount": 145,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

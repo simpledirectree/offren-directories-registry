@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:30:03.944057+00:00Z",
+  "lastUpdated": "2025-11-08T23:31:58.884590+00:00Z",
   "stats": {
-    "totalDirectories": 1853,
+    "totalDirectories": 1854,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1853.0,
-    "totalListings": 17545,
-    "aiEnhancedDirectories": 1853
+    "avgDirectoriesPerRepo": 1854.0,
+    "totalListings": 17555,
+    "aiEnhancedDirectories": 1854
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24097,12 +24097,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-hospice-services-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:31:58.884590+00:00Z",
+      "lastUpdated": "2025-11-08T23:31:58.884590+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1853,
+      "directoryCount": 1854,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

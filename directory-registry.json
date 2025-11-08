@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:00:41.644829+00:00Z",
+  "lastUpdated": "2025-11-08T05:00:59.232394+00:00Z",
   "stats": {
-    "totalDirectories": 202,
+    "totalDirectories": 203,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 202.0,
-    "totalListings": 1980,
-    "aiEnhancedDirectories": 202
+    "avgDirectoriesPerRepo": 203.0,
+    "totalListings": 1990,
+    "aiEnhancedDirectories": 203
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2634,12 +2634,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-technical-training-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:00:59.232394+00:00Z",
+      "lastUpdated": "2025-11-08T05:00:59.232394+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 202,
+      "directoryCount": 203,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

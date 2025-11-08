@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:40:58.752232+00:00Z",
+  "lastUpdated": "2025-11-08T08:42:03.139437+00:00Z",
   "stats": {
-    "totalDirectories": 825,
+    "totalDirectories": 826,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 825.0,
-    "totalListings": 7989,
-    "aiEnhancedDirectories": 825
+    "avgDirectoriesPerRepo": 826.0,
+    "totalListings": 7999,
+    "aiEnhancedDirectories": 826
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10733,12 +10733,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-remodeling-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:42:03.139437+00:00Z",
+      "lastUpdated": "2025-11-08T08:42:03.139437+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 825,
+      "directoryCount": 826,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

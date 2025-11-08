@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:29:50.687349+00:00Z",
+  "lastUpdated": "2025-11-08T05:30:06.325556+00:00Z",
   "stats": {
-    "totalDirectories": 307,
+    "totalDirectories": 308,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 307.0,
-    "totalListings": 3007,
-    "aiEnhancedDirectories": 307
+    "avgDirectoriesPerRepo": 308.0,
+    "totalListings": 3017,
+    "aiEnhancedDirectories": 308
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3999,12 +3999,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-portable-storage-containers-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:30:06.325556+00:00Z",
+      "lastUpdated": "2025-11-08T05:30:06.325556+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 307,
+      "directoryCount": 308,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

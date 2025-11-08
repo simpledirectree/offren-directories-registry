@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:35:43.390058+00:00Z",
+  "lastUpdated": "2025-11-08T04:35:57.411984+00:00Z",
   "stats": {
-    "totalDirectories": 109,
+    "totalDirectories": 110,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 109.0,
-    "totalListings": 1077,
-    "aiEnhancedDirectories": 109
+    "avgDirectoriesPerRepo": 110.0,
+    "totalListings": 1087,
+    "aiEnhancedDirectories": 110
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1425,12 +1425,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-teeth-whitening-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:35:57.411984+00:00Z",
+      "lastUpdated": "2025-11-08T04:35:57.411984+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 109,
+      "directoryCount": 110,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

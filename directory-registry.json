@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:22:04.801820+00:00Z",
+  "lastUpdated": "2025-11-08T14:23:08.176942+00:00Z",
   "stats": {
-    "totalDirectories": 1217,
+    "totalDirectories": 1218,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1217.0,
-    "totalListings": 11590,
-    "aiEnhancedDirectories": 1217
+    "avgDirectoriesPerRepo": 1218.0,
+    "totalListings": 11598,
+    "aiEnhancedDirectories": 1218
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15829,12 +15829,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-olympic-weightlifting-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:23:08.176942+00:00Z",
+      "lastUpdated": "2025-11-08T14:23:08.176942+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1217,
+      "directoryCount": 1218,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

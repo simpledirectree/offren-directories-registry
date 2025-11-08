@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:42:57.549947+00:00Z",
+  "lastUpdated": "2025-11-08T03:43:13.132180+00:00Z",
   "stats": {
-    "totalDirectories": 2395,
+    "totalDirectories": 2396,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2395.0,
-    "totalListings": 22350,
-    "aiEnhancedDirectories": 2394
+    "avgDirectoriesPerRepo": 2396.0,
+    "totalListings": 22360,
+    "aiEnhancedDirectories": 2395
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31142,12 +31142,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-ceramics-instruction-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:43:13.132180+00:00Z",
+      "lastUpdated": "2025-11-08T03:43:13.132180+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2395,
+      "directoryCount": 2396,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:19:58.178517+00:00Z",
+  "lastUpdated": "2025-11-08T13:22:13.744210+00:00Z",
   "stats": {
-    "totalDirectories": 1155,
+    "totalDirectories": 1156,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1155.0,
-    "totalListings": 11020,
-    "aiEnhancedDirectories": 1155
+    "avgDirectoriesPerRepo": 1156.0,
+    "totalListings": 11030,
+    "aiEnhancedDirectories": 1156
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15023,12 +15023,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-tree-planting-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:22:13.744210+00:00Z",
+      "lastUpdated": "2025-11-08T13:22:13.744210+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1155,
+      "directoryCount": 1156,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

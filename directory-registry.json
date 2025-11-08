@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:45:20.139753+00:00Z",
+  "lastUpdated": "2025-11-08T05:45:36.565672+00:00Z",
   "stats": {
-    "totalDirectories": 363,
+    "totalDirectories": 364,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 363.0,
-    "totalListings": 3562,
-    "aiEnhancedDirectories": 363
+    "avgDirectoriesPerRepo": 364.0,
+    "totalListings": 3572,
+    "aiEnhancedDirectories": 364
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4727,12 +4727,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-apprenticeships-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:45:36.565672+00:00Z",
+      "lastUpdated": "2025-11-08T05:45:36.565672+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 363,
+      "directoryCount": 364,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

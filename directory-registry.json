@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:07:21.977216+00:00Z",
+  "lastUpdated": "2025-11-08T08:07:37.742459+00:00Z",
   "stats": {
-    "totalDirectories": 790,
+    "totalDirectories": 791,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 790.0,
-    "totalListings": 7662,
-    "aiEnhancedDirectories": 790
+    "avgDirectoriesPerRepo": 791.0,
+    "totalListings": 7672,
+    "aiEnhancedDirectories": 791
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10278,12 +10278,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-team-building-activities-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:07:37.742459+00:00Z",
+      "lastUpdated": "2025-11-08T08:07:37.742459+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 790,
+      "directoryCount": 791,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

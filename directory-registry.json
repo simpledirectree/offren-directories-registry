@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:44:28.755719+00:00Z",
+  "lastUpdated": "2025-11-08T16:45:37.477168+00:00Z",
   "stats": {
-    "totalDirectories": 1373,
+    "totalDirectories": 1374,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1373.0,
-    "totalListings": 13048,
-    "aiEnhancedDirectories": 1373
+    "avgDirectoriesPerRepo": 1374.0,
+    "totalListings": 13051,
+    "aiEnhancedDirectories": 1374
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17857,12 +17857,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-garden-education-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:45:37.477168+00:00Z",
+      "lastUpdated": "2025-11-08T16:45:37.477168+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1373,
+      "directoryCount": 1374,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

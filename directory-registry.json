@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:27:20.487246+00:00Z",
+  "lastUpdated": "2025-11-08T06:27:34.924583+00:00Z",
   "stats": {
-    "totalDirectories": 512,
+    "totalDirectories": 513,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 512.0,
-    "totalListings": 4985,
-    "aiEnhancedDirectories": 512
+    "avgDirectoriesPerRepo": 513.0,
+    "totalListings": 4995,
+    "aiEnhancedDirectories": 513
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6664,12 +6664,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-event-planning-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:27:34.924583+00:00Z",
+      "lastUpdated": "2025-11-08T06:27:34.924583+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 512,
+      "directoryCount": 513,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

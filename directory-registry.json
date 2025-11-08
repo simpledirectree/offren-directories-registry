@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:25:51.844529+00:00Z",
+  "lastUpdated": "2025-11-08T04:26:05.280366+00:00Z",
   "stats": {
-    "totalDirectories": 75,
+    "totalDirectories": 76,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 75.0,
-    "totalListings": 737,
-    "aiEnhancedDirectories": 75
+    "avgDirectoriesPerRepo": 76.0,
+    "totalListings": 747,
+    "aiEnhancedDirectories": 76
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -983,12 +983,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-lean-six-sigma-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:26:05.280366+00:00Z",
+      "lastUpdated": "2025-11-08T04:26:05.280366+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 75,
+      "directoryCount": 76,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

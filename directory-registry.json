@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:42:29.015165+00:00Z",
+  "lastUpdated": "2025-11-08T00:47:43.772773+00:00Z",
   "stats": {
-    "totalDirectories": 2198,
+    "totalDirectories": 2199,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2198.0,
-    "totalListings": 20560,
-    "aiEnhancedDirectories": 2197
+    "avgDirectoriesPerRepo": 2199.0,
+    "totalListings": 20570,
+    "aiEnhancedDirectories": 2198
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28581,12 +28581,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-business-formation-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:47:43.772773+00:00Z",
+      "lastUpdated": "2025-11-08T00:47:43.772773+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2198,
+      "directoryCount": 2199,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:41:36.641665+00:00Z",
+  "lastUpdated": "2025-11-08T05:41:54.295513+00:00Z",
   "stats": {
-    "totalDirectories": 350,
+    "totalDirectories": 351,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 350.0,
-    "totalListings": 3437,
-    "aiEnhancedDirectories": 350
+    "avgDirectoriesPerRepo": 351.0,
+    "totalListings": 3447,
+    "aiEnhancedDirectories": 351
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4558,12 +4558,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-kung-fu-classes-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:41:54.295513+00:00Z",
+      "lastUpdated": "2025-11-08T05:41:54.295513+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 350,
+      "directoryCount": 351,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

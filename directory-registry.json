@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:39:59.219311+00:00Z",
+  "lastUpdated": "2025-11-08T19:42:36.204190+00:00Z",
   "stats": {
-    "totalDirectories": 1580,
+    "totalDirectories": 1581,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1580.0,
-    "totalListings": 15010,
-    "aiEnhancedDirectories": 1580
+    "avgDirectoriesPerRepo": 1581.0,
+    "totalListings": 15020,
+    "aiEnhancedDirectories": 1581
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20548,12 +20548,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-influencer-marketing-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:42:36.204190+00:00Z",
+      "lastUpdated": "2025-11-08T19:42:36.204190+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1580,
+      "directoryCount": 1581,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

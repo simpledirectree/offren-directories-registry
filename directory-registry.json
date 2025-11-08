@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:26:42.130061+00:00Z",
+  "lastUpdated": "2025-11-08T19:28:12.480991+00:00Z",
   "stats": {
-    "totalDirectories": 1563,
+    "totalDirectories": 1564,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1563.0,
-    "totalListings": 14853,
-    "aiEnhancedDirectories": 1563
+    "avgDirectoriesPerRepo": 1564.0,
+    "totalListings": 14863,
+    "aiEnhancedDirectories": 1564
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20327,12 +20327,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-ultrasound-services-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:28:12.480991+00:00Z",
+      "lastUpdated": "2025-11-08T19:28:12.480991+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1563,
+      "directoryCount": 1564,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

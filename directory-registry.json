@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:52:34.819918+00:00Z",
+  "lastUpdated": "2025-11-08T01:52:52.968927+00:00Z",
   "stats": {
-    "totalDirectories": 2279,
+    "totalDirectories": 2280,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2279.0,
-    "totalListings": 21301,
-    "aiEnhancedDirectories": 2278
+    "avgDirectoriesPerRepo": 2280.0,
+    "totalListings": 21311,
+    "aiEnhancedDirectories": 2279
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29634,12 +29634,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-gyms-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:52:52.968927+00:00Z",
+      "lastUpdated": "2025-11-08T01:52:52.968927+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2279,
+      "directoryCount": 2280,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

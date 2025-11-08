@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:16:05.500228+00:00Z",
+  "lastUpdated": "2025-11-08T05:16:23.730434+00:00Z",
   "stats": {
-    "totalDirectories": 256,
+    "totalDirectories": 257,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 256.0,
-    "totalListings": 2510,
-    "aiEnhancedDirectories": 256
+    "avgDirectoriesPerRepo": 257.0,
+    "totalListings": 2520,
+    "aiEnhancedDirectories": 257
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3336,12 +3336,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-hiit-training-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:16:23.730434+00:00Z",
+      "lastUpdated": "2025-11-08T05:16:23.730434+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 256,
+      "directoryCount": 257,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:33:39.916460+00:00Z",
+  "lastUpdated": "2025-11-08T05:33:56.299328+00:00Z",
   "stats": {
-    "totalDirectories": 321,
+    "totalDirectories": 322,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 321.0,
-    "totalListings": 3147,
-    "aiEnhancedDirectories": 321
+    "avgDirectoriesPerRepo": 322.0,
+    "totalListings": 3157,
+    "aiEnhancedDirectories": 322
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4181,12 +4181,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-bariatric-surgery-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:33:56.299328+00:00Z",
+      "lastUpdated": "2025-11-08T05:33:56.299328+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 321,
+      "directoryCount": 322,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

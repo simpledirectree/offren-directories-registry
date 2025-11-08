@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:50:11.308942+00:00Z",
+  "lastUpdated": "2025-11-08T21:50:26.761464+00:00Z",
   "stats": {
-    "totalDirectories": 1741,
+    "totalDirectories": 1742,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1741.0,
-    "totalListings": 16492,
-    "aiEnhancedDirectories": 1741
+    "avgDirectoriesPerRepo": 1742.0,
+    "totalListings": 16499,
+    "aiEnhancedDirectories": 1742
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22641,12 +22641,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-auto-detailing-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:50:26.761464+00:00Z",
+      "lastUpdated": "2025-11-08T21:50:26.761464+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1741,
+      "directoryCount": 1742,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

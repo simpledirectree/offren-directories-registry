@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:48:38.806355+00:00Z",
+  "lastUpdated": "2025-11-08T04:48:54.822075+00:00Z",
   "stats": {
-    "totalDirectories": 157,
+    "totalDirectories": 158,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 157.0,
-    "totalListings": 1540,
-    "aiEnhancedDirectories": 157
+    "avgDirectoriesPerRepo": 158.0,
+    "totalListings": 1550,
+    "aiEnhancedDirectories": 158
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2049,12 +2049,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-x-ray-services-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:48:54.822075+00:00Z",
+      "lastUpdated": "2025-11-08T04:48:54.822075+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 157,
+      "directoryCount": 158,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

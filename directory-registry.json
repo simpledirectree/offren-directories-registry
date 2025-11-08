@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:50:11.847753+00:00Z",
+  "lastUpdated": "2025-11-08T00:50:49.721974+00:00Z",
   "stats": {
-    "totalDirectories": 2203,
+    "totalDirectories": 2204,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2203.0,
-    "totalListings": 20608,
-    "aiEnhancedDirectories": 2202
+    "avgDirectoriesPerRepo": 2204.0,
+    "totalListings": 20613,
+    "aiEnhancedDirectories": 2203
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28646,12 +28646,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-mutual-fund-management-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:50:49.721974+00:00Z",
+      "lastUpdated": "2025-11-08T00:50:49.721974+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2203,
+      "directoryCount": 2204,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

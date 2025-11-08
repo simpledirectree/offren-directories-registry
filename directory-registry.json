@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:53:38.621958+00:00Z",
+  "lastUpdated": "2025-11-08T23:54:45.163891+00:00Z",
   "stats": {
-    "totalDirectories": 1888,
+    "totalDirectories": 1889,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1888.0,
-    "totalListings": 17855,
-    "aiEnhancedDirectories": 1888
+    "avgDirectoriesPerRepo": 1889.0,
+    "totalListings": 17865,
+    "aiEnhancedDirectories": 1889
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24552,12 +24552,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-aromatherapy-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:54:45.163891+00:00Z",
+      "lastUpdated": "2025-11-08T23:54:45.163891+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1888,
+      "directoryCount": 1889,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

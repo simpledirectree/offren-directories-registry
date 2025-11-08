@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:21:22.838688+00:00Z",
+  "lastUpdated": "2025-11-08T05:21:35.532925+00:00Z",
   "stats": {
-    "totalDirectories": 276,
+    "totalDirectories": 277,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 276.0,
-    "totalListings": 2704,
-    "aiEnhancedDirectories": 276
+    "avgDirectoriesPerRepo": 277.0,
+    "totalListings": 2707,
+    "aiEnhancedDirectories": 277
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3596,12 +3596,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-medicaid-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:21:35.532925+00:00Z",
+      "lastUpdated": "2025-11-08T05:21:35.532925+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 276,
+      "directoryCount": 277,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:16:55.320956+00:00Z",
+  "lastUpdated": "2025-11-08T23:17:09.046782+00:00Z",
   "stats": {
-    "totalDirectories": 1836,
+    "totalDirectories": 1837,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1836.0,
-    "totalListings": 17397,
-    "aiEnhancedDirectories": 1836
+    "avgDirectoriesPerRepo": 1837.0,
+    "totalListings": 17402,
+    "aiEnhancedDirectories": 1837
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23876,12 +23876,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-auto-insurance-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:17:09.046782+00:00Z",
+      "lastUpdated": "2025-11-08T23:17:09.046782+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1836,
+      "directoryCount": 1837,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

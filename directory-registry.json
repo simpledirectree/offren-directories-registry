@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:57:30.886306+00:00Z",
+  "lastUpdated": "2025-11-08T06:57:44.706952+00:00Z",
   "stats": {
-    "totalDirectories": 622,
+    "totalDirectories": 623,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 622.0,
-    "totalListings": 6045,
-    "aiEnhancedDirectories": 622
+    "avgDirectoriesPerRepo": 623.0,
+    "totalListings": 6055,
+    "aiEnhancedDirectories": 623
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8094,12 +8094,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-desktop-virtualization-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:57:44.706952+00:00Z",
+      "lastUpdated": "2025-11-08T06:57:44.706952+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 622,
+      "directoryCount": 623,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

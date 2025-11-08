@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:56:11.597749+00:00Z",
+  "lastUpdated": "2025-11-08T04:56:29.167369+00:00Z",
   "stats": {
-    "totalDirectories": 185,
+    "totalDirectories": 186,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 185.0,
-    "totalListings": 1810,
-    "aiEnhancedDirectories": 185
+    "avgDirectoriesPerRepo": 186.0,
+    "totalListings": 1820,
+    "aiEnhancedDirectories": 186
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2413,12 +2413,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-irrigation-system-design-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:56:29.167369+00:00Z",
+      "lastUpdated": "2025-11-08T04:56:29.167369+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 185,
+      "directoryCount": 186,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

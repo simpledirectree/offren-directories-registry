@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:06:08.704640+00:00Z",
+  "lastUpdated": "2025-11-08T04:06:26.208526+00:00Z",
   "stats": {
-    "totalDirectories": 4,
+    "totalDirectories": 5,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 4.0,
-    "totalListings": 40,
-    "aiEnhancedDirectories": 4
+    "avgDirectoriesPerRepo": 5.0,
+    "totalListings": 50,
+    "aiEnhancedDirectories": 5
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -60,12 +60,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-temporary-staffing-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:06:26.208526+00:00Z",
+      "lastUpdated": "2025-11-08T04:06:26.208526+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 4,
+      "directoryCount": 5,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

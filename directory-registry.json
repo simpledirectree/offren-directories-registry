@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:11:30.610942+00:00Z",
+  "lastUpdated": "2025-11-08T18:12:11.582030+00:00Z",
   "stats": {
-    "totalDirectories": 1475,
+    "totalDirectories": 1476,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1475.0,
-    "totalListings": 14013,
-    "aiEnhancedDirectories": 1475
+    "avgDirectoriesPerRepo": 1476.0,
+    "totalListings": 14023,
+    "aiEnhancedDirectories": 1476
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19183,12 +19183,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-fulfillment-services-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:12:11.582030+00:00Z",
+      "lastUpdated": "2025-11-08T18:12:11.582030+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1475,
+      "directoryCount": 1476,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

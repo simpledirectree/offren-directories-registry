@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:05:46.793147+00:00Z",
+  "lastUpdated": "2025-11-08T23:06:20.260712+00:00Z",
   "stats": {
-    "totalDirectories": 1820,
+    "totalDirectories": 1821,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1820.0,
-    "totalListings": 17242,
-    "aiEnhancedDirectories": 1820
+    "avgDirectoriesPerRepo": 1821.0,
+    "totalListings": 17252,
+    "aiEnhancedDirectories": 1821
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23668,12 +23668,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-business-plan-development-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:06:20.260712+00:00Z",
+      "lastUpdated": "2025-11-08T23:06:20.260712+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1820,
+      "directoryCount": 1821,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

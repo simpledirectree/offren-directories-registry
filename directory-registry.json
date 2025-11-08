@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:55:41.443890+00:00Z",
+  "lastUpdated": "2025-11-08T20:57:12.103658+00:00Z",
   "stats": {
-    "totalDirectories": 1671,
+    "totalDirectories": 1672,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1671.0,
-    "totalListings": 15847,
-    "aiEnhancedDirectories": 1671
+    "avgDirectoriesPerRepo": 1672.0,
+    "totalListings": 15857,
+    "aiEnhancedDirectories": 1672
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21731,12 +21731,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-umbrella-insurance-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:57:12.103658+00:00Z",
+      "lastUpdated": "2025-11-08T20:57:12.103658+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1671,
+      "directoryCount": 1672,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

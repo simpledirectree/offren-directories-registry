@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:15:48.615807+00:00Z",
+  "lastUpdated": "2025-11-08T18:16:31.177250+00:00Z",
   "stats": {
-    "totalDirectories": 1480,
+    "totalDirectories": 1481,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1480.0,
-    "totalListings": 14063,
-    "aiEnhancedDirectories": 1480
+    "avgDirectoriesPerRepo": 1481.0,
+    "totalListings": 14073,
+    "aiEnhancedDirectories": 1481
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19248,12 +19248,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-security-audits-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:16:31.177250+00:00Z",
+      "lastUpdated": "2025-11-08T18:16:31.177250+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1480,
+      "directoryCount": 1481,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

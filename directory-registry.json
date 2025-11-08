@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:18:13.568081+00:00Z",
+  "lastUpdated": "2025-11-08T00:18:27.123958+00:00Z",
   "stats": {
-    "totalDirectories": 2169,
+    "totalDirectories": 2170,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2169.0,
-    "totalListings": 20303,
-    "aiEnhancedDirectories": 2168
+    "avgDirectoriesPerRepo": 2170.0,
+    "totalListings": 20311,
+    "aiEnhancedDirectories": 2169
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28204,12 +28204,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-immigration-law-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:18:27.123958+00:00Z",
+      "lastUpdated": "2025-11-08T00:18:27.123958+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2169,
+      "directoryCount": 2170,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:36:54.459592+00:00Z",
+  "lastUpdated": "2025-11-08T10:37:31.553343+00:00Z",
   "stats": {
-    "totalDirectories": 956,
+    "totalDirectories": 957,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 956.0,
-    "totalListings": 9192,
-    "aiEnhancedDirectories": 956
+    "avgDirectoriesPerRepo": 957.0,
+    "totalListings": 9197,
+    "aiEnhancedDirectories": 957
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12436,12 +12436,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-container-gardening-services-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:37:31.553343+00:00Z",
+      "lastUpdated": "2025-11-08T10:37:31.553343+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 956,
+      "directoryCount": 957,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

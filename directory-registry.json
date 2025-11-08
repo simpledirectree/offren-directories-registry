@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:56:04.127256+00:00Z",
+  "lastUpdated": "2025-11-08T06:56:17.919204+00:00Z",
   "stats": {
-    "totalDirectories": 616,
+    "totalDirectories": 617,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 616.0,
-    "totalListings": 5993,
-    "aiEnhancedDirectories": 616
+    "avgDirectoriesPerRepo": 617.0,
+    "totalListings": 6003,
+    "aiEnhancedDirectories": 617
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8016,12 +8016,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-pop-up-shops-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:56:17.919204+00:00Z",
+      "lastUpdated": "2025-11-08T06:56:17.919204+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 616,
+      "directoryCount": 617,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

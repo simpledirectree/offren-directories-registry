@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:11:41.540283+00:00Z",
+  "lastUpdated": "2025-11-08T08:12:21.679256+00:00Z",
   "stats": {
-    "totalDirectories": 794,
+    "totalDirectories": 795,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 794.0,
-    "totalListings": 7702,
-    "aiEnhancedDirectories": 794
+    "avgDirectoriesPerRepo": 795.0,
+    "totalListings": 7712,
+    "aiEnhancedDirectories": 795
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10330,12 +10330,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-farm-equipment-rental-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:12:21.679256+00:00Z",
+      "lastUpdated": "2025-11-08T08:12:21.679256+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 794,
+      "directoryCount": 795,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

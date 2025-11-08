@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:16:00.847691+00:00Z",
+  "lastUpdated": "2025-11-08T03:16:17.343069+00:00Z",
   "stats": {
-    "totalDirectories": 2359,
+    "totalDirectories": 2360,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2359.0,
-    "totalListings": 22025,
-    "aiEnhancedDirectories": 2358
+    "avgDirectoriesPerRepo": 2360.0,
+    "totalListings": 22035,
+    "aiEnhancedDirectories": 2359
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30674,12 +30674,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-weed-control-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:16:17.343069+00:00Z",
+      "lastUpdated": "2025-11-08T03:16:17.343069+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2359,
+      "directoryCount": 2360,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

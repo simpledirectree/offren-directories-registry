@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:47:31.878735+00:00Z",
+  "lastUpdated": "2025-11-08T06:47:49.918744+00:00Z",
   "stats": {
-    "totalDirectories": 585,
+    "totalDirectories": 586,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 585.0,
-    "totalListings": 5692,
-    "aiEnhancedDirectories": 585
+    "avgDirectoriesPerRepo": 586.0,
+    "totalListings": 5702,
+    "aiEnhancedDirectories": 586
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7613,12 +7613,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-roadside-assistance-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:47:49.918744+00:00Z",
+      "lastUpdated": "2025-11-08T06:47:49.918744+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 585,
+      "directoryCount": 586,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

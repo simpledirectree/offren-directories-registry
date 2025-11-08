@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:53:41.290581+00:00Z",
+  "lastUpdated": "2025-11-08T05:53:58.632893+00:00Z",
   "stats": {
-    "totalDirectories": 393,
+    "totalDirectories": 394,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 393.0,
-    "totalListings": 3839,
-    "aiEnhancedDirectories": 393
+    "avgDirectoriesPerRepo": 394.0,
+    "totalListings": 3849,
+    "aiEnhancedDirectories": 394
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5117,12 +5117,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-desktop-support-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:53:58.632893+00:00Z",
+      "lastUpdated": "2025-11-08T05:53:58.632893+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 393,
+      "directoryCount": 394,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

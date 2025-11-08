@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:10:17.606592+00:00Z",
+  "lastUpdated": "2025-11-08T23:11:24.166316+00:00Z",
   "stats": {
-    "totalDirectories": 1828,
+    "totalDirectories": 1829,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1828.0,
-    "totalListings": 17322,
-    "aiEnhancedDirectories": 1828
+    "avgDirectoriesPerRepo": 1829.0,
+    "totalListings": 17332,
+    "aiEnhancedDirectories": 1829
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23772,12 +23772,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-invitation-design-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:11:24.166316+00:00Z",
+      "lastUpdated": "2025-11-08T23:11:24.166316+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1828,
+      "directoryCount": 1829,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

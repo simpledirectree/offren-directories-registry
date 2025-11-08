@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:06:14.754636+00:00Z",
+  "lastUpdated": "2025-11-08T21:06:55.777957+00:00Z",
   "stats": {
-    "totalDirectories": 1688,
+    "totalDirectories": 1689,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1688.0,
-    "totalListings": 16009,
-    "aiEnhancedDirectories": 1688
+    "avgDirectoriesPerRepo": 1689.0,
+    "totalListings": 16019,
+    "aiEnhancedDirectories": 1689
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21952,12 +21952,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-fundraiser-planning-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:06:55.777957+00:00Z",
+      "lastUpdated": "2025-11-08T21:06:55.777957+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1688,
+      "directoryCount": 1689,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

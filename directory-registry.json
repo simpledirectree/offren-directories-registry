@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:52:33.577293+00:00Z",
+  "lastUpdated": "2025-11-08T18:53:14.918018+00:00Z",
   "stats": {
-    "totalDirectories": 1525,
+    "totalDirectories": 1526,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1525.0,
-    "totalListings": 14487,
-    "aiEnhancedDirectories": 1525
+    "avgDirectoriesPerRepo": 1526.0,
+    "totalListings": 14497,
+    "aiEnhancedDirectories": 1526
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19833,12 +19833,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-trade-schools-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:53:14.918018+00:00Z",
+      "lastUpdated": "2025-11-08T18:53:14.918018+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1525,
+      "directoryCount": 1526,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

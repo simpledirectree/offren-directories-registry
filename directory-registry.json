@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:36:19.929399+00:00Z",
+  "lastUpdated": "2025-11-08T05:36:35.504529+00:00Z",
   "stats": {
-    "totalDirectories": 331,
+    "totalDirectories": 332,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 331.0,
-    "totalListings": 3247,
-    "aiEnhancedDirectories": 331
+    "avgDirectoriesPerRepo": 332.0,
+    "totalListings": 3257,
+    "aiEnhancedDirectories": 332
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4311,12 +4311,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-mergers-and-acquisitions-law-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:36:35.504529+00:00Z",
+      "lastUpdated": "2025-11-08T05:36:35.504529+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 331,
+      "directoryCount": 332,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

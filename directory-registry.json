@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:31:41.160019+00:00Z",
+  "lastUpdated": "2025-11-08T07:32:04.221731+00:00Z",
   "stats": {
-    "totalDirectories": 746,
+    "totalDirectories": 747,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 746.0,
-    "totalListings": 7247,
-    "aiEnhancedDirectories": 746
+    "avgDirectoriesPerRepo": 747.0,
+    "totalListings": 7257,
+    "aiEnhancedDirectories": 747
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9706,12 +9706,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-irs-audit-representation-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:32:04.221731+00:00Z",
+      "lastUpdated": "2025-11-08T07:32:04.221731+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 746,
+      "directoryCount": 747,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

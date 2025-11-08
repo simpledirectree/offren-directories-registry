@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:58:03.443149+00:00Z",
+  "lastUpdated": "2025-11-08T06:58:15.804413+00:00Z",
   "stats": {
-    "totalDirectories": 624,
+    "totalDirectories": 625,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 624.0,
-    "totalListings": 6065,
-    "aiEnhancedDirectories": 624
+    "avgDirectoriesPerRepo": 625.0,
+    "totalListings": 6075,
+    "aiEnhancedDirectories": 625
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8120,12 +8120,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-strategic-planning-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:58:15.804413+00:00Z",
+      "lastUpdated": "2025-11-08T06:58:15.804413+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 624,
+      "directoryCount": 625,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

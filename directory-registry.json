@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:38:34.945838+00:00Z",
+  "lastUpdated": "2025-11-08T04:38:52.639071+00:00Z",
   "stats": {
-    "totalDirectories": 120,
+    "totalDirectories": 121,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 120.0,
-    "totalListings": 1182,
-    "aiEnhancedDirectories": 120
+    "avgDirectoriesPerRepo": 121.0,
+    "totalListings": 1192,
+    "aiEnhancedDirectories": 121
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1568,12 +1568,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-tire-balancing-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:38:52.639071+00:00Z",
+      "lastUpdated": "2025-11-08T04:38:52.639071+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 120,
+      "directoryCount": 121,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

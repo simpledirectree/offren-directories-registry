@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:44:56.329482+00:00Z",
+  "lastUpdated": "2025-11-08T23:45:59.935995+00:00Z",
   "stats": {
-    "totalDirectories": 1875,
+    "totalDirectories": 1876,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1875.0,
-    "totalListings": 17730,
-    "aiEnhancedDirectories": 1875
+    "avgDirectoriesPerRepo": 1876.0,
+    "totalListings": 17740,
+    "aiEnhancedDirectories": 1876
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24383,12 +24383,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-general-home-repairs-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:45:59.935995+00:00Z",
+      "lastUpdated": "2025-11-08T23:45:59.935995+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1875,
+      "directoryCount": 1876,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

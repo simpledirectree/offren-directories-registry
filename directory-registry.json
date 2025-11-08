@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:47:27.044162+00:00Z",
+  "lastUpdated": "2025-11-08T03:47:46.504604+00:00Z",
   "stats": {
-    "totalDirectories": 2411,
+    "totalDirectories": 2412,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2411.0,
-    "totalListings": 22510,
-    "aiEnhancedDirectories": 2410
+    "avgDirectoriesPerRepo": 2412.0,
+    "totalListings": 22520,
+    "aiEnhancedDirectories": 2411
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31350,12 +31350,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-progressive-web-apps-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:47:46.504604+00:00Z",
+      "lastUpdated": "2025-11-08T03:47:46.504604+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2411,
+      "directoryCount": 2412,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:12:44.863992+00:00Z",
+  "lastUpdated": "2025-11-08T23:13:00.720049+00:00Z",
   "stats": {
-    "totalDirectories": 1831,
+    "totalDirectories": 1832,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1831.0,
-    "totalListings": 17347,
-    "aiEnhancedDirectories": 1831
+    "avgDirectoriesPerRepo": 1832.0,
+    "totalListings": 17357,
+    "aiEnhancedDirectories": 1832
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23811,12 +23811,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-tire-balancing-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:13:00.720049+00:00Z",
+      "lastUpdated": "2025-11-08T23:13:00.720049+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1831,
+      "directoryCount": 1832,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

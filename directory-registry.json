@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:55:14.870171+00:00Z",
+  "lastUpdated": "2025-11-08T23:55:30.408882+00:00Z",
   "stats": {
-    "totalDirectories": 1891,
+    "totalDirectories": 1892,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1891.0,
-    "totalListings": 17876,
-    "aiEnhancedDirectories": 1891
+    "avgDirectoriesPerRepo": 1892.0,
+    "totalListings": 17886,
+    "aiEnhancedDirectories": 1892
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24591,12 +24591,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-hospice-services-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:55:30.408882+00:00Z",
+      "lastUpdated": "2025-11-08T23:55:30.408882+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1891,
+      "directoryCount": 1892,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

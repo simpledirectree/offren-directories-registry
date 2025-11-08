@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:47:14.309859+00:00Z",
+  "lastUpdated": "2025-11-08T06:47:31.878735+00:00Z",
   "stats": {
-    "totalDirectories": 584,
+    "totalDirectories": 585,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 584.0,
-    "totalListings": 5682,
-    "aiEnhancedDirectories": 584
+    "avgDirectoriesPerRepo": 585.0,
+    "totalListings": 5692,
+    "aiEnhancedDirectories": 585
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7600,12 +7600,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-crm-setup-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:47:31.878735+00:00Z",
+      "lastUpdated": "2025-11-08T06:47:31.878735+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 584,
+      "directoryCount": 585,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

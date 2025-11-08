@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:12:59.707438+00:00Z",
+  "lastUpdated": "2025-11-08T02:13:16.047704+00:00Z",
   "stats": {
-    "totalDirectories": 2302,
+    "totalDirectories": 2303,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2302.0,
-    "totalListings": 21518,
-    "aiEnhancedDirectories": 2301
+    "avgDirectoriesPerRepo": 2303.0,
+    "totalListings": 21527,
+    "aiEnhancedDirectories": 2302
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29933,12 +29933,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-facility-management-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:13:16.047704+00:00Z",
+      "lastUpdated": "2025-11-08T02:13:16.047704+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2302,
+      "directoryCount": 2303,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

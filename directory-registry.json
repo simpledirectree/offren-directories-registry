@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:56:47.355903+00:00Z",
+  "lastUpdated": "2025-11-08T00:58:18.381983+00:00Z",
   "stats": {
-    "totalDirectories": 2212,
+    "totalDirectories": 2213,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2212.0,
-    "totalListings": 20688,
-    "aiEnhancedDirectories": 2211
+    "avgDirectoriesPerRepo": 2213.0,
+    "totalListings": 20698,
+    "aiEnhancedDirectories": 2212
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28763,12 +28763,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-basketball-coaching-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:58:18.381983+00:00Z",
+      "lastUpdated": "2025-11-08T00:58:18.381983+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2212,
+      "directoryCount": 2213,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

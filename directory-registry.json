@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:17:04.788912+00:00Z",
+  "lastUpdated": "2025-11-08T04:17:22.154651+00:00Z",
   "stats": {
-    "totalDirectories": 43,
+    "totalDirectories": 44,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 43.0,
-    "totalListings": 426,
-    "aiEnhancedDirectories": 43
+    "avgDirectoriesPerRepo": 44.0,
+    "totalListings": 436,
+    "aiEnhancedDirectories": 44
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -567,12 +567,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-technical-writing-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:17:22.154651+00:00Z",
+      "lastUpdated": "2025-11-08T04:17:22.154651+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 43,
+      "directoryCount": 44,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

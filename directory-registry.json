@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:47:49.918744+00:00Z",
+  "lastUpdated": "2025-11-08T06:48:07.048776+00:00Z",
   "stats": {
-    "totalDirectories": 586,
+    "totalDirectories": 587,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 586.0,
-    "totalListings": 5702,
-    "aiEnhancedDirectories": 586
+    "avgDirectoriesPerRepo": 587.0,
+    "totalListings": 5712,
+    "aiEnhancedDirectories": 587
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7626,12 +7626,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-copyright-law-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:48:07.048776+00:00Z",
+      "lastUpdated": "2025-11-08T06:48:07.048776+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 586,
+      "directoryCount": 587,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

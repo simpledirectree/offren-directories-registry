@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:17:38.738015+00:00Z",
+  "lastUpdated": "2025-11-08T05:17:55.146320+00:00Z",
   "stats": {
-    "totalDirectories": 262,
+    "totalDirectories": 263,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 262.0,
-    "totalListings": 2570,
-    "aiEnhancedDirectories": 262
+    "avgDirectoriesPerRepo": 263.0,
+    "totalListings": 2580,
+    "aiEnhancedDirectories": 263
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3414,12 +3414,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-manicures-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:17:55.146320+00:00Z",
+      "lastUpdated": "2025-11-08T05:17:55.146320+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 262,
+      "directoryCount": 263,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

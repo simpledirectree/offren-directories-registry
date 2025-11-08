@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:49:22.254109+00:00Z",
+  "lastUpdated": "2025-11-08T05:49:39.728013+00:00Z",
   "stats": {
-    "totalDirectories": 377,
+    "totalDirectories": 378,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 377.0,
-    "totalListings": 3692,
-    "aiEnhancedDirectories": 377
+    "avgDirectoriesPerRepo": 378.0,
+    "totalListings": 3702,
+    "aiEnhancedDirectories": 378
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4909,12 +4909,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-cfo-services-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:49:39.728013+00:00Z",
+      "lastUpdated": "2025-11-08T05:49:39.728013+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 377,
+      "directoryCount": 378,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

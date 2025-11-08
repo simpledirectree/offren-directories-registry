@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:36:03.773368+00:00Z",
+  "lastUpdated": "2025-11-08T06:36:22.138231+00:00Z",
   "stats": {
-    "totalDirectories": 544,
+    "totalDirectories": 545,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 544.0,
-    "totalListings": 5305,
-    "aiEnhancedDirectories": 544
+    "avgDirectoriesPerRepo": 545.0,
+    "totalListings": 5315,
+    "aiEnhancedDirectories": 545
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7080,12 +7080,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-furnaces-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:36:22.138231+00:00Z",
+      "lastUpdated": "2025-11-08T06:36:22.138231+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 544,
+      "directoryCount": 545,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

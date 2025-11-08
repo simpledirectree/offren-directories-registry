@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:14:28.180104+00:00Z",
+  "lastUpdated": "2025-11-08T01:14:42.297047+00:00Z",
   "stats": {
-    "totalDirectories": 2231,
+    "totalDirectories": 2232,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2231.0,
-    "totalListings": 20847,
-    "aiEnhancedDirectories": 2230
+    "avgDirectoriesPerRepo": 2232.0,
+    "totalListings": 20854,
+    "aiEnhancedDirectories": 2231
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29010,12 +29010,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-manicures-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:14:42.297047+00:00Z",
+      "lastUpdated": "2025-11-08T01:14:42.297047+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2231,
+      "directoryCount": 2232,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

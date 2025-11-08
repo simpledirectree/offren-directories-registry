@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:14:39.809992+00:00Z",
+  "lastUpdated": "2025-11-08T06:14:53.534514+00:00Z",
   "stats": {
-    "totalDirectories": 467,
+    "totalDirectories": 468,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 467.0,
-    "totalListings": 4540,
-    "aiEnhancedDirectories": 467
+    "avgDirectoriesPerRepo": 468.0,
+    "totalListings": 4549,
+    "aiEnhancedDirectories": 468
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6079,12 +6079,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-remote-start-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:14:53.534514+00:00Z",
+      "lastUpdated": "2025-11-08T06:14:53.534514+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 467,
+      "directoryCount": 468,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

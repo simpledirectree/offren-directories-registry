@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:24:41.801955+00:00Z",
+  "lastUpdated": "2025-11-08T06:25:00.530629+00:00Z",
   "stats": {
-    "totalDirectories": 503,
+    "totalDirectories": 504,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 503.0,
-    "totalListings": 4895,
-    "aiEnhancedDirectories": 503
+    "avgDirectoriesPerRepo": 504.0,
+    "totalListings": 4905,
+    "aiEnhancedDirectories": 504
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6547,12 +6547,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-admissions-guidance-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:25:00.530629+00:00Z",
+      "lastUpdated": "2025-11-08T06:25:00.530629+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 503,
+      "directoryCount": 504,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

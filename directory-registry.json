@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:12:04.474987+00:00Z",
+  "lastUpdated": "2025-11-08T07:12:20.370698+00:00Z",
   "stats": {
-    "totalDirectories": 674,
+    "totalDirectories": 675,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 674.0,
-    "totalListings": 6549,
-    "aiEnhancedDirectories": 674
+    "avgDirectoriesPerRepo": 675.0,
+    "totalListings": 6559,
+    "aiEnhancedDirectories": 675
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8770,12 +8770,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-ethnic-catering-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:12:20.370698+00:00Z",
+      "lastUpdated": "2025-11-08T07:12:20.370698+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 674,
+      "directoryCount": 675,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

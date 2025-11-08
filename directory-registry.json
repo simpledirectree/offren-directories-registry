@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:58:30.612160+00:00Z",
+  "lastUpdated": "2025-11-08T05:58:48.673756+00:00Z",
   "stats": {
-    "totalDirectories": 410,
+    "totalDirectories": 411,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 410.0,
-    "totalListings": 4002,
-    "aiEnhancedDirectories": 410
+    "avgDirectoriesPerRepo": 411.0,
+    "totalListings": 4012,
+    "aiEnhancedDirectories": 411
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5338,12 +5338,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-pedicures-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:58:48.673756+00:00Z",
+      "lastUpdated": "2025-11-08T05:58:48.673756+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 410,
+      "directoryCount": 411,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

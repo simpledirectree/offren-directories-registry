@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:04:05.895923+00:00Z",
+  "lastUpdated": "2025-11-08T01:04:46.286480+00:00Z",
   "stats": {
-    "totalDirectories": 2218,
+    "totalDirectories": 2219,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2218.0,
-    "totalListings": 20735,
-    "aiEnhancedDirectories": 2217
+    "avgDirectoriesPerRepo": 2219.0,
+    "totalListings": 20744,
+    "aiEnhancedDirectories": 2218
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28841,12 +28841,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-act-prep-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:04:46.286480+00:00Z",
+      "lastUpdated": "2025-11-08T01:04:46.286480+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2218,
+      "directoryCount": 2219,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:46:51.892311+00:00Z",
+  "lastUpdated": "2025-11-08T10:47:03.745314+00:00Z",
   "stats": {
-    "totalDirectories": 967,
+    "totalDirectories": 968,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 967.0,
-    "totalListings": 9277,
-    "aiEnhancedDirectories": 967
+    "avgDirectoriesPerRepo": 968.0,
+    "totalListings": 9278,
+    "aiEnhancedDirectories": 968
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12579,12 +12579,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-event-space-rentals-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:47:03.745314+00:00Z",
+      "lastUpdated": "2025-11-08T10:47:03.745314+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 967,
+      "directoryCount": 968,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:06:24.172735+00:00Z",
+  "lastUpdated": "2025-11-08T18:06:39.212267+00:00Z",
   "stats": {
-    "totalDirectories": 1467,
+    "totalDirectories": 1468,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1467.0,
-    "totalListings": 13933,
-    "aiEnhancedDirectories": 1467
+    "avgDirectoriesPerRepo": 1468.0,
+    "totalListings": 13943,
+    "aiEnhancedDirectories": 1468
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19079,12 +19079,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-psychiatry-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:06:39.212267+00:00Z",
+      "lastUpdated": "2025-11-08T18:06:39.212267+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1467,
+      "directoryCount": 1468,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

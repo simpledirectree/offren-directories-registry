@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:23:07.958304+00:00Z",
+  "lastUpdated": "2025-11-08T07:23:23.457585+00:00Z",
   "stats": {
-    "totalDirectories": 714,
+    "totalDirectories": 715,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 714.0,
-    "totalListings": 6946,
-    "aiEnhancedDirectories": 714
+    "avgDirectoriesPerRepo": 715.0,
+    "totalListings": 6956,
+    "aiEnhancedDirectories": 715
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9290,12 +9290,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-storage-services-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:23:23.457585+00:00Z",
+      "lastUpdated": "2025-11-08T07:23:23.457585+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 714,
+      "directoryCount": 715,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

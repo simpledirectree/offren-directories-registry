@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:26:30.570452+00:00Z",
+  "lastUpdated": "2025-11-08T13:28:00.536326+00:00Z",
   "stats": {
-    "totalDirectories": 1157,
+    "totalDirectories": 1158,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1157.0,
-    "totalListings": 11040,
-    "aiEnhancedDirectories": 1157
+    "avgDirectoriesPerRepo": 1158.0,
+    "totalListings": 11050,
+    "aiEnhancedDirectories": 1158
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15049,12 +15049,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-farm-equipment-rental-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:28:00.536326+00:00Z",
+      "lastUpdated": "2025-11-08T13:28:00.536326+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1157,
+      "directoryCount": 1158,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

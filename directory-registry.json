@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:31:02.923004+00:00Z",
+  "lastUpdated": "2025-11-08T07:31:23.556167+00:00Z",
   "stats": {
-    "totalDirectories": 744,
+    "totalDirectories": 745,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 744.0,
-    "totalListings": 7227,
-    "aiEnhancedDirectories": 744
+    "avgDirectoriesPerRepo": 745.0,
+    "totalListings": 7237,
+    "aiEnhancedDirectories": 745
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9680,12 +9680,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-chess-instruction-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:31:23.556167+00:00Z",
+      "lastUpdated": "2025-11-08T07:31:23.556167+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 744,
+      "directoryCount": 745,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:32:57.860534+00:00Z",
+  "lastUpdated": "2025-11-08T20:34:53.251344+00:00Z",
   "stats": {
-    "totalDirectories": 1645,
+    "totalDirectories": 1646,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1645.0,
-    "totalListings": 15607,
-    "aiEnhancedDirectories": 1645
+    "avgDirectoriesPerRepo": 1646.0,
+    "totalListings": 15617,
+    "aiEnhancedDirectories": 1646
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21393,12 +21393,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-agricultural-documentation-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:34:53.251344+00:00Z",
+      "lastUpdated": "2025-11-08T20:34:53.251344+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1645,
+      "directoryCount": 1646,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

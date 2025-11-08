@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:35:13.263556+00:00Z",
+  "lastUpdated": "2025-11-08T17:35:54.701599+00:00Z",
   "stats": {
-    "totalDirectories": 1432,
+    "totalDirectories": 1433,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1432.0,
-    "totalListings": 13604,
-    "aiEnhancedDirectories": 1432
+    "avgDirectoriesPerRepo": 1433.0,
+    "totalListings": 13609,
+    "aiEnhancedDirectories": 1433
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18624,12 +18624,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-veterinarians-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:35:54.701599+00:00Z",
+      "lastUpdated": "2025-11-08T17:35:54.701599+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1432,
+      "directoryCount": 1433,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

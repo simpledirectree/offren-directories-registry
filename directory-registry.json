@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:54:12.424307+00:00Z",
+  "lastUpdated": "2025-11-08T20:55:41.443890+00:00Z",
   "stats": {
-    "totalDirectories": 1670,
+    "totalDirectories": 1671,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1670.0,
-    "totalListings": 15837,
-    "aiEnhancedDirectories": 1670
+    "avgDirectoriesPerRepo": 1671.0,
+    "totalListings": 15847,
+    "aiEnhancedDirectories": 1671
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21718,12 +21718,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-email-security-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:55:41.443890+00:00Z",
+      "lastUpdated": "2025-11-08T20:55:41.443890+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1670,
+      "directoryCount": 1671,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

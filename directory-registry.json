@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:34:42.449688+00:00Z",
+  "lastUpdated": "2025-11-08T06:35:01.377439+00:00Z",
   "stats": {
-    "totalDirectories": 539,
+    "totalDirectories": 540,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 539.0,
-    "totalListings": 5255,
-    "aiEnhancedDirectories": 539
+    "avgDirectoriesPerRepo": 540.0,
+    "totalListings": 5265,
+    "aiEnhancedDirectories": 540
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7015,12 +7015,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-irrigation-system-repair-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:35:01.377439+00:00Z",
+      "lastUpdated": "2025-11-08T06:35:01.377439+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 539,
+      "directoryCount": 540,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

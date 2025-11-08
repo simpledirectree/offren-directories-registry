@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:11:57.053563+00:00Z",
+  "lastUpdated": "2025-11-08T14:13:02.647007+00:00Z",
   "stats": {
-    "totalDirectories": 1204,
+    "totalDirectories": 1205,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1204.0,
-    "totalListings": 11460,
-    "aiEnhancedDirectories": 1204
+    "avgDirectoriesPerRepo": 1205.0,
+    "totalListings": 11470,
+    "aiEnhancedDirectories": 1205
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15660,12 +15660,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-general-home-maintenance-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:13:02.647007+00:00Z",
+      "lastUpdated": "2025-11-08T14:13:02.647007+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1204,
+      "directoryCount": 1205,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

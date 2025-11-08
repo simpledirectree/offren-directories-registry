@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:50:43.659359+00:00Z",
+  "lastUpdated": "2025-11-08T05:50:58.072859+00:00Z",
   "stats": {
-    "totalDirectories": 382,
+    "totalDirectories": 383,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 382.0,
-    "totalListings": 3742,
-    "aiEnhancedDirectories": 382
+    "avgDirectoriesPerRepo": 383.0,
+    "totalListings": 3752,
+    "aiEnhancedDirectories": 383
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4974,12 +4974,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-mobile-auto-maintenance-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:50:58.072859+00:00Z",
+      "lastUpdated": "2025-11-08T05:50:58.072859+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 382,
+      "directoryCount": 383,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

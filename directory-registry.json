@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:13:58.616019+00:00Z",
+  "lastUpdated": "2025-11-08T22:17:54.277729+00:00Z",
   "stats": {
-    "totalDirectories": 1769,
+    "totalDirectories": 1770,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1769.0,
-    "totalListings": 16753,
-    "aiEnhancedDirectories": 1769
+    "avgDirectoriesPerRepo": 1770.0,
+    "totalListings": 16763,
+    "aiEnhancedDirectories": 1770
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23005,12 +23005,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-application-strategy-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:17:54.277729+00:00Z",
+      "lastUpdated": "2025-11-08T22:17:54.277729+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1769,
+      "directoryCount": 1770,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:46:06.838110+00:00Z",
+  "lastUpdated": "2025-11-08T04:46:22.562814+00:00Z",
   "stats": {
-    "totalDirectories": 148,
+    "totalDirectories": 149,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 148.0,
-    "totalListings": 1450,
-    "aiEnhancedDirectories": 148
+    "avgDirectoriesPerRepo": 149.0,
+    "totalListings": 1460,
+    "aiEnhancedDirectories": 149
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1932,12 +1932,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-adult-driving-lessons-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:46:22.562814+00:00Z",
+      "lastUpdated": "2025-11-08T04:46:22.562814+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 148,
+      "directoryCount": 149,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

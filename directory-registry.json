@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:06:59.043915+00:00Z",
+  "lastUpdated": "2025-11-08T04:07:15.332854+00:00Z",
   "stats": {
-    "totalDirectories": 7,
+    "totalDirectories": 8,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 7.0,
-    "totalListings": 67,
-    "aiEnhancedDirectories": 7
+    "avgDirectoriesPerRepo": 8.0,
+    "totalListings": 77,
+    "aiEnhancedDirectories": 8
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -99,12 +99,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-banking-relationship-management-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:07:15.332854+00:00Z",
+      "lastUpdated": "2025-11-08T04:07:15.332854+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 7,
+      "directoryCount": 8,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

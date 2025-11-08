@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:21:39.628302+00:00Z",
+  "lastUpdated": "2025-11-08T20:23:12.536950+00:00Z",
   "stats": {
-    "totalDirectories": 1629,
+    "totalDirectories": 1630,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1629.0,
-    "totalListings": 15454,
-    "aiEnhancedDirectories": 1629
+    "avgDirectoriesPerRepo": 1630.0,
+    "totalListings": 15464,
+    "aiEnhancedDirectories": 1630
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21185,12 +21185,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-tire-installation-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:23:12.536950+00:00Z",
+      "lastUpdated": "2025-11-08T20:23:12.536950+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1629,
+      "directoryCount": 1630,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

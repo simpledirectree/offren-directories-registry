@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:37:55.224479+00:00Z",
+  "lastUpdated": "2025-11-08T19:38:12.174410+00:00Z",
   "stats": {
-    "totalDirectories": 1577,
+    "totalDirectories": 1578,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1577.0,
-    "totalListings": 14980,
-    "aiEnhancedDirectories": 1577
+    "avgDirectoriesPerRepo": 1578.0,
+    "totalListings": 14990,
+    "aiEnhancedDirectories": 1578
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20509,12 +20509,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-nutrition-coaching-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:38:12.174410+00:00Z",
+      "lastUpdated": "2025-11-08T19:38:12.174410+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1577,
+      "directoryCount": 1578,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

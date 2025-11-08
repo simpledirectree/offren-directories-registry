@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:37:20.069808+00:00Z",
+  "lastUpdated": "2025-11-08T01:38:05.602060+00:00Z",
   "stats": {
-    "totalDirectories": 2259,
+    "totalDirectories": 2260,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2259.0,
-    "totalListings": 21115,
-    "aiEnhancedDirectories": 2258
+    "avgDirectoriesPerRepo": 2260.0,
+    "totalListings": 21125,
+    "aiEnhancedDirectories": 2259
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29374,12 +29374,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-exit-planning-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:38:05.602060+00:00Z",
+      "lastUpdated": "2025-11-08T01:38:05.602060+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2259,
+      "directoryCount": 2260,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

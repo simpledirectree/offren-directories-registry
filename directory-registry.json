@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:12:54.232407+00:00Z",
+  "lastUpdated": "2025-11-08T06:13:08.441649+00:00Z",
   "stats": {
-    "totalDirectories": 461,
+    "totalDirectories": 462,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 461.0,
-    "totalListings": 4480,
-    "aiEnhancedDirectories": 461
+    "avgDirectoriesPerRepo": 462.0,
+    "totalListings": 4490,
+    "aiEnhancedDirectories": 462
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6001,12 +6001,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-landscape-redesign-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:13:08.441649+00:00Z",
+      "lastUpdated": "2025-11-08T06:13:08.441649+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 461,
+      "directoryCount": 462,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

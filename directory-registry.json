@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:18:26.583988+00:00Z",
+  "lastUpdated": "2025-11-08T12:19:59.486989+00:00Z",
   "stats": {
-    "totalDirectories": 1074,
+    "totalDirectories": 1075,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1074.0,
-    "totalListings": 10268,
-    "aiEnhancedDirectories": 1074
+    "avgDirectoriesPerRepo": 1075.0,
+    "totalListings": 10278,
+    "aiEnhancedDirectories": 1075
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13970,12 +13970,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-document-preparation-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:19:59.486989+00:00Z",
+      "lastUpdated": "2025-11-08T12:19:59.486989+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1074,
+      "directoryCount": 1075,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

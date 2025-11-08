@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:51:42.183740+00:00Z",
+  "lastUpdated": "2025-11-08T10:51:57.419700+00:00Z",
   "stats": {
-    "totalDirectories": 975,
+    "totalDirectories": 976,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 975.0,
-    "totalListings": 9348,
-    "aiEnhancedDirectories": 975
+    "avgDirectoriesPerRepo": 976.0,
+    "totalListings": 9358,
+    "aiEnhancedDirectories": 976
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12683,12 +12683,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-prenatal-fitness-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:51:57.419700+00:00Z",
+      "lastUpdated": "2025-11-08T10:51:57.419700+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 975,
+      "directoryCount": 976,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

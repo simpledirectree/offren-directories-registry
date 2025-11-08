@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:26:43.265577+00:00Z",
+  "lastUpdated": "2025-11-08T03:26:58.221452+00:00Z",
   "stats": {
-    "totalDirectories": 2374,
+    "totalDirectories": 2375,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2374.0,
-    "totalListings": 22163,
-    "aiEnhancedDirectories": 2373
+    "avgDirectoriesPerRepo": 2375.0,
+    "totalListings": 22173,
+    "aiEnhancedDirectories": 2374
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30869,12 +30869,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-foundation-repair-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:26:58.221452+00:00Z",
+      "lastUpdated": "2025-11-08T03:26:58.221452+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2374,
+      "directoryCount": 2375,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

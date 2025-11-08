@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:54:06.811649+00:00Z",
+  "lastUpdated": "2025-11-08T02:54:22.462836+00:00Z",
   "stats": {
-    "totalDirectories": 2337,
+    "totalDirectories": 2338,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2337.0,
-    "totalListings": 21815,
-    "aiEnhancedDirectories": 2336
+    "avgDirectoriesPerRepo": 2338.0,
+    "totalListings": 21825,
+    "aiEnhancedDirectories": 2337
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30388,12 +30388,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-mobile-boat-repair-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:54:22.462836+00:00Z",
+      "lastUpdated": "2025-11-08T02:54:22.462836+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2337,
+      "directoryCount": 2338,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

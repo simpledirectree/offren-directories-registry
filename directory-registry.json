@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:48:23.434562+00:00Z",
+  "lastUpdated": "2025-11-08T03:48:38.438848+00:00Z",
   "stats": {
-    "totalDirectories": 2414,
+    "totalDirectories": 2415,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2414.0,
-    "totalListings": 22540,
-    "aiEnhancedDirectories": 2413
+    "avgDirectoriesPerRepo": 2415.0,
+    "totalListings": 22550,
+    "aiEnhancedDirectories": 2414
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31389,12 +31389,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-software-licensing-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:48:38.438848+00:00Z",
+      "lastUpdated": "2025-11-08T03:48:38.438848+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2414,
+      "directoryCount": 2415,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

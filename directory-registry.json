@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:45:01.561280+00:00Z",
+  "lastUpdated": "2025-11-08T06:45:21.843804+00:00Z",
   "stats": {
-    "totalDirectories": 576,
+    "totalDirectories": 577,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 576.0,
-    "totalListings": 5616,
-    "aiEnhancedDirectories": 576
+    "avgDirectoriesPerRepo": 577.0,
+    "totalListings": 5626,
+    "aiEnhancedDirectories": 577
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7496,12 +7496,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-babysitting-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:45:21.843804+00:00Z",
+      "lastUpdated": "2025-11-08T06:45:21.843804+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 576,
+      "directoryCount": 577,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

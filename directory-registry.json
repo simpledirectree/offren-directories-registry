@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:21:07.475351+00:00Z",
+  "lastUpdated": "2025-11-08T04:21:24.270683+00:00Z",
   "stats": {
-    "totalDirectories": 58,
+    "totalDirectories": 59,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 58.0,
-    "totalListings": 576,
-    "aiEnhancedDirectories": 58
+    "avgDirectoriesPerRepo": 59.0,
+    "totalListings": 586,
+    "aiEnhancedDirectories": 59
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -762,12 +762,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-swedish-massage-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:21:24.270683+00:00Z",
+      "lastUpdated": "2025-11-08T04:21:24.270683+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 58,
+      "directoryCount": 59,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

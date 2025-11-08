@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:18:06.203912+00:00Z",
+  "lastUpdated": "2025-11-08T04:18:22.934149+00:00Z",
   "stats": {
-    "totalDirectories": 47,
+    "totalDirectories": 48,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 47.0,
-    "totalListings": 466,
-    "aiEnhancedDirectories": 47
+    "avgDirectoriesPerRepo": 48.0,
+    "totalListings": 476,
+    "aiEnhancedDirectories": 48
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -619,12 +619,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-international-tax-consulting-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:18:22.934149+00:00Z",
+      "lastUpdated": "2025-11-08T04:18:22.934149+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 47,
+      "directoryCount": 48,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

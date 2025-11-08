@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:46:47.691901+00:00Z",
+  "lastUpdated": "2025-11-08T14:48:42.468539+00:00Z",
   "stats": {
-    "totalDirectories": 1247,
+    "totalDirectories": 1248,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1247.0,
-    "totalListings": 11864,
-    "aiEnhancedDirectories": 1247
+    "avgDirectoriesPerRepo": 1248.0,
+    "totalListings": 11874,
+    "aiEnhancedDirectories": 1248
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16219,12 +16219,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-stress-management-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:48:42.468539+00:00Z",
+      "lastUpdated": "2025-11-08T14:48:42.468539+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1247,
+      "directoryCount": 1248,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

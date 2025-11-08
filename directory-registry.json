@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:36:14.111230+00:00Z",
+  "lastUpdated": "2025-11-08T18:36:30.457506+00:00Z",
   "stats": {
-    "totalDirectories": 1504,
+    "totalDirectories": 1505,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1504.0,
-    "totalListings": 14289,
-    "aiEnhancedDirectories": 1504
+    "avgDirectoriesPerRepo": 1505.0,
+    "totalListings": 14299,
+    "aiEnhancedDirectories": 1505
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19560,12 +19560,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-liability-insurance-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:36:30.457506+00:00Z",
+      "lastUpdated": "2025-11-08T18:36:30.457506+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1504,
+      "directoryCount": 1505,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

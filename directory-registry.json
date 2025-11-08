@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:21:05.830178+00:00Z",
+  "lastUpdated": "2025-11-08T21:22:34.841235+00:00Z",
   "stats": {
-    "totalDirectories": 1706,
+    "totalDirectories": 1707,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1706.0,
-    "totalListings": 16165,
-    "aiEnhancedDirectories": 1706
+    "avgDirectoriesPerRepo": 1707.0,
+    "totalListings": 16168,
+    "aiEnhancedDirectories": 1707
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22186,12 +22186,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-drop-in-daycare-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:22:34.841235+00:00Z",
+      "lastUpdated": "2025-11-08T21:22:34.841235+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1706,
+      "directoryCount": 1707,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

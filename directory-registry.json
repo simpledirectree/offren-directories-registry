@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:31:58.611746+00:00Z",
+  "lastUpdated": "2025-11-08T05:32:16.576672+00:00Z",
   "stats": {
-    "totalDirectories": 315,
+    "totalDirectories": 316,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 315.0,
-    "totalListings": 3087,
-    "aiEnhancedDirectories": 315
+    "avgDirectoriesPerRepo": 316.0,
+    "totalListings": 3097,
+    "aiEnhancedDirectories": 316
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4103,12 +4103,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-fence-repair-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:32:16.576672+00:00Z",
+      "lastUpdated": "2025-11-08T05:32:16.576672+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 315,
+      "directoryCount": 316,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

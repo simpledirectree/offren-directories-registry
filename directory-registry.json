@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:23:52.711772+00:00Z",
+  "lastUpdated": "2025-11-08T23:24:33.281420+00:00Z",
   "stats": {
-    "totalDirectories": 1847,
+    "totalDirectories": 1848,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1847.0,
-    "totalListings": 17485,
-    "aiEnhancedDirectories": 1847
+    "avgDirectoriesPerRepo": 1848.0,
+    "totalListings": 17495,
+    "aiEnhancedDirectories": 1848
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24019,12 +24019,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-plant-based-meal-prep-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:24:33.281420+00:00Z",
+      "lastUpdated": "2025-11-08T23:24:33.281420+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1847,
+      "directoryCount": 1848,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

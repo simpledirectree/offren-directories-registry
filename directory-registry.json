@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:23:08.176942+00:00Z",
+  "lastUpdated": "2025-11-08T14:25:03.175623+00:00Z",
   "stats": {
-    "totalDirectories": 1218,
+    "totalDirectories": 1219,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1218.0,
-    "totalListings": 11598,
-    "aiEnhancedDirectories": 1218
+    "avgDirectoriesPerRepo": 1219.0,
+    "totalListings": 11608,
+    "aiEnhancedDirectories": 1219
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15842,12 +15842,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-party-djs-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:25:03.175623+00:00Z",
+      "lastUpdated": "2025-11-08T14:25:03.175623+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1218,
+      "directoryCount": 1219,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

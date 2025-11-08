@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:36:13.642753+00:00Z",
+  "lastUpdated": "2025-11-08T03:36:29.184228+00:00Z",
   "stats": {
-    "totalDirectories": 2384,
+    "totalDirectories": 2385,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2384.0,
-    "totalListings": 22259,
-    "aiEnhancedDirectories": 2383
+    "avgDirectoriesPerRepo": 2385.0,
+    "totalListings": 22269,
+    "aiEnhancedDirectories": 2384
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30999,12 +30999,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-securities-law-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:36:29.184228+00:00Z",
+      "lastUpdated": "2025-11-08T03:36:29.184228+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2384,
+      "directoryCount": 2385,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

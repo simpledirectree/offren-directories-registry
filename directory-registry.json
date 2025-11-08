@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:17:44.480607+00:00Z",
+  "lastUpdated": "2025-11-08T06:17:59.577822+00:00Z",
   "stats": {
-    "totalDirectories": 478,
+    "totalDirectories": 479,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 478.0,
-    "totalListings": 4649,
-    "aiEnhancedDirectories": 478
+    "avgDirectoriesPerRepo": 479.0,
+    "totalListings": 4659,
+    "aiEnhancedDirectories": 479
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6222,12 +6222,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-private-equity-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:17:59.577822+00:00Z",
+      "lastUpdated": "2025-11-08T06:17:59.577822+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 478,
+      "directoryCount": 479,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

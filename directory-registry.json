@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:48:47.986043+00:00Z",
+  "lastUpdated": "2025-11-08T13:50:18.570931+00:00Z",
   "stats": {
-    "totalDirectories": 1180,
+    "totalDirectories": 1181,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1180.0,
-    "totalListings": 11246,
-    "aiEnhancedDirectories": 1180
+    "avgDirectoriesPerRepo": 1181.0,
+    "totalListings": 11256,
+    "aiEnhancedDirectories": 1181
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15348,12 +15348,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-roach-control-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:50:18.570931+00:00Z",
+      "lastUpdated": "2025-11-08T13:50:18.570931+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1180,
+      "directoryCount": 1181,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

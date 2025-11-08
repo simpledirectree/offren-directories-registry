@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:16:01.141489+00:00Z",
+  "lastUpdated": "2025-11-08T06:16:19.050447+00:00Z",
   "stats": {
-    "totalDirectories": 472,
+    "totalDirectories": 473,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 472.0,
-    "totalListings": 4589,
-    "aiEnhancedDirectories": 472
+    "avgDirectoriesPerRepo": 473.0,
+    "totalListings": 4599,
+    "aiEnhancedDirectories": 473
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6144,12 +6144,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-yoga-studios-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:16:19.050447+00:00Z",
+      "lastUpdated": "2025-11-08T06:16:19.050447+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 472,
+      "directoryCount": 473,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

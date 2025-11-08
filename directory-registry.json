@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:37:31.553343+00:00Z",
+  "lastUpdated": "2025-11-08T10:38:36.724218+00:00Z",
   "stats": {
-    "totalDirectories": 957,
+    "totalDirectories": 958,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 957.0,
-    "totalListings": 9197,
-    "aiEnhancedDirectories": 957
+    "avgDirectoriesPerRepo": 958.0,
+    "totalListings": 9207,
+    "aiEnhancedDirectories": 958
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12449,12 +12449,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-mail-handling-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:38:36.724218+00:00Z",
+      "lastUpdated": "2025-11-08T10:38:36.724218+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 957,
+      "directoryCount": 958,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

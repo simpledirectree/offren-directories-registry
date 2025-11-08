@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:05:45.343782+00:00Z",
+  "lastUpdated": "2025-11-08T17:06:31.871684+00:00Z",
   "stats": {
-    "totalDirectories": 1395,
+    "totalDirectories": 1396,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1395.0,
-    "totalListings": 13247,
-    "aiEnhancedDirectories": 1395
+    "avgDirectoriesPerRepo": 1396.0,
+    "totalListings": 13257,
+    "aiEnhancedDirectories": 1396
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18143,12 +18143,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-energy-healing-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:06:31.871684+00:00Z",
+      "lastUpdated": "2025-11-08T17:06:31.871684+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1395,
+      "directoryCount": 1396,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

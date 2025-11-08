@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:36:00.877372+00:00Z",
+  "lastUpdated": "2025-11-08T14:36:41.271007+00:00Z",
   "stats": {
-    "totalDirectories": 1233,
+    "totalDirectories": 1234,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1233.0,
-    "totalListings": 11725,
-    "aiEnhancedDirectories": 1233
+    "avgDirectoriesPerRepo": 1234.0,
+    "totalListings": 11735,
+    "aiEnhancedDirectories": 1234
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16037,12 +16037,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-umbrella-insurance-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:36:41.271007+00:00Z",
+      "lastUpdated": "2025-11-08T14:36:41.271007+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1233,
+      "directoryCount": 1234,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:26:00.124594+00:00Z",
+  "lastUpdated": "2025-11-08T05:26:16.482876+00:00Z",
   "stats": {
-    "totalDirectories": 293,
+    "totalDirectories": 294,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 293.0,
-    "totalListings": 2867,
-    "aiEnhancedDirectories": 293
+    "avgDirectoriesPerRepo": 294.0,
+    "totalListings": 2877,
+    "aiEnhancedDirectories": 294
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3817,12 +3817,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-prenatal-massage-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:26:16.482876+00:00Z",
+      "lastUpdated": "2025-11-08T05:26:16.482876+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 293,
+      "directoryCount": 294,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

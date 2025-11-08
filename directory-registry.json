@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:33:23.359164+00:00Z",
+  "lastUpdated": "2025-11-08T05:33:39.916460+00:00Z",
   "stats": {
-    "totalDirectories": 320,
+    "totalDirectories": 321,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 320.0,
-    "totalListings": 3137,
-    "aiEnhancedDirectories": 320
+    "avgDirectoriesPerRepo": 321.0,
+    "totalListings": 3147,
+    "aiEnhancedDirectories": 321
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4168,12 +4168,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-construction-labor-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:33:39.916460+00:00Z",
+      "lastUpdated": "2025-11-08T05:33:39.916460+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 320,
+      "directoryCount": 321,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

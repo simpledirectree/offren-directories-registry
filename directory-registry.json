@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:09:49.824682+00:00Z",
+  "lastUpdated": "2025-11-08T20:10:02.649000+00:00Z",
   "stats": {
-    "totalDirectories": 1617,
+    "totalDirectories": 1618,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1617.0,
-    "totalListings": 15351,
-    "aiEnhancedDirectories": 1617
+    "avgDirectoriesPerRepo": 1618.0,
+    "totalListings": 15352,
+    "aiEnhancedDirectories": 1618
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21029,12 +21029,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-energy-consulting-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:10:02.649000+00:00Z",
+      "lastUpdated": "2025-11-08T20:10:02.649000+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1617,
+      "directoryCount": 1618,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

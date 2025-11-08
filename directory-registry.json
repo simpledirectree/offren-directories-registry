@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:48:18.907923+00:00Z",
+  "lastUpdated": "2025-11-08T15:49:30.355722+00:00Z",
   "stats": {
-    "totalDirectories": 1312,
+    "totalDirectories": 1313,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1312.0,
-    "totalListings": 12472,
-    "aiEnhancedDirectories": 1312
+    "avgDirectoriesPerRepo": 1313.0,
+    "totalListings": 12482,
+    "aiEnhancedDirectories": 1313
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17064,12 +17064,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-boutique-fitness-studios-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:49:30.355722+00:00Z",
+      "lastUpdated": "2025-11-08T15:49:30.355722+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1312,
+      "directoryCount": 1313,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

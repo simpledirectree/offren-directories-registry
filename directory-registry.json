@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:42:54.629038+00:00Z",
+  "lastUpdated": "2025-11-08T18:43:37.969290+00:00Z",
   "stats": {
-    "totalDirectories": 1511,
+    "totalDirectories": 1512,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1511.0,
-    "totalListings": 14357,
-    "aiEnhancedDirectories": 1511
+    "avgDirectoriesPerRepo": 1512.0,
+    "totalListings": 14367,
+    "aiEnhancedDirectories": 1512
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19651,12 +19651,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-endodontics-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:43:37.969290+00:00Z",
+      "lastUpdated": "2025-11-08T18:43:37.969290+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1511,
+      "directoryCount": 1512,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:08:47.405934+00:00Z",
+  "lastUpdated": "2025-11-08T13:09:02.510519+00:00Z",
   "stats": {
-    "totalDirectories": 1139,
+    "totalDirectories": 1140,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1139.0,
-    "totalListings": 10863,
-    "aiEnhancedDirectories": 1139
+    "avgDirectoriesPerRepo": 1140.0,
+    "totalListings": 10873,
+    "aiEnhancedDirectories": 1140
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14815,12 +14815,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-competitive-intelligence-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:09:02.510519+00:00Z",
+      "lastUpdated": "2025-11-08T13:09:02.510519+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1139,
+      "directoryCount": 1140,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:02:17.329316+00:00Z",
+  "lastUpdated": "2025-11-08T19:02:30.718260+00:00Z",
   "stats": {
-    "totalDirectories": 1537,
+    "totalDirectories": 1538,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1537.0,
-    "totalListings": 14600,
-    "aiEnhancedDirectories": 1537
+    "avgDirectoriesPerRepo": 1538.0,
+    "totalListings": 14603,
+    "aiEnhancedDirectories": 1538
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19989,12 +19989,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-outlet-installation-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:02:30.718260+00:00Z",
+      "lastUpdated": "2025-11-08T19:02:30.718260+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1537,
+      "directoryCount": 1538,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

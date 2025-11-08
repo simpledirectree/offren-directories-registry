@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:30:40.488544+00:00Z",
+  "lastUpdated": "2025-11-08T17:30:54.269609+00:00Z",
   "stats": {
-    "totalDirectories": 1428,
+    "totalDirectories": 1429,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1428.0,
-    "totalListings": 13564,
-    "aiEnhancedDirectories": 1428
+    "avgDirectoriesPerRepo": 1429.0,
+    "totalListings": 13574,
+    "aiEnhancedDirectories": 1429
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18572,12 +18572,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-tax-filing-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:30:54.269609+00:00Z",
+      "lastUpdated": "2025-11-08T17:30:54.269609+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1428,
+      "directoryCount": 1429,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

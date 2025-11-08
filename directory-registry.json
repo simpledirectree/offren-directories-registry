@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:25:36.507191+00:00Z",
+  "lastUpdated": "2025-11-08T06:25:54.711779+00:00Z",
   "stats": {
-    "totalDirectories": 506,
+    "totalDirectories": 507,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 506.0,
-    "totalListings": 4925,
-    "aiEnhancedDirectories": 506
+    "avgDirectoriesPerRepo": 507.0,
+    "totalListings": 4935,
+    "aiEnhancedDirectories": 507
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6586,12 +6586,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-academic-summer-camps-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:25:54.711779+00:00Z",
+      "lastUpdated": "2025-11-08T06:25:54.711779+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 506,
+      "directoryCount": 507,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

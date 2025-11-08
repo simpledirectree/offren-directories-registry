@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:03:38.111238+00:00Z",
+  "lastUpdated": "2025-11-08T13:05:04.197090+00:00Z",
   "stats": {
-    "totalDirectories": 1133,
+    "totalDirectories": 1134,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1133.0,
-    "totalListings": 10809,
-    "aiEnhancedDirectories": 1133
+    "avgDirectoriesPerRepo": 1134.0,
+    "totalListings": 10818,
+    "aiEnhancedDirectories": 1134
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14737,12 +14737,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-switch-installation-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:05:04.197090+00:00Z",
+      "lastUpdated": "2025-11-08T13:05:04.197090+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1133,
+      "directoryCount": 1134,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:19:51.745250+00:00Z",
+  "lastUpdated": "2025-11-08T23:20:57.984634+00:00Z",
   "stats": {
-    "totalDirectories": 1841,
+    "totalDirectories": 1842,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1841.0,
-    "totalListings": 17431,
-    "aiEnhancedDirectories": 1841
+    "avgDirectoriesPerRepo": 1842.0,
+    "totalListings": 17441,
+    "aiEnhancedDirectories": 1842
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23941,12 +23941,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-securities-law-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:20:57.984634+00:00Z",
+      "lastUpdated": "2025-11-08T23:20:57.984634+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1841,
+      "directoryCount": 1842,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

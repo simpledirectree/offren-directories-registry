@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:48:36.252335+00:00Z",
+  "lastUpdated": "2025-11-08T02:51:04.046373+00:00Z",
   "stats": {
-    "totalDirectories": 2334,
+    "totalDirectories": 2335,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2334.0,
-    "totalListings": 21792,
-    "aiEnhancedDirectories": 2333
+    "avgDirectoriesPerRepo": 2335.0,
+    "totalListings": 21800,
+    "aiEnhancedDirectories": 2334
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30349,12 +30349,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-preschool-programs-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:51:04.046373+00:00Z",
+      "lastUpdated": "2025-11-08T02:51:04.046373+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2334,
+      "directoryCount": 2335,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

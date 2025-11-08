@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:09:32.903861+00:00Z",
+  "lastUpdated": "2025-11-08T05:09:50.814470+00:00Z",
   "stats": {
-    "totalDirectories": 233,
+    "totalDirectories": 234,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 233.0,
-    "totalListings": 2281,
-    "aiEnhancedDirectories": 233
+    "avgDirectoriesPerRepo": 234.0,
+    "totalListings": 2291,
+    "aiEnhancedDirectories": 234
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3037,12 +3037,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-predictive-analytics-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:09:50.814470+00:00Z",
+      "lastUpdated": "2025-11-08T05:09:50.814470+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 233,
+      "directoryCount": 234,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

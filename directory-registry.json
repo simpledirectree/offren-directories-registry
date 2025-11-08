@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:55:51.342836+00:00Z",
+  "lastUpdated": "2025-11-08T04:56:11.597749+00:00Z",
   "stats": {
-    "totalDirectories": 184,
+    "totalDirectories": 185,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 184.0,
-    "totalListings": 1800,
-    "aiEnhancedDirectories": 184
+    "avgDirectoriesPerRepo": 185.0,
+    "totalListings": 1810,
+    "aiEnhancedDirectories": 185
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2400,12 +2400,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-3d-modeling-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:56:11.597749+00:00Z",
+      "lastUpdated": "2025-11-08T04:56:11.597749+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 184,
+      "directoryCount": 185,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

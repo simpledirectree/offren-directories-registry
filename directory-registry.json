@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:02:30.718260+00:00Z",
+  "lastUpdated": "2025-11-08T19:03:36.929755+00:00Z",
   "stats": {
-    "totalDirectories": 1538,
+    "totalDirectories": 1539,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1538.0,
-    "totalListings": 14603,
-    "aiEnhancedDirectories": 1538
+    "avgDirectoriesPerRepo": 1539.0,
+    "totalListings": 14613,
+    "aiEnhancedDirectories": 1539
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20002,12 +20002,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-chess-instruction-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:03:36.929755+00:00Z",
+      "lastUpdated": "2025-11-08T19:03:36.929755+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1538,
+      "directoryCount": 1539,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

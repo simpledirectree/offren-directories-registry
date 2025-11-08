@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:36:45.103260+00:00Z",
+  "lastUpdated": "2025-11-08T20:39:06.050333+00:00Z",
   "stats": {
-    "totalDirectories": 1649,
+    "totalDirectories": 1650,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1649.0,
-    "totalListings": 15647,
-    "aiEnhancedDirectories": 1649
+    "avgDirectoriesPerRepo": 1650.0,
+    "totalListings": 15657,
+    "aiEnhancedDirectories": 1650
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21445,12 +21445,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-clutch-repair-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:39:06.050333+00:00Z",
+      "lastUpdated": "2025-11-08T20:39:06.050333+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1649,
+      "directoryCount": 1650,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

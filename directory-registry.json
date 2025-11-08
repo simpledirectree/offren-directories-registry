@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:55:01.246212+00:00Z",
+  "lastUpdated": "2025-11-08T04:55:16.398270+00:00Z",
   "stats": {
-    "totalDirectories": 181,
+    "totalDirectories": 182,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 181.0,
-    "totalListings": 1770,
-    "aiEnhancedDirectories": 181
+    "avgDirectoriesPerRepo": 182.0,
+    "totalListings": 1780,
+    "aiEnhancedDirectories": 182
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2361,12 +2361,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-carpet-installation-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:55:16.398270+00:00Z",
+      "lastUpdated": "2025-11-08T04:55:16.398270+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 181,
+      "directoryCount": 182,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:21:51.886886+00:00Z",
+  "lastUpdated": "2025-11-08T09:22:06.472625+00:00Z",
   "stats": {
-    "totalDirectories": 875,
+    "totalDirectories": 876,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 875.0,
-    "totalListings": 8446,
-    "aiEnhancedDirectories": 875
+    "avgDirectoriesPerRepo": 876.0,
+    "totalListings": 8456,
+    "aiEnhancedDirectories": 876
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11383,12 +11383,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-cash-flow-management-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:22:06.472625+00:00Z",
+      "lastUpdated": "2025-11-08T09:22:06.472625+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 875,
+      "directoryCount": 876,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

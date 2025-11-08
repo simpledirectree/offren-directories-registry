@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:02:13.792918+00:00Z",
+  "lastUpdated": "2025-11-08T08:02:54.443152+00:00Z",
   "stats": {
-    "totalDirectories": 783,
+    "totalDirectories": 784,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 783.0,
-    "totalListings": 7598,
-    "aiEnhancedDirectories": 783
+    "avgDirectoriesPerRepo": 784.0,
+    "totalListings": 7608,
+    "aiEnhancedDirectories": 784
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10187,12 +10187,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-hair-extensions-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:02:54.443152+00:00Z",
+      "lastUpdated": "2025-11-08T08:02:54.443152+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 783,
+      "directoryCount": 784,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

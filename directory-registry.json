@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:01:11.387217+00:00Z",
+  "lastUpdated": "2025-11-08T13:01:53.770041+00:00Z",
   "stats": {
-    "totalDirectories": 1127,
+    "totalDirectories": 1128,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1127.0,
-    "totalListings": 10754,
-    "aiEnhancedDirectories": 1127
+    "avgDirectoriesPerRepo": 1128.0,
+    "totalListings": 10759,
+    "aiEnhancedDirectories": 1128
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14659,12 +14659,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-event-registration-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:01:53.770041+00:00Z",
+      "lastUpdated": "2025-11-08T13:01:53.770041+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1127,
+      "directoryCount": 1128,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

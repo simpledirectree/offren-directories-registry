@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:31:58.884590+00:00Z",
+  "lastUpdated": "2025-11-08T23:32:14.316566+00:00Z",
   "stats": {
-    "totalDirectories": 1854,
+    "totalDirectories": 1855,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1854.0,
-    "totalListings": 17555,
-    "aiEnhancedDirectories": 1854
+    "avgDirectoriesPerRepo": 1855.0,
+    "totalListings": 17565,
+    "aiEnhancedDirectories": 1855
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24110,12 +24110,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-quality-assurance-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:32:14.316566+00:00Z",
+      "lastUpdated": "2025-11-08T23:32:14.316566+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1854,
+      "directoryCount": 1855,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

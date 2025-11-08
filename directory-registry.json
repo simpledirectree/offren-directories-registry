@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:22:34.841235+00:00Z",
+  "lastUpdated": "2025-11-08T21:22:49.771129+00:00Z",
   "stats": {
-    "totalDirectories": 1707,
+    "totalDirectories": 1708,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1707.0,
-    "totalListings": 16168,
-    "aiEnhancedDirectories": 1707
+    "avgDirectoriesPerRepo": 1708.0,
+    "totalListings": 16178,
+    "aiEnhancedDirectories": 1708
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22199,12 +22199,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-managed-service-providers-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:22:49.771129+00:00Z",
+      "lastUpdated": "2025-11-08T21:22:49.771129+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1707,
+      "directoryCount": 1708,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:17:45.574258+00:00Z",
+  "lastUpdated": "2025-11-08T14:18:00.485218+00:00Z",
   "stats": {
-    "totalDirectories": 1210,
+    "totalDirectories": 1211,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1210.0,
-    "totalListings": 11520,
-    "aiEnhancedDirectories": 1210
+    "avgDirectoriesPerRepo": 1211.0,
+    "totalListings": 11530,
+    "aiEnhancedDirectories": 1211
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15738,12 +15738,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-mobile-electronics-repair-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:18:00.485218+00:00Z",
+      "lastUpdated": "2025-11-08T14:18:00.485218+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1210,
+      "directoryCount": 1211,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

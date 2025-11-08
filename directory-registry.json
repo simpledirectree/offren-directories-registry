@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:33:08.370226+00:00Z",
+  "lastUpdated": "2025-11-08T04:33:24.153795+00:00Z",
   "stats": {
-    "totalDirectories": 100,
+    "totalDirectories": 101,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 100.0,
-    "totalListings": 987,
-    "aiEnhancedDirectories": 100
+    "avgDirectoriesPerRepo": 101.0,
+    "totalListings": 997,
+    "aiEnhancedDirectories": 101
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1308,12 +1308,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-adult-day-programs-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:33:24.153795+00:00Z",
+      "lastUpdated": "2025-11-08T04:33:24.153795+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 100,
+      "directoryCount": 101,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

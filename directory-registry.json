@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:30:32.493370+00:00Z",
+  "lastUpdated": "2025-11-08T08:32:23.809594+00:00Z",
   "stats": {
-    "totalDirectories": 810,
+    "totalDirectories": 811,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 810.0,
-    "totalListings": 7845,
-    "aiEnhancedDirectories": 810
+    "avgDirectoriesPerRepo": 811.0,
+    "totalListings": 7855,
+    "aiEnhancedDirectories": 811
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10538,12 +10538,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-vendor-coordination-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:32:23.809594+00:00Z",
+      "lastUpdated": "2025-11-08T08:32:23.809594+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 810,
+      "directoryCount": 811,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

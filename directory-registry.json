@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:45:39.224210+00:00Z",
+  "lastUpdated": "2025-11-08T09:47:34.128573+00:00Z",
   "stats": {
-    "totalDirectories": 904,
+    "totalDirectories": 905,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 904.0,
-    "totalListings": 8717,
-    "aiEnhancedDirectories": 904
+    "avgDirectoriesPerRepo": 905.0,
+    "totalListings": 8727,
+    "aiEnhancedDirectories": 905
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11760,12 +11760,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-nutritionist-developed-meals-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:47:34.128573+00:00Z",
+      "lastUpdated": "2025-11-08T09:47:34.128573+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 904,
+      "directoryCount": 905,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

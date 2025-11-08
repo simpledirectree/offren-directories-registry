@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:45:23.761623+00:00Z",
+  "lastUpdated": "2025-11-08T17:46:05.348537+00:00Z",
   "stats": {
-    "totalDirectories": 1444,
+    "totalDirectories": 1445,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1444.0,
-    "totalListings": 13719,
-    "aiEnhancedDirectories": 1444
+    "avgDirectoriesPerRepo": 1445.0,
+    "totalListings": 13729,
+    "aiEnhancedDirectories": 1445
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18780,12 +18780,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-performance-testing-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:46:05.348537+00:00Z",
+      "lastUpdated": "2025-11-08T17:46:05.348537+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1444,
+      "directoryCount": 1445,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

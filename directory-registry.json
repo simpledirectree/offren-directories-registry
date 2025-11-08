@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:14:42.297047+00:00Z",
+  "lastUpdated": "2025-11-08T01:14:56.461048+00:00Z",
   "stats": {
-    "totalDirectories": 2232,
+    "totalDirectories": 2233,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2232.0,
-    "totalListings": 20854,
-    "aiEnhancedDirectories": 2231
+    "avgDirectoriesPerRepo": 2233.0,
+    "totalListings": 20864,
+    "aiEnhancedDirectories": 2232
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29023,12 +29023,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-furniture-selection-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:14:56.461048+00:00Z",
+      "lastUpdated": "2025-11-08T01:14:56.461048+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2232,
+      "directoryCount": 2233,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

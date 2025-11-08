@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:38:36.724218+00:00Z",
+  "lastUpdated": "2025-11-08T10:38:50.906206+00:00Z",
   "stats": {
-    "totalDirectories": 958,
+    "totalDirectories": 959,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 958.0,
-    "totalListings": 9207,
-    "aiEnhancedDirectories": 958
+    "avgDirectoriesPerRepo": 959.0,
+    "totalListings": 9217,
+    "aiEnhancedDirectories": 959
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12462,12 +12462,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-information-architecture-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:38:50.906206+00:00Z",
+      "lastUpdated": "2025-11-08T10:38:50.906206+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 958,
+      "directoryCount": 959,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

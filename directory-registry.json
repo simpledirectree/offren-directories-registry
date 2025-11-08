@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:25:02.812119+00:00Z",
+  "lastUpdated": "2025-11-08T07:25:19.017866+00:00Z",
   "stats": {
-    "totalDirectories": 721,
+    "totalDirectories": 722,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 721.0,
-    "totalListings": 7016,
-    "aiEnhancedDirectories": 721
+    "avgDirectoriesPerRepo": 722.0,
+    "totalListings": 7026,
+    "aiEnhancedDirectories": 722
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9381,12 +9381,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-plant-based-meal-prep-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:25:19.017866+00:00Z",
+      "lastUpdated": "2025-11-08T07:25:19.017866+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 721,
+      "directoryCount": 722,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

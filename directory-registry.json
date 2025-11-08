@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:18:14.293959+00:00Z",
+  "lastUpdated": "2025-11-08T22:19:20.339984+00:00Z",
   "stats": {
-    "totalDirectories": 1771,
+    "totalDirectories": 1772,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1771.0,
-    "totalListings": 16773,
-    "aiEnhancedDirectories": 1771
+    "avgDirectoriesPerRepo": 1772.0,
+    "totalListings": 16783,
+    "aiEnhancedDirectories": 1772
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23031,12 +23031,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-family-office-services-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:19:20.339984+00:00Z",
+      "lastUpdated": "2025-11-08T22:19:20.339984+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1771,
+      "directoryCount": 1772,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

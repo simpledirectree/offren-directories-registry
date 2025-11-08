@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:47:10.416873+00:00Z",
+  "lastUpdated": "2025-11-08T03:47:27.044162+00:00Z",
   "stats": {
-    "totalDirectories": 2410,
+    "totalDirectories": 2411,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2410.0,
-    "totalListings": 22500,
-    "aiEnhancedDirectories": 2409
+    "avgDirectoriesPerRepo": 2411.0,
+    "totalListings": 22510,
+    "aiEnhancedDirectories": 2410
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31337,12 +31337,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-permanent-makeup-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:47:27.044162+00:00Z",
+      "lastUpdated": "2025-11-08T03:47:27.044162+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2410,
+      "directoryCount": 2411,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

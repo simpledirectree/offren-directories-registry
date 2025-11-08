@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:10:05.808506+00:00Z",
+  "lastUpdated": "2025-11-08T05:10:20.647149+00:00Z",
   "stats": {
-    "totalDirectories": 235,
+    "totalDirectories": 236,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 235.0,
-    "totalListings": 2301,
-    "aiEnhancedDirectories": 235
+    "avgDirectoriesPerRepo": 236.0,
+    "totalListings": 2311,
+    "aiEnhancedDirectories": 236
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3063,12 +3063,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-meeting-space-rentals-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:10:20.647149+00:00Z",
+      "lastUpdated": "2025-11-08T05:10:20.647149+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 235,
+      "directoryCount": 236,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:17:44.838000+00:00Z",
+  "lastUpdated": "2025-11-08T18:22:36.519456+00:00Z",
   "stats": {
-    "totalDirectories": 1484,
+    "totalDirectories": 1485,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1484.0,
-    "totalListings": 14103,
-    "aiEnhancedDirectories": 1484
+    "avgDirectoriesPerRepo": 1485.0,
+    "totalListings": 14113,
+    "aiEnhancedDirectories": 1485
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19300,12 +19300,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-venue-selection-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:22:36.519456+00:00Z",
+      "lastUpdated": "2025-11-08T18:22:36.519456+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1484,
+      "directoryCount": 1485,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

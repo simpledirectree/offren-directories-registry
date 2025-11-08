@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:00:43.681606+00:00Z",
+  "lastUpdated": "2025-11-08T07:00:58.635163+00:00Z",
   "stats": {
-    "totalDirectories": 634,
+    "totalDirectories": 635,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 634.0,
-    "totalListings": 6159,
-    "aiEnhancedDirectories": 634
+    "avgDirectoriesPerRepo": 635.0,
+    "totalListings": 6169,
+    "aiEnhancedDirectories": 635
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8250,12 +8250,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-conflict-resolution-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:00:58.635163+00:00Z",
+      "lastUpdated": "2025-11-08T07:00:58.635163+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 634,
+      "directoryCount": 635,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

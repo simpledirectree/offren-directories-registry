@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:38:54.121007+00:00Z",
+  "lastUpdated": "2025-11-08T12:40:50.389945+00:00Z",
   "stats": {
-    "totalDirectories": 1100,
+    "totalDirectories": 1101,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1100.0,
-    "totalListings": 10515,
-    "aiEnhancedDirectories": 1100
+    "avgDirectoriesPerRepo": 1101.0,
+    "totalListings": 10525,
+    "aiEnhancedDirectories": 1101
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14308,12 +14308,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-specialty-plant-care-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:40:50.389945+00:00Z",
+      "lastUpdated": "2025-11-08T12:40:50.389945+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1100,
+      "directoryCount": 1101,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

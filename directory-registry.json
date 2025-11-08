@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:31:25.573483+00:00Z",
+  "lastUpdated": "2025-11-08T10:33:42.771284+00:00Z",
   "stats": {
-    "totalDirectories": 952,
+    "totalDirectories": 953,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 952.0,
-    "totalListings": 9152,
-    "aiEnhancedDirectories": 952
+    "avgDirectoriesPerRepo": 953.0,
+    "totalListings": 9162,
+    "aiEnhancedDirectories": 953
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12384,12 +12384,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-tennis-coaching-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:33:42.771284+00:00Z",
+      "lastUpdated": "2025-11-08T10:33:42.771284+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 952,
+      "directoryCount": 953,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

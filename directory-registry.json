@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:07:42.348812+00:00Z",
+  "lastUpdated": "2025-11-08T07:08:00.189188+00:00Z",
   "stats": {
-    "totalDirectories": 659,
+    "totalDirectories": 660,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 659.0,
-    "totalListings": 6399,
-    "aiEnhancedDirectories": 659
+    "avgDirectoriesPerRepo": 660.0,
+    "totalListings": 6409,
+    "aiEnhancedDirectories": 660
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8575,12 +8575,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-audiology-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:08:00.189188+00:00Z",
+      "lastUpdated": "2025-11-08T07:08:00.189188+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 659,
+      "directoryCount": 660,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

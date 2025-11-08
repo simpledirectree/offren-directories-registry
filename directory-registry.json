@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:18:28.756041+00:00Z",
+  "lastUpdated": "2025-11-08T13:19:58.178517+00:00Z",
   "stats": {
-    "totalDirectories": 1154,
+    "totalDirectories": 1155,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1154.0,
-    "totalListings": 11010,
-    "aiEnhancedDirectories": 1154
+    "avgDirectoriesPerRepo": 1155.0,
+    "totalListings": 11020,
+    "aiEnhancedDirectories": 1155
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15010,12 +15010,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-after-school-care-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:19:58.178517+00:00Z",
+      "lastUpdated": "2025-11-08T13:19:58.178517+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1154,
+      "directoryCount": 1155,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

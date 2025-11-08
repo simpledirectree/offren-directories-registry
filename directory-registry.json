@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:48:17.780177+00:00Z",
+  "lastUpdated": "2025-11-08T05:48:35.835280+00:00Z",
   "stats": {
-    "totalDirectories": 373,
+    "totalDirectories": 374,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 373.0,
-    "totalListings": 3659,
-    "aiEnhancedDirectories": 373
+    "avgDirectoriesPerRepo": 374.0,
+    "totalListings": 3669,
+    "aiEnhancedDirectories": 374
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4857,12 +4857,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-foundation-repair-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:48:35.835280+00:00Z",
+      "lastUpdated": "2025-11-08T05:48:35.835280+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 373,
+      "directoryCount": 374,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

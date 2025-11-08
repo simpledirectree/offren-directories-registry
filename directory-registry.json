@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:25:55.130666+00:00Z",
+  "lastUpdated": "2025-11-08T07:26:08.220065+00:00Z",
   "stats": {
-    "totalDirectories": 724,
+    "totalDirectories": 725,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 724.0,
-    "totalListings": 7046,
-    "aiEnhancedDirectories": 724
+    "avgDirectoriesPerRepo": 725.0,
+    "totalListings": 7056,
+    "aiEnhancedDirectories": 725
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9420,12 +9420,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-enterprise-software-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:26:08.220065+00:00Z",
+      "lastUpdated": "2025-11-08T07:26:08.220065+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 724,
+      "directoryCount": 725,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:50:39.016316+00:00Z",
+  "lastUpdated": "2025-11-08T04:51:01.289195+00:00Z",
   "stats": {
-    "totalDirectories": 165,
+    "totalDirectories": 166,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 165.0,
-    "totalListings": 1615,
-    "aiEnhancedDirectories": 165
+    "avgDirectoriesPerRepo": 166.0,
+    "totalListings": 1625,
+    "aiEnhancedDirectories": 166
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2153,12 +2153,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-sales-coaching-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:51:01.289195+00:00Z",
+      "lastUpdated": "2025-11-08T04:51:01.289195+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 165,
+      "directoryCount": 166,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

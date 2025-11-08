@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:23:23.646673+00:00Z",
+  "lastUpdated": "2025-11-08T17:23:37.302334+00:00Z",
   "stats": {
-    "totalDirectories": 1421,
+    "totalDirectories": 1422,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1421.0,
-    "totalListings": 13503,
-    "aiEnhancedDirectories": 1421
+    "avgDirectoriesPerRepo": 1422.0,
+    "totalListings": 13504,
+    "aiEnhancedDirectories": 1422
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18481,12 +18481,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-financial-advisors-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:23:37.302334+00:00Z",
+      "lastUpdated": "2025-11-08T17:23:37.302334+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1421,
+      "directoryCount": 1422,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

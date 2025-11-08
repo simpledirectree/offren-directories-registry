@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:08:27.752757+00:00Z",
+  "lastUpdated": "2025-11-08T21:09:57.932971+00:00Z",
   "stats": {
-    "totalDirectories": 1692,
+    "totalDirectories": 1693,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1692.0,
-    "totalListings": 16042,
-    "aiEnhancedDirectories": 1692
+    "avgDirectoriesPerRepo": 1693.0,
+    "totalListings": 16052,
+    "aiEnhancedDirectories": 1693
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22004,12 +22004,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-software-training-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:09:57.932971+00:00Z",
+      "lastUpdated": "2025-11-08T21:09:57.932971+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1692,
+      "directoryCount": 1693,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

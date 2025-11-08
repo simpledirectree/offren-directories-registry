@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:29:10.049267+00:00Z",
+  "lastUpdated": "2025-11-08T06:29:28.368420+00:00Z",
   "stats": {
-    "totalDirectories": 519,
+    "totalDirectories": 520,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 519.0,
-    "totalListings": 5055,
-    "aiEnhancedDirectories": 519
+    "avgDirectoriesPerRepo": 520.0,
+    "totalListings": 5065,
+    "aiEnhancedDirectories": 520
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6755,12 +6755,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-meeting-space-rentals-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:29:28.368420+00:00Z",
+      "lastUpdated": "2025-11-08T06:29:28.368420+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 519,
+      "directoryCount": 520,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

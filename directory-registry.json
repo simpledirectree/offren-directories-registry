@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:25:09.191981+00:00Z",
+  "lastUpdated": "2025-11-08T05:25:27.760439+00:00Z",
   "stats": {
-    "totalDirectories": 290,
+    "totalDirectories": 291,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 290.0,
-    "totalListings": 2837,
-    "aiEnhancedDirectories": 290
+    "avgDirectoriesPerRepo": 291.0,
+    "totalListings": 2847,
+    "aiEnhancedDirectories": 291
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3778,12 +3778,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-personal-training-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:25:27.760439+00:00Z",
+      "lastUpdated": "2025-11-08T05:25:27.760439+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 290,
+      "directoryCount": 291,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:14:59.340729+00:00Z",
+  "lastUpdated": "2025-11-08T17:15:13.651845+00:00Z",
   "stats": {
-    "totalDirectories": 1404,
+    "totalDirectories": 1405,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1404.0,
-    "totalListings": 13336,
-    "aiEnhancedDirectories": 1404
+    "avgDirectoriesPerRepo": 1405.0,
+    "totalListings": 13346,
+    "aiEnhancedDirectories": 1405
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18260,12 +18260,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-ayurvedic-medicine-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:15:13.651845+00:00Z",
+      "lastUpdated": "2025-11-08T17:15:13.651845+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1404,
+      "directoryCount": 1405,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

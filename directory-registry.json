@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:23:47.732367+00:00Z",
+  "lastUpdated": "2025-11-08T05:24:04.458806+00:00Z",
   "stats": {
-    "totalDirectories": 285,
+    "totalDirectories": 286,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 285.0,
-    "totalListings": 2787,
-    "aiEnhancedDirectories": 285
+    "avgDirectoriesPerRepo": 286.0,
+    "totalListings": 2797,
+    "aiEnhancedDirectories": 286
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3713,12 +3713,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-emergency-roof-repairs-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:24:04.458806+00:00Z",
+      "lastUpdated": "2025-11-08T05:24:04.458806+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 285,
+      "directoryCount": 286,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

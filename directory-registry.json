@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:28:58.807954+00:00Z",
+  "lastUpdated": "2025-11-08T05:29:16.607564+00:00Z",
   "stats": {
-    "totalDirectories": 304,
+    "totalDirectories": 305,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 304.0,
-    "totalListings": 2977,
-    "aiEnhancedDirectories": 304
+    "avgDirectoriesPerRepo": 305.0,
+    "totalListings": 2987,
+    "aiEnhancedDirectories": 305
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3960,12 +3960,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-custom-application-development-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:29:16.607564+00:00Z",
+      "lastUpdated": "2025-11-08T05:29:16.607564+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 304,
+      "directoryCount": 305,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

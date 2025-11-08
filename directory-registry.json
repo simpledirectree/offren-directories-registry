@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:29:55.254593+00:00Z",
+  "lastUpdated": "2025-11-08T10:31:25.573483+00:00Z",
   "stats": {
-    "totalDirectories": 951,
+    "totalDirectories": 952,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 951.0,
-    "totalListings": 9142,
-    "aiEnhancedDirectories": 951
+    "avgDirectoriesPerRepo": 952.0,
+    "totalListings": 9152,
+    "aiEnhancedDirectories": 952
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12371,12 +12371,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-kickboxing-classes-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:31:25.573483+00:00Z",
+      "lastUpdated": "2025-11-08T10:31:25.573483+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 951,
+      "directoryCount": 952,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

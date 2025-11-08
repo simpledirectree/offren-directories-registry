@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:42:53.478711+00:00Z",
+  "lastUpdated": "2025-11-08T14:43:33.998584+00:00Z",
   "stats": {
-    "totalDirectories": 1241,
+    "totalDirectories": 1242,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1241.0,
-    "totalListings": 11804,
-    "aiEnhancedDirectories": 1241
+    "avgDirectoriesPerRepo": 1242.0,
+    "totalListings": 11814,
+    "aiEnhancedDirectories": 1242
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16141,12 +16141,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-vendor-coordination-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:43:33.998584+00:00Z",
+      "lastUpdated": "2025-11-08T14:43:33.998584+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1241,
+      "directoryCount": 1242,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

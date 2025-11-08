@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:22:41.600148+00:00Z",
+  "lastUpdated": "2025-11-08T06:23:00.993322+00:00Z",
   "stats": {
-    "totalDirectories": 496,
+    "totalDirectories": 497,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 496.0,
-    "totalListings": 4825,
-    "aiEnhancedDirectories": 496
+    "avgDirectoriesPerRepo": 497.0,
+    "totalListings": 4835,
+    "aiEnhancedDirectories": 497
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6456,12 +6456,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-privacy-policy-creation-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:23:00.993322+00:00Z",
+      "lastUpdated": "2025-11-08T06:23:00.993322+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 496,
+      "directoryCount": 497,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

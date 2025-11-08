@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:00:56.572249+00:00Z",
+  "lastUpdated": "2025-11-08T23:01:11.365302+00:00Z",
   "stats": {
-    "totalDirectories": 1818,
+    "totalDirectories": 1819,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1818.0,
-    "totalListings": 17222,
-    "aiEnhancedDirectories": 1818
+    "avgDirectoriesPerRepo": 1819.0,
+    "totalListings": 17232,
+    "aiEnhancedDirectories": 1819
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23642,12 +23642,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-plumbing-repair-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:01:11.365302+00:00Z",
+      "lastUpdated": "2025-11-08T23:01:11.365302+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1818,
+      "directoryCount": 1819,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

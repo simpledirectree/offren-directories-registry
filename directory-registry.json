@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:54:23.885556+00:00Z",
+  "lastUpdated": "2025-11-08T06:54:36.042761+00:00Z",
   "stats": {
-    "totalDirectories": 609,
+    "totalDirectories": 610,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 609.0,
-    "totalListings": 5927,
-    "aiEnhancedDirectories": 609
+    "avgDirectoriesPerRepo": 610.0,
+    "totalListings": 5933,
+    "aiEnhancedDirectories": 610
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7925,12 +7925,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-healthcare-certification-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:54:36.042761+00:00Z",
+      "lastUpdated": "2025-11-08T06:54:36.042761+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 609,
+      "directoryCount": 610,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

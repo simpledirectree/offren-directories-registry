@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:31:26.007755+00:00Z",
+  "lastUpdated": "2025-11-08T05:31:40.838581+00:00Z",
   "stats": {
-    "totalDirectories": 313,
+    "totalDirectories": 314,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 313.0,
-    "totalListings": 3067,
-    "aiEnhancedDirectories": 313
+    "avgDirectoriesPerRepo": 314.0,
+    "totalListings": 3077,
+    "aiEnhancedDirectories": 314
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4077,12 +4077,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-moving-supply-rental-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:31:40.838581+00:00Z",
+      "lastUpdated": "2025-11-08T05:31:40.838581+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 313,
+      "directoryCount": 314,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

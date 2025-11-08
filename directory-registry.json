@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:08:00.661340+00:00Z",
+  "lastUpdated": "2025-11-08T21:08:13.871733+00:00Z",
   "stats": {
-    "totalDirectories": 1690,
+    "totalDirectories": 1691,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1690.0,
-    "totalListings": 16029,
-    "aiEnhancedDirectories": 1690
+    "avgDirectoriesPerRepo": 1691.0,
+    "totalListings": 16032,
+    "aiEnhancedDirectories": 1691
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21978,12 +21978,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-breach-notification-services-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:08:13.871733+00:00Z",
+      "lastUpdated": "2025-11-08T21:08:13.871733+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1690,
+      "directoryCount": 1691,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

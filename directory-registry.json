@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:32:45.866454+00:00Z",
+  "lastUpdated": "2025-11-08T09:35:33.932996+00:00Z",
   "stats": {
-    "totalDirectories": 889,
+    "totalDirectories": 890,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 889.0,
-    "totalListings": 8581,
-    "aiEnhancedDirectories": 889
+    "avgDirectoriesPerRepo": 890.0,
+    "totalListings": 8589,
+    "aiEnhancedDirectories": 890
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11565,12 +11565,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-sound-healing-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:35:33.932996+00:00Z",
+      "lastUpdated": "2025-11-08T09:35:33.932996+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 889,
+      "directoryCount": 890,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:45:59.684472+00:00Z",
+  "lastUpdated": "2025-11-08T15:46:14.096034+00:00Z",
   "stats": {
-    "totalDirectories": 1308,
+    "totalDirectories": 1309,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1308.0,
-    "totalListings": 12435,
-    "aiEnhancedDirectories": 1308
+    "avgDirectoriesPerRepo": 1309.0,
+    "totalListings": 12445,
+    "aiEnhancedDirectories": 1309
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17012,12 +17012,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-dj-services-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:46:14.096034+00:00Z",
+      "lastUpdated": "2025-11-08T15:46:14.096034+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1308,
+      "directoryCount": 1309,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

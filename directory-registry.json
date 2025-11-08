@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:19:43.970766+00:00Z",
+  "lastUpdated": "2025-11-08T07:20:01.284362+00:00Z",
   "stats": {
-    "totalDirectories": 702,
+    "totalDirectories": 703,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 702.0,
-    "totalListings": 6826,
-    "aiEnhancedDirectories": 702
+    "avgDirectoriesPerRepo": 703.0,
+    "totalListings": 6836,
+    "aiEnhancedDirectories": 703
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9134,12 +9134,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-painting-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:20:01.284362+00:00Z",
+      "lastUpdated": "2025-11-08T07:20:01.284362+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 702,
+      "directoryCount": 703,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

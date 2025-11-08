@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:07:03.057761+00:00Z",
+  "lastUpdated": "2025-11-08T05:07:15.074023+00:00Z",
   "stats": {
-    "totalDirectories": 224,
+    "totalDirectories": 225,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 224.0,
-    "totalListings": 2200,
-    "aiEnhancedDirectories": 224
+    "avgDirectoriesPerRepo": 225.0,
+    "totalListings": 2201,
+    "aiEnhancedDirectories": 225
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2920,12 +2920,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-private-equity-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:07:15.074023+00:00Z",
+      "lastUpdated": "2025-11-08T05:07:15.074023+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 224,
+      "directoryCount": 225,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:01:04.383012+00:00Z",
+  "lastUpdated": "2025-11-08T01:01:46.956814+00:00Z",
   "stats": {
-    "totalDirectories": 2215,
+    "totalDirectories": 2216,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2215.0,
-    "totalListings": 20705,
-    "aiEnhancedDirectories": 2214
+    "avgDirectoriesPerRepo": 2216.0,
+    "totalListings": 20715,
+    "aiEnhancedDirectories": 2215
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28802,12 +28802,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-soccer-coaching-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:01:46.956814+00:00Z",
+      "lastUpdated": "2025-11-08T01:01:46.956814+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2215,
+      "directoryCount": 2216,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

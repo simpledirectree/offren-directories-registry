@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:16:54.076110+00:00Z",
+  "lastUpdated": "2025-11-08T06:17:13.993080+00:00Z",
   "stats": {
-    "totalDirectories": 475,
+    "totalDirectories": 476,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 475.0,
-    "totalListings": 4619,
-    "aiEnhancedDirectories": 475
+    "avgDirectoriesPerRepo": 476.0,
+    "totalListings": 4629,
+    "aiEnhancedDirectories": 476
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6183,12 +6183,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-buffet-restaurants-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:17:13.993080+00:00Z",
+      "lastUpdated": "2025-11-08T06:17:13.993080+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 475,
+      "directoryCount": 476,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

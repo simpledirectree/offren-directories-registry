@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:46:22.562814+00:00Z",
+  "lastUpdated": "2025-11-08T04:46:38.815078+00:00Z",
   "stats": {
-    "totalDirectories": 149,
+    "totalDirectories": 150,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 149.0,
-    "totalListings": 1460,
-    "aiEnhancedDirectories": 149
+    "avgDirectoriesPerRepo": 150.0,
+    "totalListings": 1470,
+    "aiEnhancedDirectories": 150
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1945,12 +1945,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-debt-collection-services-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:46:38.815078+00:00Z",
+      "lastUpdated": "2025-11-08T04:46:38.815078+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 149,
+      "directoryCount": 150,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

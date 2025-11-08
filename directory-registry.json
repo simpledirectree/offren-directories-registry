@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:26:50.805453+00:00Z",
+  "lastUpdated": "2025-11-08T07:27:02.986669+00:00Z",
   "stats": {
-    "totalDirectories": 728,
+    "totalDirectories": 729,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 728.0,
-    "totalListings": 7081,
-    "aiEnhancedDirectories": 728
+    "avgDirectoriesPerRepo": 729.0,
+    "totalListings": 7082,
+    "aiEnhancedDirectories": 729
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9472,12 +9472,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-virtual-machine-management-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:27:02.986669+00:00Z",
+      "lastUpdated": "2025-11-08T07:27:02.986669+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 728,
+      "directoryCount": 729,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

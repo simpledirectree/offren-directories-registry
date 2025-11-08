@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:35:59.100512+00:00Z",
+  "lastUpdated": "2025-11-08T16:36:15.379495+00:00Z",
   "stats": {
-    "totalDirectories": 1359,
+    "totalDirectories": 1360,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1359.0,
-    "totalListings": 12908,
-    "aiEnhancedDirectories": 1359
+    "avgDirectoriesPerRepo": 1360.0,
+    "totalListings": 12918,
+    "aiEnhancedDirectories": 1360
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17675,12 +17675,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-software-training-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:36:15.379495+00:00Z",
+      "lastUpdated": "2025-11-08T16:36:15.379495+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1359,
+      "directoryCount": 1360,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

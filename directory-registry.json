@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:06:07.963349+00:00Z",
+  "lastUpdated": "2025-11-08T01:06:21.202187+00:00Z",
   "stats": {
-    "totalDirectories": 2221,
+    "totalDirectories": 2222,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2221.0,
-    "totalListings": 20763,
-    "aiEnhancedDirectories": 2220
+    "avgDirectoriesPerRepo": 2222.0,
+    "totalListings": 20764,
+    "aiEnhancedDirectories": 2221
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28880,12 +28880,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-software-implementation-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:06:21.202187+00:00Z",
+      "lastUpdated": "2025-11-08T01:06:21.202187+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2221,
+      "directoryCount": 2222,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

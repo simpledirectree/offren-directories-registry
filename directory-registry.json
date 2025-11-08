@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:51:04.037870+00:00Z",
+  "lastUpdated": "2025-11-08T06:51:18.587564+00:00Z",
   "stats": {
-    "totalDirectories": 597,
+    "totalDirectories": 598,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 597.0,
-    "totalListings": 5812,
-    "aiEnhancedDirectories": 597
+    "avgDirectoriesPerRepo": 598.0,
+    "totalListings": 5822,
+    "aiEnhancedDirectories": 598
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7769,12 +7769,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-transmission-replacement-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:51:18.587564+00:00Z",
+      "lastUpdated": "2025-11-08T06:51:18.587564+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 597,
+      "directoryCount": 598,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:26:43.636772+00:00Z",
+  "lastUpdated": "2025-11-08T08:29:53.948974+00:00Z",
   "stats": {
-    "totalDirectories": 808,
+    "totalDirectories": 809,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 808.0,
-    "totalListings": 7825,
-    "aiEnhancedDirectories": 808
+    "avgDirectoriesPerRepo": 809.0,
+    "totalListings": 7835,
+    "aiEnhancedDirectories": 809
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10512,12 +10512,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-boilers-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:29:53.948974+00:00Z",
+      "lastUpdated": "2025-11-08T08:29:53.948974+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 808,
+      "directoryCount": 809,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

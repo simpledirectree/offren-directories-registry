@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:36:22.138231+00:00Z",
+  "lastUpdated": "2025-11-08T06:36:39.846955+00:00Z",
   "stats": {
-    "totalDirectories": 545,
+    "totalDirectories": 546,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 545.0,
-    "totalListings": 5315,
-    "aiEnhancedDirectories": 545
+    "avgDirectoriesPerRepo": 546.0,
+    "totalListings": 5325,
+    "aiEnhancedDirectories": 546
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7093,12 +7093,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-influencer-marketing-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:36:39.846955+00:00Z",
+      "lastUpdated": "2025-11-08T06:36:39.846955+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 545,
+      "directoryCount": 546,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

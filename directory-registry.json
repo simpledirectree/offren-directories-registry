@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:20:28.417676+00:00Z",
+  "lastUpdated": "2025-11-08T12:20:41.327227+00:00Z",
   "stats": {
-    "totalDirectories": 1077,
+    "totalDirectories": 1078,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1077.0,
-    "totalListings": 10298,
-    "aiEnhancedDirectories": 1077
+    "avgDirectoriesPerRepo": 1078.0,
+    "totalListings": 10299,
+    "aiEnhancedDirectories": 1078
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14009,12 +14009,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-heating-systems-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:20:41.327227+00:00Z",
+      "lastUpdated": "2025-11-08T12:20:41.327227+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1077,
+      "directoryCount": 1078,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

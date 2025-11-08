@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:37:11.182565+00:00Z",
+  "lastUpdated": "2025-11-08T11:38:41.702509+00:00Z",
   "stats": {
-    "totalDirectories": 1029,
+    "totalDirectories": 1030,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1029.0,
-    "totalListings": 9861,
-    "aiEnhancedDirectories": 1029
+    "avgDirectoriesPerRepo": 1030.0,
+    "totalListings": 9871,
+    "aiEnhancedDirectories": 1030
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13385,12 +13385,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-office-cleaning-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:38:41.702509+00:00Z",
+      "lastUpdated": "2025-11-08T11:38:41.702509+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1029,
+      "directoryCount": 1030,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

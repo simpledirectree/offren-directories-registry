@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:34:20.523841+00:00Z",
+  "lastUpdated": "2025-11-08T15:35:03.488270+00:00Z",
   "stats": {
-    "totalDirectories": 1294,
+    "totalDirectories": 1295,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1294.0,
-    "totalListings": 12296,
-    "aiEnhancedDirectories": 1294
+    "avgDirectoriesPerRepo": 1295.0,
+    "totalListings": 12306,
+    "aiEnhancedDirectories": 1295
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16830,12 +16830,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-performance-tuning-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:35:03.488270+00:00Z",
+      "lastUpdated": "2025-11-08T15:35:03.488270+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1294,
+      "directoryCount": 1295,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

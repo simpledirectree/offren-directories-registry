@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:30:00.342253+00:00Z",
+  "lastUpdated": "2025-11-08T19:31:55.837166+00:00Z",
   "stats": {
-    "totalDirectories": 1566,
+    "totalDirectories": 1567,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1566.0,
-    "totalListings": 14883,
-    "aiEnhancedDirectories": 1566
+    "avgDirectoriesPerRepo": 1567.0,
+    "totalListings": 14893,
+    "aiEnhancedDirectories": 1567
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20366,12 +20366,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-leadership-development-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:31:55.837166+00:00Z",
+      "lastUpdated": "2025-11-08T19:31:55.837166+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1566,
+      "directoryCount": 1567,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

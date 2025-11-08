@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:02:08.068194+00:00Z",
+  "lastUpdated": "2025-11-08T03:04:36.528549+00:00Z",
   "stats": {
-    "totalDirectories": 2350,
+    "totalDirectories": 2351,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2350.0,
-    "totalListings": 21935,
-    "aiEnhancedDirectories": 2349
+    "avgDirectoriesPerRepo": 2351.0,
+    "totalListings": 21945,
+    "aiEnhancedDirectories": 2350
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30557,12 +30557,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-full-service-catering-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:04:36.528549+00:00Z",
+      "lastUpdated": "2025-11-08T03:04:36.528549+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2350,
+      "directoryCount": 2351,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

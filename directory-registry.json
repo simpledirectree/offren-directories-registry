@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:40:21.039522+00:00Z",
+  "lastUpdated": "2025-11-08T21:40:35.921156+00:00Z",
   "stats": {
-    "totalDirectories": 1727,
+    "totalDirectories": 1728,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1727.0,
-    "totalListings": 16357,
-    "aiEnhancedDirectories": 1727
+    "avgDirectoriesPerRepo": 1728.0,
+    "totalListings": 16367,
+    "aiEnhancedDirectories": 1728
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22459,12 +22459,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-rheumatologists-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:40:35.921156+00:00Z",
+      "lastUpdated": "2025-11-08T21:40:35.921156+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1727,
+      "directoryCount": 1728,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:11:25.329521+00:00Z",
+  "lastUpdated": "2025-11-08T13:11:40.646698+00:00Z",
   "stats": {
-    "totalDirectories": 1146,
+    "totalDirectories": 1147,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1146.0,
-    "totalListings": 10933,
-    "aiEnhancedDirectories": 1146
+    "avgDirectoriesPerRepo": 1147.0,
+    "totalListings": 10940,
+    "aiEnhancedDirectories": 1147
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14906,12 +14906,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-immigration-law-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:11:40.646698+00:00Z",
+      "lastUpdated": "2025-11-08T13:11:40.646698+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1146,
+      "directoryCount": 1147,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

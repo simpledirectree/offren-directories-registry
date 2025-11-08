@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:13:51.805032+00:00Z",
+  "lastUpdated": "2025-11-08T00:14:56.299318+00:00Z",
   "stats": {
-    "totalDirectories": 2161,
+    "totalDirectories": 2162,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2161.0,
-    "totalListings": 20227,
-    "aiEnhancedDirectories": 2160
+    "avgDirectoriesPerRepo": 2162.0,
+    "totalListings": 20237,
+    "aiEnhancedDirectories": 2161
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28100,12 +28100,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-paint-protection-film-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:14:56.299318+00:00Z",
+      "lastUpdated": "2025-11-08T00:14:56.299318+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2161,
+      "directoryCount": 2162,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

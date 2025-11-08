@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:18:50.739924+00:00Z",
+  "lastUpdated": "2025-11-08T09:19:29.235107+00:00Z",
   "stats": {
-    "totalDirectories": 871,
+    "totalDirectories": 872,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 871.0,
-    "totalListings": 8406,
-    "aiEnhancedDirectories": 871
+    "avgDirectoriesPerRepo": 872.0,
+    "totalListings": 8416,
+    "aiEnhancedDirectories": 872
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11331,12 +11331,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-account-based-marketing-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:19:29.235107+00:00Z",
+      "lastUpdated": "2025-11-08T09:19:29.235107+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 871,
+      "directoryCount": 872,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

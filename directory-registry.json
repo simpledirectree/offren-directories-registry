@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:01:29.247200+00:00Z",
+  "lastUpdated": "2025-11-08T10:02:23.351511+00:00Z",
   "stats": {
-    "totalDirectories": 923,
+    "totalDirectories": 924,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 923.0,
-    "totalListings": 8892,
-    "aiEnhancedDirectories": 923
+    "avgDirectoriesPerRepo": 924.0,
+    "totalListings": 8902,
+    "aiEnhancedDirectories": 924
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12007,12 +12007,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-bariatric-surgery-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:02:23.351511+00:00Z",
+      "lastUpdated": "2025-11-08T10:02:23.351511+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 923,
+      "directoryCount": 924,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

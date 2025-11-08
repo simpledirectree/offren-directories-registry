@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:48:08.956594+00:00Z",
+  "lastUpdated": "2025-11-08T23:48:23.071235+00:00Z",
   "stats": {
-    "totalDirectories": 1881,
+    "totalDirectories": 1882,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1881.0,
-    "totalListings": 17790,
-    "aiEnhancedDirectories": 1881
+    "avgDirectoriesPerRepo": 1882.0,
+    "totalListings": 17800,
+    "aiEnhancedDirectories": 1882
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24461,12 +24461,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-gap-analysis-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:48:23.071235+00:00Z",
+      "lastUpdated": "2025-11-08T23:48:23.071235+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1881,
+      "directoryCount": 1882,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

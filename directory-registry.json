@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:19:28.145852+00:00Z",
+  "lastUpdated": "2025-11-08T04:19:45.203190+00:00Z",
   "stats": {
-    "totalDirectories": 52,
+    "totalDirectories": 53,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 52.0,
-    "totalListings": 516,
-    "aiEnhancedDirectories": 52
+    "avgDirectoriesPerRepo": 53.0,
+    "totalListings": 526,
+    "aiEnhancedDirectories": 53
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -684,12 +684,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-rv-service-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:19:45.203190+00:00Z",
+      "lastUpdated": "2025-11-08T04:19:45.203190+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 52,
+      "directoryCount": 53,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

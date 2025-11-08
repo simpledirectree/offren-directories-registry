@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:35:33.256712+00:00Z",
+  "lastUpdated": "2025-11-08T23:35:48.910412+00:00Z",
   "stats": {
-    "totalDirectories": 1860,
+    "totalDirectories": 1861,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1860.0,
-    "totalListings": 17610,
-    "aiEnhancedDirectories": 1860
+    "avgDirectoriesPerRepo": 1861.0,
+    "totalListings": 17620,
+    "aiEnhancedDirectories": 1861
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24188,12 +24188,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-cosmetic-dentistry-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:35:48.910412+00:00Z",
+      "lastUpdated": "2025-11-08T23:35:48.910412+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1860,
+      "directoryCount": 1861,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

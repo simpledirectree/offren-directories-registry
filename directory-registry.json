@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:16:01.235438+00:00Z",
+  "lastUpdated": "2025-11-08T21:19:34.291819+00:00Z",
   "stats": {
-    "totalDirectories": 1702,
+    "totalDirectories": 1703,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1702.0,
-    "totalListings": 16142,
-    "aiEnhancedDirectories": 1702
+    "avgDirectoriesPerRepo": 1703.0,
+    "totalListings": 16146,
+    "aiEnhancedDirectories": 1703
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22134,12 +22134,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-crystal-healing-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:19:34.291819+00:00Z",
+      "lastUpdated": "2025-11-08T21:19:34.291819+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1702,
+      "directoryCount": 1703,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

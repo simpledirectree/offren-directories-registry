@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:26:22.379904+00:00Z",
+  "lastUpdated": "2025-11-08T07:26:34.812458+00:00Z",
   "stats": {
-    "totalDirectories": 726,
+    "totalDirectories": 727,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 726.0,
-    "totalListings": 7066,
-    "aiEnhancedDirectories": 726
+    "avgDirectoriesPerRepo": 727.0,
+    "totalListings": 7071,
+    "aiEnhancedDirectories": 727
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9446,12 +9446,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-personal-injury-law-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:26:34.812458+00:00Z",
+      "lastUpdated": "2025-11-08T07:26:34.812458+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 726,
+      "directoryCount": 727,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

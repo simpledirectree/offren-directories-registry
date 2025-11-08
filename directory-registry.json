@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:30:08.099478+00:00Z",
+  "lastUpdated": "2025-11-08T20:30:47.750016+00:00Z",
   "stats": {
-    "totalDirectories": 1642,
+    "totalDirectories": 1643,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1642.0,
-    "totalListings": 15577,
-    "aiEnhancedDirectories": 1642
+    "avgDirectoriesPerRepo": 1643.0,
+    "totalListings": 15587,
+    "aiEnhancedDirectories": 1643
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21354,12 +21354,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-industry-specific-compliance-consulting-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:30:47.750016+00:00Z",
+      "lastUpdated": "2025-11-08T20:30:47.750016+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1642,
+      "directoryCount": 1643,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:09:30.387334+00:00Z",
+  "lastUpdated": "2025-11-08T13:09:45.941743+00:00Z",
   "stats": {
-    "totalDirectories": 1142,
+    "totalDirectories": 1143,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1142.0,
-    "totalListings": 10893,
-    "aiEnhancedDirectories": 1142
+    "avgDirectoriesPerRepo": 1143.0,
+    "totalListings": 10903,
+    "aiEnhancedDirectories": 1143
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14854,12 +14854,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-interior-cleaning-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:09:45.941743+00:00Z",
+      "lastUpdated": "2025-11-08T13:09:45.941743+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1142,
+      "directoryCount": 1143,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

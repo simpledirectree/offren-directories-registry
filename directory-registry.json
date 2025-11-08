@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:31:21.833398+00:00Z",
+  "lastUpdated": "2025-11-08T16:31:39.023089+00:00Z",
   "stats": {
-    "totalDirectories": 1354,
+    "totalDirectories": 1355,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1354.0,
-    "totalListings": 12867,
-    "aiEnhancedDirectories": 1354
+    "avgDirectoriesPerRepo": 1355.0,
+    "totalListings": 12877,
+    "aiEnhancedDirectories": 1355
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17610,12 +17610,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-trauma-therapy-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:31:39.023089+00:00Z",
+      "lastUpdated": "2025-11-08T16:31:39.023089+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1354,
+      "directoryCount": 1355,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

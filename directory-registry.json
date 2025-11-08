@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:46:44.899118+00:00Z",
+  "lastUpdated": "2025-11-08T15:48:18.907923+00:00Z",
   "stats": {
-    "totalDirectories": 1311,
+    "totalDirectories": 1312,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1311.0,
-    "totalListings": 12465,
-    "aiEnhancedDirectories": 1311
+    "avgDirectoriesPerRepo": 1312.0,
+    "totalListings": 12472,
+    "aiEnhancedDirectories": 1312
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17051,12 +17051,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-live-in-nannies-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:48:18.907923+00:00Z",
+      "lastUpdated": "2025-11-08T15:48:18.907923+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1311,
+      "directoryCount": 1312,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

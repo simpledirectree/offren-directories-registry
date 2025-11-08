@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:11:33.787222+00:00Z",
+  "lastUpdated": "2025-11-08T05:11:49.685953+00:00Z",
   "stats": {
-    "totalDirectories": 239,
+    "totalDirectories": 240,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 239.0,
-    "totalListings": 2341,
-    "aiEnhancedDirectories": 239
+    "avgDirectoriesPerRepo": 240.0,
+    "totalListings": 2351,
+    "aiEnhancedDirectories": 240
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3115,12 +3115,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-orthopedic-surgery-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:11:49.685953+00:00Z",
+      "lastUpdated": "2025-11-08T05:11:49.685953+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 239,
+      "directoryCount": 240,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

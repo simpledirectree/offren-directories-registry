@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:46:40.067014+00:00Z",
+  "lastUpdated": "2025-11-08T08:47:19.707973+00:00Z",
   "stats": {
-    "totalDirectories": 833,
+    "totalDirectories": 834,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 833.0,
-    "totalListings": 8066,
-    "aiEnhancedDirectories": 833
+    "avgDirectoriesPerRepo": 834.0,
+    "totalListings": 8076,
+    "aiEnhancedDirectories": 834
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10837,12 +10837,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-educational-garden-tours-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:47:19.707973+00:00Z",
+      "lastUpdated": "2025-11-08T08:47:19.707973+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 833,
+      "directoryCount": 834,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

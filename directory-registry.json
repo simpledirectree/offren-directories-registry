@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:54:27.558303+00:00Z",
+  "lastUpdated": "2025-11-08T09:55:32.207318+00:00Z",
   "stats": {
-    "totalDirectories": 913,
+    "totalDirectories": 914,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 913.0,
-    "totalListings": 8800,
-    "aiEnhancedDirectories": 913
+    "avgDirectoriesPerRepo": 914.0,
+    "totalListings": 8810,
+    "aiEnhancedDirectories": 914
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11877,12 +11877,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-offer-in-compromise-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:55:32.207318+00:00Z",
+      "lastUpdated": "2025-11-08T09:55:32.207318+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 913,
+      "directoryCount": 914,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

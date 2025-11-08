@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:43:03.006189+00:00Z",
+  "lastUpdated": "2025-11-08T01:43:45.569515+00:00Z",
   "stats": {
-    "totalDirectories": 2265,
+    "totalDirectories": 2266,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2265.0,
-    "totalListings": 21175,
-    "aiEnhancedDirectories": 2264
+    "avgDirectoriesPerRepo": 2266.0,
+    "totalListings": 21185,
+    "aiEnhancedDirectories": 2265
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29452,12 +29452,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-patent-law-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:43:45.569515+00:00Z",
+      "lastUpdated": "2025-11-08T01:43:45.569515+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2265,
+      "directoryCount": 2266,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

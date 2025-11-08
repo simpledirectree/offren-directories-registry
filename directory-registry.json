@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:22:09.935306+00:00Z",
+  "lastUpdated": "2025-11-08T06:22:28.032515+00:00Z",
   "stats": {
-    "totalDirectories": 494,
+    "totalDirectories": 495,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 494.0,
-    "totalListings": 4805,
-    "aiEnhancedDirectories": 494
+    "avgDirectoriesPerRepo": 495.0,
+    "totalListings": 4815,
+    "aiEnhancedDirectories": 495
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6430,12 +6430,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-real-estate-appraisal-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:22:28.032515+00:00Z",
+      "lastUpdated": "2025-11-08T06:22:28.032515+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 494,
+      "directoryCount": 495,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

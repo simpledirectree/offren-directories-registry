@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:08:02.389087+00:00Z",
+  "lastUpdated": "2025-11-08T19:10:25.157713+00:00Z",
   "stats": {
-    "totalDirectories": 1542,
+    "totalDirectories": 1543,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1542.0,
-    "totalListings": 14643,
-    "aiEnhancedDirectories": 1542
+    "avgDirectoriesPerRepo": 1543.0,
+    "totalListings": 14653,
+    "aiEnhancedDirectories": 1543
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20054,12 +20054,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-dance-fitness-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:10:25.157713+00:00Z",
+      "lastUpdated": "2025-11-08T19:10:25.157713+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1542,
+      "directoryCount": 1543,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

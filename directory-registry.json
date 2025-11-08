@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:16:40.759194+00:00Z",
+  "lastUpdated": "2025-11-08T17:16:55.769971+00:00Z",
   "stats": {
-    "totalDirectories": 1407,
+    "totalDirectories": 1408,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1407.0,
-    "totalListings": 13366,
-    "aiEnhancedDirectories": 1407
+    "avgDirectoriesPerRepo": 1408.0,
+    "totalListings": 13376,
+    "aiEnhancedDirectories": 1408
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18299,12 +18299,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-computer-setup-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:16:55.769971+00:00Z",
+      "lastUpdated": "2025-11-08T17:16:55.769971+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1407,
+      "directoryCount": 1408,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

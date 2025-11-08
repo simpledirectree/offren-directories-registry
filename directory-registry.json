@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:13:01.426184+00:00Z",
+  "lastUpdated": "2025-11-08T17:14:17.682798+00:00Z",
   "stats": {
-    "totalDirectories": 1402,
+    "totalDirectories": 1403,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1402.0,
-    "totalListings": 13317,
-    "aiEnhancedDirectories": 1402
+    "avgDirectoriesPerRepo": 1403.0,
+    "totalListings": 13326,
+    "aiEnhancedDirectories": 1403
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18234,12 +18234,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-inclusion-training-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:14:17.682798+00:00Z",
+      "lastUpdated": "2025-11-08T17:14:17.682798+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1402,
+      "directoryCount": 1403,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

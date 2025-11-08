@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:55:24.793522+00:00Z",
+  "lastUpdated": "2025-11-08T19:55:40.100229+00:00Z",
   "stats": {
-    "totalDirectories": 1598,
+    "totalDirectories": 1599,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1598.0,
-    "totalListings": 15175,
-    "aiEnhancedDirectories": 1598
+    "avgDirectoriesPerRepo": 1599.0,
+    "totalListings": 15185,
+    "aiEnhancedDirectories": 1599
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20782,12 +20782,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-retirement-planning-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:55:40.100229+00:00Z",
+      "lastUpdated": "2025-11-08T19:55:40.100229+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1598,
+      "directoryCount": 1599,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

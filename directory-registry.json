@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:23:06.271495+00:00Z",
+  "lastUpdated": "2025-11-08T12:23:21.161792+00:00Z",
   "stats": {
-    "totalDirectories": 1081,
+    "totalDirectories": 1082,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1081.0,
-    "totalListings": 10329,
-    "aiEnhancedDirectories": 1081
+    "avgDirectoriesPerRepo": 1082.0,
+    "totalListings": 10339,
+    "aiEnhancedDirectories": 1082
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -14061,12 +14061,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-benefits-consulting-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:23:21.161792+00:00Z",
+      "lastUpdated": "2025-11-08T12:23:21.161792+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1081,
+      "directoryCount": 1082,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

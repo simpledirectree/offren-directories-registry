@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:26:24.270438+00:00Z",
+  "lastUpdated": "2025-11-08T04:26:39.134928+00:00Z",
   "stats": {
-    "totalDirectories": 77,
+    "totalDirectories": 78,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 77.0,
-    "totalListings": 757,
-    "aiEnhancedDirectories": 77
+    "avgDirectoriesPerRepo": 78.0,
+    "totalListings": 767,
+    "aiEnhancedDirectories": 78
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1009,12 +1009,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-home-inspection-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:26:39.134928+00:00Z",
+      "lastUpdated": "2025-11-08T04:26:39.134928+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 77,
+      "directoryCount": 78,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

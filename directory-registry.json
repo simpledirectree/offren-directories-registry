@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:01:39.493250+00:00Z",
+  "lastUpdated": "2025-11-08T22:04:26.323641+00:00Z",
   "stats": {
-    "totalDirectories": 1758,
+    "totalDirectories": 1759,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1758.0,
-    "totalListings": 16643,
-    "aiEnhancedDirectories": 1758
+    "avgDirectoriesPerRepo": 1759.0,
+    "totalListings": 16653,
+    "aiEnhancedDirectories": 1759
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22862,12 +22862,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-healthcare-certification-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:04:26.323641+00:00Z",
+      "lastUpdated": "2025-11-08T22:04:26.323641+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1758,
+      "directoryCount": 1759,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

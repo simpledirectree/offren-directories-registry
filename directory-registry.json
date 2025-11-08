@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:14:27.622093+00:00Z",
+  "lastUpdated": "2025-11-08T04:14:46.151210+00:00Z",
   "stats": {
-    "totalDirectories": 34,
+    "totalDirectories": 35,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 34.0,
-    "totalListings": 337,
-    "aiEnhancedDirectories": 34
+    "avgDirectoriesPerRepo": 35.0,
+    "totalListings": 347,
+    "aiEnhancedDirectories": 35
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -450,12 +450,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-property-management-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:14:46.151210+00:00Z",
+      "lastUpdated": "2025-11-08T04:14:46.151210+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 34,
+      "directoryCount": 35,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:58:07.258743+00:00Z",
+  "lastUpdated": "2025-11-08T04:58:20.330057+00:00Z",
   "stats": {
-    "totalDirectories": 192,
+    "totalDirectories": 193,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 192.0,
-    "totalListings": 1880,
-    "aiEnhancedDirectories": 192
+    "avgDirectoriesPerRepo": 193.0,
+    "totalListings": 1890,
+    "aiEnhancedDirectories": 193
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2504,12 +2504,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-legacy-system-modernization-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:58:20.330057+00:00Z",
+      "lastUpdated": "2025-11-08T04:58:20.330057+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 192,
+      "directoryCount": 193,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:40:51.038751+00:00Z",
+  "lastUpdated": "2025-11-08T21:41:56.216900+00:00Z",
   "stats": {
-    "totalDirectories": 1729,
+    "totalDirectories": 1730,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1729.0,
-    "totalListings": 16377,
-    "aiEnhancedDirectories": 1729
+    "avgDirectoriesPerRepo": 1730.0,
+    "totalListings": 16382,
+    "aiEnhancedDirectories": 1730
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22485,12 +22485,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-spray-tanning-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:41:56.216900+00:00Z",
+      "lastUpdated": "2025-11-08T21:41:56.216900+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1729,
+      "directoryCount": 1730,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

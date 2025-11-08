@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:10:33.711601+00:00Z",
+  "lastUpdated": "2025-11-08T12:11:12.533417+00:00Z",
   "stats": {
-    "totalDirectories": 1067,
+    "totalDirectories": 1068,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1067.0,
-    "totalListings": 10213,
-    "aiEnhancedDirectories": 1067
+    "avgDirectoriesPerRepo": 1068.0,
+    "totalListings": 10223,
+    "aiEnhancedDirectories": 1068
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13879,12 +13879,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-data-governance-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:11:12.533417+00:00Z",
+      "lastUpdated": "2025-11-08T12:11:12.533417+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1067,
+      "directoryCount": 1068,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

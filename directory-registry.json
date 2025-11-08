@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:26:08.220065+00:00Z",
+  "lastUpdated": "2025-11-08T07:26:22.379904+00:00Z",
   "stats": {
-    "totalDirectories": 725,
+    "totalDirectories": 726,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 725.0,
-    "totalListings": 7056,
-    "aiEnhancedDirectories": 725
+    "avgDirectoriesPerRepo": 726.0,
+    "totalListings": 7066,
+    "aiEnhancedDirectories": 726
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9433,12 +9433,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-live-online-classes-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:26:22.379904+00:00Z",
+      "lastUpdated": "2025-11-08T07:26:22.379904+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 725,
+      "directoryCount": 726,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

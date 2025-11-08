@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:00:10.239435+00:00Z",
+  "lastUpdated": "2025-11-08T15:00:23.804350+00:00Z",
   "stats": {
-    "totalDirectories": 1261,
+    "totalDirectories": 1262,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1261.0,
-    "totalListings": 11989,
-    "aiEnhancedDirectories": 1261
+    "avgDirectoriesPerRepo": 1262.0,
+    "totalListings": 11992,
+    "aiEnhancedDirectories": 1262
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16401,12 +16401,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-equal-employment-opportunity-compliance-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:00:23.804350+00:00Z",
+      "lastUpdated": "2025-11-08T15:00:23.804350+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1261,
+      "directoryCount": 1262,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

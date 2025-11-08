@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:45:06.265057+00:00Z",
+  "lastUpdated": "2025-11-08T21:47:54.848995+00:00Z",
   "stats": {
-    "totalDirectories": 1736,
+    "totalDirectories": 1737,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1736.0,
-    "totalListings": 16442,
-    "aiEnhancedDirectories": 1736
+    "avgDirectoriesPerRepo": 1737.0,
+    "totalListings": 16452,
+    "aiEnhancedDirectories": 1737
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22576,12 +22576,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-financial-reporting-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:47:54.848995+00:00Z",
+      "lastUpdated": "2025-11-08T21:47:54.848995+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1736,
+      "directoryCount": 1737,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

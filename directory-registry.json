@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:42:09.689716+00:00Z",
+  "lastUpdated": "2025-11-08T02:42:51.673346+00:00Z",
   "stats": {
-    "totalDirectories": 2329,
+    "totalDirectories": 2330,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2329.0,
-    "totalListings": 21742,
-    "aiEnhancedDirectories": 2328
+    "avgDirectoriesPerRepo": 2330.0,
+    "totalListings": 21752,
+    "aiEnhancedDirectories": 2329
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30284,12 +30284,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-financial-advisors-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:42:51.673346+00:00Z",
+      "lastUpdated": "2025-11-08T02:42:51.673346+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2329,
+      "directoryCount": 2330,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:45:10.290924+00:00Z",
+  "lastUpdated": "2025-11-08T04:45:23.991212+00:00Z",
   "stats": {
-    "totalDirectories": 145,
+    "totalDirectories": 146,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 145.0,
-    "totalListings": 1421,
-    "aiEnhancedDirectories": 145
+    "avgDirectoriesPerRepo": 146.0,
+    "totalListings": 1430,
+    "aiEnhancedDirectories": 146
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1893,12 +1893,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-pet-photography-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:45:23.991212+00:00Z",
+      "lastUpdated": "2025-11-08T04:45:23.991212+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 145,
+      "directoryCount": 146,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

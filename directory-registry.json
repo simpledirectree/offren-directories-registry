@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:22:53.410435+00:00Z",
+  "lastUpdated": "2025-11-08T01:24:29.532217+00:00Z",
   "stats": {
-    "totalDirectories": 2245,
+    "totalDirectories": 2246,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2245.0,
-    "totalListings": 20984,
-    "aiEnhancedDirectories": 2244
+    "avgDirectoriesPerRepo": 2246.0,
+    "totalListings": 20994,
+    "aiEnhancedDirectories": 2245
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29192,12 +29192,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-24-7-monitoring-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:24:29.532217+00:00Z",
+      "lastUpdated": "2025-11-08T01:24:29.532217+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2245,
+      "directoryCount": 2246,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

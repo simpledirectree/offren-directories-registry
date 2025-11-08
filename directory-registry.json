@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:51:56.792154+00:00Z",
+  "lastUpdated": "2025-11-08T03:52:16.666828+00:00Z",
   "stats": {
-    "totalDirectories": 2426,
+    "totalDirectories": 2427,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2426.0,
-    "totalListings": 22655,
-    "aiEnhancedDirectories": 2425
+    "avgDirectoriesPerRepo": 2427.0,
+    "totalListings": 22665,
+    "aiEnhancedDirectories": 2426
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31545,12 +31545,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-illusionists-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:52:16.666828+00:00Z",
+      "lastUpdated": "2025-11-08T03:52:16.666828+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2426,
+      "directoryCount": 2427,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

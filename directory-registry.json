@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:21:27.016099+00:00Z",
+  "lastUpdated": "2025-11-08T23:22:07.822660+00:00Z",
   "stats": {
-    "totalDirectories": 1844,
+    "totalDirectories": 1845,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1844.0,
-    "totalListings": 17458,
-    "aiEnhancedDirectories": 1844
+    "avgDirectoriesPerRepo": 1845.0,
+    "totalListings": 17468,
+    "aiEnhancedDirectories": 1845
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23980,12 +23980,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-athletic-conditioning-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:22:07.822660+00:00Z",
+      "lastUpdated": "2025-11-08T23:22:07.822660+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1844,
+      "directoryCount": 1845,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

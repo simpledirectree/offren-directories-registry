@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:46:30.640528+00:00Z",
+  "lastUpdated": "2025-11-08T06:46:43.926643+00:00Z",
   "stats": {
-    "totalDirectories": 581,
+    "totalDirectories": 582,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 581.0,
-    "totalListings": 5657,
-    "aiEnhancedDirectories": 581
+    "avgDirectoriesPerRepo": 582.0,
+    "totalListings": 5662,
+    "aiEnhancedDirectories": 582
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7561,12 +7561,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-router-configuration-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:46:43.926643+00:00Z",
+      "lastUpdated": "2025-11-08T06:46:43.926643+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 581,
+      "directoryCount": 582,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

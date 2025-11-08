@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:30:51.566965+00:00Z",
+  "lastUpdated": "2025-11-08T06:31:11.449894+00:00Z",
   "stats": {
-    "totalDirectories": 525,
+    "totalDirectories": 526,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 525.0,
-    "totalListings": 5115,
-    "aiEnhancedDirectories": 525
+    "avgDirectoriesPerRepo": 526.0,
+    "totalListings": 5125,
+    "aiEnhancedDirectories": 526
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6833,12 +6833,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-debate-coaching-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:31:11.449894+00:00Z",
+      "lastUpdated": "2025-11-08T06:31:11.449894+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 525,
+      "directoryCount": 526,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

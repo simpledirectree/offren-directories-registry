@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:06:39.920134+00:00Z",
+  "lastUpdated": "2025-11-08T01:06:54.095133+00:00Z",
   "stats": {
-    "totalDirectories": 2223,
+    "totalDirectories": 2224,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2223.0,
-    "totalListings": 20774,
-    "aiEnhancedDirectories": 2222
+    "avgDirectoriesPerRepo": 2224.0,
+    "totalListings": 20777,
+    "aiEnhancedDirectories": 2223
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28906,12 +28906,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-personal-injury-law-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:06:54.095133+00:00Z",
+      "lastUpdated": "2025-11-08T01:06:54.095133+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2223,
+      "directoryCount": 2224,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

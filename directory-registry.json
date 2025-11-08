@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:44:59.903927+00:00Z",
+  "lastUpdated": "2025-11-08T02:45:19.410697+00:00Z",
   "stats": {
-    "totalDirectories": 2332,
+    "totalDirectories": 2333,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2332.0,
-    "totalListings": 21772,
-    "aiEnhancedDirectories": 2331
+    "avgDirectoriesPerRepo": 2333.0,
+    "totalListings": 21782,
+    "aiEnhancedDirectories": 2332
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30323,12 +30323,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-beard-styling-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:45:19.410697+00:00Z",
+      "lastUpdated": "2025-11-08T02:45:19.410697+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2332,
+      "directoryCount": 2333,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

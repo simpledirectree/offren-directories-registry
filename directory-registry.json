@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:30:46.845642+00:00Z",
+  "lastUpdated": "2025-11-08T03:31:02.411613+00:00Z",
   "stats": {
-    "totalDirectories": 2379,
+    "totalDirectories": 2380,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2379.0,
-    "totalListings": 22213,
-    "aiEnhancedDirectories": 2378
+    "avgDirectoriesPerRepo": 2380.0,
+    "totalListings": 22223,
+    "aiEnhancedDirectories": 2379
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30934,12 +30934,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-garden-event-setup-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:31:02.411613+00:00Z",
+      "lastUpdated": "2025-11-08T03:31:02.411613+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2379,
+      "directoryCount": 2380,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

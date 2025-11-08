@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:03:49.935105+00:00Z",
+  "lastUpdated": "2025-11-08T01:04:05.895923+00:00Z",
   "stats": {
-    "totalDirectories": 2217,
+    "totalDirectories": 2218,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2217.0,
-    "totalListings": 20725,
-    "aiEnhancedDirectories": 2216
+    "avgDirectoriesPerRepo": 2218.0,
+    "totalListings": 20735,
+    "aiEnhancedDirectories": 2217
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28828,12 +28828,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-website-hosting-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:04:05.895923+00:00Z",
+      "lastUpdated": "2025-11-08T01:04:05.895923+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2217,
+      "directoryCount": 2218,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

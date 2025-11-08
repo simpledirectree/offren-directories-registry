@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:39:58.100169+00:00Z",
+  "lastUpdated": "2025-11-08T23:40:39.443822+00:00Z",
   "stats": {
-    "totalDirectories": 1868,
+    "totalDirectories": 1869,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1868.0,
-    "totalListings": 17664,
-    "aiEnhancedDirectories": 1868
+    "avgDirectoriesPerRepo": 1869.0,
+    "totalListings": 17674,
+    "aiEnhancedDirectories": 1869
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24292,12 +24292,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-talent-management-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:40:39.443822+00:00Z",
+      "lastUpdated": "2025-11-08T23:40:39.443822+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1868,
+      "directoryCount": 1869,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:09:11.157177+00:00Z",
+  "lastUpdated": "2025-11-08T01:09:54.197912+00:00Z",
   "stats": {
-    "totalDirectories": 2226,
+    "totalDirectories": 2227,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2226.0,
-    "totalListings": 20797,
-    "aiEnhancedDirectories": 2225
+    "avgDirectoriesPerRepo": 2227.0,
+    "totalListings": 20807,
+    "aiEnhancedDirectories": 2226
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28945,12 +28945,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-upholstery-cleaning-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:09:54.197912+00:00Z",
+      "lastUpdated": "2025-11-08T01:09:54.197912+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2226,
+      "directoryCount": 2227,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:09:13.815475+00:00Z",
+  "lastUpdated": "2025-11-08T05:09:32.903861+00:00Z",
   "stats": {
-    "totalDirectories": 232,
+    "totalDirectories": 233,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 232.0,
-    "totalListings": 2271,
-    "aiEnhancedDirectories": 232
+    "avgDirectoriesPerRepo": 233.0,
+    "totalListings": 2281,
+    "aiEnhancedDirectories": 233
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3024,12 +3024,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-ransomware-protection-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:09:32.903861+00:00Z",
+      "lastUpdated": "2025-11-08T05:09:32.903861+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 232,
+      "directoryCount": 233,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

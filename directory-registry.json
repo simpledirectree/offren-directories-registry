@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:09:20.573766+00:00Z",
+  "lastUpdated": "2025-11-08T00:09:36.950943+00:00Z",
   "stats": {
-    "totalDirectories": 2155,
+    "totalDirectories": 2156,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2155.0,
-    "totalListings": 20176,
-    "aiEnhancedDirectories": 2154
+    "avgDirectoriesPerRepo": 2156.0,
+    "totalListings": 20186,
+    "aiEnhancedDirectories": 2155
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28022,12 +28022,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-body-contouring-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:09:36.950943+00:00Z",
+      "lastUpdated": "2025-11-08T00:09:36.950943+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2155,
+      "directoryCount": 2156,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

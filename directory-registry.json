@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:53:22.678304+00:00Z",
+  "lastUpdated": "2025-11-08T03:53:40.308018+00:00Z",
   "stats": {
-    "totalDirectories": 2431,
+    "totalDirectories": 2432,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2431.0,
-    "totalListings": 22705,
-    "aiEnhancedDirectories": 2430
+    "avgDirectoriesPerRepo": 2432.0,
+    "totalListings": 22715,
+    "aiEnhancedDirectories": 2431
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31610,12 +31610,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-trade-show-planning-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:53:40.308018+00:00Z",
+      "lastUpdated": "2025-11-08T03:53:40.308018+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2431,
+      "directoryCount": 2432,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:09:54.197912+00:00Z",
+  "lastUpdated": "2025-11-08T01:10:08.831464+00:00Z",
   "stats": {
-    "totalDirectories": 2227,
+    "totalDirectories": 2228,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2227.0,
-    "totalListings": 20807,
-    "aiEnhancedDirectories": 2226
+    "avgDirectoriesPerRepo": 2228.0,
+    "totalListings": 20817,
+    "aiEnhancedDirectories": 2227
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28958,12 +28958,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-nutrition-coaching-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:10:08.831464+00:00Z",
+      "lastUpdated": "2025-11-08T01:10:08.831464+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2227,
+      "directoryCount": 2228,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:17:42.078107+00:00Z",
+  "lastUpdated": "2025-11-08T08:19:11.865276+00:00Z",
   "stats": {
-    "totalDirectories": 800,
+    "totalDirectories": 801,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 800.0,
-    "totalListings": 7758,
-    "aiEnhancedDirectories": 800
+    "avgDirectoriesPerRepo": 801.0,
+    "totalListings": 7768,
+    "aiEnhancedDirectories": 801
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10408,12 +10408,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-dentists-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:19:11.865276+00:00Z",
+      "lastUpdated": "2025-11-08T08:19:11.865276+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 800,
+      "directoryCount": 801,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

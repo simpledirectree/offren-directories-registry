@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:32:10.834419+00:00Z",
+  "lastUpdated": "2025-11-08T19:32:25.633111+00:00Z",
   "stats": {
-    "totalDirectories": 1568,
+    "totalDirectories": 1569,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1568.0,
-    "totalListings": 14903,
-    "aiEnhancedDirectories": 1568
+    "avgDirectoriesPerRepo": 1569.0,
+    "totalListings": 14908,
+    "aiEnhancedDirectories": 1569
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20392,12 +20392,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-periodontics-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:32:25.633111+00:00Z",
+      "lastUpdated": "2025-11-08T19:32:25.633111+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1568,
+      "directoryCount": 1569,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

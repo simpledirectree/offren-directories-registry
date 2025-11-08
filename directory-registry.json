@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:24:13.834399+00:00Z",
+  "lastUpdated": "2025-11-08T18:24:28.642168+00:00Z",
   "stats": {
-    "totalDirectories": 1488,
+    "totalDirectories": 1489,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1488.0,
-    "totalListings": 14143,
-    "aiEnhancedDirectories": 1488
+    "avgDirectoriesPerRepo": 1489.0,
+    "totalListings": 14153,
+    "aiEnhancedDirectories": 1489
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19352,12 +19352,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-home-additions-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:24:28.642168+00:00Z",
+      "lastUpdated": "2025-11-08T18:24:28.642168+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1488,
+      "directoryCount": 1489,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

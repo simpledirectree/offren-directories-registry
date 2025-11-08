@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:54:45.520850+00:00Z",
+  "lastUpdated": "2025-11-08T18:55:00.290783+00:00Z",
   "stats": {
-    "totalDirectories": 1527,
+    "totalDirectories": 1528,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1527.0,
-    "totalListings": 14502,
-    "aiEnhancedDirectories": 1527
+    "avgDirectoriesPerRepo": 1528.0,
+    "totalListings": 14512,
+    "aiEnhancedDirectories": 1528
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19859,12 +19859,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-website-optimization-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:55:00.290783+00:00Z",
+      "lastUpdated": "2025-11-08T18:55:00.290783+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1527,
+      "directoryCount": 1528,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

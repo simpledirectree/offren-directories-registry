@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:46:17.743850+00:00Z",
+  "lastUpdated": "2025-11-08T07:46:32.573023+00:00Z",
   "stats": {
-    "totalDirectories": 766,
+    "totalDirectories": 767,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 766.0,
-    "totalListings": 7431,
-    "aiEnhancedDirectories": 766
+    "avgDirectoriesPerRepo": 767.0,
+    "totalListings": 7441,
+    "aiEnhancedDirectories": 767
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9966,12 +9966,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-on-site-copier-repair-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:46:32.573023+00:00Z",
+      "lastUpdated": "2025-11-08T07:46:32.573023+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 766,
+      "directoryCount": 767,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:29:29.550451+00:00Z",
+  "lastUpdated": "2025-11-08T00:30:09.497147+00:00Z",
   "stats": {
-    "totalDirectories": 2182,
+    "totalDirectories": 2183,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2182.0,
-    "totalListings": 20418,
-    "aiEnhancedDirectories": 2181
+    "avgDirectoriesPerRepo": 2183.0,
+    "totalListings": 20428,
+    "aiEnhancedDirectories": 2182
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28373,12 +28373,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-guitar-lessons-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:30:09.497147+00:00Z",
+      "lastUpdated": "2025-11-08T00:30:09.497147+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2182,
+      "directoryCount": 2183,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

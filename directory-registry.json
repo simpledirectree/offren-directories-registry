@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:19:24.219660+00:00Z",
+  "lastUpdated": "2025-11-08T17:19:38.917089+00:00Z",
   "stats": {
-    "totalDirectories": 1411,
+    "totalDirectories": 1412,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1411.0,
-    "totalListings": 13406,
-    "aiEnhancedDirectories": 1411
+    "avgDirectoriesPerRepo": 1412.0,
+    "totalListings": 13416,
+    "aiEnhancedDirectories": 1412
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18351,12 +18351,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-tax-appeals-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:19:38.917089+00:00Z",
+      "lastUpdated": "2025-11-08T17:19:38.917089+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1411,
+      "directoryCount": 1412,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

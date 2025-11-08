@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:46:35.422974+00:00Z",
+  "lastUpdated": "2025-11-08T03:46:55.235264+00:00Z",
   "stats": {
-    "totalDirectories": 2408,
+    "totalDirectories": 2409,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2408.0,
-    "totalListings": 22480,
-    "aiEnhancedDirectories": 2407
+    "avgDirectoriesPerRepo": 2409.0,
+    "totalListings": 22490,
+    "aiEnhancedDirectories": 2408
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31311,12 +31311,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-cost-analysis-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:46:55.235264+00:00Z",
+      "lastUpdated": "2025-11-08T03:46:55.235264+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2408,
+      "directoryCount": 2409,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

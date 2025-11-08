@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:02:54.443152+00:00Z",
+  "lastUpdated": "2025-11-08T08:03:32.045444+00:00Z",
   "stats": {
-    "totalDirectories": 784,
+    "totalDirectories": 785,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 784.0,
-    "totalListings": 7608,
-    "aiEnhancedDirectories": 784
+    "avgDirectoriesPerRepo": 785.0,
+    "totalListings": 7612,
+    "aiEnhancedDirectories": 785
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10200,12 +10200,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-skylight-installation-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:03:32.045444+00:00Z",
+      "lastUpdated": "2025-11-08T08:03:32.045444+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 784,
+      "directoryCount": 785,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

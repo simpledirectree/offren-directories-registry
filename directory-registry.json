@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:00:41.427869+00:00Z",
+  "lastUpdated": "2025-11-08T23:00:56.572249+00:00Z",
   "stats": {
-    "totalDirectories": 1817,
+    "totalDirectories": 1818,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1817.0,
-    "totalListings": 17212,
-    "aiEnhancedDirectories": 1817
+    "avgDirectoriesPerRepo": 1818.0,
+    "totalListings": 17222,
+    "aiEnhancedDirectories": 1818
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23629,12 +23629,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-managed-service-providers-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:00:56.572249+00:00Z",
+      "lastUpdated": "2025-11-08T23:00:56.572249+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1817,
+      "directoryCount": 1818,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:21:01.388481+00:00Z",
+  "lastUpdated": "2025-11-08T11:21:40.689299+00:00Z",
   "stats": {
-    "totalDirectories": 1009,
+    "totalDirectories": 1010,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1009.0,
-    "totalListings": 9681,
-    "aiEnhancedDirectories": 1009
+    "avgDirectoriesPerRepo": 1010.0,
+    "totalListings": 9691,
+    "aiEnhancedDirectories": 1010
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13125,12 +13125,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-hot-yoga-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:21:40.689299+00:00Z",
+      "lastUpdated": "2025-11-08T11:21:40.689299+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1009,
+      "directoryCount": 1010,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

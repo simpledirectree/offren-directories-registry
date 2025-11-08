@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:11:41.473735+00:00Z",
+  "lastUpdated": "2025-11-08T11:12:20.411914+00:00Z",
   "stats": {
-    "totalDirectories": 998,
+    "totalDirectories": 999,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 998.0,
-    "totalListings": 9575,
-    "aiEnhancedDirectories": 998
+    "avgDirectoriesPerRepo": 999.0,
+    "totalListings": 9585,
+    "aiEnhancedDirectories": 999
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12982,12 +12982,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-brand-identity-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:12:20.411914+00:00Z",
+      "lastUpdated": "2025-11-08T11:12:20.411914+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 998,
+      "directoryCount": 999,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

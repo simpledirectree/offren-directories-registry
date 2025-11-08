@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:32:15.681556+00:00Z",
+  "lastUpdated": "2025-11-08T04:32:32.763702+00:00Z",
   "stats": {
-    "totalDirectories": 97,
+    "totalDirectories": 98,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 97.0,
-    "totalListings": 957,
-    "aiEnhancedDirectories": 97
+    "avgDirectoriesPerRepo": 98.0,
+    "totalListings": 967,
+    "aiEnhancedDirectories": 98
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1269,12 +1269,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-personal-concierge-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:32:32.763702+00:00Z",
+      "lastUpdated": "2025-11-08T04:32:32.763702+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 97,
+      "directoryCount": 98,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

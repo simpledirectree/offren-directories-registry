@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:26:27.706741+00:00Z",
+  "lastUpdated": "2025-11-08T17:27:54.537454+00:00Z",
   "stats": {
-    "totalDirectories": 1424,
+    "totalDirectories": 1425,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1424.0,
-    "totalListings": 13524,
-    "aiEnhancedDirectories": 1424
+    "avgDirectoriesPerRepo": 1425.0,
+    "totalListings": 13534,
+    "aiEnhancedDirectories": 1425
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18520,12 +18520,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-general-home-repairs-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:27:54.537454+00:00Z",
+      "lastUpdated": "2025-11-08T17:27:54.537454+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1424,
+      "directoryCount": 1425,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

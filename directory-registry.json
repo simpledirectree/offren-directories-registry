@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:18:03.804097+00:00Z",
+  "lastUpdated": "2025-11-08T11:19:56.690368+00:00Z",
   "stats": {
-    "totalDirectories": 1007,
+    "totalDirectories": 1008,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1007.0,
-    "totalListings": 9661,
-    "aiEnhancedDirectories": 1007
+    "avgDirectoriesPerRepo": 1008.0,
+    "totalListings": 9671,
+    "aiEnhancedDirectories": 1008
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13099,12 +13099,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-magento-development-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:19:56.690368+00:00Z",
+      "lastUpdated": "2025-11-08T11:19:56.690368+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1007,
+      "directoryCount": 1008,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

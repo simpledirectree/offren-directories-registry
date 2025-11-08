@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:33:23.824110+00:00Z",
+  "lastUpdated": "2025-11-08T07:33:41.584733+00:00Z",
   "stats": {
-    "totalDirectories": 752,
+    "totalDirectories": 753,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 752.0,
-    "totalListings": 7305,
-    "aiEnhancedDirectories": 752
+    "avgDirectoriesPerRepo": 753.0,
+    "totalListings": 7315,
+    "aiEnhancedDirectories": 753
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9784,12 +9784,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-classic-car-restoration-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:33:41.584733+00:00Z",
+      "lastUpdated": "2025-11-08T07:33:41.584733+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 752,
+      "directoryCount": 753,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

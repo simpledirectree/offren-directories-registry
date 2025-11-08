@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T11:54:11.725095+00:00Z",
+  "lastUpdated": "2025-11-08T11:54:24.860402+00:00Z",
   "stats": {
-    "totalDirectories": 1049,
+    "totalDirectories": 1050,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1049.0,
-    "totalListings": 10048,
-    "aiEnhancedDirectories": 1049
+    "avgDirectoriesPerRepo": 1050.0,
+    "totalListings": 10053,
+    "aiEnhancedDirectories": 1050
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13645,12 +13645,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-homeopathy-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T11:54:24.860402+00:00Z",
+      "lastUpdated": "2025-11-08T11:54:24.860402+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1049,
+      "directoryCount": 1050,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

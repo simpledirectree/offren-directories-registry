@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:23:34.288502+00:00Z",
+  "lastUpdated": "2025-11-08T05:23:47.732367+00:00Z",
   "stats": {
-    "totalDirectories": 284,
+    "totalDirectories": 285,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 284.0,
-    "totalListings": 2777,
-    "aiEnhancedDirectories": 284
+    "avgDirectoriesPerRepo": 285.0,
+    "totalListings": 2787,
+    "aiEnhancedDirectories": 285
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3700,12 +3700,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-patch-management-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:23:47.732367+00:00Z",
+      "lastUpdated": "2025-11-08T05:23:47.732367+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 284,
+      "directoryCount": 285,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T10:29:41.050003+00:00Z",
+  "lastUpdated": "2025-11-08T10:29:55.254593+00:00Z",
   "stats": {
-    "totalDirectories": 950,
+    "totalDirectories": 951,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 950.0,
-    "totalListings": 9132,
-    "aiEnhancedDirectories": 950
+    "avgDirectoriesPerRepo": 951.0,
+    "totalListings": 9142,
+    "aiEnhancedDirectories": 951
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -12358,12 +12358,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-performance-tuning-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T10:29:55.254593+00:00Z",
+      "lastUpdated": "2025-11-08T10:29:55.254593+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 950,
+      "directoryCount": 951,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

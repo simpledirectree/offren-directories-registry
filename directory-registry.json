@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:50:10.371575+00:00Z",
+  "lastUpdated": "2025-11-08T05:50:28.362350+00:00Z",
   "stats": {
-    "totalDirectories": 380,
+    "totalDirectories": 381,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 380.0,
-    "totalListings": 3722,
-    "aiEnhancedDirectories": 380
+    "avgDirectoriesPerRepo": 381.0,
+    "totalListings": 3732,
+    "aiEnhancedDirectories": 381
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4948,12 +4948,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-self-service-grooming-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:50:28.362350+00:00Z",
+      "lastUpdated": "2025-11-08T05:50:28.362350+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 380,
+      "directoryCount": 381,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

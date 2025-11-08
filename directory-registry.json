@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:59:06.489601+00:00Z",
+  "lastUpdated": "2025-11-08T04:59:26.343317+00:00Z",
   "stats": {
-    "totalDirectories": 196,
+    "totalDirectories": 197,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 196.0,
-    "totalListings": 1920,
-    "aiEnhancedDirectories": 196
+    "avgDirectoriesPerRepo": 197.0,
+    "totalListings": 1930,
+    "aiEnhancedDirectories": 197
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2556,12 +2556,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-3d-modeling-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:59:26.343317+00:00Z",
+      "lastUpdated": "2025-11-08T04:59:26.343317+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 196,
+      "directoryCount": 197,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

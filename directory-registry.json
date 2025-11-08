@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:50:12.658319+00:00Z",
+  "lastUpdated": "2025-11-08T06:50:30.915470+00:00Z",
   "stats": {
-    "totalDirectories": 594,
+    "totalDirectories": 595,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 594.0,
-    "totalListings": 5782,
-    "aiEnhancedDirectories": 594
+    "avgDirectoriesPerRepo": 595.0,
+    "totalListings": 5792,
+    "aiEnhancedDirectories": 595
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7730,12 +7730,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-new-home-construction-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:50:30.915470+00:00Z",
+      "lastUpdated": "2025-11-08T06:50:30.915470+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 594,
+      "directoryCount": 595,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

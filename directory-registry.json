@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:27:37.966505+00:00Z",
+  "lastUpdated": "2025-11-08T07:27:53.319329+00:00Z",
   "stats": {
-    "totalDirectories": 731,
+    "totalDirectories": 732,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 731.0,
-    "totalListings": 7102,
-    "aiEnhancedDirectories": 731
+    "avgDirectoriesPerRepo": 732.0,
+    "totalListings": 7112,
+    "aiEnhancedDirectories": 732
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9511,12 +9511,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-medicare-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:27:53.319329+00:00Z",
+      "lastUpdated": "2025-11-08T07:27:53.319329+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 731,
+      "directoryCount": 732,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:52:46.925498+00:00Z",
+  "lastUpdated": "2025-11-08T21:53:01.998987+00:00Z",
   "stats": {
-    "totalDirectories": 1743,
+    "totalDirectories": 1744,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1743.0,
-    "totalListings": 16509,
-    "aiEnhancedDirectories": 1743
+    "avgDirectoriesPerRepo": 1744.0,
+    "totalListings": 16519,
+    "aiEnhancedDirectories": 1744
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22667,12 +22667,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-roadside-assistance-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:53:01.998987+00:00Z",
+      "lastUpdated": "2025-11-08T21:53:01.998987+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1743,
+      "directoryCount": 1744,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

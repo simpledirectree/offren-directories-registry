@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:53:28.775404+00:00Z",
+  "lastUpdated": "2025-11-08T05:53:41.290581+00:00Z",
   "stats": {
-    "totalDirectories": 392,
+    "totalDirectories": 393,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 392.0,
-    "totalListings": 3837,
-    "aiEnhancedDirectories": 392
+    "avgDirectoriesPerRepo": 393.0,
+    "totalListings": 3839,
+    "aiEnhancedDirectories": 393
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5104,12 +5104,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-aml-compliance-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:53:41.290581+00:00Z",
+      "lastUpdated": "2025-11-08T05:53:41.290581+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 392,
+      "directoryCount": 393,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

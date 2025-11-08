@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:14:35.868171+00:00Z",
+  "lastUpdated": "2025-11-08T15:16:06.542349+00:00Z",
   "stats": {
-    "totalDirectories": 1277,
+    "totalDirectories": 1278,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1277.0,
-    "totalListings": 12135,
-    "aiEnhancedDirectories": 1277
+    "avgDirectoriesPerRepo": 1278.0,
+    "totalListings": 12145,
+    "aiEnhancedDirectories": 1278
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16609,12 +16609,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-post-construction-cleaning-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:16:06.542349+00:00Z",
+      "lastUpdated": "2025-11-08T15:16:06.542349+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1277,
+      "directoryCount": 1278,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

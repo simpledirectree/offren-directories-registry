@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:53:18.689249+00:00Z",
+  "lastUpdated": "2025-11-08T06:53:36.296934+00:00Z",
   "stats": {
-    "totalDirectories": 605,
+    "totalDirectories": 606,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 605.0,
-    "totalListings": 5892,
-    "aiEnhancedDirectories": 605
+    "avgDirectoriesPerRepo": 606.0,
+    "totalListings": 5902,
+    "aiEnhancedDirectories": 606
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7873,12 +7873,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-alternator-repair-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:53:36.296934+00:00Z",
+      "lastUpdated": "2025-11-08T06:53:36.296934+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 605,
+      "directoryCount": 606,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:01:03.643398+00:00Z",
+  "lastUpdated": "2025-11-08T03:02:08.068194+00:00Z",
   "stats": {
-    "totalDirectories": 2349,
+    "totalDirectories": 2350,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2349.0,
-    "totalListings": 21930,
-    "aiEnhancedDirectories": 2348
+    "avgDirectoriesPerRepo": 2350.0,
+    "totalListings": 21935,
+    "aiEnhancedDirectories": 2349
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30544,12 +30544,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-head-shaving-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:02:08.068194+00:00Z",
+      "lastUpdated": "2025-11-08T03:02:08.068194+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2349,
+      "directoryCount": 2350,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

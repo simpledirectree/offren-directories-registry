@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:30:23.308454+00:00Z",
+  "lastUpdated": "2025-11-08T14:31:53.474678+00:00Z",
   "stats": {
-    "totalDirectories": 1225,
+    "totalDirectories": 1226,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1225.0,
-    "totalListings": 11667,
-    "aiEnhancedDirectories": 1225
+    "avgDirectoriesPerRepo": 1226.0,
+    "totalListings": 11672,
+    "aiEnhancedDirectories": 1226
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15933,12 +15933,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-gutter-installation-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:31:53.474678+00:00Z",
+      "lastUpdated": "2025-11-08T14:31:53.474678+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1225,
+      "directoryCount": 1226,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

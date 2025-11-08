@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:34:50.834299+00:00Z",
+  "lastUpdated": "2025-11-08T04:35:08.712182+00:00Z",
   "stats": {
-    "totalDirectories": 106,
+    "totalDirectories": 107,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 106.0,
-    "totalListings": 1047,
-    "aiEnhancedDirectories": 106
+    "avgDirectoriesPerRepo": 107.0,
+    "totalListings": 1057,
+    "aiEnhancedDirectories": 107
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1386,12 +1386,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-plumbing-repair-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:35:08.712182+00:00Z",
+      "lastUpdated": "2025-11-08T04:35:08.712182+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 106,
+      "directoryCount": 107,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

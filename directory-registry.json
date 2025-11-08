@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:34:25.543633+00:00Z",
+  "lastUpdated": "2025-11-08T08:35:19.908898+00:00Z",
   "stats": {
-    "totalDirectories": 814,
+    "totalDirectories": 815,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 814.0,
-    "totalListings": 7885,
-    "aiEnhancedDirectories": 814
+    "avgDirectoriesPerRepo": 815.0,
+    "totalListings": 7889,
+    "aiEnhancedDirectories": 815
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10590,12 +10590,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-customer-service-outsourcing-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:35:19.908898+00:00Z",
+      "lastUpdated": "2025-11-08T08:35:19.908898+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 814,
+      "directoryCount": 815,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

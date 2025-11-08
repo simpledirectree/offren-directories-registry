@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:12:59.425788+00:00Z",
+  "lastUpdated": "2025-11-08T03:14:09.875154+00:00Z",
   "stats": {
-    "totalDirectories": 2356,
+    "totalDirectories": 2357,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2356.0,
-    "totalListings": 21995,
-    "aiEnhancedDirectories": 2355
+    "avgDirectoriesPerRepo": 2357.0,
+    "totalListings": 22005,
+    "aiEnhancedDirectories": 2356
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30635,12 +30635,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-concrete-work-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:14:09.875154+00:00Z",
+      "lastUpdated": "2025-11-08T03:14:09.875154+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2356,
+      "directoryCount": 2357,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

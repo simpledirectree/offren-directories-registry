@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:55:04.995777+00:00Z",
+  "lastUpdated": "2025-11-08T06:55:19.346762+00:00Z",
   "stats": {
-    "totalDirectories": 612,
+    "totalDirectories": 613,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 612.0,
-    "totalListings": 5953,
-    "aiEnhancedDirectories": 612
+    "avgDirectoriesPerRepo": 613.0,
+    "totalListings": 5963,
+    "aiEnhancedDirectories": 613
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7964,12 +7964,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-paint-protection-film-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:55:19.346762+00:00Z",
+      "lastUpdated": "2025-11-08T06:55:19.346762+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 612,
+      "directoryCount": 613,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

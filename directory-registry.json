@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:52:46.141577+00:00Z",
+  "lastUpdated": "2025-11-08T13:54:16.176358+00:00Z",
   "stats": {
-    "totalDirectories": 1187,
+    "totalDirectories": 1188,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1187.0,
-    "totalListings": 11316,
-    "aiEnhancedDirectories": 1187
+    "avgDirectoriesPerRepo": 1188.0,
+    "totalListings": 11317,
+    "aiEnhancedDirectories": 1188
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15439,12 +15439,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-yin-yoga-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:54:16.176358+00:00Z",
+      "lastUpdated": "2025-11-08T13:54:16.176358+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1187,
+      "directoryCount": 1188,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

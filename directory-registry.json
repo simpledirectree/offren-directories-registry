@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:44:27.925356+00:00Z",
+  "lastUpdated": "2025-11-08T05:44:42.883340+00:00Z",
   "stats": {
-    "totalDirectories": 360,
+    "totalDirectories": 361,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 360.0,
-    "totalListings": 3532,
-    "aiEnhancedDirectories": 360
+    "avgDirectoriesPerRepo": 361.0,
+    "totalListings": 3542,
+    "aiEnhancedDirectories": 361
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4688,12 +4688,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-mobile-grooming-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:44:42.883340+00:00Z",
+      "lastUpdated": "2025-11-08T05:44:42.883340+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 360,
+      "directoryCount": 361,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

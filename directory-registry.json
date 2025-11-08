@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:53:28.114147+00:00Z",
+  "lastUpdated": "2025-11-08T04:53:45.010949+00:00Z",
   "stats": {
-    "totalDirectories": 175,
+    "totalDirectories": 176,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 175.0,
-    "totalListings": 1710,
-    "aiEnhancedDirectories": 175
+    "avgDirectoriesPerRepo": 176.0,
+    "totalListings": 1720,
+    "aiEnhancedDirectories": 176
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2283,12 +2283,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-frame-straightening-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:53:45.010949+00:00Z",
+      "lastUpdated": "2025-11-08T04:53:45.010949+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 175,
+      "directoryCount": 176,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

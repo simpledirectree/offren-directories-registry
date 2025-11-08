@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:43:51.196762+00:00Z",
+  "lastUpdated": "2025-11-08T04:44:09.808704+00:00Z",
   "stats": {
-    "totalDirectories": 140,
+    "totalDirectories": 141,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 140.0,
-    "totalListings": 1371,
-    "aiEnhancedDirectories": 140
+    "avgDirectoriesPerRepo": 141.0,
+    "totalListings": 1381,
+    "aiEnhancedDirectories": 141
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1828,12 +1828,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-breakfast-restaurants-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:44:09.808704+00:00Z",
+      "lastUpdated": "2025-11-08T04:44:09.808704+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 140,
+      "directoryCount": 141,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

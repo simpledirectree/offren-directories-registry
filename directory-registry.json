@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:11:15.968543+00:00Z",
+  "lastUpdated": "2025-11-08T18:11:30.610942+00:00Z",
   "stats": {
-    "totalDirectories": 1474,
+    "totalDirectories": 1475,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1474.0,
-    "totalListings": 14003,
-    "aiEnhancedDirectories": 1474
+    "avgDirectoriesPerRepo": 1475.0,
+    "totalListings": 14013,
+    "aiEnhancedDirectories": 1475
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19170,12 +19170,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-patent-law-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:11:30.610942+00:00Z",
+      "lastUpdated": "2025-11-08T18:11:30.610942+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1474,
+      "directoryCount": 1475,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

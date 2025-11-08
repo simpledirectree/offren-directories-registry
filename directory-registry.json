@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:10:06.990791+00:00Z",
+  "lastUpdated": "2025-11-08T18:11:15.968543+00:00Z",
   "stats": {
-    "totalDirectories": 1473,
+    "totalDirectories": 1474,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1473.0,
-    "totalListings": 13993,
-    "aiEnhancedDirectories": 1473
+    "avgDirectoriesPerRepo": 1474.0,
+    "totalListings": 14003,
+    "aiEnhancedDirectories": 1474
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19157,12 +19157,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-terms-of-service-creation-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:11:15.968543+00:00Z",
+      "lastUpdated": "2025-11-08T18:11:15.968543+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1473,
+      "directoryCount": 1474,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:46:43.926643+00:00Z",
+  "lastUpdated": "2025-11-08T06:47:01.276523+00:00Z",
   "stats": {
-    "totalDirectories": 582,
+    "totalDirectories": 583,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 582.0,
-    "totalListings": 5662,
-    "aiEnhancedDirectories": 582
+    "avgDirectoriesPerRepo": 583.0,
+    "totalListings": 5672,
+    "aiEnhancedDirectories": 583
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7574,12 +7574,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-unemployment-claims-management-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:47:01.276523+00:00Z",
+      "lastUpdated": "2025-11-08T06:47:01.276523+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 582,
+      "directoryCount": 583,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

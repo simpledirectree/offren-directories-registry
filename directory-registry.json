@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:03:36.929755+00:00Z",
+  "lastUpdated": "2025-11-08T19:04:57.297106+00:00Z",
   "stats": {
-    "totalDirectories": 1539,
+    "totalDirectories": 1540,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1539.0,
-    "totalListings": 14613,
-    "aiEnhancedDirectories": 1539
+    "avgDirectoriesPerRepo": 1540.0,
+    "totalListings": 14623,
+    "aiEnhancedDirectories": 1540
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20015,12 +20015,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-homeschool-networks-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:04:57.297106+00:00Z",
+      "lastUpdated": "2025-11-08T19:04:57.297106+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1539,
+      "directoryCount": 1540,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

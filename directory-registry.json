@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:26:28.216538+00:00Z",
+  "lastUpdated": "2025-11-08T03:26:43.265577+00:00Z",
   "stats": {
-    "totalDirectories": 2373,
+    "totalDirectories": 2374,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2373.0,
-    "totalListings": 22153,
-    "aiEnhancedDirectories": 2372
+    "avgDirectoriesPerRepo": 2374.0,
+    "totalListings": 22163,
+    "aiEnhancedDirectories": 2373
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30856,12 +30856,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-safety-program-development-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:26:43.265577+00:00Z",
+      "lastUpdated": "2025-11-08T03:26:43.265577+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2373,
+      "directoryCount": 2374,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

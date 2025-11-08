@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:05:39.594177+00:00Z",
+  "lastUpdated": "2025-11-08T07:05:57.666122+00:00Z",
   "stats": {
-    "totalDirectories": 652,
+    "totalDirectories": 653,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 652.0,
-    "totalListings": 6329,
-    "aiEnhancedDirectories": 652
+    "avgDirectoriesPerRepo": 653.0,
+    "totalListings": 6339,
+    "aiEnhancedDirectories": 653
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8484,12 +8484,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-shipping-services-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:05:57.666122+00:00Z",
+      "lastUpdated": "2025-11-08T07:05:57.666122+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 652,
+      "directoryCount": 653,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

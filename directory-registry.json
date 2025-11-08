@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T15:01:59.771877+00:00Z",
+  "lastUpdated": "2025-11-08T15:02:16.277755+00:00Z",
   "stats": {
-    "totalDirectories": 1265,
+    "totalDirectories": 1266,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1265.0,
-    "totalListings": 12022,
-    "aiEnhancedDirectories": 1265
+    "avgDirectoriesPerRepo": 1266.0,
+    "totalListings": 12032,
+    "aiEnhancedDirectories": 1266
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16453,12 +16453,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-recruitment-support-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T15:02:16.277755+00:00Z",
+      "lastUpdated": "2025-11-08T15:02:16.277755+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1265,
+      "directoryCount": 1266,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

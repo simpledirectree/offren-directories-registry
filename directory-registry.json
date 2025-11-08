@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:55:30.408882+00:00Z",
+  "lastUpdated": "2025-11-08T23:55:44.532537+00:00Z",
   "stats": {
-    "totalDirectories": 1892,
+    "totalDirectories": 1893,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1892.0,
-    "totalListings": 17886,
-    "aiEnhancedDirectories": 1892
+    "avgDirectoriesPerRepo": 1893.0,
+    "totalListings": 17891,
+    "aiEnhancedDirectories": 1893
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24604,12 +24604,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-cost-accounting-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:55:44.532537+00:00Z",
+      "lastUpdated": "2025-11-08T23:55:44.532537+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1892,
+      "directoryCount": 1893,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

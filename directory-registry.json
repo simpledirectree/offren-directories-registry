@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:09:55.886042+00:00Z",
+  "lastUpdated": "2025-11-08T04:10:10.104813+00:00Z",
   "stats": {
-    "totalDirectories": 17,
+    "totalDirectories": 18,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 17.0,
-    "totalListings": 167,
-    "aiEnhancedDirectories": 17
+    "avgDirectoriesPerRepo": 18.0,
+    "totalListings": 177,
+    "aiEnhancedDirectories": 18
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -229,12 +229,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-japanese-straightening-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:10:10.104813+00:00Z",
+      "lastUpdated": "2025-11-08T04:10:10.104813+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 17,
+      "directoryCount": 18,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

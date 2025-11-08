@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:04:24.219635+00:00Z",
+  "lastUpdated": "2025-11-08T14:06:02.715850+00:00Z",
   "stats": {
-    "totalDirectories": 1199,
+    "totalDirectories": 1200,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1199.0,
-    "totalListings": 11418,
-    "aiEnhancedDirectories": 1199
+    "avgDirectoriesPerRepo": 1200.0,
+    "totalListings": 11428,
+    "aiEnhancedDirectories": 1200
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15595,12 +15595,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-plastic-surgery-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:06:02.715850+00:00Z",
+      "lastUpdated": "2025-11-08T14:06:02.715850+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1199,
+      "directoryCount": 1200,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

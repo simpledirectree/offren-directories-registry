@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T23:21:12.357480+00:00Z",
+  "lastUpdated": "2025-11-08T23:21:27.016099+00:00Z",
   "stats": {
-    "totalDirectories": 1843,
+    "totalDirectories": 1844,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1843.0,
-    "totalListings": 17451,
-    "aiEnhancedDirectories": 1843
+    "avgDirectoriesPerRepo": 1844.0,
+    "totalListings": 17458,
+    "aiEnhancedDirectories": 1844
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23967,12 +23967,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-quick-service-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T23:21:27.016099+00:00Z",
+      "lastUpdated": "2025-11-08T23:21:27.016099+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1843,
+      "directoryCount": 1844,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

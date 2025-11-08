@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:45:37.478985+00:00Z",
+  "lastUpdated": "2025-11-08T19:46:17.738699+00:00Z",
   "stats": {
-    "totalDirectories": 1583,
+    "totalDirectories": 1584,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1583.0,
-    "totalListings": 15035,
-    "aiEnhancedDirectories": 1583
+    "avgDirectoriesPerRepo": 1584.0,
+    "totalListings": 15045,
+    "aiEnhancedDirectories": 1584
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20587,12 +20587,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-bathroom-design-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:46:17.738699+00:00Z",
+      "lastUpdated": "2025-11-08T19:46:17.738699+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1583,
+      "directoryCount": 1584,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

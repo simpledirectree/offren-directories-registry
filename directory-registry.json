@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:51:10.726400+00:00Z",
+  "lastUpdated": "2025-11-08T20:51:27.188189+00:00Z",
   "stats": {
-    "totalDirectories": 1665,
+    "totalDirectories": 1666,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1665.0,
-    "totalListings": 15787,
-    "aiEnhancedDirectories": 1665
+    "avgDirectoriesPerRepo": 1666.0,
+    "totalListings": 15797,
+    "aiEnhancedDirectories": 1666
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21653,12 +21653,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-event-space-rentals-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:51:27.188189+00:00Z",
+      "lastUpdated": "2025-11-08T20:51:27.188189+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1665,
+      "directoryCount": 1666,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

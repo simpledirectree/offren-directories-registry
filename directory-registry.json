@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:04:49.519881+00:00Z",
+  "lastUpdated": "2025-11-08T07:05:08.213293+00:00Z",
   "stats": {
-    "totalDirectories": 649,
+    "totalDirectories": 650,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 649.0,
-    "totalListings": 6304,
-    "aiEnhancedDirectories": 649
+    "avgDirectoriesPerRepo": 650.0,
+    "totalListings": 6314,
+    "aiEnhancedDirectories": 650
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8445,12 +8445,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-engine-replacement-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:05:08.213293+00:00Z",
+      "lastUpdated": "2025-11-08T07:05:08.213293+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 649,
+      "directoryCount": 650,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

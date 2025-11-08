@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:13:35.861927+00:00Z",
+  "lastUpdated": "2025-11-08T00:13:51.805032+00:00Z",
   "stats": {
-    "totalDirectories": 2160,
+    "totalDirectories": 2161,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2160.0,
-    "totalListings": 20217,
-    "aiEnhancedDirectories": 2159
+    "avgDirectoriesPerRepo": 2161.0,
+    "totalListings": 20227,
+    "aiEnhancedDirectories": 2160
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28087,12 +28087,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-social-catering-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:13:51.805032+00:00Z",
+      "lastUpdated": "2025-11-08T00:13:51.805032+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2160,
+      "directoryCount": 2161,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

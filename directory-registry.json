@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T21:24:36.897537+00:00Z",
+  "lastUpdated": "2025-11-08T21:25:17.882033+00:00Z",
   "stats": {
-    "totalDirectories": 1712,
+    "totalDirectories": 1713,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1712.0,
-    "totalListings": 16218,
-    "aiEnhancedDirectories": 1712
+    "avgDirectoriesPerRepo": 1713.0,
+    "totalListings": 16225,
+    "aiEnhancedDirectories": 1713
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -22264,12 +22264,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-permanent-makeup-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T21:25:17.882033+00:00Z",
+      "lastUpdated": "2025-11-08T21:25:17.882033+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1712,
+      "directoryCount": 1713,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

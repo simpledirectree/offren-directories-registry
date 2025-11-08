@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:35:57.411984+00:00Z",
+  "lastUpdated": "2025-11-08T04:36:12.043003+00:00Z",
   "stats": {
-    "totalDirectories": 110,
+    "totalDirectories": 111,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 110.0,
-    "totalListings": 1087,
-    "aiEnhancedDirectories": 110
+    "avgDirectoriesPerRepo": 111.0,
+    "totalListings": 1097,
+    "aiEnhancedDirectories": 111
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1438,12 +1438,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-inclusion-training-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:36:12.043003+00:00Z",
+      "lastUpdated": "2025-11-08T04:36:12.043003+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 110,
+      "directoryCount": 111,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

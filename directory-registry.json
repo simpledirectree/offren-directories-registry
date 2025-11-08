@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:46:05.348537+00:00Z",
+  "lastUpdated": "2025-11-08T17:46:21.481993+00:00Z",
   "stats": {
-    "totalDirectories": 1445,
+    "totalDirectories": 1446,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1445.0,
-    "totalListings": 13729,
-    "aiEnhancedDirectories": 1445
+    "avgDirectoriesPerRepo": 1446.0,
+    "totalListings": 13739,
+    "aiEnhancedDirectories": 1446
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18793,12 +18793,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-energy-consulting-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:46:21.481993+00:00Z",
+      "lastUpdated": "2025-11-08T17:46:21.481993+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1445,
+      "directoryCount": 1446,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

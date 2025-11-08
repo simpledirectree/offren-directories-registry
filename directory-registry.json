@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:13:25.669963+00:00Z",
+  "lastUpdated": "2025-11-08T06:13:44.213258+00:00Z",
   "stats": {
-    "totalDirectories": 463,
+    "totalDirectories": 464,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 463.0,
-    "totalListings": 4500,
-    "aiEnhancedDirectories": 463
+    "avgDirectoriesPerRepo": 464.0,
+    "totalListings": 4510,
+    "aiEnhancedDirectories": 464
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6027,12 +6027,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-artwork-moving-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:13:44.213258+00:00Z",
+      "lastUpdated": "2025-11-08T06:13:44.213258+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 463,
+      "directoryCount": 464,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

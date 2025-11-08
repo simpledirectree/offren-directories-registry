@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:57:44.561171+00:00Z",
+  "lastUpdated": "2025-11-08T05:57:58.612315+00:00Z",
   "stats": {
-    "totalDirectories": 407,
+    "totalDirectories": 408,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 407.0,
-    "totalListings": 3972,
-    "aiEnhancedDirectories": 407
+    "avgDirectoriesPerRepo": 408.0,
+    "totalListings": 3982,
+    "aiEnhancedDirectories": 408
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5299,12 +5299,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-geriatric-care-management-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:57:58.612315+00:00Z",
+      "lastUpdated": "2025-11-08T05:57:58.612315+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 407,
+      "directoryCount": 408,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

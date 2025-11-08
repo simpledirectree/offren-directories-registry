@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:27:02.986669+00:00Z",
+  "lastUpdated": "2025-11-08T07:27:20.923267+00:00Z",
   "stats": {
-    "totalDirectories": 729,
+    "totalDirectories": 730,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 729.0,
-    "totalListings": 7082,
-    "aiEnhancedDirectories": 729
+    "avgDirectoriesPerRepo": 730.0,
+    "totalListings": 7092,
+    "aiEnhancedDirectories": 730
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9485,12 +9485,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-network-management-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:27:20.923267+00:00Z",
+      "lastUpdated": "2025-11-08T07:27:20.923267+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 729,
+      "directoryCount": 730,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

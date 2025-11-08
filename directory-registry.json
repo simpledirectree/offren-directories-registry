@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:13:44.213258+00:00Z",
+  "lastUpdated": "2025-11-08T06:14:03.076365+00:00Z",
   "stats": {
-    "totalDirectories": 464,
+    "totalDirectories": 465,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 464.0,
-    "totalListings": 4510,
-    "aiEnhancedDirectories": 464
+    "avgDirectoriesPerRepo": 465.0,
+    "totalListings": 4520,
+    "aiEnhancedDirectories": 465
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6040,12 +6040,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-affiliate-marketing-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:14:03.076365+00:00Z",
+      "lastUpdated": "2025-11-08T06:14:03.076365+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 464,
+      "directoryCount": 465,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

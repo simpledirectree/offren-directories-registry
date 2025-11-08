@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:53:58.738259+00:00Z",
+  "lastUpdated": "2025-11-08T03:54:18.144024+00:00Z",
   "stats": {
-    "totalDirectories": 2433,
+    "totalDirectories": 2434,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2433.0,
-    "totalListings": 22725,
-    "aiEnhancedDirectories": 2432
+    "avgDirectoriesPerRepo": 2434.0,
+    "totalListings": 22735,
+    "aiEnhancedDirectories": 2433
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31636,12 +31636,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-team-building-activities-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:54:18.144024+00:00Z",
+      "lastUpdated": "2025-11-08T03:54:18.144024+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2433,
+      "directoryCount": 2434,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

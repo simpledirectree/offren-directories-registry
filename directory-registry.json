@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:14:54.061443+00:00Z",
+  "lastUpdated": "2025-11-08T09:16:23.534707+00:00Z",
   "stats": {
-    "totalDirectories": 867,
+    "totalDirectories": 868,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 867.0,
-    "totalListings": 8366,
-    "aiEnhancedDirectories": 867
+    "avgDirectoriesPerRepo": 868.0,
+    "totalListings": 8376,
+    "aiEnhancedDirectories": 868
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11279,12 +11279,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-shopping-ads-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:16:23.534707+00:00Z",
+      "lastUpdated": "2025-11-08T09:16:23.534707+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 867,
+      "directoryCount": 868,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

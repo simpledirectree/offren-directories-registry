@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:29:27.320237+00:00Z",
+  "lastUpdated": "2025-11-08T03:30:46.845642+00:00Z",
   "stats": {
-    "totalDirectories": 2378,
+    "totalDirectories": 2379,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2378.0,
-    "totalListings": 22203,
-    "aiEnhancedDirectories": 2377
+    "avgDirectoriesPerRepo": 2379.0,
+    "totalListings": 22213,
+    "aiEnhancedDirectories": 2378
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30921,12 +30921,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-immersion-programs-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:30:46.845642+00:00Z",
+      "lastUpdated": "2025-11-08T03:30:46.845642+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2378,
+      "directoryCount": 2379,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

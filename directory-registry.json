@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:43:30.712092+00:00Z",
+  "lastUpdated": "2025-11-08T06:43:45.787296+00:00Z",
   "stats": {
-    "totalDirectories": 570,
+    "totalDirectories": 571,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 570.0,
-    "totalListings": 5556,
-    "aiEnhancedDirectories": 570
+    "avgDirectoriesPerRepo": 571.0,
+    "totalListings": 5566,
+    "aiEnhancedDirectories": 571
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7418,12 +7418,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-behavioral-training-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:43:45.787296+00:00Z",
+      "lastUpdated": "2025-11-08T06:43:45.787296+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 570,
+      "directoryCount": 571,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

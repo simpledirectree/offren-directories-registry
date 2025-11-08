@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:40:13.910123+00:00Z",
+  "lastUpdated": "2025-11-08T08:40:29.164092+00:00Z",
   "stats": {
-    "totalDirectories": 822,
+    "totalDirectories": 823,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 822.0,
-    "totalListings": 7959,
-    "aiEnhancedDirectories": 822
+    "avgDirectoriesPerRepo": 823.0,
+    "totalListings": 7969,
+    "aiEnhancedDirectories": 823
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10694,12 +10694,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-climate-controlled-storage-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:40:29.164092+00:00Z",
+      "lastUpdated": "2025-11-08T08:40:29.164092+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 822,
+      "directoryCount": 823,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

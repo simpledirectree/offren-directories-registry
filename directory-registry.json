@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:48:54.822075+00:00Z",
+  "lastUpdated": "2025-11-08T04:49:09.833257+00:00Z",
   "stats": {
-    "totalDirectories": 158,
+    "totalDirectories": 159,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 158.0,
-    "totalListings": 1550,
-    "aiEnhancedDirectories": 158
+    "avgDirectoriesPerRepo": 159.0,
+    "totalListings": 1560,
+    "aiEnhancedDirectories": 159
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2062,12 +2062,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-day-of-wedding-coordination-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:49:09.833257+00:00Z",
+      "lastUpdated": "2025-11-08T04:49:09.833257+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 158,
+      "directoryCount": 159,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

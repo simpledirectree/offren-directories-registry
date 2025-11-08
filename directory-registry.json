@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:22:41.618758+00:00Z",
+  "lastUpdated": "2025-11-08T22:22:56.819576+00:00Z",
   "stats": {
-    "totalDirectories": 1777,
+    "totalDirectories": 1778,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1777.0,
-    "totalListings": 16833,
-    "aiEnhancedDirectories": 1777
+    "avgDirectoriesPerRepo": 1778.0,
+    "totalListings": 16843,
+    "aiEnhancedDirectories": 1778
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23109,12 +23109,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-water-feature-installation-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:22:56.819576+00:00Z",
+      "lastUpdated": "2025-11-08T22:22:56.819576+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1777,
+      "directoryCount": 1778,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

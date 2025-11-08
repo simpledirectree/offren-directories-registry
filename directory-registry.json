@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:15:48.205011+00:00Z",
+  "lastUpdated": "2025-11-08T02:17:04.472966+00:00Z",
   "stats": {
-    "totalDirectories": 2306,
+    "totalDirectories": 2307,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2306.0,
-    "totalListings": 21557,
-    "aiEnhancedDirectories": 2305
+    "avgDirectoriesPerRepo": 2307.0,
+    "totalListings": 21567,
+    "aiEnhancedDirectories": 2306
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29985,12 +29985,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-landscape-design-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:17:04.472966+00:00Z",
+      "lastUpdated": "2025-11-08T02:17:04.472966+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2306,
+      "directoryCount": 2307,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:09:50.814470+00:00Z",
+  "lastUpdated": "2025-11-08T05:10:05.808506+00:00Z",
   "stats": {
-    "totalDirectories": 234,
+    "totalDirectories": 235,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 234.0,
-    "totalListings": 2291,
-    "aiEnhancedDirectories": 234
+    "avgDirectoriesPerRepo": 235.0,
+    "totalListings": 2301,
+    "aiEnhancedDirectories": 235
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -3050,12 +3050,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-homeschool-networks-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:10:05.808506+00:00Z",
+      "lastUpdated": "2025-11-08T05:10:05.808506+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 234,
+      "directoryCount": 235,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

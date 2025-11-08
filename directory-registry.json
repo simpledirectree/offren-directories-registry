@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:58:51.547701+00:00Z",
+  "lastUpdated": "2025-11-08T06:59:03.228690+00:00Z",
   "stats": {
-    "totalDirectories": 627,
+    "totalDirectories": 628,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 627.0,
-    "totalListings": 6095,
-    "aiEnhancedDirectories": 627
+    "avgDirectoriesPerRepo": 628.0,
+    "totalListings": 6100,
+    "aiEnhancedDirectories": 628
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8159,12 +8159,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-employment-law-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:59:03.228690+00:00Z",
+      "lastUpdated": "2025-11-08T06:59:03.228690+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 627,
+      "directoryCount": 628,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

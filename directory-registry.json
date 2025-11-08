@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:10:37.716745+00:00Z",
+  "lastUpdated": "2025-11-08T16:12:59.746557+00:00Z",
   "stats": {
-    "totalDirectories": 1332,
+    "totalDirectories": 1333,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1332.0,
-    "totalListings": 12652,
-    "aiEnhancedDirectories": 1332
+    "avgDirectoriesPerRepo": 1333.0,
+    "totalListings": 12662,
+    "aiEnhancedDirectories": 1333
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17324,12 +17324,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-grocery-delivery-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:12:59.746557+00:00Z",
+      "lastUpdated": "2025-11-08T16:12:59.746557+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1332,
+      "directoryCount": 1333,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

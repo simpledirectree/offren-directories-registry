@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:12:47.428606+00:00Z",
+  "lastUpdated": "2025-11-08T09:13:26.104063+00:00Z",
   "stats": {
-    "totalDirectories": 865,
+    "totalDirectories": 866,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 865.0,
-    "totalListings": 8352,
-    "aiEnhancedDirectories": 865
+    "avgDirectoriesPerRepo": 866.0,
+    "totalListings": 8356,
+    "aiEnhancedDirectories": 866
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11253,12 +11253,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-litigation-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:13:26.104063+00:00Z",
+      "lastUpdated": "2025-11-08T09:13:26.104063+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 865,
+      "directoryCount": 866,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

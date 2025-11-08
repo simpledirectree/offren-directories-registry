@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:13:24.555859+00:00Z",
+  "lastUpdated": "2025-11-08T08:14:26.621522+00:00Z",
   "stats": {
-    "totalDirectories": 796,
+    "totalDirectories": 797,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 796.0,
-    "totalListings": 7718,
-    "aiEnhancedDirectories": 796
+    "avgDirectoriesPerRepo": 797.0,
+    "totalListings": 7728,
+    "aiEnhancedDirectories": 797
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10356,12 +10356,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-investment-banking-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:14:26.621522+00:00Z",
+      "lastUpdated": "2025-11-08T08:14:26.621522+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 796,
+      "directoryCount": 797,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

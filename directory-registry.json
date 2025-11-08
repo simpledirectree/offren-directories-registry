@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:16:49.149319+00:00Z",
+  "lastUpdated": "2025-11-08T14:17:05.225292+00:00Z",
   "stats": {
-    "totalDirectories": 1208,
+    "totalDirectories": 1209,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1208.0,
-    "totalListings": 11500,
-    "aiEnhancedDirectories": 1208
+    "avgDirectoriesPerRepo": 1209.0,
+    "totalListings": 11510,
+    "aiEnhancedDirectories": 1209
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15712,12 +15712,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-tablet-repair-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:17:05.225292+00:00Z",
+      "lastUpdated": "2025-11-08T14:17:05.225292+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1208,
+      "directoryCount": 1209,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

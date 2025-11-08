@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:46:17.738699+00:00Z",
+  "lastUpdated": "2025-11-08T19:46:32.720364+00:00Z",
   "stats": {
-    "totalDirectories": 1584,
+    "totalDirectories": 1585,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1584.0,
-    "totalListings": 15045,
-    "aiEnhancedDirectories": 1584
+    "avgDirectoriesPerRepo": 1585.0,
+    "totalListings": 15055,
+    "aiEnhancedDirectories": 1585
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20600,12 +20600,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-spray-tanning-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:46:32.720364+00:00Z",
+      "lastUpdated": "2025-11-08T19:46:32.720364+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1584,
+      "directoryCount": 1585,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

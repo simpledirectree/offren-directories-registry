@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:07:13.085287+00:00Z",
+  "lastUpdated": "2025-11-08T09:07:26.334246+00:00Z",
   "stats": {
-    "totalDirectories": 857,
+    "totalDirectories": 858,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 857.0,
-    "totalListings": 8288,
-    "aiEnhancedDirectories": 857
+    "avgDirectoriesPerRepo": 858.0,
+    "totalListings": 8293,
+    "aiEnhancedDirectories": 858
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11149,12 +11149,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-psychology-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:07:26.334246+00:00Z",
+      "lastUpdated": "2025-11-08T09:07:26.334246+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 857,
+      "directoryCount": 858,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

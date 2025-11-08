@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:17:58.595578+00:00Z",
+  "lastUpdated": "2025-11-08T07:18:18.498910+00:00Z",
   "stats": {
-    "totalDirectories": 696,
+    "totalDirectories": 697,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 696.0,
-    "totalListings": 6766,
-    "aiEnhancedDirectories": 696
+    "avgDirectoriesPerRepo": 697.0,
+    "totalListings": 6776,
+    "aiEnhancedDirectories": 697
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9056,12 +9056,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-utility-setup-coordination-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:18:18.498910+00:00Z",
+      "lastUpdated": "2025-11-08T07:18:18.498910+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 696,
+      "directoryCount": 697,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

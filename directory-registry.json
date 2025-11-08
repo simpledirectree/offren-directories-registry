@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:11:17.973218+00:00Z",
+  "lastUpdated": "2025-11-08T14:11:57.053563+00:00Z",
   "stats": {
-    "totalDirectories": 1203,
+    "totalDirectories": 1204,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1203.0,
-    "totalListings": 11450,
-    "aiEnhancedDirectories": 1203
+    "avgDirectoriesPerRepo": 1204.0,
+    "totalListings": 11460,
+    "aiEnhancedDirectories": 1204
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15647,12 +15647,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-record-keeping-systems-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:11:57.053563+00:00Z",
+      "lastUpdated": "2025-11-08T14:11:57.053563+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1203,
+      "directoryCount": 1204,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:10:55.845017+00:00Z",
+  "lastUpdated": "2025-11-08T04:11:13.223245+00:00Z",
   "stats": {
-    "totalDirectories": 21,
+    "totalDirectories": 22,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 21.0,
-    "totalListings": 207,
-    "aiEnhancedDirectories": 21
+    "avgDirectoriesPerRepo": 22.0,
+    "totalListings": 217,
+    "aiEnhancedDirectories": 22
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -281,12 +281,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-roadside-assistance-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:11:13.223245+00:00Z",
+      "lastUpdated": "2025-11-08T04:11:13.223245+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 21,
+      "directoryCount": 22,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

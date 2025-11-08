@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:36:29.184228+00:00Z",
+  "lastUpdated": "2025-11-08T03:38:04.099836+00:00Z",
   "stats": {
-    "totalDirectories": 2385,
+    "totalDirectories": 2386,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2385.0,
-    "totalListings": 22269,
-    "aiEnhancedDirectories": 2384
+    "avgDirectoriesPerRepo": 2386.0,
+    "totalListings": 22279,
+    "aiEnhancedDirectories": 2385
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31012,12 +31012,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-golf-coaching-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:38:04.099836+00:00Z",
+      "lastUpdated": "2025-11-08T03:38:04.099836+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2385,
+      "directoryCount": 2386,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

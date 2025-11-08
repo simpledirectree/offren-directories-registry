@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:31:11.449894+00:00Z",
+  "lastUpdated": "2025-11-08T06:31:25.164777+00:00Z",
   "stats": {
-    "totalDirectories": 526,
+    "totalDirectories": 527,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 526.0,
-    "totalListings": 5125,
-    "aiEnhancedDirectories": 526
+    "avgDirectoriesPerRepo": 527.0,
+    "totalListings": 5135,
+    "aiEnhancedDirectories": 527
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6846,12 +6846,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-adult-driving-lessons-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:31:25.164777+00:00Z",
+      "lastUpdated": "2025-11-08T06:31:25.164777+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 526,
+      "directoryCount": 527,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

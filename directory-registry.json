@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:13:08.441649+00:00Z",
+  "lastUpdated": "2025-11-08T06:13:25.669963+00:00Z",
   "stats": {
-    "totalDirectories": 462,
+    "totalDirectories": 463,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 462.0,
-    "totalListings": 4490,
-    "aiEnhancedDirectories": 462
+    "avgDirectoriesPerRepo": 463.0,
+    "totalListings": 4500,
+    "aiEnhancedDirectories": 463
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6014,12 +6014,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-waterfalls-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:13:25.669963+00:00Z",
+      "lastUpdated": "2025-11-08T06:13:25.669963+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 462,
+      "directoryCount": 463,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

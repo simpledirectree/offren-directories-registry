@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:57:44.706952+00:00Z",
+  "lastUpdated": "2025-11-08T06:58:03.443149+00:00Z",
   "stats": {
-    "totalDirectories": 623,
+    "totalDirectories": 624,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 623.0,
-    "totalListings": 6055,
-    "aiEnhancedDirectories": 623
+    "avgDirectoriesPerRepo": 624.0,
+    "totalListings": 6065,
+    "aiEnhancedDirectories": 624
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8107,12 +8107,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-personal-lending-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:58:03.443149+00:00Z",
+      "lastUpdated": "2025-11-08T06:58:03.443149+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 623,
+      "directoryCount": 624,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T01:49:34.528275+00:00Z",
+  "lastUpdated": "2025-11-08T01:51:09.863200+00:00Z",
   "stats": {
-    "totalDirectories": 2276,
+    "totalDirectories": 2277,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2276.0,
-    "totalListings": 21271,
-    "aiEnhancedDirectories": 2275
+    "avgDirectoriesPerRepo": 2277.0,
+    "totalListings": 21281,
+    "aiEnhancedDirectories": 2276
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -29595,12 +29595,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-legacy-system-modernization-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T01:51:09.863200+00:00Z",
+      "lastUpdated": "2025-11-08T01:51:09.863200+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2276,
+      "directoryCount": 2277,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

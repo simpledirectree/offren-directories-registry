@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:02:01.951704+00:00Z",
+  "lastUpdated": "2025-11-08T19:02:17.329316+00:00Z",
   "stats": {
-    "totalDirectories": 1536,
+    "totalDirectories": 1537,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1536.0,
-    "totalListings": 14590,
-    "aiEnhancedDirectories": 1536
+    "avgDirectoriesPerRepo": 1537.0,
+    "totalListings": 14600,
+    "aiEnhancedDirectories": 1537
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19976,12 +19976,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-patio-builders-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:02:17.329316+00:00Z",
+      "lastUpdated": "2025-11-08T19:02:17.329316+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1536,
+      "directoryCount": 1537,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

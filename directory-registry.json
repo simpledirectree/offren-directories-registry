@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:19:51.479451+00:00Z",
+  "lastUpdated": "2025-11-08T20:20:31.374213+00:00Z",
   "stats": {
-    "totalDirectories": 1625,
+    "totalDirectories": 1626,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1625.0,
-    "totalListings": 15422,
-    "aiEnhancedDirectories": 1625
+    "avgDirectoriesPerRepo": 1626.0,
+    "totalListings": 15429,
+    "aiEnhancedDirectories": 1626
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21133,12 +21133,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-circuit-training-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:20:31.374213+00:00Z",
+      "lastUpdated": "2025-11-08T20:20:31.374213+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1625,
+      "directoryCount": 1626,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

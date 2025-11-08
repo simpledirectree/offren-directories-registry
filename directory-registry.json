@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:42:59.025102+00:00Z",
+  "lastUpdated": "2025-11-08T05:43:18.654570+00:00Z",
   "stats": {
-    "totalDirectories": 355,
+    "totalDirectories": 356,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 355.0,
-    "totalListings": 3482,
-    "aiEnhancedDirectories": 355
+    "avgDirectoriesPerRepo": 356.0,
+    "totalListings": 3492,
+    "aiEnhancedDirectories": 356
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4623,12 +4623,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-shrub-trimming-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:43:18.654570+00:00Z",
+      "lastUpdated": "2025-11-08T05:43:18.654570+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 355,
+      "directoryCount": 356,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

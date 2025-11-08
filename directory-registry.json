@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:03:45.341285+00:00Z",
+  "lastUpdated": "2025-11-08T07:04:00.209050+00:00Z",
   "stats": {
-    "totalDirectories": 645,
+    "totalDirectories": 646,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 645.0,
-    "totalListings": 6264,
-    "aiEnhancedDirectories": 645
+    "avgDirectoriesPerRepo": 646.0,
+    "totalListings": 6274,
+    "aiEnhancedDirectories": 646
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8393,12 +8393,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-obedience-training-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:04:00.209050+00:00Z",
+      "lastUpdated": "2025-11-08T07:04:00.209050+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 645,
+      "directoryCount": 646,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

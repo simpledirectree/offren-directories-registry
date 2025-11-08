@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T12:20:13.748083+00:00Z",
+  "lastUpdated": "2025-11-08T12:20:28.417676+00:00Z",
   "stats": {
-    "totalDirectories": 1076,
+    "totalDirectories": 1077,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1076.0,
-    "totalListings": 10288,
-    "aiEnhancedDirectories": 1076
+    "avgDirectoriesPerRepo": 1077.0,
+    "totalListings": 10298,
+    "aiEnhancedDirectories": 1077
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -13996,12 +13996,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-men-s-grooming-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T12:20:28.417676+00:00Z",
+      "lastUpdated": "2025-11-08T12:20:28.417676+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1076,
+      "directoryCount": 1077,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:35:14.791193+00:00Z",
+  "lastUpdated": "2025-11-08T05:35:31.057772+00:00Z",
   "stats": {
-    "totalDirectories": 327,
+    "totalDirectories": 328,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 327.0,
-    "totalListings": 3207,
-    "aiEnhancedDirectories": 327
+    "avgDirectoriesPerRepo": 328.0,
+    "totalListings": 3217,
+    "aiEnhancedDirectories": 328
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4259,12 +4259,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-litigation-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:35:31.057772+00:00Z",
+      "lastUpdated": "2025-11-08T05:35:31.057772+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 327,
+      "directoryCount": 328,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

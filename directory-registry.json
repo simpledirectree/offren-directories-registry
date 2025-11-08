@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:00:09.448181+00:00Z",
+  "lastUpdated": "2025-11-08T05:00:27.472146+00:00Z",
   "stats": {
-    "totalDirectories": 200,
+    "totalDirectories": 201,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 200.0,
-    "totalListings": 1960,
-    "aiEnhancedDirectories": 200
+    "avgDirectoriesPerRepo": 201.0,
+    "totalListings": 1970,
+    "aiEnhancedDirectories": 201
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2608,12 +2608,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-software-training-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:00:27.472146+00:00Z",
+      "lastUpdated": "2025-11-08T05:00:27.472146+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 200,
+      "directoryCount": 201,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:39:26.649370+00:00Z",
+  "lastUpdated": "2025-11-08T05:39:45.889538+00:00Z",
   "stats": {
-    "totalDirectories": 342,
+    "totalDirectories": 343,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 342.0,
-    "totalListings": 3357,
-    "aiEnhancedDirectories": 342
+    "avgDirectoriesPerRepo": 343.0,
+    "totalListings": 3367,
+    "aiEnhancedDirectories": 343
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -4454,12 +4454,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-technical-training-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:39:45.889538+00:00Z",
+      "lastUpdated": "2025-11-08T05:39:45.889538+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 342,
+      "directoryCount": 343,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

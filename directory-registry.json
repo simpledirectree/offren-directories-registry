@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:36:24.323790+00:00Z",
+  "lastUpdated": "2025-11-08T08:36:38.700754+00:00Z",
   "stats": {
-    "totalDirectories": 816,
+    "totalDirectories": 817,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 816.0,
-    "totalListings": 7899,
-    "aiEnhancedDirectories": 816
+    "avgDirectoriesPerRepo": 817.0,
+    "totalListings": 7909,
+    "aiEnhancedDirectories": 817
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -10616,12 +10616,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-network-management-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:36:38.700754+00:00Z",
+      "lastUpdated": "2025-11-08T08:36:38.700754+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 816,
+      "directoryCount": 817,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

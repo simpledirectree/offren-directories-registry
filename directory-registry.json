@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:26:43.857094+00:00Z",
+  "lastUpdated": "2025-11-08T06:27:01.577640+00:00Z",
   "stats": {
-    "totalDirectories": 510,
+    "totalDirectories": 511,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 510.0,
-    "totalListings": 4965,
-    "aiEnhancedDirectories": 510
+    "avgDirectoriesPerRepo": 511.0,
+    "totalListings": 4975,
+    "aiEnhancedDirectories": 511
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6638,12 +6638,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-private-equity-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:27:01.577640+00:00Z",
+      "lastUpdated": "2025-11-08T06:27:01.577640+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 510,
+      "directoryCount": 511,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

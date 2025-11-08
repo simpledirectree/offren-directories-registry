@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:08:20.253829+00:00Z",
+  "lastUpdated": "2025-11-08T07:08:37.836963+00:00Z",
   "stats": {
-    "totalDirectories": 661,
+    "totalDirectories": 662,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 661.0,
-    "totalListings": 6419,
-    "aiEnhancedDirectories": 661
+    "avgDirectoriesPerRepo": 662.0,
+    "totalListings": 6429,
+    "aiEnhancedDirectories": 662
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8601,12 +8601,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-personal-training-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:08:37.836963+00:00Z",
+      "lastUpdated": "2025-11-08T07:08:37.836963+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 661,
+      "directoryCount": 662,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

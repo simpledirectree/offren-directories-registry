@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:50:45.221917+00:00Z",
+  "lastUpdated": "2025-11-08T03:51:03.556743+00:00Z",
   "stats": {
-    "totalDirectories": 2422,
+    "totalDirectories": 2423,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2422.0,
-    "totalListings": 22615,
-    "aiEnhancedDirectories": 2421
+    "avgDirectoriesPerRepo": 2423.0,
+    "totalListings": 22625,
+    "aiEnhancedDirectories": 2422
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -31493,12 +31493,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-event-insurance-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:51:03.556743+00:00Z",
+      "lastUpdated": "2025-11-08T03:51:03.556743+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2422,
+      "directoryCount": 2423,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

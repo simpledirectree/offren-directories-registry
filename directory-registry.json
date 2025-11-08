@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:22:16.269566+00:00Z",
+  "lastUpdated": "2025-11-08T04:22:32.269733+00:00Z",
   "stats": {
-    "totalDirectories": 62,
+    "totalDirectories": 63,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 62.0,
-    "totalListings": 616,
-    "aiEnhancedDirectories": 62
+    "avgDirectoriesPerRepo": 63.0,
+    "totalListings": 626,
+    "aiEnhancedDirectories": 63
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -814,12 +814,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-storage-services-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:22:32.269733+00:00Z",
+      "lastUpdated": "2025-11-08T04:22:32.269733+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 62,
+      "directoryCount": 63,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

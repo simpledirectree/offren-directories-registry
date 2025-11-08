@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:55:11.391098+00:00Z",
+  "lastUpdated": "2025-11-08T13:55:32.265845+00:00Z",
   "stats": {
-    "totalDirectories": 1190,
+    "totalDirectories": 1191,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1190.0,
-    "totalListings": 11337,
-    "aiEnhancedDirectories": 1190
+    "avgDirectoriesPerRepo": 1191.0,
+    "totalListings": 11347,
+    "aiEnhancedDirectories": 1191
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15478,12 +15478,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-call-centers-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:55:32.265845+00:00Z",
+      "lastUpdated": "2025-11-08T13:55:32.265845+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1190,
+      "directoryCount": 1191,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

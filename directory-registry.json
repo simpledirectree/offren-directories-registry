@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:45:51.355371+00:00Z",
+  "lastUpdated": "2025-11-08T06:46:11.320043+00:00Z",
   "stats": {
-    "totalDirectories": 579,
+    "totalDirectories": 580,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 579.0,
-    "totalListings": 5637,
-    "aiEnhancedDirectories": 579
+    "avgDirectoriesPerRepo": 580.0,
+    "totalListings": 5647,
+    "aiEnhancedDirectories": 580
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -7535,12 +7535,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-corporate-websites-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:46:11.320043+00:00Z",
+      "lastUpdated": "2025-11-08T06:46:11.320043+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 579,
+      "directoryCount": 580,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

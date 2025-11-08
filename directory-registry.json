@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:16:32.525929+00:00Z",
+  "lastUpdated": "2025-11-08T07:16:49.917955+00:00Z",
   "stats": {
-    "totalDirectories": 691,
+    "totalDirectories": 692,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 691.0,
-    "totalListings": 6716,
-    "aiEnhancedDirectories": 691
+    "avgDirectoriesPerRepo": 692.0,
+    "totalListings": 6726,
+    "aiEnhancedDirectories": 692
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8991,12 +8991,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-setup-and-teardown-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:16:49.917955+00:00Z",
+      "lastUpdated": "2025-11-08T07:16:49.917955+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 691,
+      "directoryCount": 692,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

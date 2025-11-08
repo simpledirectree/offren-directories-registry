@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T18:57:26.534318+00:00Z",
+  "lastUpdated": "2025-11-08T18:57:40.077101+00:00Z",
   "stats": {
-    "totalDirectories": 1531,
+    "totalDirectories": 1532,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1531.0,
-    "totalListings": 14540,
-    "aiEnhancedDirectories": 1531
+    "avgDirectoriesPerRepo": 1532.0,
+    "totalListings": 14550,
+    "aiEnhancedDirectories": 1532
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -19911,12 +19911,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-venture-capital-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T18:57:40.077101+00:00Z",
+      "lastUpdated": "2025-11-08T18:57:40.077101+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1531,
+      "directoryCount": 1532,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

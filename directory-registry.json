@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:17:13.993080+00:00Z",
+  "lastUpdated": "2025-11-08T06:17:29.551180+00:00Z",
   "stats": {
-    "totalDirectories": 476,
+    "totalDirectories": 477,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 476.0,
-    "totalListings": 4629,
-    "aiEnhancedDirectories": 476
+    "avgDirectoriesPerRepo": 477.0,
+    "totalListings": 4639,
+    "aiEnhancedDirectories": 477
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6196,12 +6196,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-functional-medicine-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:17:29.551180+00:00Z",
+      "lastUpdated": "2025-11-08T06:17:29.551180+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 476,
+      "directoryCount": 477,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

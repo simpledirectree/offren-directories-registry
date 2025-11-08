@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:21:56.889318+00:00Z",
+  "lastUpdated": "2025-11-08T07:22:15.100368+00:00Z",
   "stats": {
-    "totalDirectories": 710,
+    "totalDirectories": 711,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 710.0,
-    "totalListings": 6906,
-    "aiEnhancedDirectories": 710
+    "avgDirectoriesPerRepo": 711.0,
+    "totalListings": 6916,
+    "aiEnhancedDirectories": 711
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9238,12 +9238,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-door-adjustments-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:22:15.100368+00:00Z",
+      "lastUpdated": "2025-11-08T07:22:15.100368+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 710,
+      "directoryCount": 711,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

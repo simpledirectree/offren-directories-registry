@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:09:12.626024+00:00Z",
+  "lastUpdated": "2025-11-08T09:09:25.818195+00:00Z",
   "stats": {
-    "totalDirectories": 862,
+    "totalDirectories": 863,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 862.0,
-    "totalListings": 8324,
-    "aiEnhancedDirectories": 862
+    "avgDirectoriesPerRepo": 863.0,
+    "totalListings": 8332,
+    "aiEnhancedDirectories": 863
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11214,12 +11214,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-invoice-processing-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:09:25.818195+00:00Z",
+      "lastUpdated": "2025-11-08T09:09:25.818195+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 862,
+      "directoryCount": 863,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

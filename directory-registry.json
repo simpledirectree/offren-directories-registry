@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:51:31.618209+00:00Z",
+  "lastUpdated": "2025-11-08T05:51:45.736770+00:00Z",
   "stats": {
-    "totalDirectories": 385,
+    "totalDirectories": 386,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 385.0,
-    "totalListings": 3767,
-    "aiEnhancedDirectories": 385
+    "avgDirectoriesPerRepo": 386.0,
+    "totalListings": 3777,
+    "aiEnhancedDirectories": 386
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5013,12 +5013,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-ombre-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:51:45.736770+00:00Z",
+      "lastUpdated": "2025-11-08T05:51:45.736770+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 385,
+      "directoryCount": 386,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

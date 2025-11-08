@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:03:57.547431+00:00Z",
+  "lastUpdated": "2025-11-08T06:04:09.524796+00:00Z",
   "stats": {
-    "totalDirectories": 429,
+    "totalDirectories": 430,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 429.0,
-    "totalListings": 4174,
-    "aiEnhancedDirectories": 429
+    "avgDirectoriesPerRepo": 430.0,
+    "totalListings": 4175,
+    "aiEnhancedDirectories": 430
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5585,12 +5585,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-managed-security-services-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:04:09.524796+00:00Z",
+      "lastUpdated": "2025-11-08T06:04:09.524796+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 429,
+      "directoryCount": 430,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

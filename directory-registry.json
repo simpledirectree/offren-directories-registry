@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T02:31:18.409772+00:00Z",
+  "lastUpdated": "2025-11-08T02:32:27.732922+00:00Z",
   "stats": {
-    "totalDirectories": 2318,
+    "totalDirectories": 2319,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2318.0,
-    "totalListings": 21665,
-    "aiEnhancedDirectories": 2317
+    "avgDirectoriesPerRepo": 2319.0,
+    "totalListings": 21675,
+    "aiEnhancedDirectories": 2318
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30141,12 +30141,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-landscape-redesign-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T02:32:27.732922+00:00Z",
+      "lastUpdated": "2025-11-08T02:32:27.732922+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2318,
+      "directoryCount": 2319,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

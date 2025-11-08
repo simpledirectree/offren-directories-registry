@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:04:46.404793+00:00Z",
+  "lastUpdated": "2025-11-08T05:05:05.504840+00:00Z",
   "stats": {
-    "totalDirectories": 216,
+    "totalDirectories": 217,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 216.0,
-    "totalListings": 2120,
-    "aiEnhancedDirectories": 216
+    "avgDirectoriesPerRepo": 217.0,
+    "totalListings": 2130,
+    "aiEnhancedDirectories": 217
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2816,12 +2816,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-window-adjustments-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:05:05.504840+00:00Z",
+      "lastUpdated": "2025-11-08T05:05:05.504840+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 216,
+      "directoryCount": 217,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

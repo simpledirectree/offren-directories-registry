@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:02:21.290348+00:00Z",
+  "lastUpdated": "2025-11-08T07:02:36.379818+00:00Z",
   "stats": {
-    "totalDirectories": 640,
+    "totalDirectories": 641,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 640.0,
-    "totalListings": 6219,
-    "aiEnhancedDirectories": 640
+    "avgDirectoriesPerRepo": 641.0,
+    "totalListings": 6229,
+    "aiEnhancedDirectories": 641
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8328,12 +8328,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-beard-styling-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:02:36.379818+00:00Z",
+      "lastUpdated": "2025-11-08T07:02:36.379818+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 640,
+      "directoryCount": 641,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

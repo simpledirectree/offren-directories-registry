@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T17:06:31.871684+00:00Z",
+  "lastUpdated": "2025-11-08T17:07:13.070919+00:00Z",
   "stats": {
-    "totalDirectories": 1396,
+    "totalDirectories": 1397,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1396.0,
-    "totalListings": 13257,
-    "aiEnhancedDirectories": 1396
+    "avgDirectoriesPerRepo": 1397.0,
+    "totalListings": 13267,
+    "aiEnhancedDirectories": 1397
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -18156,12 +18156,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-circus-performers-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T17:07:13.070919+00:00Z",
+      "lastUpdated": "2025-11-08T17:07:13.070919+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1396,
+      "directoryCount": 1397,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

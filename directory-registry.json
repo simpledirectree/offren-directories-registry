@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:24:58.337159+00:00Z",
+  "lastUpdated": "2025-11-08T04:25:16.262764+00:00Z",
   "stats": {
-    "totalDirectories": 72,
+    "totalDirectories": 73,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 72.0,
-    "totalListings": 707,
-    "aiEnhancedDirectories": 72
+    "avgDirectoriesPerRepo": 73.0,
+    "totalListings": 717,
+    "aiEnhancedDirectories": 73
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -944,12 +944,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-brand-development-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:25:16.262764+00:00Z",
+      "lastUpdated": "2025-11-08T04:25:16.262764+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 72,
+      "directoryCount": 73,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:21:26.680136+00:00Z",
+  "lastUpdated": "2025-11-08T06:21:40.990203+00:00Z",
   "stats": {
-    "totalDirectories": 491,
+    "totalDirectories": 492,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 491.0,
-    "totalListings": 4775,
-    "aiEnhancedDirectories": 491
+    "avgDirectoriesPerRepo": 492.0,
+    "totalListings": 4785,
+    "aiEnhancedDirectories": 492
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6391,12 +6391,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-trade-show-support-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:21:40.990203+00:00Z",
+      "lastUpdated": "2025-11-08T06:21:40.990203+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 491,
+      "directoryCount": 492,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

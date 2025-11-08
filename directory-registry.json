@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:16:24.258716+00:00Z",
+  "lastUpdated": "2025-11-08T20:17:05.683751+00:00Z",
   "stats": {
-    "totalDirectories": 1623,
+    "totalDirectories": 1624,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1623.0,
-    "totalListings": 15402,
-    "aiEnhancedDirectories": 1623
+    "avgDirectoriesPerRepo": 1624.0,
+    "totalListings": 15412,
+    "aiEnhancedDirectories": 1624
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -21107,12 +21107,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-shopping-ads-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:17:05.683751+00:00Z",
+      "lastUpdated": "2025-11-08T20:17:05.683751+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1623,
+      "directoryCount": 1624,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

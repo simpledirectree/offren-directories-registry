@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T13:28:15.116507+00:00Z",
+  "lastUpdated": "2025-11-08T13:29:52.625121+00:00Z",
   "stats": {
-    "totalDirectories": 1159,
+    "totalDirectories": 1160,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1159.0,
-    "totalListings": 11060,
-    "aiEnhancedDirectories": 1159
+    "avgDirectoriesPerRepo": 1160.0,
+    "totalListings": 11064,
+    "aiEnhancedDirectories": 1160
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15075,12 +15075,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-translation-services-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T13:29:52.625121+00:00Z",
+      "lastUpdated": "2025-11-08T13:29:52.625121+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1159,
+      "directoryCount": 1160,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

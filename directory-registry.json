@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:05:13.575544+00:00Z",
+  "lastUpdated": "2025-11-08T06:05:32.951880+00:00Z",
   "stats": {
-    "totalDirectories": 434,
+    "totalDirectories": 435,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 434.0,
-    "totalListings": 4215,
-    "aiEnhancedDirectories": 434
+    "avgDirectoriesPerRepo": 435.0,
+    "totalListings": 4225,
+    "aiEnhancedDirectories": 435
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5650,12 +5650,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-trade-secrets-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:05:32.951880+00:00Z",
+      "lastUpdated": "2025-11-08T06:05:32.951880+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 434,
+      "directoryCount": 435,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

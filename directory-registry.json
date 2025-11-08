@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T08:58:42.174698+00:00Z",
+  "lastUpdated": "2025-11-08T08:58:56.752560+00:00Z",
   "stats": {
-    "totalDirectories": 848,
+    "totalDirectories": 849,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 848.0,
-    "totalListings": 8210,
-    "aiEnhancedDirectories": 848
+    "avgDirectoriesPerRepo": 849.0,
+    "totalListings": 8220,
+    "aiEnhancedDirectories": 849
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11032,12 +11032,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-conflict-resolution-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T08:58:56.752560+00:00Z",
+      "lastUpdated": "2025-11-08T08:58:56.752560+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 848,
+      "directoryCount": 849,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

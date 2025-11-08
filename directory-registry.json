@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:08:36.633791+00:00Z",
+  "lastUpdated": "2025-11-08T05:08:54.831649+00:00Z",
   "stats": {
-    "totalDirectories": 230,
+    "totalDirectories": 231,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 230.0,
-    "totalListings": 2251,
-    "aiEnhancedDirectories": 230
+    "avgDirectoriesPerRepo": 231.0,
+    "totalListings": 2261,
+    "aiEnhancedDirectories": 231
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2998,12 +2998,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-gastroenterologists-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:08:54.831649+00:00Z",
+      "lastUpdated": "2025-11-08T05:08:54.831649+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 230,
+      "directoryCount": 231,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

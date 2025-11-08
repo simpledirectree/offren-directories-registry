@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T16:27:34.846587+00:00Z",
+  "lastUpdated": "2025-11-08T16:27:51.005708+00:00Z",
   "stats": {
-    "totalDirectories": 1348,
+    "totalDirectories": 1349,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1348.0,
-    "totalListings": 12812,
-    "aiEnhancedDirectories": 1348
+    "avgDirectoriesPerRepo": 1349.0,
+    "totalListings": 12822,
+    "aiEnhancedDirectories": 1349
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -17532,12 +17532,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-boutique-fitness-studios-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T16:27:51.005708+00:00Z",
+      "lastUpdated": "2025-11-08T16:27:51.005708+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1348,
+      "directoryCount": 1349,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

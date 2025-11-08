@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:57:43.218168+00:00Z",
+  "lastUpdated": "2025-11-08T14:59:14.040747+00:00Z",
   "stats": {
-    "totalDirectories": 1258,
+    "totalDirectories": 1259,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1258.0,
-    "totalListings": 11960,
-    "aiEnhancedDirectories": 1258
+    "avgDirectoriesPerRepo": 1259.0,
+    "totalListings": 11969,
+    "aiEnhancedDirectories": 1259
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -16362,12 +16362,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-micro-weddings-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:59:14.040747+00:00Z",
+      "lastUpdated": "2025-11-08T14:59:14.040747+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1258,
+      "directoryCount": 1259,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

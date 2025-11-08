@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:56:13.337723+00:00Z",
+  "lastUpdated": "2025-11-08T05:56:30.821133+00:00Z",
   "stats": {
-    "totalDirectories": 402,
+    "totalDirectories": 403,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 402.0,
-    "totalListings": 3922,
-    "aiEnhancedDirectories": 402
+    "avgDirectoriesPerRepo": 403.0,
+    "totalListings": 3932,
+    "aiEnhancedDirectories": 403
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5234,12 +5234,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-decluttering-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:56:30.821133+00:00Z",
+      "lastUpdated": "2025-11-08T05:56:30.821133+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 402,
+      "directoryCount": 403,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

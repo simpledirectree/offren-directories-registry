@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T06:17:59.577822+00:00Z",
+  "lastUpdated": "2025-11-08T06:18:15.654885+00:00Z",
   "stats": {
-    "totalDirectories": 479,
+    "totalDirectories": 480,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 479.0,
-    "totalListings": 4659,
-    "aiEnhancedDirectories": 479
+    "avgDirectoriesPerRepo": 480.0,
+    "totalListings": 4669,
+    "aiEnhancedDirectories": 480
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -6235,12 +6235,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-banking-relationship-management-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T06:18:15.654885+00:00Z",
+      "lastUpdated": "2025-11-08T06:18:15.654885+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 479,
+      "directoryCount": 480,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

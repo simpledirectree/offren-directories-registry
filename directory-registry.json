@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T19:26:27.218557+00:00Z",
+  "lastUpdated": "2025-11-08T19:26:42.130061+00:00Z",
   "stats": {
-    "totalDirectories": 1562,
+    "totalDirectories": 1563,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1562.0,
-    "totalListings": 14843,
-    "aiEnhancedDirectories": 1562
+    "avgDirectoriesPerRepo": 1563.0,
+    "totalListings": 14853,
+    "aiEnhancedDirectories": 1563
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20314,12 +20314,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-learning-management-systems-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T19:26:42.130061+00:00Z",
+      "lastUpdated": "2025-11-08T19:26:42.130061+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1562,
+      "directoryCount": 1563,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

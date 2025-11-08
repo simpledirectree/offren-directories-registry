@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:21:39.239089+00:00Z",
+  "lastUpdated": "2025-11-08T07:21:56.889318+00:00Z",
   "stats": {
-    "totalDirectories": 709,
+    "totalDirectories": 710,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 709.0,
-    "totalListings": 6896,
-    "aiEnhancedDirectories": 709
+    "avgDirectoriesPerRepo": 710.0,
+    "totalListings": 6906,
+    "aiEnhancedDirectories": 710
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9225,12 +9225,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-ceiling-fans-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:21:56.889318+00:00Z",
+      "lastUpdated": "2025-11-08T07:21:56.889318+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 709,
+      "directoryCount": 710,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

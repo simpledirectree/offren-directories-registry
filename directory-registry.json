@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:10:26.003959+00:00Z",
+  "lastUpdated": "2025-11-08T04:10:40.660657+00:00Z",
   "stats": {
-    "totalDirectories": 19,
+    "totalDirectories": 20,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 19.0,
-    "totalListings": 187,
-    "aiEnhancedDirectories": 19
+    "avgDirectoriesPerRepo": 20.0,
+    "totalListings": 197,
+    "aiEnhancedDirectories": 20
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -255,12 +255,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-prenatal-massage-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:10:40.660657+00:00Z",
+      "lastUpdated": "2025-11-08T04:10:40.660657+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 19,
+      "directoryCount": 20,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

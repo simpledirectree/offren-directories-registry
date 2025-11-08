@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T03:26:58.221452+00:00Z",
+  "lastUpdated": "2025-11-08T03:27:12.887428+00:00Z",
   "stats": {
-    "totalDirectories": 2375,
+    "totalDirectories": 2376,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2375.0,
-    "totalListings": 22173,
-    "aiEnhancedDirectories": 2374
+    "avgDirectoriesPerRepo": 2376.0,
+    "totalListings": 22183,
+    "aiEnhancedDirectories": 2375
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -30882,12 +30882,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-inclusion-training-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T03:27:12.887428+00:00Z",
+      "lastUpdated": "2025-11-08T03:27:12.887428+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2375,
+      "directoryCount": 2376,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

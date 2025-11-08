@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T00:47:59.129400+00:00Z",
+  "lastUpdated": "2025-11-08T00:49:41.962636+00:00Z",
   "stats": {
-    "totalDirectories": 2200,
+    "totalDirectories": 2201,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2200.0,
-    "totalListings": 20580,
-    "aiEnhancedDirectories": 2199
+    "avgDirectoriesPerRepo": 2201.0,
+    "totalListings": 20590,
+    "aiEnhancedDirectories": 2200
   },
   "directories": {
     "chinese-american-owned-website-maintenance-in-california": {
@@ -28607,12 +28607,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-piano-moving-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T00:49:41.962636+00:00Z",
+      "lastUpdated": "2025-11-08T00:49:41.962636+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-06T23:18:32.389303+00:00Z",
-      "directoryCount": 2200,
+      "directoryCount": 2201,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

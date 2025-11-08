@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:03:19.811143+00:00Z",
+  "lastUpdated": "2025-11-08T05:03:40.029645+00:00Z",
   "stats": {
-    "totalDirectories": 211,
+    "totalDirectories": 212,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 211.0,
-    "totalListings": 2070,
-    "aiEnhancedDirectories": 211
+    "avgDirectoriesPerRepo": 212.0,
+    "totalListings": 2080,
+    "aiEnhancedDirectories": 212
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -2751,12 +2751,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-public-relations-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:03:40.029645+00:00Z",
+      "lastUpdated": "2025-11-08T05:03:40.029645+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 211,
+      "directoryCount": 212,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

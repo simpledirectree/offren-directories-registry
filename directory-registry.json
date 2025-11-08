@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T20:01:15.453675+00:00Z",
+  "lastUpdated": "2025-11-08T20:01:55.961504+00:00Z",
   "stats": {
-    "totalDirectories": 1606,
+    "totalDirectories": 1607,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1606.0,
-    "totalListings": 15247,
-    "aiEnhancedDirectories": 1606
+    "avgDirectoriesPerRepo": 1607.0,
+    "totalListings": 15257,
+    "aiEnhancedDirectories": 1607
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -20886,12 +20886,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-vendor-agreement-review-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T20:01:55.961504+00:00Z",
+      "lastUpdated": "2025-11-08T20:01:55.961504+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1606,
+      "directoryCount": 1607,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:19:11.870242+00:00Z",
+  "lastUpdated": "2025-11-08T04:19:28.145852+00:00Z",
   "stats": {
-    "totalDirectories": 51,
+    "totalDirectories": 52,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 51.0,
-    "totalListings": 506,
-    "aiEnhancedDirectories": 51
+    "avgDirectoriesPerRepo": 52.0,
+    "totalListings": 516,
+    "aiEnhancedDirectories": 52
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -671,12 +671,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-caulking-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:19:28.145852+00:00Z",
+      "lastUpdated": "2025-11-08T04:19:28.145852+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 51,
+      "directoryCount": 52,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

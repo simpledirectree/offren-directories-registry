@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T14:29:02.194928+00:00Z",
+  "lastUpdated": "2025-11-08T14:30:08.237115+00:00Z",
   "stats": {
-    "totalDirectories": 1223,
+    "totalDirectories": 1224,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1223.0,
-    "totalListings": 11647,
-    "aiEnhancedDirectories": 1223
+    "avgDirectoriesPerRepo": 1224.0,
+    "totalListings": 11657,
+    "aiEnhancedDirectories": 1224
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -15907,12 +15907,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-ccpa-compliance-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T14:30:08.237115+00:00Z",
+      "lastUpdated": "2025-11-08T14:30:08.237115+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1223,
+      "directoryCount": 1224,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

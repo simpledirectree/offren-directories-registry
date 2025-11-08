@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:13:55.016652+00:00Z",
+  "lastUpdated": "2025-11-08T07:14:14.172417+00:00Z",
   "stats": {
-    "totalDirectories": 681,
+    "totalDirectories": 682,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 681.0,
-    "totalListings": 6619,
-    "aiEnhancedDirectories": 681
+    "avgDirectoriesPerRepo": 682.0,
+    "totalListings": 6629,
+    "aiEnhancedDirectories": 682
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -8861,12 +8861,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-data-privacy-compliance-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:14:14.172417+00:00Z",
+      "lastUpdated": "2025-11-08T07:14:14.172417+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 681,
+      "directoryCount": 682,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T05:53:58.632893+00:00Z",
+  "lastUpdated": "2025-11-08T05:54:17.007892+00:00Z",
   "stats": {
-    "totalDirectories": 394,
+    "totalDirectories": 395,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 394.0,
-    "totalListings": 3849,
-    "aiEnhancedDirectories": 394
+    "avgDirectoriesPerRepo": 395.0,
+    "totalListings": 3859,
+    "aiEnhancedDirectories": 395
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -5130,12 +5130,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-hockey-coaching-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T05:54:17.007892+00:00Z",
+      "lastUpdated": "2025-11-08T05:54:17.007892+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 394,
+      "directoryCount": 395,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

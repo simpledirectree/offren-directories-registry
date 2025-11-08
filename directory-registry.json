@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T07:22:15.100368+00:00Z",
+  "lastUpdated": "2025-11-08T07:22:34.804665+00:00Z",
   "stats": {
-    "totalDirectories": 711,
+    "totalDirectories": 712,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 711.0,
-    "totalListings": 6916,
-    "aiEnhancedDirectories": 711
+    "avgDirectoriesPerRepo": 712.0,
+    "totalListings": 6926,
+    "aiEnhancedDirectories": 712
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -9251,12 +9251,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-hvac-maintenance-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T07:22:34.804665+00:00Z",
+      "lastUpdated": "2025-11-08T07:22:34.804665+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 711,
+      "directoryCount": 712,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

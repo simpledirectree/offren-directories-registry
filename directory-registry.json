@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T04:47:35.725803+00:00Z",
+  "lastUpdated": "2025-11-08T04:47:52.575647+00:00Z",
   "stats": {
-    "totalDirectories": 153,
+    "totalDirectories": 154,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 153.0,
-    "totalListings": 1500,
-    "aiEnhancedDirectories": 153
+    "avgDirectoriesPerRepo": 154.0,
+    "totalListings": 1510,
+    "aiEnhancedDirectories": 154
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -1997,12 +1997,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-irrigation-system-installation-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T04:47:52.575647+00:00Z",
+      "lastUpdated": "2025-11-08T04:47:52.575647+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 153,
+      "directoryCount": 154,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

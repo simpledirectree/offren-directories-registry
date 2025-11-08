@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T22:19:51.168902+00:00Z",
+  "lastUpdated": "2025-11-08T22:20:05.009863+00:00Z",
   "stats": {
-    "totalDirectories": 1774,
+    "totalDirectories": 1775,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1774.0,
-    "totalListings": 16803,
-    "aiEnhancedDirectories": 1774
+    "avgDirectoriesPerRepo": 1775.0,
+    "totalListings": 16813,
+    "aiEnhancedDirectories": 1775
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -23070,12 +23070,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-personal-chefs-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T22:20:05.009863+00:00Z",
+      "lastUpdated": "2025-11-08T22:20:05.009863+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1774,
+      "directoryCount": 1775,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

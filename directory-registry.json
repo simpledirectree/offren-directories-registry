@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-08T09:50:45.620664+00:00Z",
+  "lastUpdated": "2025-11-08T09:50:59.968986+00:00Z",
   "stats": {
-    "totalDirectories": 908,
+    "totalDirectories": 909,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 908.0,
-    "totalListings": 8753,
-    "aiEnhancedDirectories": 908
+    "avgDirectoriesPerRepo": 909.0,
+    "totalListings": 8760,
+    "aiEnhancedDirectories": 909
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -11812,12 +11812,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-notary-services-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-08T09:50:59.968986+00:00Z",
+      "lastUpdated": "2025-11-08T09:50:59.968986+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 908,
+      "directoryCount": 909,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

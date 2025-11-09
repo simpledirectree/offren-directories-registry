@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:49:57.423181+00:00Z",
+  "lastUpdated": "2025-11-09T03:50:14.903801+00:00Z",
   "stats": {
-    "totalDirectories": 2166,
+    "totalDirectories": 2167,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2166.0,
-    "totalListings": 20427,
-    "aiEnhancedDirectories": 2166
+    "avgDirectoriesPerRepo": 2167.0,
+    "totalListings": 20437,
+    "aiEnhancedDirectories": 2167
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28166,12 +28166,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-tile-flooring-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:50:14.903801+00:00Z",
+      "lastUpdated": "2025-11-09T03:50:14.903801+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2166,
+      "directoryCount": 2167,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

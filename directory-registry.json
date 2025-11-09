@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:21:15.167678+00:00Z",
+  "lastUpdated": "2025-11-09T07:21:32.907332+00:00Z",
   "stats": {
-    "totalDirectories": 447,
+    "totalDirectories": 448,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 447.0,
-    "totalListings": 4302,
-    "aiEnhancedDirectories": 447
+    "avgDirectoriesPerRepo": 448.0,
+    "totalListings": 4312,
+    "aiEnhancedDirectories": 448
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5819,12 +5819,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-vulnerability-scanning-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:21:32.907332+00:00Z",
+      "lastUpdated": "2025-11-09T07:21:32.907332+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 447,
+      "directoryCount": 448,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

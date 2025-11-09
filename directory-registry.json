@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:38:06.749743+00:00Z",
+  "lastUpdated": "2025-11-09T02:38:20.528411+00:00Z",
   "stats": {
-    "totalDirectories": 2080,
+    "totalDirectories": 2081,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2080.0,
-    "totalListings": 19619,
-    "aiEnhancedDirectories": 2080
+    "avgDirectoriesPerRepo": 2081.0,
+    "totalListings": 19622,
+    "aiEnhancedDirectories": 2081
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27048,12 +27048,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-medical-equipment-delivery-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:38:20.528411+00:00Z",
+      "lastUpdated": "2025-11-09T02:38:20.528411+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2080,
+      "directoryCount": 2081,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

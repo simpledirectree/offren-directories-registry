@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:02:36.261528+00:00Z",
+  "lastUpdated": "2025-11-09T23:02:51.332192+00:00Z",
   "stats": {
-    "totalDirectories": 1502,
+    "totalDirectories": 1503,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1502.0,
-    "totalListings": 14138,
-    "aiEnhancedDirectories": 1502
+    "avgDirectoriesPerRepo": 1503.0,
+    "totalListings": 14148,
+    "aiEnhancedDirectories": 1503
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19534,12 +19534,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-digital-advertising-management-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:02:51.332192+00:00Z",
+      "lastUpdated": "2025-11-09T23:02:51.332192+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1502,
+      "directoryCount": 1503,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

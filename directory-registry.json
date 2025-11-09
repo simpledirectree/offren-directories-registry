@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:08:22.109304+00:00Z",
+  "lastUpdated": "2025-11-09T15:09:04.038825+00:00Z",
   "stats": {
-    "totalDirectories": 993,
+    "totalDirectories": 994,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 993.0,
-    "totalListings": 9355,
-    "aiEnhancedDirectories": 993
+    "avgDirectoriesPerRepo": 994.0,
+    "totalListings": 9358,
+    "aiEnhancedDirectories": 994
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12917,12 +12917,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-casual-dining-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:09:04.038825+00:00Z",
+      "lastUpdated": "2025-11-09T15:09:04.038825+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 993,
+      "directoryCount": 994,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

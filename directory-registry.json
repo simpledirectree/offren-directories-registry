@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:05:28.815660+00:00Z",
+  "lastUpdated": "2025-11-09T07:05:46.222428+00:00Z",
   "stats": {
-    "totalDirectories": 389,
+    "totalDirectories": 390,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 389.0,
-    "totalListings": 3752,
-    "aiEnhancedDirectories": 389
+    "avgDirectoriesPerRepo": 390.0,
+    "totalListings": 3762,
+    "aiEnhancedDirectories": 390
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5065,12 +5065,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-landscape-planning-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:05:46.222428+00:00Z",
+      "lastUpdated": "2025-11-09T07:05:46.222428+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 389,
+      "directoryCount": 390,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

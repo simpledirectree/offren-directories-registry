@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:59:17.651423+00:00Z",
+  "lastUpdated": "2025-11-09T03:59:35.542183+00:00Z",
   "stats": {
-    "totalDirectories": 2198,
+    "totalDirectories": 2199,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2198.0,
-    "totalListings": 20736,
-    "aiEnhancedDirectories": 2198
+    "avgDirectoriesPerRepo": 2199.0,
+    "totalListings": 20746,
+    "aiEnhancedDirectories": 2199
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28582,12 +28582,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-detox-programs-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:59:35.542183+00:00Z",
+      "lastUpdated": "2025-11-09T03:59:35.542183+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2198,
+      "directoryCount": 2199,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

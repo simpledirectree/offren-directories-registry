@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:30:30.047203+00:00Z",
+  "lastUpdated": "2025-11-09T04:30:46.099503+00:00Z",
   "stats": {
-    "totalDirectories": 2304,
+    "totalDirectories": 2305,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2304.0,
-    "totalListings": 21763,
-    "aiEnhancedDirectories": 2304
+    "avgDirectoriesPerRepo": 2305.0,
+    "totalListings": 21773,
+    "aiEnhancedDirectories": 2305
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29960,12 +29960,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-journey-mapping-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:30:46.099503+00:00Z",
+      "lastUpdated": "2025-11-09T04:30:46.099503+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2304,
+      "directoryCount": 2305,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

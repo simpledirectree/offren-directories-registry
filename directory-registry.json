@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:35:06.897893+00:00Z",
+  "lastUpdated": "2025-11-09T02:38:06.749743+00:00Z",
   "stats": {
-    "totalDirectories": 2079,
+    "totalDirectories": 2080,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2079.0,
-    "totalListings": 19609,
-    "aiEnhancedDirectories": 2079
+    "avgDirectoriesPerRepo": 2080.0,
+    "totalListings": 19619,
+    "aiEnhancedDirectories": 2080
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27035,12 +27035,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-contact-lens-fitting-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:38:06.749743+00:00Z",
+      "lastUpdated": "2025-11-09T02:38:06.749743+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2079,
+      "directoryCount": 2080,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

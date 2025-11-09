@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:56:46.369367+00:00Z",
+  "lastUpdated": "2025-11-09T02:57:02.209977+00:00Z",
   "stats": {
-    "totalDirectories": 2098,
+    "totalDirectories": 2099,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2098.0,
-    "totalListings": 19775,
-    "aiEnhancedDirectories": 2098
+    "avgDirectoriesPerRepo": 2099.0,
+    "totalListings": 19785,
+    "aiEnhancedDirectories": 2099
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27282,12 +27282,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-business-plan-development-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:57:02.209977+00:00Z",
+      "lastUpdated": "2025-11-09T02:57:02.209977+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2098,
+      "directoryCount": 2099,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

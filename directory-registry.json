@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:28:43.798829+00:00Z",
+  "lastUpdated": "2025-11-09T00:29:23.881978+00:00Z",
   "stats": {
-    "totalDirectories": 1932,
+    "totalDirectories": 1933,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1932.0,
-    "totalListings": 18249,
-    "aiEnhancedDirectories": 1932
+    "avgDirectoriesPerRepo": 1933.0,
+    "totalListings": 18259,
+    "aiEnhancedDirectories": 1933
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25124,12 +25124,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-foundation-repair-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:29:23.881978+00:00Z",
+      "lastUpdated": "2025-11-09T00:29:23.881978+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1932,
+      "directoryCount": 1933,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

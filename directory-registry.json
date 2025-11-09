@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:48:30.563530+00:00Z",
+  "lastUpdated": "2025-11-09T20:48:46.532605+00:00Z",
   "stats": {
-    "totalDirectories": 1357,
+    "totalDirectories": 1358,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1357.0,
-    "totalListings": 12788,
-    "aiEnhancedDirectories": 1357
+    "avgDirectoriesPerRepo": 1358.0,
+    "totalListings": 12798,
+    "aiEnhancedDirectories": 1358
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17649,12 +17649,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-esl-instruction-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:48:46.532605+00:00Z",
+      "lastUpdated": "2025-11-09T20:48:46.532605+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1357,
+      "directoryCount": 1358,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

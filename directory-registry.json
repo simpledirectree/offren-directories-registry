@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:03:26.765775+00:00Z",
+  "lastUpdated": "2025-11-09T04:03:47.946545+00:00Z",
   "stats": {
-    "totalDirectories": 2212,
+    "totalDirectories": 2213,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2212.0,
-    "totalListings": 20876,
-    "aiEnhancedDirectories": 2212
+    "avgDirectoriesPerRepo": 2213.0,
+    "totalListings": 20886,
+    "aiEnhancedDirectories": 2213
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28764,12 +28764,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-magicians-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:03:47.946545+00:00Z",
+      "lastUpdated": "2025-11-09T04:03:47.946545+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2212,
+      "directoryCount": 2213,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

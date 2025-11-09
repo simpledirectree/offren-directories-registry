@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:42:23.997213+00:00Z",
+  "lastUpdated": "2025-11-09T21:43:03.685276+00:00Z",
   "stats": {
-    "totalDirectories": 1416,
+    "totalDirectories": 1417,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1416.0,
-    "totalListings": 13348,
-    "aiEnhancedDirectories": 1416
+    "avgDirectoriesPerRepo": 1417.0,
+    "totalListings": 13358,
+    "aiEnhancedDirectories": 1417
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18416,12 +18416,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-subscription-commerce-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:43:03.685276+00:00Z",
+      "lastUpdated": "2025-11-09T21:43:03.685276+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1416,
+      "directoryCount": 1417,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

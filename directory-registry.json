@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:56:46.190891+00:00Z",
+  "lastUpdated": "2025-11-09T11:58:12.309415+00:00Z",
   "stats": {
-    "totalDirectories": 781,
+    "totalDirectories": 782,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 781.0,
-    "totalListings": 7411,
-    "aiEnhancedDirectories": 781
+    "avgDirectoriesPerRepo": 782.0,
+    "totalListings": 7414,
+    "aiEnhancedDirectories": 782
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10161,12 +10161,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-investment-advisory-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:58:12.309415+00:00Z",
+      "lastUpdated": "2025-11-09T11:58:12.309415+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 781,
+      "directoryCount": 782,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

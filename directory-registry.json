@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:48:54.729690+00:00Z",
+  "lastUpdated": "2025-11-09T23:50:01.819593+00:00Z",
   "stats": {
-    "totalDirectories": 1547,
+    "totalDirectories": 1548,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1547.0,
-    "totalListings": 14557,
-    "aiEnhancedDirectories": 1547
+    "avgDirectoriesPerRepo": 1548.0,
+    "totalListings": 14567,
+    "aiEnhancedDirectories": 1548
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20119,12 +20119,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-spray-tanning-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:50:01.819593+00:00Z",
+      "lastUpdated": "2025-11-09T23:50:01.819593+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1547,
+      "directoryCount": 1548,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

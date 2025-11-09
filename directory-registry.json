@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:57:43.402806+00:00Z",
+  "lastUpdated": "2025-11-09T06:57:59.986314+00:00Z",
   "stats": {
-    "totalDirectories": 361,
+    "totalDirectories": 362,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 361.0,
-    "totalListings": 3476,
-    "aiEnhancedDirectories": 361
+    "avgDirectoriesPerRepo": 362.0,
+    "totalListings": 3486,
+    "aiEnhancedDirectories": 362
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4701,12 +4701,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-keratin-treatments-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:57:59.986314+00:00Z",
+      "lastUpdated": "2025-11-09T06:57:59.986314+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 361,
+      "directoryCount": 362,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:37:10.103350+00:00Z",
+  "lastUpdated": "2025-11-09T08:38:14.154064+00:00Z",
   "stats": {
-    "totalDirectories": 541,
+    "totalDirectories": 542,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 541.0,
-    "totalListings": 5214,
-    "aiEnhancedDirectories": 541
+    "avgDirectoriesPerRepo": 542.0,
+    "totalListings": 5224,
+    "aiEnhancedDirectories": 542
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7041,12 +7041,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-engine-replacement-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:38:14.154064+00:00Z",
+      "lastUpdated": "2025-11-09T08:38:14.154064+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 541,
+      "directoryCount": 542,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

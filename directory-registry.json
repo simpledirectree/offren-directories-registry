@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:07:58.515672+00:00Z",
+  "lastUpdated": "2025-11-09T13:08:12.548220+00:00Z",
   "stats": {
-    "totalDirectories": 861,
+    "totalDirectories": 862,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 861.0,
-    "totalListings": 8128,
-    "aiEnhancedDirectories": 861
+    "avgDirectoriesPerRepo": 862.0,
+    "totalListings": 8136,
+    "aiEnhancedDirectories": 862
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11201,12 +11201,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-trust-services-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:08:12.548220+00:00Z",
+      "lastUpdated": "2025-11-09T13:08:12.548220+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 861,
+      "directoryCount": 862,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:05:10.729526+00:00Z",
+  "lastUpdated": "2025-11-09T07:05:28.815660+00:00Z",
   "stats": {
-    "totalDirectories": 388,
+    "totalDirectories": 389,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 388.0,
-    "totalListings": 3742,
-    "aiEnhancedDirectories": 388
+    "avgDirectoriesPerRepo": 389.0,
+    "totalListings": 3752,
+    "aiEnhancedDirectories": 389
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5052,12 +5052,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-memory-care-units-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:05:28.815660+00:00Z",
+      "lastUpdated": "2025-11-09T07:05:28.815660+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 388,
+      "directoryCount": 389,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

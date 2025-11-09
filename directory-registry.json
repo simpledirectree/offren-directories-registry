@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:08:21.154347+00:00Z",
+  "lastUpdated": "2025-11-09T20:09:50.190881+00:00Z",
   "stats": {
-    "totalDirectories": 1317,
+    "totalDirectories": 1318,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1317.0,
-    "totalListings": 12404,
-    "aiEnhancedDirectories": 1317
+    "avgDirectoriesPerRepo": 1318.0,
+    "totalListings": 12414,
+    "aiEnhancedDirectories": 1318
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17129,12 +17129,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-meditation-instruction-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:09:50.190881+00:00Z",
+      "lastUpdated": "2025-11-09T20:09:50.190881+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1317,
+      "directoryCount": 1318,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

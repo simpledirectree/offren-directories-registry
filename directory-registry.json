@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:09:54.638140+00:00Z",
+  "lastUpdated": "2025-11-09T06:10:11.164882+00:00Z",
   "stats": {
-    "totalDirectories": 185,
+    "totalDirectories": 186,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 185.0,
-    "totalListings": 1792,
-    "aiEnhancedDirectories": 185
+    "avgDirectoriesPerRepo": 186.0,
+    "totalListings": 1802,
+    "aiEnhancedDirectories": 186
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2413,12 +2413,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-irrigation-system-repair-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:10:11.164882+00:00Z",
+      "lastUpdated": "2025-11-09T06:10:11.164882+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 185,
+      "directoryCount": 186,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

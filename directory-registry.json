@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:52:22.583856+00:00Z",
+  "lastUpdated": "2025-11-09T05:52:37.302933+00:00Z",
   "stats": {
-    "totalDirectories": 127,
+    "totalDirectories": 128,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 127.0,
-    "totalListings": 1224,
-    "aiEnhancedDirectories": 127
+    "avgDirectoriesPerRepo": 128.0,
+    "totalListings": 1234,
+    "aiEnhancedDirectories": 128
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1659,12 +1659,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-motorcycle-repair-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:52:37.302933+00:00Z",
+      "lastUpdated": "2025-11-09T05:52:37.302933+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 127,
+      "directoryCount": 128,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

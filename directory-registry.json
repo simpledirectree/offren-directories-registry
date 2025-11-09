@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:00:30.214648+00:00Z",
+  "lastUpdated": "2025-11-09T02:03:50.109516+00:00Z",
   "stats": {
-    "totalDirectories": 2043,
+    "totalDirectories": 2044,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2043.0,
-    "totalListings": 19277,
-    "aiEnhancedDirectories": 2043
+    "avgDirectoriesPerRepo": 2044.0,
+    "totalListings": 19287,
+    "aiEnhancedDirectories": 2044
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26567,12 +26567,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-guest-management-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:03:50.109516+00:00Z",
+      "lastUpdated": "2025-11-09T02:03:50.109516+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2043,
+      "directoryCount": 2044,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

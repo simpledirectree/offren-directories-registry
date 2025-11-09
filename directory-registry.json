@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:02:08.909323+00:00Z",
+  "lastUpdated": "2025-11-09T19:03:18.247005+00:00Z",
   "stats": {
-    "totalDirectories": 1250,
+    "totalDirectories": 1251,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1250.0,
-    "totalListings": 11778,
-    "aiEnhancedDirectories": 1250
+    "avgDirectoriesPerRepo": 1251.0,
+    "totalListings": 11788,
+    "aiEnhancedDirectories": 1251
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16258,12 +16258,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-blog-writing-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:03:18.247005+00:00Z",
+      "lastUpdated": "2025-11-09T19:03:18.247005+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1250,
+      "directoryCount": 1251,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

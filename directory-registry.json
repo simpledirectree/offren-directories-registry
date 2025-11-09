@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:34:41.955417+00:00Z",
+  "lastUpdated": "2025-11-09T03:35:24.612765+00:00Z",
   "stats": {
-    "totalDirectories": 2135,
+    "totalDirectories": 2136,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2135.0,
-    "totalListings": 20117,
-    "aiEnhancedDirectories": 2135
+    "avgDirectoriesPerRepo": 2136.0,
+    "totalListings": 20127,
+    "aiEnhancedDirectories": 2136
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27763,12 +27763,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-foundation-repair-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:35:24.612765+00:00Z",
+      "lastUpdated": "2025-11-09T03:35:24.612765+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2135,
+      "directoryCount": 2136,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

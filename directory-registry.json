@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:28:47.851157+00:00Z",
+  "lastUpdated": "2025-11-09T01:29:57.432433+00:00Z",
   "stats": {
-    "totalDirectories": 2002,
+    "totalDirectories": 2003,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2002.0,
-    "totalListings": 18901,
-    "aiEnhancedDirectories": 2002
+    "avgDirectoriesPerRepo": 2003.0,
+    "totalListings": 18911,
+    "aiEnhancedDirectories": 2003
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26034,12 +26034,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-performance-management-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:29:57.432433+00:00Z",
+      "lastUpdated": "2025-11-09T01:29:57.432433+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2002,
+      "directoryCount": 2003,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

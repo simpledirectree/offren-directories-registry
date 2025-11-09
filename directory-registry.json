@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:15:08.456475+00:00Z",
+  "lastUpdated": "2025-11-09T04:15:24.360715+00:00Z",
   "stats": {
-    "totalDirectories": 2253,
+    "totalDirectories": 2254,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2253.0,
-    "totalListings": 21269,
-    "aiEnhancedDirectories": 2253
+    "avgDirectoriesPerRepo": 2254.0,
+    "totalListings": 21279,
+    "aiEnhancedDirectories": 2254
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29297,12 +29297,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-manual-labor-for-projects-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:15:24.360715+00:00Z",
+      "lastUpdated": "2025-11-09T04:15:24.360715+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2253,
+      "directoryCount": 2254,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

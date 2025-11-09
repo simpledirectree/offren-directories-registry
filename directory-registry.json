@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:43:50.049821+00:00Z",
+  "lastUpdated": "2025-11-09T04:44:05.685882+00:00Z",
   "stats": {
-    "totalDirectories": 2350,
+    "totalDirectories": 2351,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2350.0,
-    "totalListings": 22223,
-    "aiEnhancedDirectories": 2350
+    "avgDirectoriesPerRepo": 2351.0,
+    "totalListings": 22233,
+    "aiEnhancedDirectories": 2351
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30558,12 +30558,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-class-action-law-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:44:05.685882+00:00Z",
+      "lastUpdated": "2025-11-09T04:44:05.685882+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2350,
+      "directoryCount": 2351,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

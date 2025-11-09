@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:13:01.102137+00:00Z",
+  "lastUpdated": "2025-11-09T19:13:42.772672+00:00Z",
   "stats": {
-    "totalDirectories": 1263,
+    "totalDirectories": 1264,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1263.0,
-    "totalListings": 11903,
-    "aiEnhancedDirectories": 1263
+    "avgDirectoriesPerRepo": 1264.0,
+    "totalListings": 11913,
+    "aiEnhancedDirectories": 1264
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16427,12 +16427,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-business-language-training-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:13:42.772672+00:00Z",
+      "lastUpdated": "2025-11-09T19:13:42.772672+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1263,
+      "directoryCount": 1264,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

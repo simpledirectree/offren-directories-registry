@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:57:52.510567+00:00Z",
+  "lastUpdated": "2025-11-09T04:58:10.254741+00:00Z",
   "stats": {
-    "totalDirectories": 2398,
+    "totalDirectories": 2399,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2398.0,
-    "totalListings": 22696,
-    "aiEnhancedDirectories": 2398
+    "avgDirectoriesPerRepo": 2399.0,
+    "totalListings": 22706,
+    "aiEnhancedDirectories": 2399
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31182,12 +31182,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-disease-management-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:58:10.254741+00:00Z",
+      "lastUpdated": "2025-11-09T04:58:10.254741+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2398,
+      "directoryCount": 2399,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

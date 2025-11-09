@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:03:58.776612+00:00Z",
+  "lastUpdated": "2025-11-09T06:04:17.161468+00:00Z",
   "stats": {
-    "totalDirectories": 166,
+    "totalDirectories": 167,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 166.0,
-    "totalListings": 1605,
-    "aiEnhancedDirectories": 166
+    "avgDirectoriesPerRepo": 167.0,
+    "totalListings": 1615,
+    "aiEnhancedDirectories": 167
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2166,12 +2166,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-financial-analysis-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:04:17.161468+00:00Z",
+      "lastUpdated": "2025-11-09T06:04:17.161468+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 166,
+      "directoryCount": 167,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

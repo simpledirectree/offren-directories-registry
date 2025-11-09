@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:48:48.917885+00:00Z",
+  "lastUpdated": "2025-11-09T18:49:30.100351+00:00Z",
   "stats": {
-    "totalDirectories": 1239,
+    "totalDirectories": 1240,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1239.0,
-    "totalListings": 11673,
-    "aiEnhancedDirectories": 1239
+    "avgDirectoriesPerRepo": 1240.0,
+    "totalListings": 11683,
+    "aiEnhancedDirectories": 1240
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16115,12 +16115,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-hot-stone-massage-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:49:30.100351+00:00Z",
+      "lastUpdated": "2025-11-09T18:49:30.100351+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1239,
+      "directoryCount": 1240,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

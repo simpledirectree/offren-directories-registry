@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:44:33.520808+00:00Z",
+  "lastUpdated": "2025-11-09T03:44:51.799772+00:00Z",
   "stats": {
-    "totalDirectories": 2148,
+    "totalDirectories": 2149,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2148.0,
-    "totalListings": 20247,
-    "aiEnhancedDirectories": 2148
+    "avgDirectoriesPerRepo": 2149.0,
+    "totalListings": 20257,
+    "aiEnhancedDirectories": 2149
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27932,12 +27932,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-performance-tuning-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:44:51.799772+00:00Z",
+      "lastUpdated": "2025-11-09T03:44:51.799772+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2148,
+      "directoryCount": 2149,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:35:43.633601+00:00Z",
+  "lastUpdated": "2025-11-09T05:36:03.754356+00:00Z",
   "stats": {
-    "totalDirectories": 63,
+    "totalDirectories": 64,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 63.0,
-    "totalListings": 612,
-    "aiEnhancedDirectories": 63
+    "avgDirectoriesPerRepo": 64.0,
+    "totalListings": 622,
+    "aiEnhancedDirectories": 64
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -827,12 +827,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-closet-organization-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:36:03.754356+00:00Z",
+      "lastUpdated": "2025-11-09T05:36:03.754356+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 63,
+      "directoryCount": 64,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

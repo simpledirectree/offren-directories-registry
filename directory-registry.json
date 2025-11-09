@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:53:26.072346+00:00Z",
+  "lastUpdated": "2025-11-09T14:53:41.728297+00:00Z",
   "stats": {
-    "totalDirectories": 978,
+    "totalDirectories": 979,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 978.0,
-    "totalListings": 9208,
-    "aiEnhancedDirectories": 978
+    "avgDirectoriesPerRepo": 979.0,
+    "totalListings": 9218,
+    "aiEnhancedDirectories": 979
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12722,12 +12722,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-terms-of-service-creation-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:53:41.728297+00:00Z",
+      "lastUpdated": "2025-11-09T14:53:41.728297+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 978,
+      "directoryCount": 979,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

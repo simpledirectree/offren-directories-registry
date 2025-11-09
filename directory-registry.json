@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:02:26.561904+00:00Z",
+  "lastUpdated": "2025-11-09T07:02:43.194031+00:00Z",
   "stats": {
-    "totalDirectories": 378,
+    "totalDirectories": 379,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 378.0,
-    "totalListings": 3643,
-    "aiEnhancedDirectories": 378
+    "avgDirectoriesPerRepo": 379.0,
+    "totalListings": 3653,
+    "aiEnhancedDirectories": 379
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4922,12 +4922,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-performance-testing-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:02:43.194031+00:00Z",
+      "lastUpdated": "2025-11-09T07:02:43.194031+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 378,
+      "directoryCount": 379,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

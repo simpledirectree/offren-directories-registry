@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:23:11.328603+00:00Z",
+  "lastUpdated": "2025-11-09T06:23:29.101912+00:00Z",
   "stats": {
-    "totalDirectories": 233,
+    "totalDirectories": 234,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 233.0,
-    "totalListings": 2253,
-    "aiEnhancedDirectories": 233
+    "avgDirectoriesPerRepo": 234.0,
+    "totalListings": 2263,
+    "aiEnhancedDirectories": 234
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3037,12 +3037,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-influencer-marketing-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:23:29.101912+00:00Z",
+      "lastUpdated": "2025-11-09T06:23:29.101912+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 233,
+      "directoryCount": 234,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

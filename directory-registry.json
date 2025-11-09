@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:59:25.580730+00:00Z",
+  "lastUpdated": "2025-11-09T08:59:38.592832+00:00Z",
   "stats": {
-    "totalDirectories": 570,
+    "totalDirectories": 571,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 570.0,
-    "totalListings": 5472,
-    "aiEnhancedDirectories": 570
+    "avgDirectoriesPerRepo": 571.0,
+    "totalListings": 5479,
+    "aiEnhancedDirectories": 571
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7418,12 +7418,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-gmat-prep-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:59:38.592832+00:00Z",
+      "lastUpdated": "2025-11-09T08:59:38.592832+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 570,
+      "directoryCount": 571,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

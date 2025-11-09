@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:09:00.665127+00:00Z",
+  "lastUpdated": "2025-11-09T07:09:18.649289+00:00Z",
   "stats": {
-    "totalDirectories": 402,
+    "totalDirectories": 403,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 402.0,
-    "totalListings": 3871,
-    "aiEnhancedDirectories": 402
+    "avgDirectoriesPerRepo": 403.0,
+    "totalListings": 3881,
+    "aiEnhancedDirectories": 403
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5234,12 +5234,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-data-privacy-compliance-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:09:18.649289+00:00Z",
+      "lastUpdated": "2025-11-09T07:09:18.649289+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 402,
+      "directoryCount": 403,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

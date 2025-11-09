@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:15:28.262549+00:00Z",
+  "lastUpdated": "2025-11-09T19:16:35.375460+00:00Z",
   "stats": {
-    "totalDirectories": 1266,
+    "totalDirectories": 1267,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1266.0,
-    "totalListings": 11933,
-    "aiEnhancedDirectories": 1266
+    "avgDirectoriesPerRepo": 1267.0,
+    "totalListings": 11943,
+    "aiEnhancedDirectories": 1267
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16466,12 +16466,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-database-management-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:16:35.375460+00:00Z",
+      "lastUpdated": "2025-11-09T19:16:35.375460+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1266,
+      "directoryCount": 1267,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

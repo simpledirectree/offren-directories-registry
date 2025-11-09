@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:15:42.467879+00:00Z",
+  "lastUpdated": "2025-11-09T20:17:39.810531+00:00Z",
   "stats": {
-    "totalDirectories": 1325,
+    "totalDirectories": 1326,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1325.0,
-    "totalListings": 12484,
-    "aiEnhancedDirectories": 1325
+    "avgDirectoriesPerRepo": 1326.0,
+    "totalListings": 12494,
+    "aiEnhancedDirectories": 1326
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17233,12 +17233,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-wedding-design-services-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:17:39.810531+00:00Z",
+      "lastUpdated": "2025-11-09T20:17:39.810531+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1325,
+      "directoryCount": 1326,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

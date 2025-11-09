@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:01:03.300440+00:00Z",
+  "lastUpdated": "2025-11-09T04:01:23.276273+00:00Z",
   "stats": {
-    "totalDirectories": 2204,
+    "totalDirectories": 2205,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2204.0,
-    "totalListings": 20796,
-    "aiEnhancedDirectories": 2204
+    "avgDirectoriesPerRepo": 2205.0,
+    "totalListings": 20806,
+    "aiEnhancedDirectories": 2205
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28660,12 +28660,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-self-defense-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:01:23.276273+00:00Z",
+      "lastUpdated": "2025-11-09T04:01:23.276273+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2204,
+      "directoryCount": 2205,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

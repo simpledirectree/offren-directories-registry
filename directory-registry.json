@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:25:54.222670+00:00Z",
+  "lastUpdated": "2025-11-09T09:27:46.576133+00:00Z",
   "stats": {
-    "totalDirectories": 589,
+    "totalDirectories": 590,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 589.0,
-    "totalListings": 5636,
-    "aiEnhancedDirectories": 589
+    "avgDirectoriesPerRepo": 590.0,
+    "totalListings": 5642,
+    "aiEnhancedDirectories": 590
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7665,12 +7665,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-gre-prep-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:27:46.576133+00:00Z",
+      "lastUpdated": "2025-11-09T09:27:46.576133+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 589,
+      "directoryCount": 590,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

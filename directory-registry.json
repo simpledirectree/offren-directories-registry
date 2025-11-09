@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:02:13.094279+00:00Z",
+  "lastUpdated": "2025-11-09T12:03:42.384329+00:00Z",
   "stats": {
-    "totalDirectories": 788,
+    "totalDirectories": 789,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 788.0,
-    "totalListings": 7471,
-    "aiEnhancedDirectories": 788
+    "avgDirectoriesPerRepo": 789.0,
+    "totalListings": 7480,
+    "aiEnhancedDirectories": 789
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10252,12 +10252,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-financial-projections-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:03:42.384329+00:00Z",
+      "lastUpdated": "2025-11-09T12:03:42.384329+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 788,
+      "directoryCount": 789,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

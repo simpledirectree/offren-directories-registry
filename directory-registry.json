@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:18:12.915167+00:00Z",
+  "lastUpdated": "2025-11-09T07:18:30.666340+00:00Z",
   "stats": {
-    "totalDirectories": 436,
+    "totalDirectories": 437,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 436.0,
-    "totalListings": 4197,
-    "aiEnhancedDirectories": 436
+    "avgDirectoriesPerRepo": 437.0,
+    "totalListings": 4207,
+    "aiEnhancedDirectories": 437
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5676,12 +5676,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-tree-trimming-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:18:30.666340+00:00Z",
+      "lastUpdated": "2025-11-09T07:18:30.666340+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 436,
+      "directoryCount": 437,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

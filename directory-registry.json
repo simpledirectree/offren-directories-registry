@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:15:33.002626+00:00Z",
+  "lastUpdated": "2025-11-09T03:17:06.722852+00:00Z",
   "stats": {
-    "totalDirectories": 2119,
+    "totalDirectories": 2120,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2119.0,
-    "totalListings": 19974,
-    "aiEnhancedDirectories": 2119
+    "avgDirectoriesPerRepo": 2120.0,
+    "totalListings": 19984,
+    "aiEnhancedDirectories": 2120
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27555,12 +27555,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-audiology-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:17:06.722852+00:00Z",
+      "lastUpdated": "2025-11-09T03:17:06.722852+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2119,
+      "directoryCount": 2120,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

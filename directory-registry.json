@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:36:24.750868+00:00Z",
+  "lastUpdated": "2025-11-09T04:36:38.874923+00:00Z",
   "stats": {
-    "totalDirectories": 2325,
+    "totalDirectories": 2326,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2325.0,
-    "totalListings": 21973,
-    "aiEnhancedDirectories": 2325
+    "avgDirectoriesPerRepo": 2326.0,
+    "totalListings": 21983,
+    "aiEnhancedDirectories": 2326
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30233,12 +30233,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-landsacpe-edging-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:36:38.874923+00:00Z",
+      "lastUpdated": "2025-11-09T04:36:38.874923+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2325,
+      "directoryCount": 2326,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

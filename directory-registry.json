@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:01:23.276273+00:00Z",
+  "lastUpdated": "2025-11-09T04:01:38.876145+00:00Z",
   "stats": {
-    "totalDirectories": 2205,
+    "totalDirectories": 2206,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2205.0,
-    "totalListings": 20806,
-    "aiEnhancedDirectories": 2205
+    "avgDirectoriesPerRepo": 2206.0,
+    "totalListings": 20816,
+    "aiEnhancedDirectories": 2206
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28673,12 +28673,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-metal-roofing-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:01:38.876145+00:00Z",
+      "lastUpdated": "2025-11-09T04:01:38.876145+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2205,
+      "directoryCount": 2206,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

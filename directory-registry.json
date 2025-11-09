@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:44:10.834204+00:00Z",
+  "lastUpdated": "2025-11-09T12:45:42.294289+00:00Z",
   "stats": {
-    "totalDirectories": 837,
+    "totalDirectories": 838,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 837.0,
-    "totalListings": 7930,
-    "aiEnhancedDirectories": 837
+    "avgDirectoriesPerRepo": 838.0,
+    "totalListings": 7935,
+    "aiEnhancedDirectories": 838
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10889,12 +10889,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-bariatric-surgery-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:45:42.294289+00:00Z",
+      "lastUpdated": "2025-11-09T12:45:42.294289+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 837,
+      "directoryCount": 838,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

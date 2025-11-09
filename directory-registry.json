@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:28:02.894541+00:00Z",
+  "lastUpdated": "2025-11-09T13:28:17.316803+00:00Z",
   "stats": {
-    "totalDirectories": 878,
+    "totalDirectories": 879,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 878.0,
-    "totalListings": 8286,
-    "aiEnhancedDirectories": 878
+    "avgDirectoriesPerRepo": 879.0,
+    "totalListings": 8296,
+    "aiEnhancedDirectories": 879
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11422,12 +11422,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-marketing-automation-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:28:17.316803+00:00Z",
+      "lastUpdated": "2025-11-09T13:28:17.316803+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 878,
+      "directoryCount": 879,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

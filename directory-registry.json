@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:49:53.818574+00:00Z",
+  "lastUpdated": "2025-11-09T17:51:25.027329+00:00Z",
   "stats": {
-    "totalDirectories": 1169,
+    "totalDirectories": 1170,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1169.0,
-    "totalListings": 11042,
-    "aiEnhancedDirectories": 1169
+    "avgDirectoriesPerRepo": 1170.0,
+    "totalListings": 11052,
+    "aiEnhancedDirectories": 1170
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15205,12 +15205,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-palliative-care-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:51:25.027329+00:00Z",
+      "lastUpdated": "2025-11-09T17:51:25.027329+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1169,
+      "directoryCount": 1170,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

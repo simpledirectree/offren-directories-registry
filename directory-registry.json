@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:56:43.493230+00:00Z",
+  "lastUpdated": "2025-11-09T03:57:01.995876+00:00Z",
   "stats": {
-    "totalDirectories": 2189,
+    "totalDirectories": 2190,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2189.0,
-    "totalListings": 20652,
-    "aiEnhancedDirectories": 2189
+    "avgDirectoriesPerRepo": 2190.0,
+    "totalListings": 20662,
+    "aiEnhancedDirectories": 2190
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28465,12 +28465,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-mindfulness-coaching-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:57:01.995876+00:00Z",
+      "lastUpdated": "2025-11-09T03:57:01.995876+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2189,
+      "directoryCount": 2190,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

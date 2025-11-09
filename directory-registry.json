@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:52:55.229013+00:00Z",
+  "lastUpdated": "2025-11-09T19:53:59.797118+00:00Z",
   "stats": {
-    "totalDirectories": 1301,
+    "totalDirectories": 1302,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1301.0,
-    "totalListings": 12253,
-    "aiEnhancedDirectories": 1301
+    "avgDirectoriesPerRepo": 1302.0,
+    "totalListings": 12263,
+    "aiEnhancedDirectories": 1302
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16921,12 +16921,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-moving-protection-plans-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:53:59.797118+00:00Z",
+      "lastUpdated": "2025-11-09T19:53:59.797118+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1301,
+      "directoryCount": 1302,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

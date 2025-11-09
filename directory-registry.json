@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:27:49.054768+00:00Z",
+  "lastUpdated": "2025-11-09T22:28:03.185876+00:00Z",
   "stats": {
-    "totalDirectories": 1463,
+    "totalDirectories": 1464,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1463.0,
-    "totalListings": 13785,
-    "aiEnhancedDirectories": 1463
+    "avgDirectoriesPerRepo": 1464.0,
+    "totalListings": 13795,
+    "aiEnhancedDirectories": 1464
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19027,12 +19027,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-logo-design-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:28:03.185876+00:00Z",
+      "lastUpdated": "2025-11-09T22:28:03.185876+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1463,
+      "directoryCount": 1464,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

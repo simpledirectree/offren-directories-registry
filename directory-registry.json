@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:14:01.733198+00:00Z",
+  "lastUpdated": "2025-11-09T05:14:18.327090+00:00Z",
   "stats": {
-    "totalDirectories": 2454,
+    "totalDirectories": 2455,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2454.0,
-    "totalListings": 23227,
-    "aiEnhancedDirectories": 2454
+    "avgDirectoriesPerRepo": 2455.0,
+    "totalListings": 23232,
+    "aiEnhancedDirectories": 2455
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31910,12 +31910,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-pet-sitters-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:14:18.327090+00:00Z",
+      "lastUpdated": "2025-11-09T05:14:18.327090+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2454,
+      "directoryCount": 2455,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

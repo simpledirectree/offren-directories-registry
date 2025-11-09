@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:46:33.105617+00:00Z",
+  "lastUpdated": "2025-11-09T03:46:49.442859+00:00Z",
   "stats": {
-    "totalDirectories": 2154,
+    "totalDirectories": 2155,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2154.0,
-    "totalListings": 20307,
-    "aiEnhancedDirectories": 2154
+    "avgDirectoriesPerRepo": 2155.0,
+    "totalListings": 20317,
+    "aiEnhancedDirectories": 2155
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28010,12 +28010,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-pathology-services-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:46:49.442859+00:00Z",
+      "lastUpdated": "2025-11-09T03:46:49.442859+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2154,
+      "directoryCount": 2155,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

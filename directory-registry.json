@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:48:31.786840+00:00Z",
+  "lastUpdated": "2025-11-09T04:48:49.547923+00:00Z",
   "stats": {
-    "totalDirectories": 2366,
+    "totalDirectories": 2367,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2366.0,
-    "totalListings": 22379,
-    "aiEnhancedDirectories": 2366
+    "avgDirectoriesPerRepo": 2367.0,
+    "totalListings": 22389,
+    "aiEnhancedDirectories": 2367
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30766,12 +30766,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-babysitting-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:48:49.547923+00:00Z",
+      "lastUpdated": "2025-11-09T04:48:49.547923+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2366,
+      "directoryCount": 2367,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

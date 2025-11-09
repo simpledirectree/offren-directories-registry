@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:26:47.195370+00:00Z",
+  "lastUpdated": "2025-11-09T10:29:06.058027+00:00Z",
   "stats": {
-    "totalDirectories": 672,
+    "totalDirectories": 673,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 672.0,
-    "totalListings": 6410,
-    "aiEnhancedDirectories": 672
+    "avgDirectoriesPerRepo": 673.0,
+    "totalListings": 6420,
+    "aiEnhancedDirectories": 673
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8744,12 +8744,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-minor-appliance-installation-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:29:06.058027+00:00Z",
+      "lastUpdated": "2025-11-09T10:29:06.058027+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 672,
+      "directoryCount": 673,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

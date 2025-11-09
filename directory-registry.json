@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:14:22.017016+00:00Z",
+  "lastUpdated": "2025-11-09T06:14:44.869038+00:00Z",
   "stats": {
-    "totalDirectories": 201,
+    "totalDirectories": 202,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 201.0,
-    "totalListings": 1943,
-    "aiEnhancedDirectories": 201
+    "avgDirectoriesPerRepo": 202.0,
+    "totalListings": 1953,
+    "aiEnhancedDirectories": 202
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2621,12 +2621,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-fat-reduction-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:14:44.869038+00:00Z",
+      "lastUpdated": "2025-11-09T06:14:44.869038+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 201,
+      "directoryCount": 202,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

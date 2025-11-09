@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:04:36.001020+00:00Z",
+  "lastUpdated": "2025-11-09T04:04:51.724556+00:00Z",
   "stats": {
-    "totalDirectories": 2216,
+    "totalDirectories": 2217,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2216.0,
-    "totalListings": 20911,
-    "aiEnhancedDirectories": 2216
+    "avgDirectoriesPerRepo": 2217.0,
+    "totalListings": 20921,
+    "aiEnhancedDirectories": 2217
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28816,12 +28816,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-display-advertising-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:04:51.724556+00:00Z",
+      "lastUpdated": "2025-11-09T04:04:51.724556+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2216,
+      "directoryCount": 2217,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

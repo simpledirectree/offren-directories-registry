@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:30:20.720482+00:00Z",
+  "lastUpdated": "2025-11-09T00:33:34.311262+00:00Z",
   "stats": {
-    "totalDirectories": 1935,
+    "totalDirectories": 1936,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1935.0,
-    "totalListings": 18279,
-    "aiEnhancedDirectories": 1935
+    "avgDirectoriesPerRepo": 1936.0,
+    "totalListings": 18280,
+    "aiEnhancedDirectories": 1936
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25163,12 +25163,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-insurance-planning-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:33:34.311262+00:00Z",
+      "lastUpdated": "2025-11-09T00:33:34.311262+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1935,
+      "directoryCount": 1936,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

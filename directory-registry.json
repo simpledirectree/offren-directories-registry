@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:06:12.029496+00:00Z",
+  "lastUpdated": "2025-11-09T05:07:13.700033+00:00Z",
   "stats": {
-    "totalDirectories": 2428,
+    "totalDirectories": 2429,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2428.0,
-    "totalListings": 22982,
-    "aiEnhancedDirectories": 2428
+    "avgDirectoriesPerRepo": 2429.0,
+    "totalListings": 22992,
+    "aiEnhancedDirectories": 2429
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31572,12 +31572,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-commercial-real-estate-loans-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:07:13.700033+00:00Z",
+      "lastUpdated": "2025-11-09T05:07:13.700033+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2428,
+      "directoryCount": 2429,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

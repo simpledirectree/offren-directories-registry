@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:18:55.235794+00:00Z",
+  "lastUpdated": "2025-11-09T09:20:25.637743+00:00Z",
   "stats": {
-    "totalDirectories": 584,
+    "totalDirectories": 585,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 584.0,
-    "totalListings": 5590,
-    "aiEnhancedDirectories": 584
+    "avgDirectoriesPerRepo": 585.0,
+    "totalListings": 5600,
+    "aiEnhancedDirectories": 585
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7600,12 +7600,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-micro-weddings-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:20:25.637743+00:00Z",
+      "lastUpdated": "2025-11-09T09:20:25.637743+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 584,
+      "directoryCount": 585,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

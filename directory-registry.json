@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:30:26.258721+00:00Z",
+  "lastUpdated": "2025-11-09T17:32:25.478008+00:00Z",
   "stats": {
-    "totalDirectories": 1145,
+    "totalDirectories": 1146,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1145.0,
-    "totalListings": 10802,
-    "aiEnhancedDirectories": 1145
+    "avgDirectoriesPerRepo": 1146.0,
+    "totalListings": 10812,
+    "aiEnhancedDirectories": 1146
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14893,12 +14893,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-fulfillment-services-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:32:25.478008+00:00Z",
+      "lastUpdated": "2025-11-09T17:32:25.478008+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1145,
+      "directoryCount": 1146,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

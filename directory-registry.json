@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:34:35.972438+00:00Z",
+  "lastUpdated": "2025-11-09T05:34:53.098250+00:00Z",
   "stats": {
-    "totalDirectories": 59,
+    "totalDirectories": 60,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 59.0,
-    "totalListings": 572,
-    "aiEnhancedDirectories": 59
+    "avgDirectoriesPerRepo": 60.0,
+    "totalListings": 582,
+    "aiEnhancedDirectories": 60
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -775,12 +775,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-shrub-maintenance-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:34:53.098250+00:00Z",
+      "lastUpdated": "2025-11-09T05:34:53.098250+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 59,
+      "directoryCount": 60,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

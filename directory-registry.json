@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:41:35.783447+00:00Z",
+  "lastUpdated": "2025-11-09T04:41:52.392393+00:00Z",
   "stats": {
-    "totalDirectories": 2342,
+    "totalDirectories": 2343,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2342.0,
-    "totalListings": 22143,
-    "aiEnhancedDirectories": 2342
+    "avgDirectoriesPerRepo": 2343.0,
+    "totalListings": 22153,
+    "aiEnhancedDirectories": 2343
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30454,12 +30454,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-soil-testing-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:41:52.392393+00:00Z",
+      "lastUpdated": "2025-11-09T04:41:52.392393+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2342,
+      "directoryCount": 2343,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

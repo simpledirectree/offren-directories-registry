@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:43:02.480892+00:00Z",
+  "lastUpdated": "2025-11-09T01:44:14.740794+00:00Z",
   "stats": {
-    "totalDirectories": 2017,
+    "totalDirectories": 2018,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2017.0,
-    "totalListings": 19041,
-    "aiEnhancedDirectories": 2017
+    "avgDirectoriesPerRepo": 2018.0,
+    "totalListings": 19051,
+    "aiEnhancedDirectories": 2018
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26229,12 +26229,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-office-management-services-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:44:14.740794+00:00Z",
+      "lastUpdated": "2025-11-09T01:44:14.740794+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2017,
+      "directoryCount": 2018,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

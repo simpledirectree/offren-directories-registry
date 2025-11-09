@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:36:42.934089+00:00Z",
+  "lastUpdated": "2025-11-09T01:37:37.622068+00:00Z",
   "stats": {
-    "totalDirectories": 2012,
+    "totalDirectories": 2013,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2012.0,
-    "totalListings": 18998,
-    "aiEnhancedDirectories": 2012
+    "avgDirectoriesPerRepo": 2013.0,
+    "totalListings": 19001,
+    "aiEnhancedDirectories": 2013
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26164,12 +26164,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-subscription-commerce-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:37:37.622068+00:00Z",
+      "lastUpdated": "2025-11-09T01:37:37.622068+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2012,
+      "directoryCount": 2013,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

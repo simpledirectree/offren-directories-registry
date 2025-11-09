@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:44:31.812726+00:00Z",
+  "lastUpdated": "2025-11-09T00:44:46.795154+00:00Z",
   "stats": {
-    "totalDirectories": 1948,
+    "totalDirectories": 1949,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1948.0,
-    "totalListings": 18395,
-    "aiEnhancedDirectories": 1948
+    "avgDirectoriesPerRepo": 1949.0,
+    "totalListings": 18405,
+    "aiEnhancedDirectories": 1949
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25332,12 +25332,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-workers-compensation-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:44:46.795154+00:00Z",
+      "lastUpdated": "2025-11-09T00:44:46.795154+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1948,
+      "directoryCount": 1949,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

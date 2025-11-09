@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:23:11.406081+00:00Z",
+  "lastUpdated": "2025-11-09T04:23:29.556270+00:00Z",
   "stats": {
-    "totalDirectories": 2279,
+    "totalDirectories": 2280,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2279.0,
-    "totalListings": 21522,
-    "aiEnhancedDirectories": 2279
+    "avgDirectoriesPerRepo": 2280.0,
+    "totalListings": 21532,
+    "aiEnhancedDirectories": 2280
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29635,12 +29635,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-homeopathy-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:23:29.556270+00:00Z",
+      "lastUpdated": "2025-11-09T04:23:29.556270+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2279,
+      "directoryCount": 2280,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

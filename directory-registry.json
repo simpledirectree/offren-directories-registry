@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:51:04.074556+00:00Z",
+  "lastUpdated": "2025-11-09T06:51:19.577875+00:00Z",
   "stats": {
-    "totalDirectories": 337,
+    "totalDirectories": 338,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 337.0,
-    "totalListings": 3239,
-    "aiEnhancedDirectories": 337
+    "avgDirectoriesPerRepo": 338.0,
+    "totalListings": 3249,
+    "aiEnhancedDirectories": 338
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4389,12 +4389,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-vocational-training-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:51:19.577875+00:00Z",
+      "lastUpdated": "2025-11-09T06:51:19.577875+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 337,
+      "directoryCount": 338,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

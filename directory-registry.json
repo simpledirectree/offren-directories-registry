@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:59:58.061185+00:00Z",
+  "lastUpdated": "2025-11-09T22:00:13.159507+00:00Z",
   "stats": {
-    "totalDirectories": 1434,
+    "totalDirectories": 1435,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1434.0,
-    "totalListings": 13522,
-    "aiEnhancedDirectories": 1434
+    "avgDirectoriesPerRepo": 1435.0,
+    "totalListings": 13532,
+    "aiEnhancedDirectories": 1435
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18650,12 +18650,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-artwork-moving-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:00:13.159507+00:00Z",
+      "lastUpdated": "2025-11-09T22:00:13.159507+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1434,
+      "directoryCount": 1435,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

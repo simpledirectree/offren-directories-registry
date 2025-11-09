@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:32:49.893823+00:00Z",
+  "lastUpdated": "2025-11-09T16:33:56.691876+00:00Z",
   "stats": {
-    "totalDirectories": 1085,
+    "totalDirectories": 1086,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1085.0,
-    "totalListings": 10232,
-    "aiEnhancedDirectories": 1085
+    "avgDirectoriesPerRepo": 1086.0,
+    "totalListings": 10242,
+    "aiEnhancedDirectories": 1086
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14113,12 +14113,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-math-tutoring-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:33:56.691876+00:00Z",
+      "lastUpdated": "2025-11-09T16:33:56.691876+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1085,
+      "directoryCount": 1086,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

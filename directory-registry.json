@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:06:36.626939+00:00Z",
+  "lastUpdated": "2025-11-09T07:06:54.922030+00:00Z",
   "stats": {
-    "totalDirectories": 393,
+    "totalDirectories": 394,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 393.0,
-    "totalListings": 3792,
-    "aiEnhancedDirectories": 393
+    "avgDirectoriesPerRepo": 394.0,
+    "totalListings": 3802,
+    "aiEnhancedDirectories": 394
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5117,12 +5117,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-landscape-redesign-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:06:54.922030+00:00Z",
+      "lastUpdated": "2025-11-09T07:06:54.922030+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 393,
+      "directoryCount": 394,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

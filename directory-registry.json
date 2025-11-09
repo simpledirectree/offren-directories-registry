@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:51:45.366022+00:00Z",
+  "lastUpdated": "2025-11-09T04:52:04.386343+00:00Z",
   "stats": {
-    "totalDirectories": 2377,
+    "totalDirectories": 2378,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2377.0,
-    "totalListings": 22486,
-    "aiEnhancedDirectories": 2377
+    "avgDirectoriesPerRepo": 2378.0,
+    "totalListings": 22496,
+    "aiEnhancedDirectories": 2378
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30909,12 +30909,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-garden-center-consultation-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:52:04.386343+00:00Z",
+      "lastUpdated": "2025-11-09T04:52:04.386343+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2377,
+      "directoryCount": 2378,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

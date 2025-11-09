@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:11:31.859902+00:00Z",
+  "lastUpdated": "2025-11-09T06:11:44.482301+00:00Z",
   "stats": {
-    "totalDirectories": 191,
+    "totalDirectories": 192,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 191.0,
-    "totalListings": 1852,
-    "aiEnhancedDirectories": 191
+    "avgDirectoriesPerRepo": 192.0,
+    "totalListings": 1853,
+    "aiEnhancedDirectories": 192
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2491,12 +2491,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-air-conditioning-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:11:44.482301+00:00Z",
+      "lastUpdated": "2025-11-09T06:11:44.482301+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 191,
+      "directoryCount": 192,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

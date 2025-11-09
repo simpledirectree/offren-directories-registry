@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:42:46.639884+00:00Z",
+  "lastUpdated": "2025-11-09T10:42:59.815903+00:00Z",
   "stats": {
-    "totalDirectories": 698,
+    "totalDirectories": 699,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 698.0,
-    "totalListings": 6652,
-    "aiEnhancedDirectories": 698
+    "avgDirectoriesPerRepo": 699.0,
+    "totalListings": 6657,
+    "aiEnhancedDirectories": 699
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9082,12 +9082,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-sound-healing-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:42:59.815903+00:00Z",
+      "lastUpdated": "2025-11-09T10:42:59.815903+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 698,
+      "directoryCount": 699,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

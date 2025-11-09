@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:45:20.307501+00:00Z",
+  "lastUpdated": "2025-11-09T04:45:38.034986+00:00Z",
   "stats": {
-    "totalDirectories": 2355,
+    "totalDirectories": 2356,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2355.0,
-    "totalListings": 22273,
-    "aiEnhancedDirectories": 2355
+    "avgDirectoriesPerRepo": 2356.0,
+    "totalListings": 22283,
+    "aiEnhancedDirectories": 2356
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30623,12 +30623,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-vacation-rental-turnover-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:45:38.034986+00:00Z",
+      "lastUpdated": "2025-11-09T04:45:38.034986+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2355,
+      "directoryCount": 2356,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:28:46.079422+00:00Z",
+  "lastUpdated": "2025-11-09T02:30:41.483950+00:00Z",
   "stats": {
-    "totalDirectories": 2073,
+    "totalDirectories": 2074,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2073.0,
-    "totalListings": 19556,
-    "aiEnhancedDirectories": 2073
+    "avgDirectoriesPerRepo": 2074.0,
+    "totalListings": 19566,
+    "aiEnhancedDirectories": 2074
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26957,12 +26957,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-therapeutic-gardening-programs-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:30:41.483950+00:00Z",
+      "lastUpdated": "2025-11-09T02:30:41.483950+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2073,
+      "directoryCount": 2074,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:05:46.222428+00:00Z",
+  "lastUpdated": "2025-11-09T07:06:03.882238+00:00Z",
   "stats": {
-    "totalDirectories": 390,
+    "totalDirectories": 391,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 390.0,
-    "totalListings": 3762,
-    "aiEnhancedDirectories": 390
+    "avgDirectoriesPerRepo": 391.0,
+    "totalListings": 3772,
+    "aiEnhancedDirectories": 391
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5078,12 +5078,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-state-inspections-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:06:03.882238+00:00Z",
+      "lastUpdated": "2025-11-09T07:06:03.882238+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 390,
+      "directoryCount": 391,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

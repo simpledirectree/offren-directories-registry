@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:18:00.941032+00:00Z",
+  "lastUpdated": "2025-11-09T01:18:16.007590+00:00Z",
   "stats": {
-    "totalDirectories": 1986,
+    "totalDirectories": 1987,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1986.0,
-    "totalListings": 18745,
-    "aiEnhancedDirectories": 1986
+    "avgDirectoriesPerRepo": 1987.0,
+    "totalListings": 18755,
+    "aiEnhancedDirectories": 1987
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25826,12 +25826,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-low-vision-services-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:18:16.007590+00:00Z",
+      "lastUpdated": "2025-11-09T01:18:16.007590+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1986,
+      "directoryCount": 1987,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

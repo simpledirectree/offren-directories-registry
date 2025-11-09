@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:33:32.793277+00:00Z",
+  "lastUpdated": "2025-11-09T04:33:50.850755+00:00Z",
   "stats": {
-    "totalDirectories": 2315,
+    "totalDirectories": 2316,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2315.0,
-    "totalListings": 21873,
-    "aiEnhancedDirectories": 2315
+    "avgDirectoriesPerRepo": 2316.0,
+    "totalListings": 21883,
+    "aiEnhancedDirectories": 2316
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30103,12 +30103,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-math-tutoring-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:33:50.850755+00:00Z",
+      "lastUpdated": "2025-11-09T04:33:50.850755+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2315,
+      "directoryCount": 2316,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

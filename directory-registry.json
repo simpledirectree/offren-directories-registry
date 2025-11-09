@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:03:08.389644+00:00Z",
+  "lastUpdated": "2025-11-09T04:03:26.765775+00:00Z",
   "stats": {
-    "totalDirectories": 2211,
+    "totalDirectories": 2212,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2211.0,
-    "totalListings": 20866,
-    "aiEnhancedDirectories": 2211
+    "avgDirectoriesPerRepo": 2212.0,
+    "totalListings": 20876,
+    "aiEnhancedDirectories": 2212
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28751,12 +28751,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-business-language-training-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:03:26.765775+00:00Z",
+      "lastUpdated": "2025-11-09T04:03:26.765775+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2211,
+      "directoryCount": 2212,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

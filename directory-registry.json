@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:37:34.190674+00:00Z",
+  "lastUpdated": "2025-11-09T06:37:52.306439+00:00Z",
   "stats": {
-    "totalDirectories": 287,
+    "totalDirectories": 288,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 287.0,
-    "totalListings": 2764,
-    "aiEnhancedDirectories": 287
+    "avgDirectoriesPerRepo": 288.0,
+    "totalListings": 2774,
+    "aiEnhancedDirectories": 288
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3739,12 +3739,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-api-development-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:37:52.306439+00:00Z",
+      "lastUpdated": "2025-11-09T06:37:52.306439+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 287,
+      "directoryCount": 288,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:17:20.097838+00:00Z",
+  "lastUpdated": "2025-11-09T00:17:35.010692+00:00Z",
   "stats": {
-    "totalDirectories": 1912,
+    "totalDirectories": 1913,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1912.0,
-    "totalListings": 18062,
-    "aiEnhancedDirectories": 1912
+    "avgDirectoriesPerRepo": 1913.0,
+    "totalListings": 18072,
+    "aiEnhancedDirectories": 1913
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24864,12 +24864,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-emergency-veterinary-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:17:35.010692+00:00Z",
+      "lastUpdated": "2025-11-09T00:17:35.010692+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1912,
+      "directoryCount": 1913,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

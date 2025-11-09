@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:37:16.048204+00:00Z",
+  "lastUpdated": "2025-11-09T04:37:32.844977+00:00Z",
   "stats": {
-    "totalDirectories": 2328,
+    "totalDirectories": 2329,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2328.0,
-    "totalListings": 22003,
-    "aiEnhancedDirectories": 2328
+    "avgDirectoriesPerRepo": 2329.0,
+    "totalListings": 22013,
+    "aiEnhancedDirectories": 2329
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30272,12 +30272,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-brazilian-jiu-jitsu-classes-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:37:32.844977+00:00Z",
+      "lastUpdated": "2025-11-09T04:37:32.844977+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2328,
+      "directoryCount": 2329,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

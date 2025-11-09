@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:32:00.339761+00:00Z",
+  "lastUpdated": "2025-11-09T21:33:07.282362+00:00Z",
   "stats": {
-    "totalDirectories": 1400,
+    "totalDirectories": 1401,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1400.0,
-    "totalListings": 13209,
-    "aiEnhancedDirectories": 1400
+    "avgDirectoriesPerRepo": 1401.0,
+    "totalListings": 13219,
+    "aiEnhancedDirectories": 1401
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18208,12 +18208,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-shopping-ads-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:33:07.282362+00:00Z",
+      "lastUpdated": "2025-11-09T21:33:07.282362+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1400,
+      "directoryCount": 1401,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

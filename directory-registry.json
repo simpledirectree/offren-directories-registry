@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:10:40.595655+00:00Z",
+  "lastUpdated": "2025-11-09T04:10:59.490896+00:00Z",
   "stats": {
-    "totalDirectories": 2237,
+    "totalDirectories": 2238,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2237.0,
-    "totalListings": 21121,
-    "aiEnhancedDirectories": 2237
+    "avgDirectoriesPerRepo": 2238.0,
+    "totalListings": 21131,
+    "aiEnhancedDirectories": 2238
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29089,12 +29089,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-driving-instruction-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:10:59.490896+00:00Z",
+      "lastUpdated": "2025-11-09T04:10:59.490896+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2237,
+      "directoryCount": 2238,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:07:26.744957+00:00Z",
+  "lastUpdated": "2025-11-09T21:07:42.618924+00:00Z",
   "stats": {
-    "totalDirectories": 1373,
+    "totalDirectories": 1374,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1373.0,
-    "totalListings": 12945,
-    "aiEnhancedDirectories": 1373
+    "avgDirectoriesPerRepo": 1374.0,
+    "totalListings": 12955,
+    "aiEnhancedDirectories": 1374
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17857,12 +17857,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-dog-walkers-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:07:42.618924+00:00Z",
+      "lastUpdated": "2025-11-09T21:07:42.618924+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1373,
+      "directoryCount": 1374,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

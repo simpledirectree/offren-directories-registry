@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:35:52.529971+00:00Z",
+  "lastUpdated": "2025-11-09T16:36:32.960925+00:00Z",
   "stats": {
-    "totalDirectories": 1087,
+    "totalDirectories": 1088,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1087.0,
-    "totalListings": 10252,
-    "aiEnhancedDirectories": 1087
+    "avgDirectoriesPerRepo": 1088.0,
+    "totalListings": 10262,
+    "aiEnhancedDirectories": 1088
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14139,12 +14139,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-real-estate-agents-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:36:32.960925+00:00Z",
+      "lastUpdated": "2025-11-09T16:36:32.960925+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1087,
+      "directoryCount": 1088,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

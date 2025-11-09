@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:50:01.819593+00:00Z",
+  "lastUpdated": "2025-11-09T23:50:17.119873+00:00Z",
   "stats": {
-    "totalDirectories": 1548,
+    "totalDirectories": 1549,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1548.0,
-    "totalListings": 14567,
-    "aiEnhancedDirectories": 1548
+    "avgDirectoriesPerRepo": 1549.0,
+    "totalListings": 14577,
+    "aiEnhancedDirectories": 1549
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20132,12 +20132,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-lan-wan-management-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:50:17.119873+00:00Z",
+      "lastUpdated": "2025-11-09T23:50:17.119873+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1548,
+      "directoryCount": 1549,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

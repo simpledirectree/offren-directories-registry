@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:07:05.022231+00:00Z",
+  "lastUpdated": "2025-11-09T04:07:21.057064+00:00Z",
   "stats": {
-    "totalDirectories": 2225,
+    "totalDirectories": 2226,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2225.0,
-    "totalListings": 21001,
-    "aiEnhancedDirectories": 2225
+    "avgDirectoriesPerRepo": 2226.0,
+    "totalListings": 21011,
+    "aiEnhancedDirectories": 2226
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28933,12 +28933,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-digital-advertising-management-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:07:21.057064+00:00Z",
+      "lastUpdated": "2025-11-09T04:07:21.057064+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2225,
+      "directoryCount": 2226,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

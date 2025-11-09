@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:03:10.968453+00:00Z",
+  "lastUpdated": "2025-11-09T00:03:26.476557+00:00Z",
   "stats": {
-    "totalDirectories": 1899,
+    "totalDirectories": 1900,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1899.0,
-    "totalListings": 17942,
-    "aiEnhancedDirectories": 1899
+    "avgDirectoriesPerRepo": 1900.0,
+    "totalListings": 17952,
+    "aiEnhancedDirectories": 1900
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24695,12 +24695,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-specialty-restaurants-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:03:26.476557+00:00Z",
+      "lastUpdated": "2025-11-09T00:03:26.476557+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1899,
+      "directoryCount": 1900,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

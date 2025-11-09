@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:47:24.852035+00:00Z",
+  "lastUpdated": "2025-11-09T17:48:06.872267+00:00Z",
   "stats": {
-    "totalDirectories": 1166,
+    "totalDirectories": 1167,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1166.0,
-    "totalListings": 11012,
-    "aiEnhancedDirectories": 1166
+    "avgDirectoriesPerRepo": 1167.0,
+    "totalListings": 11022,
+    "aiEnhancedDirectories": 1167
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15166,12 +15166,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-warehouse-storage-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:48:06.872267+00:00Z",
+      "lastUpdated": "2025-11-09T17:48:06.872267+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1166,
+      "directoryCount": 1167,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

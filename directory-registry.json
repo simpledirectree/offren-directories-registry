@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:39:48.808983+00:00Z",
+  "lastUpdated": "2025-11-09T04:40:05.501023+00:00Z",
   "stats": {
-    "totalDirectories": 2336,
+    "totalDirectories": 2337,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2336.0,
-    "totalListings": 22083,
-    "aiEnhancedDirectories": 2336
+    "avgDirectoriesPerRepo": 2337.0,
+    "totalListings": 22093,
+    "aiEnhancedDirectories": 2337
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30376,12 +30376,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-tire-rotation-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:40:05.501023+00:00Z",
+      "lastUpdated": "2025-11-09T04:40:05.501023+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2336,
+      "directoryCount": 2337,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

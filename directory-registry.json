@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:05:59.212202+00:00Z",
+  "lastUpdated": "2025-11-09T16:06:44.972903+00:00Z",
   "stats": {
-    "totalDirectories": 1056,
+    "totalDirectories": 1057,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1056.0,
-    "totalListings": 9956,
-    "aiEnhancedDirectories": 1056
+    "avgDirectoriesPerRepo": 1057.0,
+    "totalListings": 9966,
+    "aiEnhancedDirectories": 1057
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13736,12 +13736,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-software-implementation-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:06:44.972903+00:00Z",
+      "lastUpdated": "2025-11-09T16:06:44.972903+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1056,
+      "directoryCount": 1057,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:28:51.096910+00:00Z",
+  "lastUpdated": "2025-11-09T06:29:07.737262+00:00Z",
   "stats": {
-    "totalDirectories": 254,
+    "totalDirectories": 255,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 254.0,
-    "totalListings": 2441,
-    "aiEnhancedDirectories": 254
+    "avgDirectoriesPerRepo": 255.0,
+    "totalListings": 2451,
+    "aiEnhancedDirectories": 255
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3310,12 +3310,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-plant-based-meal-prep-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:29:07.737262+00:00Z",
+      "lastUpdated": "2025-11-09T06:29:07.737262+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 254,
+      "directoryCount": 255,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

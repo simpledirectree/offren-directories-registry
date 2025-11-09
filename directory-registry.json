@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:09:04.431013+00:00Z",
+  "lastUpdated": "2025-11-09T06:09:19.604826+00:00Z",
   "stats": {
-    "totalDirectories": 182,
+    "totalDirectories": 183,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 182.0,
-    "totalListings": 1762,
-    "aiEnhancedDirectories": 182
+    "avgDirectoriesPerRepo": 183.0,
+    "totalListings": 1772,
+    "aiEnhancedDirectories": 183
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2374,12 +2374,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-deep-cleaning-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:09:19.604826+00:00Z",
+      "lastUpdated": "2025-11-09T06:09:19.604826+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 182,
+      "directoryCount": 183,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:45:53.520723+00:00Z",
+  "lastUpdated": "2025-11-09T04:46:13.198355+00:00Z",
   "stats": {
-    "totalDirectories": 2357,
+    "totalDirectories": 2358,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2357.0,
-    "totalListings": 22293,
-    "aiEnhancedDirectories": 2357
+    "avgDirectoriesPerRepo": 2358.0,
+    "totalListings": 22303,
+    "aiEnhancedDirectories": 2358
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30649,12 +30649,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-receptionist-services-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:46:13.198355+00:00Z",
+      "lastUpdated": "2025-11-09T04:46:13.198355+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2357,
+      "directoryCount": 2358,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

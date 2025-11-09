@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:01:40.945433+00:00Z",
+  "lastUpdated": "2025-11-09T03:01:55.899735+00:00Z",
   "stats": {
-    "totalDirectories": 2103,
+    "totalDirectories": 2104,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2103.0,
-    "totalListings": 19825,
-    "aiEnhancedDirectories": 2103
+    "avgDirectoriesPerRepo": 2104.0,
+    "totalListings": 19832,
+    "aiEnhancedDirectories": 2104
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27347,12 +27347,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-bistros-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:01:55.899735+00:00Z",
+      "lastUpdated": "2025-11-09T03:01:55.899735+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2103,
+      "directoryCount": 2104,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

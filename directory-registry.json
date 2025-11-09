@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:04:54.739213+00:00Z",
+  "lastUpdated": "2025-11-09T07:05:10.729526+00:00Z",
   "stats": {
-    "totalDirectories": 387,
+    "totalDirectories": 388,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 387.0,
-    "totalListings": 3733,
-    "aiEnhancedDirectories": 387
+    "avgDirectoriesPerRepo": 388.0,
+    "totalListings": 3742,
+    "aiEnhancedDirectories": 388
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5039,12 +5039,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-pos-system-installation-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:05:10.729526+00:00Z",
+      "lastUpdated": "2025-11-09T07:05:10.729526+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 387,
+      "directoryCount": 388,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

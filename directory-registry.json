@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:31:01.723801+00:00Z",
+  "lastUpdated": "2025-11-09T15:31:16.416585+00:00Z",
   "stats": {
-    "totalDirectories": 1015,
+    "totalDirectories": 1016,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1015.0,
-    "totalListings": 9559,
-    "aiEnhancedDirectories": 1015
+    "avgDirectoriesPerRepo": 1016.0,
+    "totalListings": 9569,
+    "aiEnhancedDirectories": 1016
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13203,12 +13203,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-emdr-therapy-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:31:16.416585+00:00Z",
+      "lastUpdated": "2025-11-09T15:31:16.416585+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1015,
+      "directoryCount": 1016,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

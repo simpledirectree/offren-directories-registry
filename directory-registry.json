@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:12:15.928846+00:00Z",
+  "lastUpdated": "2025-11-09T06:12:31.718941+00:00Z",
   "stats": {
-    "totalDirectories": 194,
+    "totalDirectories": 195,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 194.0,
-    "totalListings": 1873,
-    "aiEnhancedDirectories": 194
+    "avgDirectoriesPerRepo": 195.0,
+    "totalListings": 1883,
+    "aiEnhancedDirectories": 195
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2530,12 +2530,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-receptionist-services-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:12:31.718941+00:00Z",
+      "lastUpdated": "2025-11-09T06:12:31.718941+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 194,
+      "directoryCount": 195,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

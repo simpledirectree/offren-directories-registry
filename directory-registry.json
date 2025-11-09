@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:18:58.319802+00:00Z",
+  "lastUpdated": "2025-11-09T06:19:15.298328+00:00Z",
   "stats": {
-    "totalDirectories": 218,
+    "totalDirectories": 219,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 218.0,
-    "totalListings": 2105,
-    "aiEnhancedDirectories": 218
+    "avgDirectoriesPerRepo": 219.0,
+    "totalListings": 2115,
+    "aiEnhancedDirectories": 219
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2842,12 +2842,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-errand-services-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:19:15.298328+00:00Z",
+      "lastUpdated": "2025-11-09T06:19:15.298328+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 218,
+      "directoryCount": 219,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

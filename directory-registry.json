@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:08:05.362925+00:00Z",
+  "lastUpdated": "2025-11-09T15:08:22.109304+00:00Z",
   "stats": {
-    "totalDirectories": 992,
+    "totalDirectories": 993,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 992.0,
-    "totalListings": 9347,
-    "aiEnhancedDirectories": 992
+    "avgDirectoriesPerRepo": 993.0,
+    "totalListings": 9355,
+    "aiEnhancedDirectories": 993
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12904,12 +12904,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-product-listing-optimization-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:08:22.109304+00:00Z",
+      "lastUpdated": "2025-11-09T15:08:22.109304+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 992,
+      "directoryCount": 993,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

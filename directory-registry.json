@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:16:03.624610+00:00Z",
+  "lastUpdated": "2025-11-09T06:16:20.804668+00:00Z",
   "stats": {
-    "totalDirectories": 207,
+    "totalDirectories": 208,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 207.0,
-    "totalListings": 2000,
-    "aiEnhancedDirectories": 207
+    "avgDirectoriesPerRepo": 208.0,
+    "totalListings": 2010,
+    "aiEnhancedDirectories": 208
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2699,12 +2699,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-marketing-consultants-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:16:20.804668+00:00Z",
+      "lastUpdated": "2025-11-09T06:16:20.804668+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 207,
+      "directoryCount": 208,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

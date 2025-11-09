@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:53:15.204688+00:00Z",
+  "lastUpdated": "2025-11-09T09:53:29.300251+00:00Z",
   "stats": {
-    "totalDirectories": 623,
+    "totalDirectories": 624,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 623.0,
-    "totalListings": 5957,
-    "aiEnhancedDirectories": 623
+    "avgDirectoriesPerRepo": 624.0,
+    "totalListings": 5967,
+    "aiEnhancedDirectories": 624
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8107,12 +8107,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-moving-protection-plans-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:53:29.300251+00:00Z",
+      "lastUpdated": "2025-11-09T09:53:29.300251+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 623,
+      "directoryCount": 624,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

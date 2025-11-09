@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:57:19.716067+00:00Z",
+  "lastUpdated": "2025-11-09T04:57:38.373731+00:00Z",
   "stats": {
-    "totalDirectories": 2396,
+    "totalDirectories": 2397,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2396.0,
-    "totalListings": 22676,
-    "aiEnhancedDirectories": 2396
+    "avgDirectoriesPerRepo": 2397.0,
+    "totalListings": 22686,
+    "aiEnhancedDirectories": 2397
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31156,12 +31156,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-unemployment-claims-management-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:57:38.373731+00:00Z",
+      "lastUpdated": "2025-11-09T04:57:38.373731+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2396,
+      "directoryCount": 2397,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

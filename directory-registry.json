@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:22:05.328980+00:00Z",
+  "lastUpdated": "2025-11-09T04:22:19.829288+00:00Z",
   "stats": {
-    "totalDirectories": 2275,
+    "totalDirectories": 2276,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2275.0,
-    "totalListings": 21482,
-    "aiEnhancedDirectories": 2275
+    "avgDirectoriesPerRepo": 2276.0,
+    "totalListings": 21492,
+    "aiEnhancedDirectories": 2276
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29583,12 +29583,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-fashion-rental-styling-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:22:19.829288+00:00Z",
+      "lastUpdated": "2025-11-09T04:22:19.829288+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2275,
+      "directoryCount": 2276,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

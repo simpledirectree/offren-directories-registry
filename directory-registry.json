@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:24:30.681939+00:00Z",
+  "lastUpdated": "2025-11-09T06:24:46.848973+00:00Z",
   "stats": {
-    "totalDirectories": 238,
+    "totalDirectories": 239,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 238.0,
-    "totalListings": 2292,
-    "aiEnhancedDirectories": 238
+    "avgDirectoriesPerRepo": 239.0,
+    "totalListings": 2302,
+    "aiEnhancedDirectories": 239
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3102,12 +3102,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-homeopathy-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:24:46.848973+00:00Z",
+      "lastUpdated": "2025-11-09T06:24:46.848973+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 238,
+      "directoryCount": 239,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

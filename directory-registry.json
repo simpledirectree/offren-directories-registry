@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:42:27.992072+00:00Z",
+  "lastUpdated": "2025-11-09T23:45:51.944714+00:00Z",
   "stats": {
-    "totalDirectories": 1542,
+    "totalDirectories": 1543,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1542.0,
-    "totalListings": 14512,
-    "aiEnhancedDirectories": 1542
+    "avgDirectoriesPerRepo": 1543.0,
+    "totalListings": 14522,
+    "aiEnhancedDirectories": 1543
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20054,12 +20054,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-bbq-catering-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:45:51.944714+00:00Z",
+      "lastUpdated": "2025-11-09T23:45:51.944714+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1542,
+      "directoryCount": 1543,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

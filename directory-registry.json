@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:25:54.545976+00:00Z",
+  "lastUpdated": "2025-11-09T13:26:34.388143+00:00Z",
   "stats": {
-    "totalDirectories": 876,
+    "totalDirectories": 877,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 876.0,
-    "totalListings": 8266,
-    "aiEnhancedDirectories": 876
+    "avgDirectoriesPerRepo": 877.0,
+    "totalListings": 8276,
+    "aiEnhancedDirectories": 877
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11396,12 +11396,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-emdr-therapy-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:26:34.388143+00:00Z",
+      "lastUpdated": "2025-11-09T13:26:34.388143+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 876,
+      "directoryCount": 877,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

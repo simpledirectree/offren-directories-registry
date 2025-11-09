@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:00:45.787641+00:00Z",
+  "lastUpdated": "2025-11-09T04:01:03.300440+00:00Z",
   "stats": {
-    "totalDirectories": 2203,
+    "totalDirectories": 2204,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2203.0,
-    "totalListings": 20786,
-    "aiEnhancedDirectories": 2203
+    "avgDirectoriesPerRepo": 2204.0,
+    "totalListings": 20796,
+    "aiEnhancedDirectories": 2204
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28647,12 +28647,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-elopements-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:01:03.300440+00:00Z",
+      "lastUpdated": "2025-11-09T04:01:03.300440+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2203,
+      "directoryCount": 2204,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

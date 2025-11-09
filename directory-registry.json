@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:48:53.634627+00:00Z",
+  "lastUpdated": "2025-11-09T16:50:00.455438+00:00Z",
   "stats": {
-    "totalDirectories": 1098,
+    "totalDirectories": 1099,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1098.0,
-    "totalListings": 10355,
-    "aiEnhancedDirectories": 1098
+    "avgDirectoriesPerRepo": 1099.0,
+    "totalListings": 10365,
+    "aiEnhancedDirectories": 1099
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14282,12 +14282,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-virtual-machine-management-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:50:00.455438+00:00Z",
+      "lastUpdated": "2025-11-09T16:50:00.455438+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1098,
+      "directoryCount": 1099,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:10:40.872093+00:00Z",
+  "lastUpdated": "2025-11-09T07:10:56.297564+00:00Z",
   "stats": {
-    "totalDirectories": 408,
+    "totalDirectories": 409,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 408.0,
-    "totalListings": 3931,
-    "aiEnhancedDirectories": 408
+    "avgDirectoriesPerRepo": 409.0,
+    "totalListings": 3941,
+    "aiEnhancedDirectories": 409
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5312,12 +5312,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-insurance-planning-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:10:56.297564+00:00Z",
+      "lastUpdated": "2025-11-09T07:10:56.297564+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 408,
+      "directoryCount": 409,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:19:14.713138+00:00Z",
+  "lastUpdated": "2025-11-09T12:20:16.467909+00:00Z",
   "stats": {
-    "totalDirectories": 810,
+    "totalDirectories": 811,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 810.0,
-    "totalListings": 7682,
-    "aiEnhancedDirectories": 810
+    "avgDirectoriesPerRepo": 811.0,
+    "totalListings": 7687,
+    "aiEnhancedDirectories": 811
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10538,12 +10538,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-indoor-plant-care-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:20:16.467909+00:00Z",
+      "lastUpdated": "2025-11-09T12:20:16.467909+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 810,
+      "directoryCount": 811,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:00:12.070042+00:00Z",
+  "lastUpdated": "2025-11-09T04:00:26.112248+00:00Z",
   "stats": {
-    "totalDirectories": 2201,
+    "totalDirectories": 2202,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2201.0,
-    "totalListings": 20766,
-    "aiEnhancedDirectories": 2201
+    "avgDirectoriesPerRepo": 2202.0,
+    "totalListings": 20776,
+    "aiEnhancedDirectories": 2202
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28621,12 +28621,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-virtual-assistant-services-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:00:26.112248+00:00Z",
+      "lastUpdated": "2025-11-09T04:00:26.112248+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2201,
+      "directoryCount": 2202,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

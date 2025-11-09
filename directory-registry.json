@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:18:30.716697+00:00Z",
+  "lastUpdated": "2025-11-09T00:18:45.531682+00:00Z",
   "stats": {
-    "totalDirectories": 1915,
+    "totalDirectories": 1916,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1915.0,
-    "totalListings": 18092,
-    "aiEnhancedDirectories": 1915
+    "avgDirectoriesPerRepo": 1916.0,
+    "totalListings": 18102,
+    "aiEnhancedDirectories": 1916
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24903,12 +24903,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-theater-instruction-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:18:45.531682+00:00Z",
+      "lastUpdated": "2025-11-09T00:18:45.531682+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1915,
+      "directoryCount": 1916,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

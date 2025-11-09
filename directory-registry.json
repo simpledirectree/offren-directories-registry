@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:17:47.627818+00:00Z",
+  "lastUpdated": "2025-11-09T03:18:04.530155+00:00Z",
   "stats": {
-    "totalDirectories": 2121,
+    "totalDirectories": 2122,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2121.0,
-    "totalListings": 19989,
-    "aiEnhancedDirectories": 2121
+    "avgDirectoriesPerRepo": 2122.0,
+    "totalListings": 19999,
+    "aiEnhancedDirectories": 2122
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27581,12 +27581,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-mobile-grooming-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:18:04.530155+00:00Z",
+      "lastUpdated": "2025-11-09T03:18:04.530155+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2121,
+      "directoryCount": 2122,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

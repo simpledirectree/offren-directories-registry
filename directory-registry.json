@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:05:44.961729+00:00Z",
+  "lastUpdated": "2025-11-09T20:07:16.351235+00:00Z",
   "stats": {
-    "totalDirectories": 1315,
+    "totalDirectories": 1316,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1315.0,
-    "totalListings": 12386,
-    "aiEnhancedDirectories": 1315
+    "avgDirectoriesPerRepo": 1316.0,
+    "totalListings": 12394,
+    "aiEnhancedDirectories": 1316
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17103,12 +17103,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-customer-service-training-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:07:16.351235+00:00Z",
+      "lastUpdated": "2025-11-09T20:07:16.351235+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1315,
+      "directoryCount": 1316,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:14:54.306750+00:00Z",
+  "lastUpdated": "2025-11-09T03:15:33.002626+00:00Z",
   "stats": {
-    "totalDirectories": 2118,
+    "totalDirectories": 2119,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2118.0,
-    "totalListings": 19969,
-    "aiEnhancedDirectories": 2118
+    "avgDirectoriesPerRepo": 2119.0,
+    "totalListings": 19974,
+    "aiEnhancedDirectories": 2119
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27542,12 +27542,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-social-celebration-planning-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:15:33.002626+00:00Z",
+      "lastUpdated": "2025-11-09T03:15:33.002626+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2118,
+      "directoryCount": 2119,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

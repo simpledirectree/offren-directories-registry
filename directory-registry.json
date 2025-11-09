@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:11:58.591299+00:00Z",
+  "lastUpdated": "2025-11-09T05:12:19.627072+00:00Z",
   "stats": {
-    "totalDirectories": 2447,
+    "totalDirectories": 2448,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2447.0,
-    "totalListings": 23157,
-    "aiEnhancedDirectories": 2447
+    "avgDirectoriesPerRepo": 2448.0,
+    "totalListings": 23167,
+    "aiEnhancedDirectories": 2448
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31819,12 +31819,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-vpn-setup-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:12:19.627072+00:00Z",
+      "lastUpdated": "2025-11-09T05:12:19.627072+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2447,
+      "directoryCount": 2448,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

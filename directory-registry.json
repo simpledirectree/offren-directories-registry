@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:54:40.522740+00:00Z",
+  "lastUpdated": "2025-11-09T19:55:20.990891+00:00Z",
   "stats": {
-    "totalDirectories": 1303,
+    "totalDirectories": 1304,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1303.0,
-    "totalListings": 12273,
-    "aiEnhancedDirectories": 1303
+    "avgDirectoriesPerRepo": 1304.0,
+    "totalListings": 12283,
+    "aiEnhancedDirectories": 1304
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16947,12 +16947,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-pubs-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:55:20.990891+00:00Z",
+      "lastUpdated": "2025-11-09T19:55:20.990891+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1303,
+      "directoryCount": 1304,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:01:11.587738+00:00Z",
+  "lastUpdated": "2025-11-09T13:01:33.289660+00:00Z",
   "stats": {
-    "totalDirectories": 851,
+    "totalDirectories": 852,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 851.0,
-    "totalListings": 8040,
-    "aiEnhancedDirectories": 851
+    "avgDirectoriesPerRepo": 852.0,
+    "totalListings": 8047,
+    "aiEnhancedDirectories": 852
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11071,12 +11071,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-traditional-chinese-medicine-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:01:33.289660+00:00Z",
+      "lastUpdated": "2025-11-09T13:01:33.289660+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 851,
+      "directoryCount": 852,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

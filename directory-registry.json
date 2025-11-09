@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:33:21.687187+00:00Z",
+  "lastUpdated": "2025-11-09T21:33:37.972608+00:00Z",
   "stats": {
-    "totalDirectories": 1402,
+    "totalDirectories": 1403,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1402.0,
-    "totalListings": 13229,
-    "aiEnhancedDirectories": 1402
+    "avgDirectoriesPerRepo": 1403.0,
+    "totalListings": 13239,
+    "aiEnhancedDirectories": 1403
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18234,12 +18234,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-test-preparation-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:33:37.972608+00:00Z",
+      "lastUpdated": "2025-11-09T21:33:37.972608+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1402,
+      "directoryCount": 1403,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

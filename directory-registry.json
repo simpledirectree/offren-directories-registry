@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:59:58.012590+00:00Z",
+  "lastUpdated": "2025-11-09T05:00:14.313722+00:00Z",
   "stats": {
-    "totalDirectories": 2406,
+    "totalDirectories": 2407,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2406.0,
-    "totalListings": 22767,
-    "aiEnhancedDirectories": 2406
+    "avgDirectoriesPerRepo": 2407.0,
+    "totalListings": 22777,
+    "aiEnhancedDirectories": 2407
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31286,12 +31286,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-nutritional-counseling-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:00:14.313722+00:00Z",
+      "lastUpdated": "2025-11-09T05:00:14.313722+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2406,
+      "directoryCount": 2407,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

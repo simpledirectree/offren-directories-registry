@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:18:26.261660+00:00Z",
+  "lastUpdated": "2025-11-09T05:18:43.951877+00:00Z",
   "stats": {
-    "totalDirectories": 2470,
+    "totalDirectories": 2471,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2470.0,
-    "totalListings": 23368,
-    "aiEnhancedDirectories": 2470
+    "avgDirectoriesPerRepo": 2471.0,
+    "totalListings": 23378,
+    "aiEnhancedDirectories": 2471
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -32118,12 +32118,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-sleep-studies-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:18:43.951877+00:00Z",
+      "lastUpdated": "2025-11-09T05:18:43.951877+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2470,
+      "directoryCount": 2471,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

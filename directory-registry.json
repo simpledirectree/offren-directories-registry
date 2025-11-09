@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:19:08.519612+00:00Z",
+  "lastUpdated": "2025-11-09T16:19:23.626603+00:00Z",
   "stats": {
-    "totalDirectories": 1070,
+    "totalDirectories": 1071,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1070.0,
-    "totalListings": 10090,
-    "aiEnhancedDirectories": 1070
+    "avgDirectoriesPerRepo": 1071.0,
+    "totalListings": 10100,
+    "aiEnhancedDirectories": 1071
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13918,12 +13918,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-brake-pad-replacement-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:19:23.626603+00:00Z",
+      "lastUpdated": "2025-11-09T16:19:23.626603+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1070,
+      "directoryCount": 1071,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

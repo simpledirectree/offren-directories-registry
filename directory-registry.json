@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:23:59.332957+00:00Z",
+  "lastUpdated": "2025-11-09T07:24:14.216705+00:00Z",
   "stats": {
-    "totalDirectories": 455,
+    "totalDirectories": 456,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 455.0,
-    "totalListings": 4382,
-    "aiEnhancedDirectories": 455
+    "avgDirectoriesPerRepo": 456.0,
+    "totalListings": 4392,
+    "aiEnhancedDirectories": 456
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5923,12 +5923,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-athletic-conditioning-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:24:14.216705+00:00Z",
+      "lastUpdated": "2025-11-09T07:24:14.216705+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 455,
+      "directoryCount": 456,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

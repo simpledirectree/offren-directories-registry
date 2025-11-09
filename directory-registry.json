@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:41:17.622469+00:00Z",
+  "lastUpdated": "2025-11-09T02:41:56.857969+00:00Z",
   "stats": {
-    "totalDirectories": 2084,
+    "totalDirectories": 2085,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2084.0,
-    "totalListings": 19647,
-    "aiEnhancedDirectories": 2084
+    "avgDirectoriesPerRepo": 2085.0,
+    "totalListings": 19654,
+    "aiEnhancedDirectories": 2085
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27100,12 +27100,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-predictive-analytics-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:41:56.857969+00:00Z",
+      "lastUpdated": "2025-11-09T02:41:56.857969+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2084,
+      "directoryCount": 2085,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

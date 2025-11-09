@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:14:02.569810+00:00Z",
+  "lastUpdated": "2025-11-09T20:14:17.591139+00:00Z",
   "stats": {
-    "totalDirectories": 1320,
+    "totalDirectories": 1321,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1320.0,
-    "totalListings": 12434,
-    "aiEnhancedDirectories": 1320
+    "avgDirectoriesPerRepo": 1321.0,
+    "totalListings": 12444,
+    "aiEnhancedDirectories": 1321
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17168,12 +17168,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-dermaplaning-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:14:17.591139+00:00Z",
+      "lastUpdated": "2025-11-09T20:14:17.591139+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1320,
+      "directoryCount": 1321,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

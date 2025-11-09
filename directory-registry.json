@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:49:25.043192+00:00Z",
+  "lastUpdated": "2025-11-09T06:49:41.815505+00:00Z",
   "stats": {
-    "totalDirectories": 331,
+    "totalDirectories": 332,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 331.0,
-    "totalListings": 3179,
-    "aiEnhancedDirectories": 331
+    "avgDirectoriesPerRepo": 332.0,
+    "totalListings": 3189,
+    "aiEnhancedDirectories": 332
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4311,12 +4311,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-mobile-veterinary-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:49:41.815505+00:00Z",
+      "lastUpdated": "2025-11-09T06:49:41.815505+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 331,
+      "directoryCount": 332,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

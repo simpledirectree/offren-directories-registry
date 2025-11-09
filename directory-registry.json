@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:07:31.222646+00:00Z",
+  "lastUpdated": "2025-11-09T05:07:47.739593+00:00Z",
   "stats": {
-    "totalDirectories": 2430,
+    "totalDirectories": 2431,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2430.0,
-    "totalListings": 23002,
-    "aiEnhancedDirectories": 2430
+    "avgDirectoriesPerRepo": 2431.0,
+    "totalListings": 23012,
+    "aiEnhancedDirectories": 2431
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31598,12 +31598,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-craft-services-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:07:47.739593+00:00Z",
+      "lastUpdated": "2025-11-09T05:07:47.739593+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2430,
+      "directoryCount": 2431,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:33:47.455480+00:00Z",
+  "lastUpdated": "2025-11-09T09:34:51.365567+00:00Z",
   "stats": {
-    "totalDirectories": 599,
+    "totalDirectories": 600,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 599.0,
-    "totalListings": 5724,
-    "aiEnhancedDirectories": 599
+    "avgDirectoriesPerRepo": 600.0,
+    "totalListings": 5734,
+    "aiEnhancedDirectories": 600
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7795,12 +7795,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-penetration-testing-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:34:51.365567+00:00Z",
+      "lastUpdated": "2025-11-09T09:34:51.365567+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 599,
+      "directoryCount": 600,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

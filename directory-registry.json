@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:08:04.149657+00:00Z",
+  "lastUpdated": "2025-11-09T05:08:17.611655+00:00Z",
   "stats": {
-    "totalDirectories": 2432,
+    "totalDirectories": 2433,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2432.0,
-    "totalListings": 23022,
-    "aiEnhancedDirectories": 2432
+    "avgDirectoriesPerRepo": 2433.0,
+    "totalListings": 23032,
+    "aiEnhancedDirectories": 2433
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31624,12 +31624,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-ayurvedic-medicine-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:08:17.611655+00:00Z",
+      "lastUpdated": "2025-11-09T05:08:17.611655+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2432,
+      "directoryCount": 2433,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:20:43.757038+00:00Z",
+  "lastUpdated": "2025-11-09T12:20:55.634820+00:00Z",
   "stats": {
-    "totalDirectories": 813,
+    "totalDirectories": 814,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 813.0,
-    "totalListings": 7703,
-    "aiEnhancedDirectories": 813
+    "avgDirectoriesPerRepo": 814.0,
+    "totalListings": 7704,
+    "aiEnhancedDirectories": 814
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10577,12 +10577,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-cybersecurity-protection-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:20:55.634820+00:00Z",
+      "lastUpdated": "2025-11-09T12:20:55.634820+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 813,
+      "directoryCount": 814,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

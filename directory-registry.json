@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:54:21.584959+00:00Z",
+  "lastUpdated": "2025-11-09T04:54:39.509786+00:00Z",
   "stats": {
-    "totalDirectories": 2386,
+    "totalDirectories": 2387,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2386.0,
-    "totalListings": 22576,
-    "aiEnhancedDirectories": 2386
+    "avgDirectoriesPerRepo": 2387.0,
+    "totalListings": 22586,
+    "aiEnhancedDirectories": 2387
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31026,12 +31026,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-crop-planning-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:54:39.509786+00:00Z",
+      "lastUpdated": "2025-11-09T04:54:39.509786+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2386,
+      "directoryCount": 2387,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

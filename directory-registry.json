@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:13:06.148328+00:00Z",
+  "lastUpdated": "2025-11-09T13:14:12.014310+00:00Z",
   "stats": {
-    "totalDirectories": 868,
+    "totalDirectories": 869,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 868.0,
-    "totalListings": 8196,
-    "aiEnhancedDirectories": 868
+    "avgDirectoriesPerRepo": 869.0,
+    "totalListings": 8206,
+    "aiEnhancedDirectories": 869
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11292,12 +11292,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-fleet-services-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:14:12.014310+00:00Z",
+      "lastUpdated": "2025-11-09T13:14:12.014310+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 868,
+      "directoryCount": 869,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

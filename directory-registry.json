@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:12:00.962905+00:00Z",
+  "lastUpdated": "2025-11-09T09:13:03.516040+00:00Z",
   "stats": {
-    "totalDirectories": 581,
+    "totalDirectories": 582,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 581.0,
-    "totalListings": 5565,
-    "aiEnhancedDirectories": 581
+    "avgDirectoriesPerRepo": 582.0,
+    "totalListings": 5570,
+    "aiEnhancedDirectories": 582
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7561,12 +7561,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-hydrotherapy-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:13:03.516040+00:00Z",
+      "lastUpdated": "2025-11-09T09:13:03.516040+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 581,
+      "directoryCount": 582,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

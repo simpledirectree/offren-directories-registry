@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:48:54.565061+00:00Z",
+  "lastUpdated": "2025-11-09T03:49:08.697923+00:00Z",
   "stats": {
-    "totalDirectories": 2162,
+    "totalDirectories": 2163,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2162.0,
-    "totalListings": 20387,
-    "aiEnhancedDirectories": 2162
+    "avgDirectoriesPerRepo": 2163.0,
+    "totalListings": 20397,
+    "aiEnhancedDirectories": 2163
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28114,12 +28114,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-custom-application-development-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:49:08.697923+00:00Z",
+      "lastUpdated": "2025-11-09T03:49:08.697923+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2162,
+      "directoryCount": 2163,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

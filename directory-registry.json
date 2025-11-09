@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:00:44.204600+00:00Z",
+  "lastUpdated": "2025-11-09T14:00:58.399699+00:00Z",
   "stats": {
-    "totalDirectories": 912,
+    "totalDirectories": 913,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 912.0,
-    "totalListings": 8607,
-    "aiEnhancedDirectories": 912
+    "avgDirectoriesPerRepo": 913.0,
+    "totalListings": 8615,
+    "aiEnhancedDirectories": 913
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11864,12 +11864,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-educational-garden-tours-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:00:58.399699+00:00Z",
+      "lastUpdated": "2025-11-09T14:00:58.399699+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 912,
+      "directoryCount": 913,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

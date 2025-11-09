@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:18:00.485396+00:00Z",
+  "lastUpdated": "2025-11-09T07:18:12.915167+00:00Z",
   "stats": {
-    "totalDirectories": 435,
+    "totalDirectories": 436,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 435.0,
-    "totalListings": 4194,
-    "aiEnhancedDirectories": 435
+    "avgDirectoriesPerRepo": 436.0,
+    "totalListings": 4197,
+    "aiEnhancedDirectories": 436
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5663,12 +5663,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-bistros-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:18:12.915167+00:00Z",
+      "lastUpdated": "2025-11-09T07:18:12.915167+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 435,
+      "directoryCount": 436,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

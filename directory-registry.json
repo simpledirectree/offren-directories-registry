@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:27:12.069487+00:00Z",
+  "lastUpdated": "2025-11-09T06:27:31.083819+00:00Z",
   "stats": {
-    "totalDirectories": 248,
+    "totalDirectories": 249,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 248.0,
-    "totalListings": 2386,
-    "aiEnhancedDirectories": 248
+    "avgDirectoriesPerRepo": 249.0,
+    "totalListings": 2396,
+    "aiEnhancedDirectories": 249
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3232,12 +3232,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-e-commerce-development-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:27:31.083819+00:00Z",
+      "lastUpdated": "2025-11-09T06:27:31.083819+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 248,
+      "directoryCount": 249,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

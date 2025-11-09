@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:04:17.161468+00:00Z",
+  "lastUpdated": "2025-11-09T06:04:34.849787+00:00Z",
   "stats": {
-    "totalDirectories": 167,
+    "totalDirectories": 168,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 167.0,
-    "totalListings": 1615,
-    "aiEnhancedDirectories": 167
+    "avgDirectoriesPerRepo": 168.0,
+    "totalListings": 1625,
+    "aiEnhancedDirectories": 168
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2179,12 +2179,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-setup-and-teardown-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:04:34.849787+00:00Z",
+      "lastUpdated": "2025-11-09T06:04:34.849787+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 167,
+      "directoryCount": 168,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

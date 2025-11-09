@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:44:39.876880+00:00Z",
+  "lastUpdated": "2025-11-09T05:44:54.853697+00:00Z",
   "stats": {
-    "totalDirectories": 97,
+    "totalDirectories": 98,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 97.0,
-    "totalListings": 930,
-    "aiEnhancedDirectories": 97
+    "avgDirectoriesPerRepo": 98.0,
+    "totalListings": 940,
+    "aiEnhancedDirectories": 98
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1269,12 +1269,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-wardrobe-consultation-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:44:54.853697+00:00Z",
+      "lastUpdated": "2025-11-09T05:44:54.853697+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 97,
+      "directoryCount": 98,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

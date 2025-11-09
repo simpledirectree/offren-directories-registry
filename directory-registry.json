@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:39:21.803408+00:00Z",
+  "lastUpdated": "2025-11-09T05:39:37.962721+00:00Z",
   "stats": {
-    "totalDirectories": 77,
+    "totalDirectories": 78,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 77.0,
-    "totalListings": 739,
-    "aiEnhancedDirectories": 77
+    "avgDirectoriesPerRepo": 78.0,
+    "totalListings": 749,
+    "aiEnhancedDirectories": 78
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1009,12 +1009,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-workers-compensation-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:39:37.962721+00:00Z",
+      "lastUpdated": "2025-11-09T05:39:37.962721+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 77,
+      "directoryCount": 78,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

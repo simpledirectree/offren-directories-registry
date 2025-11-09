@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:38:49.686543+00:00Z",
+  "lastUpdated": "2025-11-09T23:39:34.458992+00:00Z",
   "stats": {
-    "totalDirectories": 1535,
+    "totalDirectories": 1536,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1535.0,
-    "totalListings": 14442,
-    "aiEnhancedDirectories": 1535
+    "avgDirectoriesPerRepo": 1536.0,
+    "totalListings": 14452,
+    "aiEnhancedDirectories": 1536
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19963,12 +19963,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-endocrinologists-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:39:34.458992+00:00Z",
+      "lastUpdated": "2025-11-09T23:39:34.458992+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1535,
+      "directoryCount": 1536,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:05:56.498113+00:00Z",
+  "lastUpdated": "2025-11-09T05:06:12.029496+00:00Z",
   "stats": {
-    "totalDirectories": 2427,
+    "totalDirectories": 2428,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2427.0,
-    "totalListings": 22972,
-    "aiEnhancedDirectories": 2427
+    "avgDirectoriesPerRepo": 2428.0,
+    "totalListings": 22982,
+    "aiEnhancedDirectories": 2428
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31559,12 +31559,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-safety-program-development-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:06:12.029496+00:00Z",
+      "lastUpdated": "2025-11-09T05:06:12.029496+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2427,
+      "directoryCount": 2428,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

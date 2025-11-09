@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:25:19.613946+00:00Z",
+  "lastUpdated": "2025-11-09T05:25:36.935472+00:00Z",
   "stats": {
-    "totalDirectories": 24,
+    "totalDirectories": 25,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 24.0,
-    "totalListings": 235,
-    "aiEnhancedDirectories": 24
+    "avgDirectoriesPerRepo": 25.0,
+    "totalListings": 245,
+    "aiEnhancedDirectories": 25
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -320,12 +320,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-it-certification-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:25:36.935472+00:00Z",
+      "lastUpdated": "2025-11-09T05:25:36.935472+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 24,
+      "directoryCount": 25,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

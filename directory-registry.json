@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:53:05.453772+00:00Z",
+  "lastUpdated": "2025-11-09T06:53:18.422870+00:00Z",
   "stats": {
-    "totalDirectories": 344,
+    "totalDirectories": 345,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 344.0,
-    "totalListings": 3309,
-    "aiEnhancedDirectories": 344
+    "avgDirectoriesPerRepo": 345.0,
+    "totalListings": 3316,
+    "aiEnhancedDirectories": 345
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4480,12 +4480,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-casualty-insurance-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:53:18.422870+00:00Z",
+      "lastUpdated": "2025-11-09T06:53:18.422870+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 344,
+      "directoryCount": 345,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

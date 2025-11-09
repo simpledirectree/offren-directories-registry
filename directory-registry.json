@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:11:33.250207+00:00Z",
+  "lastUpdated": "2025-11-09T21:12:37.716945+00:00Z",
   "stats": {
-    "totalDirectories": 1379,
+    "totalDirectories": 1380,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1379.0,
-    "totalListings": 13005,
-    "aiEnhancedDirectories": 1379
+    "avgDirectoriesPerRepo": 1380.0,
+    "totalListings": 13015,
+    "aiEnhancedDirectories": 1380
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17935,12 +17935,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-cybersecurity-consulting-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:12:37.716945+00:00Z",
+      "lastUpdated": "2025-11-09T21:12:37.716945+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1379,
+      "directoryCount": 1380,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

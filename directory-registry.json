@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:21:43.598494+00:00Z",
+  "lastUpdated": "2025-11-09T19:21:58.786692+00:00Z",
   "stats": {
-    "totalDirectories": 1271,
+    "totalDirectories": 1272,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1271.0,
-    "totalListings": 11978,
-    "aiEnhancedDirectories": 1271
+    "avgDirectoriesPerRepo": 1272.0,
+    "totalListings": 11983,
+    "aiEnhancedDirectories": 1272
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16531,12 +16531,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-audiology-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:21:58.786692+00:00Z",
+      "lastUpdated": "2025-11-09T19:21:58.786692+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1271,
+      "directoryCount": 1272,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

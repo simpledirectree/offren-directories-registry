@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:59:02.280494+00:00Z",
+  "lastUpdated": "2025-11-09T07:59:16.411829+00:00Z",
   "stats": {
-    "totalDirectories": 498,
+    "totalDirectories": 499,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 498.0,
-    "totalListings": 4804,
-    "aiEnhancedDirectories": 498
+    "avgDirectoriesPerRepo": 499.0,
+    "totalListings": 4814,
+    "aiEnhancedDirectories": 499
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6482,12 +6482,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-flower-bed-design-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:59:16.411829+00:00Z",
+      "lastUpdated": "2025-11-09T07:59:16.411829+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 498,
+      "directoryCount": 499,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

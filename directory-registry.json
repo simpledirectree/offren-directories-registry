@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:01:29.449421+00:00Z",
+  "lastUpdated": "2025-11-09T01:01:44.415327+00:00Z",
   "stats": {
-    "totalDirectories": 1966,
+    "totalDirectories": 1967,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1966.0,
-    "totalListings": 18557,
-    "aiEnhancedDirectories": 1966
+    "avgDirectoriesPerRepo": 1967.0,
+    "totalListings": 18567,
+    "aiEnhancedDirectories": 1967
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25566,12 +25566,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-bodybuilding-coaching-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:01:44.415327+00:00Z",
+      "lastUpdated": "2025-11-09T01:01:44.415327+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1966,
+      "directoryCount": 1967,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:58:00.030278+00:00Z",
+  "lastUpdated": "2025-11-09T17:59:07.380451+00:00Z",
   "stats": {
-    "totalDirectories": 1174,
+    "totalDirectories": 1175,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1174.0,
-    "totalListings": 11092,
-    "aiEnhancedDirectories": 1174
+    "avgDirectoriesPerRepo": 1175.0,
+    "totalListings": 11102,
+    "aiEnhancedDirectories": 1175
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15270,12 +15270,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-conversion-rate-optimization-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:59:07.380451+00:00Z",
+      "lastUpdated": "2025-11-09T17:59:07.380451+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1174,
+      "directoryCount": 1175,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

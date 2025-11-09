@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:14:19.107479+00:00Z",
+  "lastUpdated": "2025-11-09T04:14:36.613065+00:00Z",
   "stats": {
-    "totalDirectories": 2250,
+    "totalDirectories": 2251,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2250.0,
-    "totalListings": 21239,
-    "aiEnhancedDirectories": 2250
+    "avgDirectoriesPerRepo": 2251.0,
+    "totalListings": 21249,
+    "aiEnhancedDirectories": 2251
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29258,12 +29258,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-hair-treatments-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:14:36.613065+00:00Z",
+      "lastUpdated": "2025-11-09T04:14:36.613065+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2250,
+      "directoryCount": 2251,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

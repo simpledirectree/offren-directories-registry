@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:13:19.811601+00:00Z",
+  "lastUpdated": "2025-11-09T21:13:46.250173+00:00Z",
   "stats": {
-    "totalDirectories": 1381,
+    "totalDirectories": 1382,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1381.0,
-    "totalListings": 13025,
-    "aiEnhancedDirectories": 1381
+    "avgDirectoriesPerRepo": 1382.0,
+    "totalListings": 13032,
+    "aiEnhancedDirectories": 1382
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17961,12 +17961,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-hospitality-consulting-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:13:46.250173+00:00Z",
+      "lastUpdated": "2025-11-09T21:13:46.250173+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1381,
+      "directoryCount": 1382,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

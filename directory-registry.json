@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:24:51.470471+00:00Z",
+  "lastUpdated": "2025-11-09T07:25:09.155511+00:00Z",
   "stats": {
-    "totalDirectories": 458,
+    "totalDirectories": 459,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 458.0,
-    "totalListings": 4412,
-    "aiEnhancedDirectories": 458
+    "avgDirectoriesPerRepo": 459.0,
+    "totalListings": 4422,
+    "aiEnhancedDirectories": 459
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5962,12 +5962,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-bathroom-design-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:25:09.155511+00:00Z",
+      "lastUpdated": "2025-11-09T07:25:09.155511+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 458,
+      "directoryCount": 459,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:36:50.207553+00:00Z",
+  "lastUpdated": "2025-11-09T05:37:03.392637+00:00Z",
   "stats": {
-    "totalDirectories": 67,
+    "totalDirectories": 68,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 67.0,
-    "totalListings": 647,
-    "aiEnhancedDirectories": 67
+    "avgDirectoriesPerRepo": 68.0,
+    "totalListings": 649,
+    "aiEnhancedDirectories": 68
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -879,12 +879,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-live-bands-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:37:03.392637+00:00Z",
+      "lastUpdated": "2025-11-09T05:37:03.392637+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 67,
+      "directoryCount": 68,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

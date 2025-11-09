@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:39:43.836100+00:00Z",
+  "lastUpdated": "2025-11-09T00:39:58.152594+00:00Z",
   "stats": {
-    "totalDirectories": 1944,
+    "totalDirectories": 1945,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1944.0,
-    "totalListings": 18355,
-    "aiEnhancedDirectories": 1944
+    "avgDirectoriesPerRepo": 1945.0,
+    "totalListings": 18365,
+    "aiEnhancedDirectories": 1945
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25280,12 +25280,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-transfer-advising-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:39:58.152594+00:00Z",
+      "lastUpdated": "2025-11-09T00:39:58.152594+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1944,
+      "directoryCount": 1945,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

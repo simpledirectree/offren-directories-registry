@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:45:42.735465+00:00Z",
+  "lastUpdated": "2025-11-09T07:48:24.409053+00:00Z",
   "stats": {
-    "totalDirectories": 486,
+    "totalDirectories": 487,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 486.0,
-    "totalListings": 4692,
-    "aiEnhancedDirectories": 486
+    "avgDirectoriesPerRepo": 487.0,
+    "totalListings": 4697,
+    "aiEnhancedDirectories": 487
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6326,12 +6326,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-night-nannies-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:48:24.409053+00:00Z",
+      "lastUpdated": "2025-11-09T07:48:24.409053+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 486,
+      "directoryCount": 487,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

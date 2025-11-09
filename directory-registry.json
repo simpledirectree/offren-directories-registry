@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:57:50.327555+00:00Z",
+  "lastUpdated": "2025-11-09T12:58:03.064861+00:00Z",
   "stats": {
-    "totalDirectories": 846,
+    "totalDirectories": 847,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 846.0,
-    "totalListings": 8004,
-    "aiEnhancedDirectories": 846
+    "avgDirectoriesPerRepo": 847.0,
+    "totalListings": 8005,
+    "aiEnhancedDirectories": 847
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11006,12 +11006,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-pathology-services-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:58:03.064861+00:00Z",
+      "lastUpdated": "2025-11-09T12:58:03.064861+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 846,
+      "directoryCount": 847,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:09:52.825301+00:00Z",
+  "lastUpdated": "2025-11-09T16:10:07.704542+00:00Z",
   "stats": {
-    "totalDirectories": 1059,
+    "totalDirectories": 1060,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1059.0,
-    "totalListings": 9986,
-    "aiEnhancedDirectories": 1059
+    "avgDirectoriesPerRepo": 1060.0,
+    "totalListings": 9996,
+    "aiEnhancedDirectories": 1060
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13775,12 +13775,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-garden-party-setup-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:10:07.704542+00:00Z",
+      "lastUpdated": "2025-11-09T16:10:07.704542+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1059,
+      "directoryCount": 1060,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

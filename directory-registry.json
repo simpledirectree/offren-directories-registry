@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:02:21.060247+00:00Z",
+  "lastUpdated": "2025-11-09T09:03:25.217289+00:00Z",
   "stats": {
-    "totalDirectories": 574,
+    "totalDirectories": 575,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 574.0,
-    "totalListings": 5500,
-    "aiEnhancedDirectories": 574
+    "avgDirectoriesPerRepo": 575.0,
+    "totalListings": 5505,
+    "aiEnhancedDirectories": 575
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7470,12 +7470,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-tax-strategy-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:03:25.217289+00:00Z",
+      "lastUpdated": "2025-11-09T09:03:25.217289+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 574,
+      "directoryCount": 575,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

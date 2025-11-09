@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:57:37.081206+00:00Z",
+  "lastUpdated": "2025-11-09T05:57:51.994173+00:00Z",
   "stats": {
-    "totalDirectories": 143,
+    "totalDirectories": 144,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 143.0,
-    "totalListings": 1375,
-    "aiEnhancedDirectories": 143
+    "avgDirectoriesPerRepo": 144.0,
+    "totalListings": 1385,
+    "aiEnhancedDirectories": 144
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1867,12 +1867,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-payment-integration-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:57:51.994173+00:00Z",
+      "lastUpdated": "2025-11-09T05:57:51.994173+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 143,
+      "directoryCount": 144,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

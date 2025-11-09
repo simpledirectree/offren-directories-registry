@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:12:02.872738+00:00Z",
+  "lastUpdated": "2025-11-09T07:12:19.802885+00:00Z",
   "stats": {
-    "totalDirectories": 413,
+    "totalDirectories": 414,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 413.0,
-    "totalListings": 3981,
-    "aiEnhancedDirectories": 413
+    "avgDirectoriesPerRepo": 414.0,
+    "totalListings": 3991,
+    "aiEnhancedDirectories": 414
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5377,12 +5377,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-media-relations-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:12:19.802885+00:00Z",
+      "lastUpdated": "2025-11-09T07:12:19.802885+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 413,
+      "directoryCount": 414,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

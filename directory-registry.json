@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:12:08.630402+00:00Z",
+  "lastUpdated": "2025-11-09T04:12:25.134316+00:00Z",
   "stats": {
-    "totalDirectories": 2242,
+    "totalDirectories": 2243,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2242.0,
-    "totalListings": 21171,
-    "aiEnhancedDirectories": 2242
+    "avgDirectoriesPerRepo": 2243.0,
+    "totalListings": 21181,
+    "aiEnhancedDirectories": 2243
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29154,12 +29154,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-vinyasa-yoga-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:12:25.134316+00:00Z",
+      "lastUpdated": "2025-11-09T04:12:25.134316+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2242,
+      "directoryCount": 2243,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

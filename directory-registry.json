@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:32:58.005013+00:00Z",
+  "lastUpdated": "2025-11-09T04:33:13.165049+00:00Z",
   "stats": {
-    "totalDirectories": 2313,
+    "totalDirectories": 2314,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2313.0,
-    "totalListings": 21853,
-    "aiEnhancedDirectories": 2313
+    "avgDirectoriesPerRepo": 2314.0,
+    "totalListings": 21863,
+    "aiEnhancedDirectories": 2314
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30077,12 +30077,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-commercial-moving-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:33:13.165049+00:00Z",
+      "lastUpdated": "2025-11-09T04:33:13.165049+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2313,
+      "directoryCount": 2314,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:23:30.975972+00:00Z",
+  "lastUpdated": "2025-11-09T05:23:47.660705+00:00Z",
   "stats": {
-    "totalDirectories": 17,
+    "totalDirectories": 18,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 17.0,
-    "totalListings": 165,
-    "aiEnhancedDirectories": 17
+    "avgDirectoriesPerRepo": 18.0,
+    "totalListings": 175,
+    "aiEnhancedDirectories": 18
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -229,12 +229,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-multi-channel-selling-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:23:47.660705+00:00Z",
+      "lastUpdated": "2025-11-09T05:23:47.660705+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 17,
+      "directoryCount": 18,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

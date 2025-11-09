@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:55:00.333414+00:00Z",
+  "lastUpdated": "2025-11-09T12:57:50.327555+00:00Z",
   "stats": {
-    "totalDirectories": 845,
+    "totalDirectories": 846,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 845.0,
-    "totalListings": 7994,
-    "aiEnhancedDirectories": 845
+    "avgDirectoriesPerRepo": 846.0,
+    "totalListings": 8004,
+    "aiEnhancedDirectories": 846
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10993,12 +10993,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-e-commerce-development-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:57:50.327555+00:00Z",
+      "lastUpdated": "2025-11-09T12:57:50.327555+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 845,
+      "directoryCount": 846,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

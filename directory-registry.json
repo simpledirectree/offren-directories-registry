@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:41:11.943354+00:00Z",
+  "lastUpdated": "2025-11-09T23:41:55.323038+00:00Z",
   "stats": {
-    "totalDirectories": 1539,
+    "totalDirectories": 1540,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1539.0,
-    "totalListings": 14482,
-    "aiEnhancedDirectories": 1539
+    "avgDirectoriesPerRepo": 1540.0,
+    "totalListings": 14492,
+    "aiEnhancedDirectories": 1540
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20015,12 +20015,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-tax-preparation-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:41:55.323038+00:00Z",
+      "lastUpdated": "2025-11-09T23:41:55.323038+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1539,
+      "directoryCount": 1540,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

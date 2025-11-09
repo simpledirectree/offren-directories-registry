@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:40:41.662892+00:00Z",
+  "lastUpdated": "2025-11-09T04:40:59.979919+00:00Z",
   "stats": {
-    "totalDirectories": 2339,
+    "totalDirectories": 2340,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2339.0,
-    "totalListings": 22113,
-    "aiEnhancedDirectories": 2339
+    "avgDirectoriesPerRepo": 2340.0,
+    "totalListings": 22123,
+    "aiEnhancedDirectories": 2340
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30415,12 +30415,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-pet-grooming-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:40:59.979919+00:00Z",
+      "lastUpdated": "2025-11-09T04:40:59.979919+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2339,
+      "directoryCount": 2340,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

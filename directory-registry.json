@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:25:08.390312+00:00Z",
+  "lastUpdated": "2025-11-09T17:25:50.439846+00:00Z",
   "stats": {
-    "totalDirectories": 1137,
+    "totalDirectories": 1138,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1137.0,
-    "totalListings": 10726,
-    "aiEnhancedDirectories": 1137
+    "avgDirectoriesPerRepo": 1138.0,
+    "totalListings": 10732,
+    "aiEnhancedDirectories": 1138
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14789,12 +14789,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-salt-therapy-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:25:50.439846+00:00Z",
+      "lastUpdated": "2025-11-09T17:25:50.439846+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1137,
+      "directoryCount": 1138,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

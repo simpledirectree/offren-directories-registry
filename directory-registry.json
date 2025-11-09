@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:56:43.535108+00:00Z",
+  "lastUpdated": "2025-11-09T20:56:57.285763+00:00Z",
   "stats": {
-    "totalDirectories": 1366,
+    "totalDirectories": 1367,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1366.0,
-    "totalListings": 12875,
-    "aiEnhancedDirectories": 1366
+    "avgDirectoriesPerRepo": 1367.0,
+    "totalListings": 12885,
+    "aiEnhancedDirectories": 1367
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17766,12 +17766,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-immersion-programs-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:56:57.285763+00:00Z",
+      "lastUpdated": "2025-11-09T20:56:57.285763+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1366,
+      "directoryCount": 1367,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

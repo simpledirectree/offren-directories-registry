@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:41:56.857969+00:00Z",
+  "lastUpdated": "2025-11-09T02:42:38.332123+00:00Z",
   "stats": {
-    "totalDirectories": 2085,
+    "totalDirectories": 2086,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2085.0,
-    "totalListings": 19654,
-    "aiEnhancedDirectories": 2085
+    "avgDirectoriesPerRepo": 2086.0,
+    "totalListings": 19664,
+    "aiEnhancedDirectories": 2086
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27113,12 +27113,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-data-visualization-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:42:38.332123+00:00Z",
+      "lastUpdated": "2025-11-09T02:42:38.332123+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2085,
+      "directoryCount": 2086,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

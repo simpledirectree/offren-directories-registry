@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:10:34.928570+00:00Z",
+  "lastUpdated": "2025-11-09T01:10:49.814292+00:00Z",
   "stats": {
-    "totalDirectories": 1977,
+    "totalDirectories": 1978,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1977.0,
-    "totalListings": 18663,
-    "aiEnhancedDirectories": 1977
+    "avgDirectoriesPerRepo": 1978.0,
+    "totalListings": 18673,
+    "aiEnhancedDirectories": 1978
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25709,12 +25709,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-controller-services-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:10:49.814292+00:00Z",
+      "lastUpdated": "2025-11-09T01:10:49.814292+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1977,
+      "directoryCount": 1978,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

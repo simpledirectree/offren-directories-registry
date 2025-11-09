@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:38:38.647766+00:00Z",
+  "lastUpdated": "2025-11-09T04:38:54.895484+00:00Z",
   "stats": {
-    "totalDirectories": 2333,
+    "totalDirectories": 2334,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2333.0,
-    "totalListings": 22053,
-    "aiEnhancedDirectories": 2333
+    "avgDirectoriesPerRepo": 2334.0,
+    "totalListings": 22063,
+    "aiEnhancedDirectories": 2334
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30337,12 +30337,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-business-language-training-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:38:54.895484+00:00Z",
+      "lastUpdated": "2025-11-09T04:38:54.895484+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2333,
+      "directoryCount": 2334,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:23:47.189125+00:00Z",
+  "lastUpdated": "2025-11-09T04:24:02.432202+00:00Z",
   "stats": {
-    "totalDirectories": 2281,
+    "totalDirectories": 2282,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2281.0,
-    "totalListings": 21542,
-    "aiEnhancedDirectories": 2281
+    "avgDirectoriesPerRepo": 2282.0,
+    "totalListings": 21548,
+    "aiEnhancedDirectories": 2282
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29661,12 +29661,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-eyebrow-threading-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:24:02.432202+00:00Z",
+      "lastUpdated": "2025-11-09T04:24:02.432202+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2281,
+      "directoryCount": 2282,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

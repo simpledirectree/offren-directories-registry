@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:00:13.159507+00:00Z",
+  "lastUpdated": "2025-11-09T22:00:53.051518+00:00Z",
   "stats": {
-    "totalDirectories": 1435,
+    "totalDirectories": 1436,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1435.0,
-    "totalListings": 13532,
-    "aiEnhancedDirectories": 1435
+    "avgDirectoriesPerRepo": 1436.0,
+    "totalListings": 13542,
+    "aiEnhancedDirectories": 1436
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18663,12 +18663,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-renters-insurance-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:00:53.051518+00:00Z",
+      "lastUpdated": "2025-11-09T22:00:53.051518+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1435,
+      "directoryCount": 1436,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

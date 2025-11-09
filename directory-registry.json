@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:47:42.202749+00:00Z",
+  "lastUpdated": "2025-11-09T22:48:45.377405+00:00Z",
   "stats": {
-    "totalDirectories": 1483,
+    "totalDirectories": 1484,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1483.0,
-    "totalListings": 13973,
-    "aiEnhancedDirectories": 1483
+    "avgDirectoriesPerRepo": 1484.0,
+    "totalListings": 13978,
+    "aiEnhancedDirectories": 1484
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19287,12 +19287,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-regulatory-compliance-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:48:45.377405+00:00Z",
+      "lastUpdated": "2025-11-09T22:48:45.377405+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1483,
+      "directoryCount": 1484,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:58:47.251289+00:00Z",
+  "lastUpdated": "2025-11-09T06:59:03.150407+00:00Z",
   "stats": {
-    "totalDirectories": 365,
+    "totalDirectories": 366,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 365.0,
-    "totalListings": 3516,
-    "aiEnhancedDirectories": 365
+    "avgDirectoriesPerRepo": 366.0,
+    "totalListings": 3526,
+    "aiEnhancedDirectories": 366
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4753,12 +4753,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-pet-sitters-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:59:03.150407+00:00Z",
+      "lastUpdated": "2025-11-09T06:59:03.150407+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 365,
+      "directoryCount": 366,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

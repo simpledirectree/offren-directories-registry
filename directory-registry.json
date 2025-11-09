@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:50:49.853453+00:00Z",
+  "lastUpdated": "2025-11-09T06:51:04.074556+00:00Z",
   "stats": {
-    "totalDirectories": 336,
+    "totalDirectories": 337,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 336.0,
-    "totalListings": 3229,
-    "aiEnhancedDirectories": 336
+    "avgDirectoriesPerRepo": 337.0,
+    "totalListings": 3239,
+    "aiEnhancedDirectories": 337
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4376,12 +4376,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-elopements-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:51:04.074556+00:00Z",
+      "lastUpdated": "2025-11-09T06:51:04.074556+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 336,
+      "directoryCount": 337,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

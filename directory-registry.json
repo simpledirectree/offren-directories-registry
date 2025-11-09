@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:18:31.335837+00:00Z",
+  "lastUpdated": "2025-11-09T21:21:41.312210+00:00Z",
   "stats": {
-    "totalDirectories": 1389,
+    "totalDirectories": 1390,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1389.0,
-    "totalListings": 13102,
-    "aiEnhancedDirectories": 1389
+    "avgDirectoriesPerRepo": 1390.0,
+    "totalListings": 13110,
+    "aiEnhancedDirectories": 1390
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18065,12 +18065,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-ayurvedic-medicine-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:21:41.312210+00:00Z",
+      "lastUpdated": "2025-11-09T21:21:41.312210+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1389,
+      "directoryCount": 1390,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

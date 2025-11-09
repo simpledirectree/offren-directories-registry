@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:16:32.200771+00:00Z",
+  "lastUpdated": "2025-11-09T04:16:46.961761+00:00Z",
   "stats": {
-    "totalDirectories": 2258,
+    "totalDirectories": 2259,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2258.0,
-    "totalListings": 21314,
-    "aiEnhancedDirectories": 2258
+    "avgDirectoriesPerRepo": 2259.0,
+    "totalListings": 21324,
+    "aiEnhancedDirectories": 2259
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29362,12 +29362,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-architectural-visualization-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:16:46.961761+00:00Z",
+      "lastUpdated": "2025-11-09T04:16:46.961761+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2258,
+      "directoryCount": 2259,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

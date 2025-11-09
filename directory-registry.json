@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:12:33.950349+00:00Z",
+  "lastUpdated": "2025-11-09T11:13:37.763671+00:00Z",
   "stats": {
-    "totalDirectories": 733,
+    "totalDirectories": 734,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 733.0,
-    "totalListings": 6984,
-    "aiEnhancedDirectories": 733
+    "avgDirectoriesPerRepo": 734.0,
+    "totalListings": 6994,
+    "aiEnhancedDirectories": 734
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9537,12 +9537,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-cognitive-behavioral-therapy-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:13:37.763671+00:00Z",
+      "lastUpdated": "2025-11-09T11:13:37.763671+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 733,
+      "directoryCount": 734,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

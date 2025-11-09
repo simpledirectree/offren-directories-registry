@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:55:46.907505+00:00Z",
+  "lastUpdated": "2025-11-09T06:56:03.579133+00:00Z",
   "stats": {
-    "totalDirectories": 354,
+    "totalDirectories": 355,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 354.0,
-    "totalListings": 3406,
-    "aiEnhancedDirectories": 354
+    "avgDirectoriesPerRepo": 355.0,
+    "totalListings": 3416,
+    "aiEnhancedDirectories": 355
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4610,12 +4610,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-intellectual-property-law-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:56:03.579133+00:00Z",
+      "lastUpdated": "2025-11-09T06:56:03.579133+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 354,
+      "directoryCount": 355,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

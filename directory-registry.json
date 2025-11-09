@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:18:29.359865+00:00Z",
+  "lastUpdated": "2025-11-09T06:18:43.200706+00:00Z",
   "stats": {
-    "totalDirectories": 216,
+    "totalDirectories": 217,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 216.0,
-    "totalListings": 2090,
-    "aiEnhancedDirectories": 216
+    "avgDirectoriesPerRepo": 217.0,
+    "totalListings": 2095,
+    "aiEnhancedDirectories": 217
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2816,12 +2816,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-corporate-law-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:18:43.200706+00:00Z",
+      "lastUpdated": "2025-11-09T06:18:43.200706+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 216,
+      "directoryCount": 217,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

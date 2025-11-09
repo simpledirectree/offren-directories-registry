@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:55:45.979802+00:00Z",
+  "lastUpdated": "2025-11-09T20:56:29.176098+00:00Z",
   "stats": {
-    "totalDirectories": 1364,
+    "totalDirectories": 1365,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1364.0,
-    "totalListings": 12858,
-    "aiEnhancedDirectories": 1364
+    "avgDirectoriesPerRepo": 1365.0,
+    "totalListings": 12865,
+    "aiEnhancedDirectories": 1365
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17740,12 +17740,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-homeschool-networks-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:56:29.176098+00:00Z",
+      "lastUpdated": "2025-11-09T20:56:29.176098+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1364,
+      "directoryCount": 1365,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

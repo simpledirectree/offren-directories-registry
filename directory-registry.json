@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:11:50.558498+00:00Z",
+  "lastUpdated": "2025-11-09T04:12:08.630402+00:00Z",
   "stats": {
-    "totalDirectories": 2241,
+    "totalDirectories": 2242,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2241.0,
-    "totalListings": 21161,
-    "aiEnhancedDirectories": 2241
+    "avgDirectoriesPerRepo": 2242.0,
+    "totalListings": 21171,
+    "aiEnhancedDirectories": 2242
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29141,12 +29141,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-k-12-tutoring-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:12:08.630402+00:00Z",
+      "lastUpdated": "2025-11-09T04:12:08.630402+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2241,
+      "directoryCount": 2242,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

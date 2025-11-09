@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:15:32.037908+00:00Z",
+  "lastUpdated": "2025-11-09T12:16:13.678242+00:00Z",
   "stats": {
-    "totalDirectories": 804,
+    "totalDirectories": 805,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 804.0,
-    "totalListings": 7623,
-    "aiEnhancedDirectories": 804
+    "avgDirectoriesPerRepo": 805.0,
+    "totalListings": 7633,
+    "aiEnhancedDirectories": 805
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10460,12 +10460,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-yin-yoga-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:16:13.678242+00:00Z",
+      "lastUpdated": "2025-11-09T12:16:13.678242+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 804,
+      "directoryCount": 805,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

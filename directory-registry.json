@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:50:50.276191+00:00Z",
+  "lastUpdated": "2025-11-09T03:51:06.600615+00:00Z",
   "stats": {
-    "totalDirectories": 2169,
+    "totalDirectories": 2170,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2169.0,
-    "totalListings": 20457,
-    "aiEnhancedDirectories": 2169
+    "avgDirectoriesPerRepo": 2170.0,
+    "totalListings": 20467,
+    "aiEnhancedDirectories": 2170
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28205,12 +28205,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-indoor-plant-care-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:51:06.600615+00:00Z",
+      "lastUpdated": "2025-11-09T03:51:06.600615+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2169,
+      "directoryCount": 2170,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

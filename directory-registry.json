@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:31:39.223870+00:00Z",
+  "lastUpdated": "2025-11-09T08:32:46.346304+00:00Z",
   "stats": {
-    "totalDirectories": 534,
+    "totalDirectories": 535,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 534.0,
-    "totalListings": 5146,
-    "aiEnhancedDirectories": 534
+    "avgDirectoriesPerRepo": 535.0,
+    "totalListings": 5156,
+    "aiEnhancedDirectories": 535
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6950,12 +6950,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-direct-restaurant-delivery-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:32:46.346304+00:00Z",
+      "lastUpdated": "2025-11-09T08:32:46.346304+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 534,
+      "directoryCount": 535,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:18:48.175939+00:00Z",
+  "lastUpdated": "2025-11-09T17:20:23.369869+00:00Z",
   "stats": {
-    "totalDirectories": 1125,
+    "totalDirectories": 1126,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1125.0,
-    "totalListings": 10612,
-    "aiEnhancedDirectories": 1125
+    "avgDirectoriesPerRepo": 1126.0,
+    "totalListings": 10621,
+    "aiEnhancedDirectories": 1126
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14633,12 +14633,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-classic-car-restoration-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:20:23.369869+00:00Z",
+      "lastUpdated": "2025-11-09T17:20:23.369869+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1125,
+      "directoryCount": 1126,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

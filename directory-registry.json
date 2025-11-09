@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:14:35.304115+00:00Z",
+  "lastUpdated": "2025-11-09T18:14:48.401919+00:00Z",
   "stats": {
-    "totalDirectories": 1193,
+    "totalDirectories": 1194,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1193.0,
-    "totalListings": 11261,
-    "aiEnhancedDirectories": 1193
+    "avgDirectoriesPerRepo": 1194.0,
+    "totalListings": 11265,
+    "aiEnhancedDirectories": 1194
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15517,12 +15517,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-construction-labor-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:14:48.401919+00:00Z",
+      "lastUpdated": "2025-11-09T18:14:48.401919+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1193,
+      "directoryCount": 1194,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

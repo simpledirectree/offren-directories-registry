@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:47:40.039710+00:00Z",
+  "lastUpdated": "2025-11-09T05:47:56.071328+00:00Z",
   "stats": {
-    "totalDirectories": 109,
+    "totalDirectories": 110,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 109.0,
-    "totalListings": 1049,
-    "aiEnhancedDirectories": 109
+    "avgDirectoriesPerRepo": 110.0,
+    "totalListings": 1059,
+    "aiEnhancedDirectories": 110
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1425,12 +1425,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-landing-pages-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:47:56.071328+00:00Z",
+      "lastUpdated": "2025-11-09T05:47:56.071328+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 109,
+      "directoryCount": 110,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

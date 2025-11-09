@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:31:12.114069+00:00Z",
+  "lastUpdated": "2025-11-09T02:33:14.421588+00:00Z",
   "stats": {
-    "totalDirectories": 2076,
+    "totalDirectories": 2077,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2076.0,
-    "totalListings": 19580,
-    "aiEnhancedDirectories": 2076
+    "avgDirectoriesPerRepo": 2077.0,
+    "totalListings": 19589,
+    "aiEnhancedDirectories": 2077
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26996,12 +26996,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-livestock-care-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:33:14.421588+00:00Z",
+      "lastUpdated": "2025-11-09T02:33:14.421588+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2076,
+      "directoryCount": 2077,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

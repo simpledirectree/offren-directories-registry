@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:45:00.657054+00:00Z",
+  "lastUpdated": "2025-11-09T04:45:20.307501+00:00Z",
   "stats": {
-    "totalDirectories": 2354,
+    "totalDirectories": 2355,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2354.0,
-    "totalListings": 22263,
-    "aiEnhancedDirectories": 2354
+    "avgDirectoriesPerRepo": 2355.0,
+    "totalListings": 22273,
+    "aiEnhancedDirectories": 2355
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30610,12 +30610,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-life-coaching-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:45:20.307501+00:00Z",
+      "lastUpdated": "2025-11-09T04:45:20.307501+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2354,
+      "directoryCount": 2355,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

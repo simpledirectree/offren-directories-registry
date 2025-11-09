@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:59:54.057297+00:00Z",
+  "lastUpdated": "2025-11-09T07:00:11.924032+00:00Z",
   "stats": {
-    "totalDirectories": 369,
+    "totalDirectories": 370,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 369.0,
-    "totalListings": 3556,
-    "aiEnhancedDirectories": 369
+    "avgDirectoriesPerRepo": 370.0,
+    "totalListings": 3566,
+    "aiEnhancedDirectories": 370
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4805,12 +4805,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-therapists-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:00:11.924032+00:00Z",
+      "lastUpdated": "2025-11-09T07:00:11.924032+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 369,
+      "directoryCount": 370,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

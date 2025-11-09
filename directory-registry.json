@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:44:18.184901+00:00Z",
+  "lastUpdated": "2025-11-09T22:45:24.344930+00:00Z",
   "stats": {
-    "totalDirectories": 1480,
+    "totalDirectories": 1481,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1480.0,
-    "totalListings": 13950,
-    "aiEnhancedDirectories": 1480
+    "avgDirectoriesPerRepo": 1481.0,
+    "totalListings": 13953,
+    "aiEnhancedDirectories": 1481
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19248,12 +19248,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-roofing-repair-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:45:24.344930+00:00Z",
+      "lastUpdated": "2025-11-09T22:45:24.344930+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1480,
+      "directoryCount": 1481,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

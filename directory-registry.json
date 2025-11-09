@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:14:18.327090+00:00Z",
+  "lastUpdated": "2025-11-09T05:14:30.949161+00:00Z",
   "stats": {
-    "totalDirectories": 2455,
+    "totalDirectories": 2456,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2455.0,
-    "totalListings": 23232,
-    "aiEnhancedDirectories": 2455
+    "avgDirectoriesPerRepo": 2456.0,
+    "totalListings": 23233,
+    "aiEnhancedDirectories": 2456
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31923,12 +31923,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-bbq-catering-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:14:30.949161+00:00Z",
+      "lastUpdated": "2025-11-09T05:14:30.949161+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2455,
+      "directoryCount": 2456,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

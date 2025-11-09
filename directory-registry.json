@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:02:51.991292+00:00Z",
+  "lastUpdated": "2025-11-09T05:03:07.462555+00:00Z",
   "stats": {
-    "totalDirectories": 2416,
+    "totalDirectories": 2417,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2416.0,
-    "totalListings": 22862,
-    "aiEnhancedDirectories": 2416
+    "avgDirectoriesPerRepo": 2417.0,
+    "totalListings": 22872,
+    "aiEnhancedDirectories": 2417
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31416,12 +31416,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-social-catering-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:03:07.462555+00:00Z",
+      "lastUpdated": "2025-11-09T05:03:07.462555+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2416,
+      "directoryCount": 2417,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:10:28.483691+00:00Z",
+  "lastUpdated": "2025-11-09T13:12:48.532909+00:00Z",
   "stats": {
-    "totalDirectories": 866,
+    "totalDirectories": 867,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 866.0,
-    "totalListings": 8176,
-    "aiEnhancedDirectories": 866
+    "avgDirectoriesPerRepo": 867.0,
+    "totalListings": 8186,
+    "aiEnhancedDirectories": 867
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11266,12 +11266,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-international-trade-compliance-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:12:48.532909+00:00Z",
+      "lastUpdated": "2025-11-09T13:12:48.532909+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 866,
+      "directoryCount": 867,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

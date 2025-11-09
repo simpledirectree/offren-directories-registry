@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:08:29.602746+00:00Z",
+  "lastUpdated": "2025-11-09T07:08:43.651016+00:00Z",
   "stats": {
-    "totalDirectories": 400,
+    "totalDirectories": 401,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 400.0,
-    "totalListings": 3851,
-    "aiEnhancedDirectories": 400
+    "avgDirectoriesPerRepo": 401.0,
+    "totalListings": 3861,
+    "aiEnhancedDirectories": 401
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5208,12 +5208,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-functional-medicine-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:08:43.651016+00:00Z",
+      "lastUpdated": "2025-11-09T07:08:43.651016+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 400,
+      "directoryCount": 401,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

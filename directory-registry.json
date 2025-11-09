@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:29:57.432433+00:00Z",
+  "lastUpdated": "2025-11-09T01:30:12.974492+00:00Z",
   "stats": {
-    "totalDirectories": 2003,
+    "totalDirectories": 2004,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2003.0,
-    "totalListings": 18911,
-    "aiEnhancedDirectories": 2003
+    "avgDirectoriesPerRepo": 2004.0,
+    "totalListings": 18918,
+    "aiEnhancedDirectories": 2004
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26047,12 +26047,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-part-time-nannies-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:30:12.974492+00:00Z",
+      "lastUpdated": "2025-11-09T01:30:12.974492+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2003,
+      "directoryCount": 2004,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:52:43.900739+00:00Z",
+  "lastUpdated": "2025-11-09T11:52:58.120792+00:00Z",
   "stats": {
-    "totalDirectories": 775,
+    "totalDirectories": 776,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 775.0,
-    "totalListings": 7351,
-    "aiEnhancedDirectories": 775
+    "avgDirectoriesPerRepo": 776.0,
+    "totalListings": 7361,
+    "aiEnhancedDirectories": 776
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10083,12 +10083,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-event-setup-crews-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:52:58.120792+00:00Z",
+      "lastUpdated": "2025-11-09T11:52:58.120792+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 775,
+      "directoryCount": 776,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

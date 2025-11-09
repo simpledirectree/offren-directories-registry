@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:08:43.651016+00:00Z",
+  "lastUpdated": "2025-11-09T07:09:00.665127+00:00Z",
   "stats": {
-    "totalDirectories": 401,
+    "totalDirectories": 402,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 401.0,
-    "totalListings": 3861,
-    "aiEnhancedDirectories": 401
+    "avgDirectoriesPerRepo": 402.0,
+    "totalListings": 3871,
+    "aiEnhancedDirectories": 402
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5221,12 +5221,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-cryotherapy-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:09:00.665127+00:00Z",
+      "lastUpdated": "2025-11-09T07:09:00.665127+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 401,
+      "directoryCount": 402,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

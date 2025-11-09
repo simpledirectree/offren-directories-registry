@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:21:48.757575+00:00Z",
+  "lastUpdated": "2025-11-09T07:22:02.551035+00:00Z",
   "stats": {
-    "totalDirectories": 449,
+    "totalDirectories": 450,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 449.0,
-    "totalListings": 4322,
-    "aiEnhancedDirectories": 449
+    "avgDirectoriesPerRepo": 450.0,
+    "totalListings": 4332,
+    "aiEnhancedDirectories": 450
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5845,12 +5845,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-athletic-meal-prep-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:22:02.551035+00:00Z",
+      "lastUpdated": "2025-11-09T07:22:02.551035+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 449,
+      "directoryCount": 450,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

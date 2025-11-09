@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:54:16.108087+00:00Z",
+  "lastUpdated": "2025-11-09T11:54:55.755486+00:00Z",
   "stats": {
-    "totalDirectories": 778,
+    "totalDirectories": 779,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 778.0,
-    "totalListings": 7381,
-    "aiEnhancedDirectories": 778
+    "avgDirectoriesPerRepo": 779.0,
+    "totalListings": 7391,
+    "aiEnhancedDirectories": 779
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10122,12 +10122,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-garden-center-consultation-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:54:55.755486+00:00Z",
+      "lastUpdated": "2025-11-09T11:54:55.755486+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 778,
+      "directoryCount": 779,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

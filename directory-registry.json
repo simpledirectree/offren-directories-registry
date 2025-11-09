@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:35:26.017950+00:00Z",
+  "lastUpdated": "2025-11-09T05:35:43.633601+00:00Z",
   "stats": {
-    "totalDirectories": 62,
+    "totalDirectories": 63,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 62.0,
-    "totalListings": 602,
-    "aiEnhancedDirectories": 62
+    "avgDirectoriesPerRepo": 63.0,
+    "totalListings": 612,
+    "aiEnhancedDirectories": 63
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -814,12 +814,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-2d-animation-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:35:43.633601+00:00Z",
+      "lastUpdated": "2025-11-09T05:35:43.633601+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 62,
+      "directoryCount": 63,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:18:50.551207+00:00Z",
+  "lastUpdated": "2025-11-09T04:19:05.550205+00:00Z",
   "stats": {
-    "totalDirectories": 2264,
+    "totalDirectories": 2265,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2264.0,
-    "totalListings": 21374,
-    "aiEnhancedDirectories": 2264
+    "avgDirectoriesPerRepo": 2265.0,
+    "totalListings": 21384,
+    "aiEnhancedDirectories": 2265
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29440,12 +29440,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-debate-coaching-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:19:05.550205+00:00Z",
+      "lastUpdated": "2025-11-09T04:19:05.550205+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2264,
+      "directoryCount": 2265,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

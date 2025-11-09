@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:37:19.248345+00:00Z",
+  "lastUpdated": "2025-11-09T15:37:32.675355+00:00Z",
   "stats": {
-    "totalDirectories": 1024,
+    "totalDirectories": 1025,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1024.0,
-    "totalListings": 9645,
-    "aiEnhancedDirectories": 1024
+    "avgDirectoriesPerRepo": 1025.0,
+    "totalListings": 9655,
+    "aiEnhancedDirectories": 1025
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13320,12 +13320,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-aromatherapy-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:37:32.675355+00:00Z",
+      "lastUpdated": "2025-11-09T15:37:32.675355+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1024,
+      "directoryCount": 1025,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

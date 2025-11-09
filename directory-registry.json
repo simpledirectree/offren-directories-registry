@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:59:44.344751+00:00Z",
+  "lastUpdated": "2025-11-09T04:59:58.012590+00:00Z",
   "stats": {
-    "totalDirectories": 2405,
+    "totalDirectories": 2406,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2405.0,
-    "totalListings": 22764,
-    "aiEnhancedDirectories": 2405
+    "avgDirectoriesPerRepo": 2406.0,
+    "totalListings": 22767,
+    "aiEnhancedDirectories": 2406
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31273,12 +31273,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-entity-selection-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:59:58.012590+00:00Z",
+      "lastUpdated": "2025-11-09T04:59:58.012590+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2405,
+      "directoryCount": 2406,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

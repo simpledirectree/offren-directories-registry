@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:36:09.262056+00:00Z",
+  "lastUpdated": "2025-11-09T21:36:48.716607+00:00Z",
   "stats": {
-    "totalDirectories": 1406,
+    "totalDirectories": 1407,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1406.0,
-    "totalListings": 13269,
-    "aiEnhancedDirectories": 1406
+    "avgDirectoriesPerRepo": 1407.0,
+    "totalListings": 13270,
+    "aiEnhancedDirectories": 1407
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18286,12 +18286,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-commercial-driver-training-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:36:48.716607+00:00Z",
+      "lastUpdated": "2025-11-09T21:36:48.716607+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1406,
+      "directoryCount": 1407,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

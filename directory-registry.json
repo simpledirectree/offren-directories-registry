@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:55:49.713495+00:00Z",
+  "lastUpdated": "2025-11-09T04:56:04.922860+00:00Z",
   "stats": {
-    "totalDirectories": 2391,
+    "totalDirectories": 2392,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2391.0,
-    "totalListings": 22626,
-    "aiEnhancedDirectories": 2391
+    "avgDirectoriesPerRepo": 2392.0,
+    "totalListings": 22636,
+    "aiEnhancedDirectories": 2392
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31091,12 +31091,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-fence-installation-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:56:04.922860+00:00Z",
+      "lastUpdated": "2025-11-09T04:56:04.922860+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2391,
+      "directoryCount": 2392,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

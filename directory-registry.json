@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:14:17.609365+00:00Z",
+  "lastUpdated": "2025-11-09T07:14:33.279606+00:00Z",
   "stats": {
-    "totalDirectories": 421,
+    "totalDirectories": 422,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 421.0,
-    "totalListings": 4056,
-    "aiEnhancedDirectories": 421
+    "avgDirectoriesPerRepo": 422.0,
+    "totalListings": 4065,
+    "aiEnhancedDirectories": 422
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5481,12 +5481,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-teen-driver-education-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:14:33.279606+00:00Z",
+      "lastUpdated": "2025-11-09T07:14:33.279606+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 421,
+      "directoryCount": 422,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

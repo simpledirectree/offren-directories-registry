@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:11:28.665568+00:00Z",
+  "lastUpdated": "2025-11-09T09:11:45.422135+00:00Z",
   "stats": {
-    "totalDirectories": 579,
+    "totalDirectories": 580,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 579.0,
-    "totalListings": 5545,
-    "aiEnhancedDirectories": 579
+    "avgDirectoriesPerRepo": 580.0,
+    "totalListings": 5555,
+    "aiEnhancedDirectories": 580
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7535,12 +7535,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-dermatologists-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:11:45.422135+00:00Z",
+      "lastUpdated": "2025-11-09T09:11:45.422135+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 579,
+      "directoryCount": 580,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:22:28.834345+00:00Z",
+  "lastUpdated": "2025-11-09T12:23:09.155556+00:00Z",
   "stats": {
-    "totalDirectories": 817,
+    "totalDirectories": 818,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 817.0,
-    "totalListings": 7734,
-    "aiEnhancedDirectories": 817
+    "avgDirectoriesPerRepo": 818.0,
+    "totalListings": 7744,
+    "aiEnhancedDirectories": 818
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10629,12 +10629,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-landscape-renovation-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:23:09.155556+00:00Z",
+      "lastUpdated": "2025-11-09T12:23:09.155556+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 817,
+      "directoryCount": 818,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

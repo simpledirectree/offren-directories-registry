@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:15:34.317507+00:00Z",
+  "lastUpdated": "2025-11-09T05:15:52.568308+00:00Z",
   "stats": {
-    "totalDirectories": 2460,
+    "totalDirectories": 2461,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2460.0,
-    "totalListings": 23268,
-    "aiEnhancedDirectories": 2460
+    "avgDirectoriesPerRepo": 2461.0,
+    "totalListings": 23278,
+    "aiEnhancedDirectories": 2461
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31988,12 +31988,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-business-language-training-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:15:52.568308+00:00Z",
+      "lastUpdated": "2025-11-09T05:15:52.568308+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2460,
+      "directoryCount": 2461,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

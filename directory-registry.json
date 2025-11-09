@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:04:34.849787+00:00Z",
+  "lastUpdated": "2025-11-09T06:04:51.847409+00:00Z",
   "stats": {
-    "totalDirectories": 168,
+    "totalDirectories": 169,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 168.0,
-    "totalListings": 1625,
-    "aiEnhancedDirectories": 168
+    "avgDirectoriesPerRepo": 169.0,
+    "totalListings": 1635,
+    "aiEnhancedDirectories": 169
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2192,12 +2192,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-conversational-practice-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:04:51.847409+00:00Z",
+      "lastUpdated": "2025-11-09T06:04:51.847409+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 168,
+      "directoryCount": 169,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

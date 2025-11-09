@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:53:53.256570+00:00Z",
+  "lastUpdated": "2025-11-09T06:54:09.047244+00:00Z",
   "stats": {
-    "totalDirectories": 347,
+    "totalDirectories": 348,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 347.0,
-    "totalListings": 3336,
-    "aiEnhancedDirectories": 347
+    "avgDirectoriesPerRepo": 348.0,
+    "totalListings": 3346,
+    "aiEnhancedDirectories": 348
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4519,12 +4519,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-karate-classes-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:54:09.047244+00:00Z",
+      "lastUpdated": "2025-11-09T06:54:09.047244+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 347,
+      "directoryCount": 348,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

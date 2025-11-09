@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:04:36.249918+00:00Z",
+  "lastUpdated": "2025-11-09T16:04:51.580144+00:00Z",
   "stats": {
-    "totalDirectories": 1054,
+    "totalDirectories": 1055,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1054.0,
-    "totalListings": 9936,
-    "aiEnhancedDirectories": 1054
+    "avgDirectoriesPerRepo": 1055.0,
+    "totalListings": 9946,
+    "aiEnhancedDirectories": 1055
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13710,12 +13710,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-risk-assessments-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:04:51.580144+00:00Z",
+      "lastUpdated": "2025-11-09T16:04:51.580144+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1054,
+      "directoryCount": 1055,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

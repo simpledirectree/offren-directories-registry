@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:54:33.068547+00:00Z",
+  "lastUpdated": "2025-11-09T18:56:03.466614+00:00Z",
   "stats": {
-    "totalDirectories": 1242,
+    "totalDirectories": 1243,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1242.0,
-    "totalListings": 11703,
-    "aiEnhancedDirectories": 1242
+    "avgDirectoriesPerRepo": 1243.0,
+    "totalListings": 11708,
+    "aiEnhancedDirectories": 1243
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16154,12 +16154,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-career-coaching-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:56:03.466614+00:00Z",
+      "lastUpdated": "2025-11-09T18:56:03.466614+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1242,
+      "directoryCount": 1243,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

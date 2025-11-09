@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:29:51.487685+00:00Z",
+  "lastUpdated": "2025-11-09T03:30:55.343580+00:00Z",
   "stats": {
-    "totalDirectories": 2129,
+    "totalDirectories": 2130,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2129.0,
-    "totalListings": 20062,
-    "aiEnhancedDirectories": 2129
+    "avgDirectoriesPerRepo": 2130.0,
+    "totalListings": 20072,
+    "aiEnhancedDirectories": 2130
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27685,12 +27685,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-sales-training-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:30:55.343580+00:00Z",
+      "lastUpdated": "2025-11-09T03:30:55.343580+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2129,
+      "directoryCount": 2130,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

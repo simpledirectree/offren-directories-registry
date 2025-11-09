@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:40:05.501023+00:00Z",
+  "lastUpdated": "2025-11-09T04:40:23.402143+00:00Z",
   "stats": {
-    "totalDirectories": 2337,
+    "totalDirectories": 2338,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2337.0,
-    "totalListings": 22093,
-    "aiEnhancedDirectories": 2337
+    "avgDirectoriesPerRepo": 2338.0,
+    "totalListings": 22103,
+    "aiEnhancedDirectories": 2338
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30389,12 +30389,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-magicians-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:40:23.402143+00:00Z",
+      "lastUpdated": "2025-11-09T04:40:23.402143+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2337,
+      "directoryCount": 2338,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:40:45.314918+00:00Z",
+  "lastUpdated": "2025-11-09T18:41:00.491519+00:00Z",
   "stats": {
-    "totalDirectories": 1228,
+    "totalDirectories": 1229,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1228.0,
-    "totalListings": 11569,
-    "aiEnhancedDirectories": 1228
+    "avgDirectoriesPerRepo": 1229.0,
+    "totalListings": 11579,
+    "aiEnhancedDirectories": 1229
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15972,12 +15972,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-cash-management-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:41:00.491519+00:00Z",
+      "lastUpdated": "2025-11-09T18:41:00.491519+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1228,
+      "directoryCount": 1229,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:43:21.589918+00:00Z",
+  "lastUpdated": "2025-11-09T05:43:35.613239+00:00Z",
   "stats": {
-    "totalDirectories": 92,
+    "totalDirectories": 93,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 92.0,
-    "totalListings": 889,
-    "aiEnhancedDirectories": 92
+    "avgDirectoriesPerRepo": 93.0,
+    "totalListings": 890,
+    "aiEnhancedDirectories": 93
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1204,12 +1204,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-crisis-intervention-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:43:35.613239+00:00Z",
+      "lastUpdated": "2025-11-09T05:43:35.613239+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 92,
+      "directoryCount": 93,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

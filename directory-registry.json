@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:57:47.093361+00:00Z",
+  "lastUpdated": "2025-11-09T22:58:29.917250+00:00Z",
   "stats": {
-    "totalDirectories": 1493,
+    "totalDirectories": 1494,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1493.0,
-    "totalListings": 14065,
-    "aiEnhancedDirectories": 1493
+    "avgDirectoriesPerRepo": 1494.0,
+    "totalListings": 14075,
+    "aiEnhancedDirectories": 1494
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19417,12 +19417,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-botox-injections-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:58:29.917250+00:00Z",
+      "lastUpdated": "2025-11-09T22:58:29.917250+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1493,
+      "directoryCount": 1494,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

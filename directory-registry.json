@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:59:23.498841+00:00Z",
+  "lastUpdated": "2025-11-09T02:00:30.214648+00:00Z",
   "stats": {
-    "totalDirectories": 2042,
+    "totalDirectories": 2043,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2042.0,
-    "totalListings": 19267,
-    "aiEnhancedDirectories": 2042
+    "avgDirectoriesPerRepo": 2043.0,
+    "totalListings": 19277,
+    "aiEnhancedDirectories": 2043
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26554,12 +26554,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-music-instruction-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:00:30.214648+00:00Z",
+      "lastUpdated": "2025-11-09T02:00:30.214648+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2042,
+      "directoryCount": 2043,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

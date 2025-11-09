@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:31:37.839150+00:00Z",
+  "lastUpdated": "2025-11-09T05:31:54.477819+00:00Z",
   "stats": {
-    "totalDirectories": 48,
+    "totalDirectories": 49,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 48.0,
-    "totalListings": 467,
-    "aiEnhancedDirectories": 48
+    "avgDirectoriesPerRepo": 49.0,
+    "totalListings": 477,
+    "aiEnhancedDirectories": 49
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -632,12 +632,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-ceramic-coating-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:31:54.477819+00:00Z",
+      "lastUpdated": "2025-11-09T05:31:54.477819+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 48,
+      "directoryCount": 49,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:24:45.904444+00:00Z",
+  "lastUpdated": "2025-11-09T05:25:03.562908+00:00Z",
   "stats": {
-    "totalDirectories": 22,
+    "totalDirectories": 23,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 22.0,
-    "totalListings": 215,
-    "aiEnhancedDirectories": 22
+    "avgDirectoriesPerRepo": 23.0,
+    "totalListings": 225,
+    "aiEnhancedDirectories": 23
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -294,12 +294,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-software-selection-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:25:03.562908+00:00Z",
+      "lastUpdated": "2025-11-09T05:25:03.562908+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 22,
+      "directoryCount": 23,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

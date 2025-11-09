@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:41:02.442998+00:00Z",
+  "lastUpdated": "2025-11-09T05:41:17.518136+00:00Z",
   "stats": {
-    "totalDirectories": 83,
+    "totalDirectories": 84,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 83.0,
-    "totalListings": 799,
-    "aiEnhancedDirectories": 83
+    "avgDirectoriesPerRepo": 84.0,
+    "totalListings": 809,
+    "aiEnhancedDirectories": 84
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1087,12 +1087,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-electrical-wiring-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:41:17.518136+00:00Z",
+      "lastUpdated": "2025-11-09T05:41:17.518136+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 83,
+      "directoryCount": 84,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

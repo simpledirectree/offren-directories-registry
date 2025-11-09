@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:59:51.858878+00:00Z",
+  "lastUpdated": "2025-11-09T04:00:12.070042+00:00Z",
   "stats": {
-    "totalDirectories": 2200,
+    "totalDirectories": 2201,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2200.0,
-    "totalListings": 20756,
-    "aiEnhancedDirectories": 2200
+    "avgDirectoriesPerRepo": 2201.0,
+    "totalListings": 20766,
+    "aiEnhancedDirectories": 2201
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28608,12 +28608,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-serverless-applications-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:00:12.070042+00:00Z",
+      "lastUpdated": "2025-11-09T04:00:12.070042+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2200,
+      "directoryCount": 2201,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:30:12.974492+00:00Z",
+  "lastUpdated": "2025-11-09T01:30:29.899884+00:00Z",
   "stats": {
-    "totalDirectories": 2004,
+    "totalDirectories": 2005,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2004.0,
-    "totalListings": 18918,
-    "aiEnhancedDirectories": 2004
+    "avgDirectoriesPerRepo": 2005.0,
+    "totalListings": 18928,
+    "aiEnhancedDirectories": 2005
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26060,12 +26060,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-local-residential-moving-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:30:29.899884+00:00Z",
+      "lastUpdated": "2025-11-09T01:30:29.899884+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2004,
+      "directoryCount": 2005,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

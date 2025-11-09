@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:16:47.441846+00:00Z",
+  "lastUpdated": "2025-11-09T00:17:03.520230+00:00Z",
   "stats": {
-    "totalDirectories": 1910,
+    "totalDirectories": 1911,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1910.0,
-    "totalListings": 18042,
-    "aiEnhancedDirectories": 1910
+    "avgDirectoriesPerRepo": 1911.0,
+    "totalListings": 18052,
+    "aiEnhancedDirectories": 1911
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24838,12 +24838,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-external-auditing-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:17:03.520230+00:00Z",
+      "lastUpdated": "2025-11-09T00:17:03.520230+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1910,
+      "directoryCount": 1911,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

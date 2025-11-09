@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:29:56.846224+00:00Z",
+  "lastUpdated": "2025-11-09T08:31:00.760204+00:00Z",
   "stats": {
-    "totalDirectories": 532,
+    "totalDirectories": 533,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 532.0,
-    "totalListings": 5132,
-    "aiEnhancedDirectories": 532
+    "avgDirectoriesPerRepo": 533.0,
+    "totalListings": 5136,
+    "aiEnhancedDirectories": 533
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6924,12 +6924,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-beard-styling-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:31:00.760204+00:00Z",
+      "lastUpdated": "2025-11-09T08:31:00.760204+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 532,
+      "directoryCount": 533,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

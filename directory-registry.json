@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:31:16.416585+00:00Z",
+  "lastUpdated": "2025-11-09T15:31:31.344874+00:00Z",
   "stats": {
-    "totalDirectories": 1016,
+    "totalDirectories": 1017,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1016.0,
-    "totalListings": 9569,
-    "aiEnhancedDirectories": 1016
+    "avgDirectoriesPerRepo": 1017.0,
+    "totalListings": 9579,
+    "aiEnhancedDirectories": 1017
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13216,12 +13216,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-childrens-activities-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:31:31.344874+00:00Z",
+      "lastUpdated": "2025-11-09T15:31:31.344874+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1016,
+      "directoryCount": 1017,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

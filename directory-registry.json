@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:57:33.923226+00:00Z",
+  "lastUpdated": "2025-11-09T03:57:52.696097+00:00Z",
   "stats": {
-    "totalDirectories": 2192,
+    "totalDirectories": 2193,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2192.0,
-    "totalListings": 20676,
-    "aiEnhancedDirectories": 2192
+    "avgDirectoriesPerRepo": 2193.0,
+    "totalListings": 20686,
+    "aiEnhancedDirectories": 2193
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28504,12 +28504,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-leadership-development-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:57:52.696097+00:00Z",
+      "lastUpdated": "2025-11-09T03:57:52.696097+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2192,
+      "directoryCount": 2193,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

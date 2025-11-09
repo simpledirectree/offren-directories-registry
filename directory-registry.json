@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:49:59.445854+00:00Z",
+  "lastUpdated": "2025-11-09T01:50:14.478526+00:00Z",
   "stats": {
-    "totalDirectories": 2028,
+    "totalDirectories": 2029,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2028.0,
-    "totalListings": 19142,
-    "aiEnhancedDirectories": 2028
+    "avgDirectoriesPerRepo": 2029.0,
+    "totalListings": 19152,
+    "aiEnhancedDirectories": 2029
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26372,12 +26372,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-frame-straightening-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:50:14.478526+00:00Z",
+      "lastUpdated": "2025-11-09T01:50:14.478526+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2028,
+      "directoryCount": 2029,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

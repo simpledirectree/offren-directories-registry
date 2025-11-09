@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:40:27.198479+00:00Z",
+  "lastUpdated": "2025-11-09T05:40:44.394674+00:00Z",
   "stats": {
-    "totalDirectories": 81,
+    "totalDirectories": 82,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 81.0,
-    "totalListings": 779,
-    "aiEnhancedDirectories": 81
+    "avgDirectoriesPerRepo": 82.0,
+    "totalListings": 789,
+    "aiEnhancedDirectories": 82
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1061,12 +1061,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-baseball-coaching-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:40:44.394674+00:00Z",
+      "lastUpdated": "2025-11-09T05:40:44.394674+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 81,
+      "directoryCount": 82,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

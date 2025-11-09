@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:22:38.836640+00:00Z",
+  "lastUpdated": "2025-11-09T03:26:23.574620+00:00Z",
   "stats": {
-    "totalDirectories": 2126,
+    "totalDirectories": 2127,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2126.0,
-    "totalListings": 20037,
-    "aiEnhancedDirectories": 2126
+    "avgDirectoriesPerRepo": 2127.0,
+    "totalListings": 20042,
+    "aiEnhancedDirectories": 2127
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27646,12 +27646,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-ios-development-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:26:23.574620+00:00Z",
+      "lastUpdated": "2025-11-09T03:26:23.574620+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2126,
+      "directoryCount": 2127,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

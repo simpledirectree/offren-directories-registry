@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:23:17.357188+00:00Z",
+  "lastUpdated": "2025-11-09T23:23:34.064299+00:00Z",
   "stats": {
-    "totalDirectories": 1518,
+    "totalDirectories": 1519,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1518.0,
-    "totalListings": 14285,
-    "aiEnhancedDirectories": 1518
+    "avgDirectoriesPerRepo": 1519.0,
+    "totalListings": 14294,
+    "aiEnhancedDirectories": 1519
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19742,12 +19742,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-general-house-cleaning-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:23:34.064299+00:00Z",
+      "lastUpdated": "2025-11-09T23:23:34.064299+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1518,
+      "directoryCount": 1519,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

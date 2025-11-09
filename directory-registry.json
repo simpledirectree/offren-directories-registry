@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:54:08.984836+00:00Z",
+  "lastUpdated": "2025-11-09T03:54:24.010137+00:00Z",
   "stats": {
-    "totalDirectories": 2180,
+    "totalDirectories": 2181,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2180.0,
-    "totalListings": 20562,
-    "aiEnhancedDirectories": 2180
+    "avgDirectoriesPerRepo": 2181.0,
+    "totalListings": 20572,
+    "aiEnhancedDirectories": 2181
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28348,12 +28348,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-drop-in-daycare-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:54:24.010137+00:00Z",
+      "lastUpdated": "2025-11-09T03:54:24.010137+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2180,
+      "directoryCount": 2181,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

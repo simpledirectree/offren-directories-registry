@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:55:32.436367+00:00Z",
+  "lastUpdated": "2025-11-09T04:55:49.713495+00:00Z",
   "stats": {
-    "totalDirectories": 2390,
+    "totalDirectories": 2391,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2390.0,
-    "totalListings": 22616,
-    "aiEnhancedDirectories": 2390
+    "avgDirectoriesPerRepo": 2391.0,
+    "totalListings": 22626,
+    "aiEnhancedDirectories": 2391
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31078,12 +31078,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-pulmonologists-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:55:49.713495+00:00Z",
+      "lastUpdated": "2025-11-09T04:55:49.713495+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2390,
+      "directoryCount": 2391,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

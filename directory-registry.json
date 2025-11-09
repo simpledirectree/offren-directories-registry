@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:55:17.388842+00:00Z",
+  "lastUpdated": "2025-11-09T03:55:32.365843+00:00Z",
   "stats": {
-    "totalDirectories": 2184,
+    "totalDirectories": 2185,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2184.0,
-    "totalListings": 20602,
-    "aiEnhancedDirectories": 2184
+    "avgDirectoriesPerRepo": 2185.0,
+    "totalListings": 20612,
+    "aiEnhancedDirectories": 2185
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28400,12 +28400,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-reiki-practitioner-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:55:32.365843+00:00Z",
+      "lastUpdated": "2025-11-09T03:55:32.365843+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2184,
+      "directoryCount": 2185,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

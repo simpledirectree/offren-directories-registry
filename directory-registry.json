@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:32:43.052707+00:00Z",
+  "lastUpdated": "2025-11-09T04:32:58.005013+00:00Z",
   "stats": {
-    "totalDirectories": 2312,
+    "totalDirectories": 2313,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2312.0,
-    "totalListings": 21843,
-    "aiEnhancedDirectories": 2312
+    "avgDirectoriesPerRepo": 2313.0,
+    "totalListings": 21853,
+    "aiEnhancedDirectories": 2313
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30064,12 +30064,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-catering-companies-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:32:58.005013+00:00Z",
+      "lastUpdated": "2025-11-09T04:32:58.005013+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2312,
+      "directoryCount": 2313,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:39:25.876799+00:00Z",
+  "lastUpdated": "2025-11-09T20:40:31.528584+00:00Z",
   "stats": {
-    "totalDirectories": 1348,
+    "totalDirectories": 1349,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1348.0,
-    "totalListings": 12705,
-    "aiEnhancedDirectories": 1348
+    "avgDirectoriesPerRepo": 1349.0,
+    "totalListings": 12715,
+    "aiEnhancedDirectories": 1349
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17532,12 +17532,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-business-language-training-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:40:31.528584+00:00Z",
+      "lastUpdated": "2025-11-09T20:40:31.528584+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1348,
+      "directoryCount": 1349,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

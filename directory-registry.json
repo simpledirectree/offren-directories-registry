@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:00:32.470614+00:00Z",
+  "lastUpdated": "2025-11-09T05:00:47.965776+00:00Z",
   "stats": {
-    "totalDirectories": 2408,
+    "totalDirectories": 2409,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2408.0,
-    "totalListings": 22787,
-    "aiEnhancedDirectories": 2408
+    "avgDirectoriesPerRepo": 2409.0,
+    "totalListings": 22797,
+    "aiEnhancedDirectories": 2409
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31312,12 +31312,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-pet-sitting-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:00:47.965776+00:00Z",
+      "lastUpdated": "2025-11-09T05:00:47.965776+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2408,
+      "directoryCount": 2409,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

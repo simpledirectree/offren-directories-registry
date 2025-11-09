@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:20:04.981134+00:00Z",
+  "lastUpdated": "2025-11-09T02:20:45.018358+00:00Z",
   "stats": {
-    "totalDirectories": 2060,
+    "totalDirectories": 2061,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2060.0,
-    "totalListings": 19438,
-    "aiEnhancedDirectories": 2060
+    "avgDirectoriesPerRepo": 2061.0,
+    "totalListings": 19440,
+    "aiEnhancedDirectories": 2061
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26788,12 +26788,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-carpentry-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:20:45.018358+00:00Z",
+      "lastUpdated": "2025-11-09T02:20:45.018358+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2060,
+      "directoryCount": 2061,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

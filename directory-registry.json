@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:59:11.038129+00:00Z",
+  "lastUpdated": "2025-11-09T03:01:40.945433+00:00Z",
   "stats": {
-    "totalDirectories": 2102,
+    "totalDirectories": 2103,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2102.0,
-    "totalListings": 19815,
-    "aiEnhancedDirectories": 2102
+    "avgDirectoriesPerRepo": 2103.0,
+    "totalListings": 19825,
+    "aiEnhancedDirectories": 2103
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27334,12 +27334,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-festival-planning-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:01:40.945433+00:00Z",
+      "lastUpdated": "2025-11-09T03:01:40.945433+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2102,
+      "directoryCount": 2103,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

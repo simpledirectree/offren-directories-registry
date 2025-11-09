@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:28:15.667098+00:00Z",
+  "lastUpdated": "2025-11-09T00:28:30.737094+00:00Z",
   "stats": {
-    "totalDirectories": 1930,
+    "totalDirectories": 1931,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1930.0,
-    "totalListings": 18235,
-    "aiEnhancedDirectories": 1930
+    "avgDirectoriesPerRepo": 1931.0,
+    "totalListings": 18245,
+    "aiEnhancedDirectories": 1931
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25098,12 +25098,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-family-style-restaurants-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:28:30.737094+00:00Z",
+      "lastUpdated": "2025-11-09T00:28:30.737094+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1930,
+      "directoryCount": 1931,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

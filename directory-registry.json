@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:57:05.500411+00:00Z",
+  "lastUpdated": "2025-11-09T17:57:19.091570+00:00Z",
   "stats": {
-    "totalDirectories": 1172,
+    "totalDirectories": 1173,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1172.0,
-    "totalListings": 11072,
-    "aiEnhancedDirectories": 1172
+    "avgDirectoriesPerRepo": 1173.0,
+    "totalListings": 11082,
+    "aiEnhancedDirectories": 1173
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15244,12 +15244,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-commercial-landscaping-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:57:19.091570+00:00Z",
+      "lastUpdated": "2025-11-09T17:57:19.091570+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1172,
+      "directoryCount": 1173,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

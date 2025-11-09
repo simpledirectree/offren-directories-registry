@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:01:48.479917+00:00Z",
+  "lastUpdated": "2025-11-09T06:02:05.534376+00:00Z",
   "stats": {
-    "totalDirectories": 158,
+    "totalDirectories": 159,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 158.0,
-    "totalListings": 1525,
-    "aiEnhancedDirectories": 158
+    "avgDirectoriesPerRepo": 159.0,
+    "totalListings": 1535,
+    "aiEnhancedDirectories": 159
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2062,12 +2062,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-server-administration-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:02:05.534376+00:00Z",
+      "lastUpdated": "2025-11-09T06:02:05.534376+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 158,
+      "directoryCount": 159,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

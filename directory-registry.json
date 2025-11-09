@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:54:40.481890+00:00Z",
+  "lastUpdated": "2025-11-09T03:54:58.900227+00:00Z",
   "stats": {
-    "totalDirectories": 2182,
+    "totalDirectories": 2183,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2182.0,
-    "totalListings": 20582,
-    "aiEnhancedDirectories": 2182
+    "avgDirectoriesPerRepo": 2183.0,
+    "totalListings": 20592,
+    "aiEnhancedDirectories": 2183
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28374,12 +28374,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-graphic-design-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:54:58.900227+00:00Z",
+      "lastUpdated": "2025-11-09T03:54:58.900227+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2182,
+      "directoryCount": 2183,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:46:29.166470+00:00Z",
+  "lastUpdated": "2025-11-09T00:46:43.828805+00:00Z",
   "stats": {
-    "totalDirectories": 1954,
+    "totalDirectories": 1955,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1954.0,
-    "totalListings": 18454,
-    "aiEnhancedDirectories": 1954
+    "avgDirectoriesPerRepo": 1955.0,
+    "totalListings": 18459,
+    "aiEnhancedDirectories": 1955
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25410,12 +25410,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-customer-service-process-development-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:46:43.828805+00:00Z",
+      "lastUpdated": "2025-11-09T00:46:43.828805+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1954,
+      "directoryCount": 1955,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

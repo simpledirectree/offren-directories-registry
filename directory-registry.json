@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:49:51.480027+00:00Z",
+  "lastUpdated": "2025-11-09T21:51:48.797799+00:00Z",
   "stats": {
-    "totalDirectories": 1424,
+    "totalDirectories": 1425,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1424.0,
-    "totalListings": 13426,
-    "aiEnhancedDirectories": 1424
+    "avgDirectoriesPerRepo": 1425.0,
+    "totalListings": 13432,
+    "aiEnhancedDirectories": 1425
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18520,12 +18520,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-electrolysis-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:51:48.797799+00:00Z",
+      "lastUpdated": "2025-11-09T21:51:48.797799+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1424,
+      "directoryCount": 1425,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

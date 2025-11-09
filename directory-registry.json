@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:45:01.694329+00:00Z",
+  "lastUpdated": "2025-11-09T00:45:16.952109+00:00Z",
   "stats": {
-    "totalDirectories": 1950,
+    "totalDirectories": 1951,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1950.0,
-    "totalListings": 18415,
-    "aiEnhancedDirectories": 1950
+    "avgDirectoriesPerRepo": 1951.0,
+    "totalListings": 18425,
+    "aiEnhancedDirectories": 1951
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25358,12 +25358,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-small-appliance-repair-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:45:16.952109+00:00Z",
+      "lastUpdated": "2025-11-09T00:45:16.952109+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1950,
+      "directoryCount": 1951,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

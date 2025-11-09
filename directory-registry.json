@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:05:07.853535+00:00Z",
+  "lastUpdated": "2025-11-09T05:05:24.627592+00:00Z",
   "stats": {
-    "totalDirectories": 2424,
+    "totalDirectories": 2425,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2424.0,
-    "totalListings": 22942,
-    "aiEnhancedDirectories": 2424
+    "avgDirectoriesPerRepo": 2425.0,
+    "totalListings": 22952,
+    "aiEnhancedDirectories": 2425
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31520,12 +31520,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-landscape-renovation-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:05:24.627592+00:00Z",
+      "lastUpdated": "2025-11-09T05:05:24.627592+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2424,
+      "directoryCount": 2425,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:10:07.021955+00:00Z",
+  "lastUpdated": "2025-11-09T07:10:23.932020+00:00Z",
   "stats": {
-    "totalDirectories": 406,
+    "totalDirectories": 407,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 406.0,
-    "totalListings": 3911,
-    "aiEnhancedDirectories": 406
+    "avgDirectoriesPerRepo": 407.0,
+    "totalListings": 3921,
+    "aiEnhancedDirectories": 407
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5286,12 +5286,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-wedding-djs-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:10:23.932020+00:00Z",
+      "lastUpdated": "2025-11-09T07:10:23.932020+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 406,
+      "directoryCount": 407,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

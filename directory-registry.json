@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:31:24.458230+00:00Z",
+  "lastUpdated": "2025-11-09T18:31:38.938695+00:00Z",
   "stats": {
-    "totalDirectories": 1212,
+    "totalDirectories": 1213,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1212.0,
-    "totalListings": 11432,
-    "aiEnhancedDirectories": 1212
+    "avgDirectoriesPerRepo": 1213.0,
+    "totalListings": 11442,
+    "aiEnhancedDirectories": 1213
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15764,12 +15764,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-website-maintenance-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:31:38.938695+00:00Z",
+      "lastUpdated": "2025-11-09T18:31:38.938695+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1212,
+      "directoryCount": 1213,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:17:39.810531+00:00Z",
+  "lastUpdated": "2025-11-09T20:18:07.763071+00:00Z",
   "stats": {
-    "totalDirectories": 1326,
+    "totalDirectories": 1327,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1326.0,
-    "totalListings": 12494,
-    "aiEnhancedDirectories": 1326
+    "avgDirectoriesPerRepo": 1327.0,
+    "totalListings": 12504,
+    "aiEnhancedDirectories": 1327
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17246,12 +17246,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-personal-chef-services-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:18:07.763071+00:00Z",
+      "lastUpdated": "2025-11-09T20:18:07.763071+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1326,
+      "directoryCount": 1327,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

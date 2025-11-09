@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:19:24.607039+00:00Z",
+  "lastUpdated": "2025-11-09T07:19:40.179468+00:00Z",
   "stats": {
-    "totalDirectories": 440,
+    "totalDirectories": 441,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 440.0,
-    "totalListings": 4237,
-    "aiEnhancedDirectories": 440
+    "avgDirectoriesPerRepo": 441.0,
+    "totalListings": 4247,
+    "aiEnhancedDirectories": 441
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5728,12 +5728,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-dental-insurance-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:19:40.179468+00:00Z",
+      "lastUpdated": "2025-11-09T07:19:40.179468+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 440,
+      "directoryCount": 441,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

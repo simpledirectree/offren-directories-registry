@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:06:31.342953+00:00Z",
+  "lastUpdated": "2025-11-09T04:06:48.103203+00:00Z",
   "stats": {
-    "totalDirectories": 2223,
+    "totalDirectories": 2224,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2223.0,
-    "totalListings": 20981,
-    "aiEnhancedDirectories": 2223
+    "avgDirectoriesPerRepo": 2224.0,
+    "totalListings": 20991,
+    "aiEnhancedDirectories": 2224
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28907,12 +28907,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-coaching-services-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:06:48.103203+00:00Z",
+      "lastUpdated": "2025-11-09T04:06:48.103203+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2223,
+      "directoryCount": 2224,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

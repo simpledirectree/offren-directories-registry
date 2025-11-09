@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:18:50.559777+00:00Z",
+  "lastUpdated": "2025-11-09T10:20:44.905532+00:00Z",
   "stats": {
-    "totalDirectories": 661,
+    "totalDirectories": 662,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 661.0,
-    "totalListings": 6321,
-    "aiEnhancedDirectories": 661
+    "avgDirectoriesPerRepo": 662.0,
+    "totalListings": 6331,
+    "aiEnhancedDirectories": 662
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8601,12 +8601,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-garden-party-setup-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:20:44.905532+00:00Z",
+      "lastUpdated": "2025-11-09T10:20:44.905532+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 661,
+      "directoryCount": 662,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

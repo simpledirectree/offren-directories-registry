@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:30:49.356640+00:00Z",
+  "lastUpdated": "2025-11-09T16:31:02.633800+00:00Z",
   "stats": {
-    "totalDirectories": 1082,
+    "totalDirectories": 1083,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1082.0,
-    "totalListings": 10210,
-    "aiEnhancedDirectories": 1082
+    "avgDirectoriesPerRepo": 1083.0,
+    "totalListings": 10218,
+    "aiEnhancedDirectories": 1083
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14074,12 +14074,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-composting-services-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:31:02.633800+00:00Z",
+      "lastUpdated": "2025-11-09T16:31:02.633800+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1082,
+      "directoryCount": 1083,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

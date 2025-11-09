@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:21:12.102703+00:00Z",
+  "lastUpdated": "2025-11-09T10:21:24.456728+00:00Z",
   "stats": {
-    "totalDirectories": 664,
+    "totalDirectories": 665,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 664.0,
-    "totalListings": 6346,
-    "aiEnhancedDirectories": 664
+    "avgDirectoriesPerRepo": 665.0,
+    "totalListings": 6347,
+    "aiEnhancedDirectories": 665
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8640,12 +8640,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-kickboxing-classes-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:21:24.456728+00:00Z",
+      "lastUpdated": "2025-11-09T10:21:24.456728+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 664,
+      "directoryCount": 665,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

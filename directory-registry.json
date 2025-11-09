@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:01:08.061947+00:00Z",
+  "lastUpdated": "2025-11-09T05:01:23.140985+00:00Z",
   "stats": {
-    "totalDirectories": 2410,
+    "totalDirectories": 2411,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2410.0,
-    "totalListings": 22807,
-    "aiEnhancedDirectories": 2410
+    "avgDirectoriesPerRepo": 2411.0,
+    "totalListings": 22812,
+    "aiEnhancedDirectories": 2411
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31338,12 +31338,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-seo-consultants-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:01:23.140985+00:00Z",
+      "lastUpdated": "2025-11-09T05:01:23.140985+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2410,
+      "directoryCount": 2411,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

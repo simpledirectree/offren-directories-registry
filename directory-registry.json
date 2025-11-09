@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:13:47.428844+00:00Z",
+  "lastUpdated": "2025-11-09T05:14:01.733198+00:00Z",
   "stats": {
-    "totalDirectories": 2453,
+    "totalDirectories": 2454,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2453.0,
-    "totalListings": 23217,
-    "aiEnhancedDirectories": 2453
+    "avgDirectoriesPerRepo": 2454.0,
+    "totalListings": 23227,
+    "aiEnhancedDirectories": 2454
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31897,12 +31897,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-home-additions-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:14:01.733198+00:00Z",
+      "lastUpdated": "2025-11-09T05:14:01.733198+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2453,
+      "directoryCount": 2454,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:08:47.929195+00:00Z",
+  "lastUpdated": "2025-11-09T01:09:53.767812+00:00Z",
   "stats": {
-    "totalDirectories": 1975,
+    "totalDirectories": 1976,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1975.0,
-    "totalListings": 18643,
-    "aiEnhancedDirectories": 1975
+    "avgDirectoriesPerRepo": 1976.0,
+    "totalListings": 18653,
+    "aiEnhancedDirectories": 1976
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25683,12 +25683,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-business-intelligence-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:09:53.767812+00:00Z",
+      "lastUpdated": "2025-11-09T01:09:53.767812+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1975,
+      "directoryCount": 1976,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

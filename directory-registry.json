@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:11:47.307938+00:00Z",
+  "lastUpdated": "2025-11-09T00:12:02.308421+00:00Z",
   "stats": {
-    "totalDirectories": 1906,
+    "totalDirectories": 1907,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1906.0,
-    "totalListings": 18006,
-    "aiEnhancedDirectories": 1906
+    "avgDirectoriesPerRepo": 1907.0,
+    "totalListings": 18014,
+    "aiEnhancedDirectories": 1907
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24786,12 +24786,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-aromatherapy-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:12:02.308421+00:00Z",
+      "lastUpdated": "2025-11-09T00:12:02.308421+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1906,
+      "directoryCount": 1907,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

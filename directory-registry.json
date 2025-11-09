@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:34:23.183943+00:00Z",
+  "lastUpdated": "2025-11-09T08:36:17.033635+00:00Z",
   "stats": {
-    "totalDirectories": 538,
+    "totalDirectories": 539,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 538.0,
-    "totalListings": 5186,
-    "aiEnhancedDirectories": 538
+    "avgDirectoriesPerRepo": 539.0,
+    "totalListings": 5196,
+    "aiEnhancedDirectories": 539
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7002,12 +7002,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-business-transformation-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:36:17.033635+00:00Z",
+      "lastUpdated": "2025-11-09T08:36:17.033635+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 538,
+      "directoryCount": 539,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

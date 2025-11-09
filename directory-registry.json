@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:36:17.033635+00:00Z",
+  "lastUpdated": "2025-11-09T08:36:31.686112+00:00Z",
   "stats": {
-    "totalDirectories": 539,
+    "totalDirectories": 540,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 539.0,
-    "totalListings": 5196,
-    "aiEnhancedDirectories": 539
+    "avgDirectoriesPerRepo": 540.0,
+    "totalListings": 5206,
+    "aiEnhancedDirectories": 540
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7015,12 +7015,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-fat-reduction-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:36:31.686112+00:00Z",
+      "lastUpdated": "2025-11-09T08:36:31.686112+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 539,
+      "directoryCount": 540,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

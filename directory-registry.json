@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:33:35.770935+00:00Z",
+  "lastUpdated": "2025-11-09T23:34:42.067862+00:00Z",
   "stats": {
-    "totalDirectories": 1529,
+    "totalDirectories": 1530,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1529.0,
-    "totalListings": 14392,
-    "aiEnhancedDirectories": 1529
+    "avgDirectoriesPerRepo": 1530.0,
+    "totalListings": 14402,
+    "aiEnhancedDirectories": 1530
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19885,12 +19885,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-mobile-detailing-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:34:42.067862+00:00Z",
+      "lastUpdated": "2025-11-09T23:34:42.067862+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1529,
+      "directoryCount": 1530,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

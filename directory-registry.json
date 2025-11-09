@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:20:22.045079+00:00Z",
+  "lastUpdated": "2025-11-09T05:20:39.832998+00:00Z",
   "stats": {
-    "totalDirectories": 5,
+    "totalDirectories": 6,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 5.0,
-    "totalListings": 45,
-    "aiEnhancedDirectories": 5
+    "avgDirectoriesPerRepo": 6.0,
+    "totalListings": 55,
+    "aiEnhancedDirectories": 6
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -73,12 +73,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-garden-tool-maintenance-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:20:39.832998+00:00Z",
+      "lastUpdated": "2025-11-09T05:20:39.832998+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 5,
+      "directoryCount": 6,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

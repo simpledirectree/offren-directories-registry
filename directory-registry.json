@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:06:54.922030+00:00Z",
+  "lastUpdated": "2025-11-09T07:07:12.202534+00:00Z",
   "stats": {
-    "totalDirectories": 394,
+    "totalDirectories": 395,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 394.0,
-    "totalListings": 3802,
-    "aiEnhancedDirectories": 394
+    "avgDirectoriesPerRepo": 395.0,
+    "totalListings": 3812,
+    "aiEnhancedDirectories": 395
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5130,12 +5130,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-functional-fitness-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:07:12.202534+00:00Z",
+      "lastUpdated": "2025-11-09T07:07:12.202534+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 394,
+      "directoryCount": 395,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

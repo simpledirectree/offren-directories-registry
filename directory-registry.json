@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:35:36.053330+00:00Z",
+  "lastUpdated": "2025-11-09T18:36:16.091109+00:00Z",
   "stats": {
-    "totalDirectories": 1219,
+    "totalDirectories": 1220,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1219.0,
-    "totalListings": 11497,
-    "aiEnhancedDirectories": 1219
+    "avgDirectoriesPerRepo": 1220.0,
+    "totalListings": 11507,
+    "aiEnhancedDirectories": 1220
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15855,12 +15855,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-equipment-maintenance-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:36:16.091109+00:00Z",
+      "lastUpdated": "2025-11-09T18:36:16.091109+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1219,
+      "directoryCount": 1220,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:41:20.756601+00:00Z",
+  "lastUpdated": "2025-11-09T04:41:35.783447+00:00Z",
   "stats": {
-    "totalDirectories": 2341,
+    "totalDirectories": 2342,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2341.0,
-    "totalListings": 22133,
-    "aiEnhancedDirectories": 2341
+    "avgDirectoriesPerRepo": 2342.0,
+    "totalListings": 22143,
+    "aiEnhancedDirectories": 2342
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30441,12 +30441,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-roofing-repair-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:41:35.783447+00:00Z",
+      "lastUpdated": "2025-11-09T04:41:35.783447+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2341,
+      "directoryCount": 2342,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

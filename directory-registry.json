@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:02:49.314401+00:00Z",
+  "lastUpdated": "2025-11-09T04:03:08.389644+00:00Z",
   "stats": {
-    "totalDirectories": 2210,
+    "totalDirectories": 2211,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2210.0,
-    "totalListings": 20856,
-    "aiEnhancedDirectories": 2210
+    "avgDirectoriesPerRepo": 2211.0,
+    "totalListings": 20866,
+    "aiEnhancedDirectories": 2211
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28738,12 +28738,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-portfolio-management-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:03:08.389644+00:00Z",
+      "lastUpdated": "2025-11-09T04:03:08.389644+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2210,
+      "directoryCount": 2211,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

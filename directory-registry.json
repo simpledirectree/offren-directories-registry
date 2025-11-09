@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:12:19.627072+00:00Z",
+  "lastUpdated": "2025-11-09T05:12:35.012795+00:00Z",
   "stats": {
-    "totalDirectories": 2448,
+    "totalDirectories": 2449,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2448.0,
-    "totalListings": 23167,
-    "aiEnhancedDirectories": 2448
+    "avgDirectoriesPerRepo": 2449.0,
+    "totalListings": 23177,
+    "aiEnhancedDirectories": 2449
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31832,12 +31832,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-dental-insurance-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:12:35.012795+00:00Z",
+      "lastUpdated": "2025-11-09T05:12:35.012795+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2448,
+      "directoryCount": 2449,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

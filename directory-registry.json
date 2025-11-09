@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:24:16.444850+00:00Z",
+  "lastUpdated": "2025-11-09T05:24:30.809041+00:00Z",
   "stats": {
-    "totalDirectories": 20,
+    "totalDirectories": 21,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 20.0,
-    "totalListings": 195,
-    "aiEnhancedDirectories": 20
+    "avgDirectoriesPerRepo": 21.0,
+    "totalListings": 205,
+    "aiEnhancedDirectories": 21
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -268,12 +268,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-business-language-training-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:24:30.809041+00:00Z",
+      "lastUpdated": "2025-11-09T05:24:30.809041+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 20,
+      "directoryCount": 21,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

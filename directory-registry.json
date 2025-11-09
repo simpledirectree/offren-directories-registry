@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:30:52.999886+00:00Z",
+  "lastUpdated": "2025-11-09T20:32:23.826685+00:00Z",
   "stats": {
-    "totalDirectories": 1340,
+    "totalDirectories": 1341,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1340.0,
-    "totalListings": 12628,
-    "aiEnhancedDirectories": 1340
+    "avgDirectoriesPerRepo": 1341.0,
+    "totalListings": 12638,
+    "aiEnhancedDirectories": 1341
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17428,12 +17428,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-spa-services-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:32:23.826685+00:00Z",
+      "lastUpdated": "2025-11-09T20:32:23.826685+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1340,
+      "directoryCount": 1341,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

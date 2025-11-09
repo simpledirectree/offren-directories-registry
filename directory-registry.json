@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:47:35.361062+00:00Z",
+  "lastUpdated": "2025-11-09T10:48:15.350895+00:00Z",
   "stats": {
-    "totalDirectories": 706,
+    "totalDirectories": 707,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 706.0,
-    "totalListings": 6724,
-    "aiEnhancedDirectories": 706
+    "avgDirectoriesPerRepo": 707.0,
+    "totalListings": 6734,
+    "aiEnhancedDirectories": 707
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9186,12 +9186,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-personal-styling-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:48:15.350895+00:00Z",
+      "lastUpdated": "2025-11-09T10:48:15.350895+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 706,
+      "directoryCount": 707,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

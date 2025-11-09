@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:40:15.027741+00:00Z",
+  "lastUpdated": "2025-11-09T19:43:34.632600+00:00Z",
   "stats": {
-    "totalDirectories": 1289,
+    "totalDirectories": 1290,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1289.0,
-    "totalListings": 12152,
-    "aiEnhancedDirectories": 1289
+    "avgDirectoriesPerRepo": 1290.0,
+    "totalListings": 12159,
+    "aiEnhancedDirectories": 1290
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16765,12 +16765,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-roach-control-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:43:34.632600+00:00Z",
+      "lastUpdated": "2025-11-09T19:43:34.632600+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1289,
+      "directoryCount": 1290,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:39:32.580361+00:00Z",
+  "lastUpdated": "2025-11-09T04:39:48.808983+00:00Z",
   "stats": {
-    "totalDirectories": 2335,
+    "totalDirectories": 2336,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2335.0,
-    "totalListings": 22073,
-    "aiEnhancedDirectories": 2335
+    "avgDirectoriesPerRepo": 2336.0,
+    "totalListings": 22083,
+    "aiEnhancedDirectories": 2336
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30363,12 +30363,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-vision-insurance-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:39:48.808983+00:00Z",
+      "lastUpdated": "2025-11-09T04:39:48.808983+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2335,
+      "directoryCount": 2336,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

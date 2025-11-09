@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:15:39.061035+00:00Z",
+  "lastUpdated": "2025-11-09T07:15:52.610652+00:00Z",
   "stats": {
-    "totalDirectories": 426,
+    "totalDirectories": 427,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 426.0,
-    "totalListings": 4105,
-    "aiEnhancedDirectories": 426
+    "avgDirectoriesPerRepo": 427.0,
+    "totalListings": 4114,
+    "aiEnhancedDirectories": 427
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5546,12 +5546,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-voice-lessons-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:15:52.610652+00:00Z",
+      "lastUpdated": "2025-11-09T07:15:52.610652+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 426,
+      "directoryCount": 427,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

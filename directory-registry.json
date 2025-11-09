@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:35:28.860100+00:00Z",
+  "lastUpdated": "2025-11-09T17:36:36.624022+00:00Z",
   "stats": {
-    "totalDirectories": 1151,
+    "totalDirectories": 1152,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1151.0,
-    "totalListings": 10862,
-    "aiEnhancedDirectories": 1151
+    "avgDirectoriesPerRepo": 1152.0,
+    "totalListings": 10872,
+    "aiEnhancedDirectories": 1152
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14971,12 +14971,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-immersion-programs-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:36:36.624022+00:00Z",
+      "lastUpdated": "2025-11-09T17:36:36.624022+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1151,
+      "directoryCount": 1152,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

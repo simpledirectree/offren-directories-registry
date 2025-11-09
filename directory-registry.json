@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:33:34.311262+00:00Z",
+  "lastUpdated": "2025-11-09T00:34:14.657910+00:00Z",
   "stats": {
-    "totalDirectories": 1936,
+    "totalDirectories": 1937,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1936.0,
-    "totalListings": 18280,
-    "aiEnhancedDirectories": 1936
+    "avgDirectoriesPerRepo": 1937.0,
+    "totalListings": 18290,
+    "aiEnhancedDirectories": 1937
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25176,12 +25176,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-decks-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:34:14.657910+00:00Z",
+      "lastUpdated": "2025-11-09T00:34:14.657910+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1936,
+      "directoryCount": 1937,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

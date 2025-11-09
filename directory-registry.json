@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:20:37.061472+00:00Z",
+  "lastUpdated": "2025-11-09T06:20:51.890315+00:00Z",
   "stats": {
-    "totalDirectories": 224,
+    "totalDirectories": 225,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 224.0,
-    "totalListings": 2165,
-    "aiEnhancedDirectories": 224
+    "avgDirectoriesPerRepo": 225.0,
+    "totalListings": 2173,
+    "aiEnhancedDirectories": 225
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2920,12 +2920,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-shrub-planting-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:20:51.890315+00:00Z",
+      "lastUpdated": "2025-11-09T06:20:51.890315+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 224,
+      "directoryCount": 225,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

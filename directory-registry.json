@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:39:58.152594+00:00Z",
+  "lastUpdated": "2025-11-09T00:41:04.562134+00:00Z",
   "stats": {
-    "totalDirectories": 1945,
+    "totalDirectories": 1946,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1945.0,
-    "totalListings": 18365,
-    "aiEnhancedDirectories": 1945
+    "avgDirectoriesPerRepo": 1946.0,
+    "totalListings": 18375,
+    "aiEnhancedDirectories": 1946
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25293,12 +25293,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-dentists-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:41:04.562134+00:00Z",
+      "lastUpdated": "2025-11-09T00:41:04.562134+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1945,
+      "directoryCount": 1946,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

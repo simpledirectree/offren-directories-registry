@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:13:01.590014+00:00Z",
+  "lastUpdated": "2025-11-09T12:14:32.457668+00:00Z",
   "stats": {
-    "totalDirectories": 799,
+    "totalDirectories": 800,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 799.0,
-    "totalListings": 7573,
-    "aiEnhancedDirectories": 799
+    "avgDirectoriesPerRepo": 800.0,
+    "totalListings": 7583,
+    "aiEnhancedDirectories": 800
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10395,12 +10395,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-content-creation-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:14:32.457668+00:00Z",
+      "lastUpdated": "2025-11-09T12:14:32.457668+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 799,
+      "directoryCount": 800,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

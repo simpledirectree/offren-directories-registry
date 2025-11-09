@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:07:14.561229+00:00Z",
+  "lastUpdated": "2025-11-09T08:08:18.982524+00:00Z",
   "stats": {
-    "totalDirectories": 511,
+    "totalDirectories": 512,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 511.0,
-    "totalListings": 4934,
-    "aiEnhancedDirectories": 511
+    "avgDirectoriesPerRepo": 512.0,
+    "totalListings": 4944,
+    "aiEnhancedDirectories": 512
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6651,12 +6651,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-brand-development-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:08:18.982524+00:00Z",
+      "lastUpdated": "2025-11-09T08:08:18.982524+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 511,
+      "directoryCount": 512,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

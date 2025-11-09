@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:38:07.920431+00:00Z",
+  "lastUpdated": "2025-11-09T05:38:19.552974+00:00Z",
   "stats": {
-    "totalDirectories": 72,
+    "totalDirectories": 73,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 72.0,
-    "totalListings": 689,
-    "aiEnhancedDirectories": 72
+    "avgDirectoriesPerRepo": 73.0,
+    "totalListings": 699,
+    "aiEnhancedDirectories": 73
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -944,12 +944,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-retaining-walls-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:38:19.552974+00:00Z",
+      "lastUpdated": "2025-11-09T05:38:19.552974+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 72,
+      "directoryCount": 73,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

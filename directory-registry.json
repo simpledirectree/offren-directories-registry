@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:53:18.422870+00:00Z",
+  "lastUpdated": "2025-11-09T06:53:36.958214+00:00Z",
   "stats": {
-    "totalDirectories": 345,
+    "totalDirectories": 346,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 345.0,
-    "totalListings": 3316,
-    "aiEnhancedDirectories": 345
+    "avgDirectoriesPerRepo": 346.0,
+    "totalListings": 3326,
+    "aiEnhancedDirectories": 346
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4493,12 +4493,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-delivery-assistants-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:53:36.958214+00:00Z",
+      "lastUpdated": "2025-11-09T06:53:36.958214+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 345,
+      "directoryCount": 346,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

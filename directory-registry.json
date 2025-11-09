@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:18:43.200706+00:00Z",
+  "lastUpdated": "2025-11-09T06:18:58.319802+00:00Z",
   "stats": {
-    "totalDirectories": 217,
+    "totalDirectories": 218,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 217.0,
-    "totalListings": 2095,
-    "aiEnhancedDirectories": 217
+    "avgDirectoriesPerRepo": 218.0,
+    "totalListings": 2105,
+    "aiEnhancedDirectories": 218
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2829,12 +2829,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-full-service-catering-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:18:58.319802+00:00Z",
+      "lastUpdated": "2025-11-09T06:18:58.319802+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 217,
+      "directoryCount": 218,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

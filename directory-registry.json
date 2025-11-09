@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:20:25.637743+00:00Z",
+  "lastUpdated": "2025-11-09T09:22:18.157756+00:00Z",
   "stats": {
-    "totalDirectories": 585,
+    "totalDirectories": 586,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 585.0,
-    "totalListings": 5600,
-    "aiEnhancedDirectories": 585
+    "avgDirectoriesPerRepo": 586.0,
+    "totalListings": 5610,
+    "aiEnhancedDirectories": 586
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7613,12 +7613,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-style-coaching-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:22:18.157756+00:00Z",
+      "lastUpdated": "2025-11-09T09:22:18.157756+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 585,
+      "directoryCount": 586,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

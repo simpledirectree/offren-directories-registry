@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:03:02.025373+00:00Z",
+  "lastUpdated": "2025-11-09T17:04:35.860159+00:00Z",
   "stats": {
-    "totalDirectories": 1105,
+    "totalDirectories": 1106,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1105.0,
-    "totalListings": 10425,
-    "aiEnhancedDirectories": 1105
+    "avgDirectoriesPerRepo": 1106.0,
+    "totalListings": 10432,
+    "aiEnhancedDirectories": 1106
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14373,12 +14373,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-contract-law-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:04:35.860159+00:00Z",
+      "lastUpdated": "2025-11-09T17:04:35.860159+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1105,
+      "directoryCount": 1106,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

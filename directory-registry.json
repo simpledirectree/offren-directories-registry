@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:40:10.257694+00:00Z",
+  "lastUpdated": "2025-11-09T10:41:14.175285+00:00Z",
   "stats": {
-    "totalDirectories": 694,
+    "totalDirectories": 695,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 694.0,
-    "totalListings": 6614,
-    "aiEnhancedDirectories": 694
+    "avgDirectoriesPerRepo": 695.0,
+    "totalListings": 6624,
+    "aiEnhancedDirectories": 695
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9030,12 +9030,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-general-dentistry-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:41:14.175285+00:00Z",
+      "lastUpdated": "2025-11-09T10:41:14.175285+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 694,
+      "directoryCount": 695,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

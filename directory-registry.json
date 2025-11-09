@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:24:34.756828+00:00Z",
+  "lastUpdated": "2025-11-09T07:24:51.470471+00:00Z",
   "stats": {
-    "totalDirectories": 457,
+    "totalDirectories": 458,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 457.0,
-    "totalListings": 4402,
-    "aiEnhancedDirectories": 457
+    "avgDirectoriesPerRepo": 458.0,
+    "totalListings": 4412,
+    "aiEnhancedDirectories": 458
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5949,12 +5949,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-zumba-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:24:51.470471+00:00Z",
+      "lastUpdated": "2025-11-09T07:24:51.470471+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 457,
+      "directoryCount": 458,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

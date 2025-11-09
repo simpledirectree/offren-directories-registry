@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:02:10.450333+00:00Z",
+  "lastUpdated": "2025-11-09T14:02:25.292133+00:00Z",
   "stats": {
-    "totalDirectories": 916,
+    "totalDirectories": 917,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 916.0,
-    "totalListings": 8645,
-    "aiEnhancedDirectories": 916
+    "avgDirectoriesPerRepo": 917.0,
+    "totalListings": 8655,
+    "aiEnhancedDirectories": 917
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11916,12 +11916,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-wedding-djs-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:02:25.292133+00:00Z",
+      "lastUpdated": "2025-11-09T14:02:25.292133+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 916,
+      "directoryCount": 917,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

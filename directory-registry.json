@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:30:11.371992+00:00Z",
+  "lastUpdated": "2025-11-09T20:30:52.999886+00:00Z",
   "stats": {
-    "totalDirectories": 1339,
+    "totalDirectories": 1340,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1339.0,
-    "totalListings": 12618,
-    "aiEnhancedDirectories": 1339
+    "avgDirectoriesPerRepo": 1340.0,
+    "totalListings": 12628,
+    "aiEnhancedDirectories": 1340
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17415,12 +17415,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-detox-programs-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:30:52.999886+00:00Z",
+      "lastUpdated": "2025-11-09T20:30:52.999886+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1339,
+      "directoryCount": 1340,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

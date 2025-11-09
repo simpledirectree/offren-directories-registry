@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:33:07.282362+00:00Z",
+  "lastUpdated": "2025-11-09T21:33:21.687187+00:00Z",
   "stats": {
-    "totalDirectories": 1401,
+    "totalDirectories": 1402,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1401.0,
-    "totalListings": 13219,
-    "aiEnhancedDirectories": 1401
+    "avgDirectoriesPerRepo": 1402.0,
+    "totalListings": 13229,
+    "aiEnhancedDirectories": 1402
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18221,12 +18221,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-home-cleaners-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:33:21.687187+00:00Z",
+      "lastUpdated": "2025-11-09T21:33:21.687187+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1401,
+      "directoryCount": 1402,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

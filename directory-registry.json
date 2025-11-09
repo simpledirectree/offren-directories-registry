@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:16:08.168825+00:00Z",
+  "lastUpdated": "2025-11-09T02:16:52.469890+00:00Z",
   "stats": {
-    "totalDirectories": 2054,
+    "totalDirectories": 2055,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2054.0,
-    "totalListings": 19378,
-    "aiEnhancedDirectories": 2054
+    "avgDirectoriesPerRepo": 2055.0,
+    "totalListings": 19388,
+    "aiEnhancedDirectories": 2055
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26710,12 +26710,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-car-audio-installation-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:16:52.469890+00:00Z",
+      "lastUpdated": "2025-11-09T02:16:52.469890+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2054,
+      "directoryCount": 2055,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

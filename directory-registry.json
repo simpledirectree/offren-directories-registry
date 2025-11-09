@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:47:37.024261+00:00Z",
+  "lastUpdated": "2025-11-09T01:48:20.193339+00:00Z",
   "stats": {
-    "totalDirectories": 2024,
+    "totalDirectories": 2025,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2024.0,
-    "totalListings": 19107,
-    "aiEnhancedDirectories": 2024
+    "avgDirectoriesPerRepo": 2025.0,
+    "totalListings": 19117,
+    "aiEnhancedDirectories": 2025
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26320,12 +26320,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-wine-bars-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:48:20.193339+00:00Z",
+      "lastUpdated": "2025-11-09T01:48:20.193339+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2024,
+      "directoryCount": 2025,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

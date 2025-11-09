@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:38:18.488531+00:00Z",
+  "lastUpdated": "2025-11-09T19:40:15.027741+00:00Z",
   "stats": {
-    "totalDirectories": 1288,
+    "totalDirectories": 1289,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1288.0,
-    "totalListings": 12143,
-    "aiEnhancedDirectories": 1288
+    "avgDirectoriesPerRepo": 1289.0,
+    "totalListings": 12152,
+    "aiEnhancedDirectories": 1289
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16752,12 +16752,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-design-system-creation-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:40:15.027741+00:00Z",
+      "lastUpdated": "2025-11-09T19:40:15.027741+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1288,
+      "directoryCount": 1289,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

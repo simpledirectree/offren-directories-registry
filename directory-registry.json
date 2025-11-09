@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:02:17.809672+00:00Z",
+  "lastUpdated": "2025-11-09T05:02:35.234953+00:00Z",
   "stats": {
-    "totalDirectories": 2414,
+    "totalDirectories": 2415,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2414.0,
-    "totalListings": 22842,
-    "aiEnhancedDirectories": 2414
+    "avgDirectoriesPerRepo": 2415.0,
+    "totalListings": 22852,
+    "aiEnhancedDirectories": 2415
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31390,12 +31390,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-interior-cleaning-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:02:35.234953+00:00Z",
+      "lastUpdated": "2025-11-09T05:02:35.234953+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2414,
+      "directoryCount": 2415,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

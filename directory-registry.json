@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:11:54.187004+00:00Z",
+  "lastUpdated": "2025-11-09T23:12:35.040588+00:00Z",
   "stats": {
-    "totalDirectories": 1509,
+    "totalDirectories": 1510,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1509.0,
-    "totalListings": 14201,
-    "aiEnhancedDirectories": 1509
+    "avgDirectoriesPerRepo": 1510.0,
+    "totalListings": 14211,
+    "aiEnhancedDirectories": 1510
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19625,12 +19625,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-organizational-development-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:12:35.040588+00:00Z",
+      "lastUpdated": "2025-11-09T23:12:35.040588+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1509,
+      "directoryCount": 1510,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:54:56.572902+00:00Z",
+  "lastUpdated": "2025-11-09T04:55:15.909571+00:00Z",
   "stats": {
-    "totalDirectories": 2388,
+    "totalDirectories": 2389,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2388.0,
-    "totalListings": 22596,
-    "aiEnhancedDirectories": 2388
+    "avgDirectoriesPerRepo": 2389.0,
+    "totalListings": 22606,
+    "aiEnhancedDirectories": 2389
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31052,12 +31052,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-k-12-tutoring-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:55:15.909571+00:00Z",
+      "lastUpdated": "2025-11-09T04:55:15.909571+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2388,
+      "directoryCount": 2389,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

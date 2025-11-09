@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:34:34.250521+00:00Z",
+  "lastUpdated": "2025-11-09T11:34:47.175158+00:00Z",
   "stats": {
-    "totalDirectories": 756,
+    "totalDirectories": 757,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 756.0,
-    "totalListings": 7176,
-    "aiEnhancedDirectories": 756
+    "avgDirectoriesPerRepo": 757.0,
+    "totalListings": 7186,
+    "aiEnhancedDirectories": 757
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9836,12 +9836,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-brand-positioning-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:34:47.175158+00:00Z",
+      "lastUpdated": "2025-11-09T11:34:47.175158+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 756,
+      "directoryCount": 757,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

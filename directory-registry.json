@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:27:25.432845+00:00Z",
+  "lastUpdated": "2025-11-09T21:29:46.822444+00:00Z",
   "stats": {
-    "totalDirectories": 1396,
+    "totalDirectories": 1397,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1396.0,
-    "totalListings": 13170,
-    "aiEnhancedDirectories": 1396
+    "avgDirectoriesPerRepo": 1397.0,
+    "totalListings": 13179,
+    "aiEnhancedDirectories": 1397
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18156,12 +18156,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-judo-classes-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:29:46.822444+00:00Z",
+      "lastUpdated": "2025-11-09T21:29:46.822444+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1396,
+      "directoryCount": 1397,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:58:55.490315+00:00Z",
+  "lastUpdated": "2025-11-09T02:59:11.038129+00:00Z",
   "stats": {
-    "totalDirectories": 2101,
+    "totalDirectories": 2102,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2101.0,
-    "totalListings": 19805,
-    "aiEnhancedDirectories": 2101
+    "avgDirectoriesPerRepo": 2102.0,
+    "totalListings": 19815,
+    "aiEnhancedDirectories": 2102
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27321,12 +27321,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-cellulite-treatment-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:59:11.038129+00:00Z",
+      "lastUpdated": "2025-11-09T02:59:11.038129+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2101,
+      "directoryCount": 2102,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:11:45.678426+00:00Z",
+  "lastUpdated": "2025-11-09T02:12:28.846082+00:00Z",
   "stats": {
-    "totalDirectories": 2047,
+    "totalDirectories": 2048,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2047.0,
-    "totalListings": 19317,
-    "aiEnhancedDirectories": 2047
+    "avgDirectoriesPerRepo": 2048.0,
+    "totalListings": 19327,
+    "aiEnhancedDirectories": 2048
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26619,12 +26619,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-permanent-makeup-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:12:28.846082+00:00Z",
+      "lastUpdated": "2025-11-09T02:12:28.846082+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2047,
+      "directoryCount": 2048,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

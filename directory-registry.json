@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:08:32.202062+00:00Z",
+  "lastUpdated": "2025-11-09T01:08:47.929195+00:00Z",
   "stats": {
-    "totalDirectories": 1974,
+    "totalDirectories": 1975,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1974.0,
-    "totalListings": 18633,
-    "aiEnhancedDirectories": 1974
+    "avgDirectoriesPerRepo": 1975.0,
+    "totalListings": 18643,
+    "aiEnhancedDirectories": 1975
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25670,12 +25670,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-pest-control-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:08:47.929195+00:00Z",
+      "lastUpdated": "2025-11-09T01:08:47.929195+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1974,
+      "directoryCount": 1975,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

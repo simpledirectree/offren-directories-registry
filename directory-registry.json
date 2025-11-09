@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:49:20.667506+00:00Z",
+  "lastUpdated": "2025-11-09T00:50:51.211803+00:00Z",
   "stats": {
-    "totalDirectories": 1957,
+    "totalDirectories": 1958,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1957.0,
-    "totalListings": 18479,
-    "aiEnhancedDirectories": 1957
+    "avgDirectoriesPerRepo": 1958.0,
+    "totalListings": 18482,
+    "aiEnhancedDirectories": 1958
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25449,12 +25449,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-oil-changes-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:50:51.211803+00:00Z",
+      "lastUpdated": "2025-11-09T00:50:51.211803+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1957,
+      "directoryCount": 1958,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

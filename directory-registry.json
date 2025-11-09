@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:01:37.278496+00:00Z",
+  "lastUpdated": "2025-11-09T21:05:13.142229+00:00Z",
   "stats": {
-    "totalDirectories": 1370,
+    "totalDirectories": 1371,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1370.0,
-    "totalListings": 12915,
-    "aiEnhancedDirectories": 1370
+    "avgDirectoriesPerRepo": 1371.0,
+    "totalListings": 12925,
+    "aiEnhancedDirectories": 1371
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17818,12 +17818,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-behavioral-training-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:05:13.142229+00:00Z",
+      "lastUpdated": "2025-11-09T21:05:13.142229+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1370,
+      "directoryCount": 1371,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

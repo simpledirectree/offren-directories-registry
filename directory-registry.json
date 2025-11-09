@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:10:11.071836+00:00Z",
+  "lastUpdated": "2025-11-09T18:11:38.985136+00:00Z",
   "stats": {
-    "totalDirectories": 1189,
+    "totalDirectories": 1190,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1189.0,
-    "totalListings": 11224,
-    "aiEnhancedDirectories": 1189
+    "avgDirectoriesPerRepo": 1190.0,
+    "totalListings": 11234,
+    "aiEnhancedDirectories": 1190
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15465,12 +15465,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-document-preparation-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:11:38.985136+00:00Z",
+      "lastUpdated": "2025-11-09T18:11:38.985136+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1189,
+      "directoryCount": 1190,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

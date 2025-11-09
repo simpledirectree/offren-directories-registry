@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:23:24.931637+00:00Z",
+  "lastUpdated": "2025-11-09T17:24:08.715508+00:00Z",
   "stats": {
-    "totalDirectories": 1134,
+    "totalDirectories": 1135,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1134.0,
-    "totalListings": 10696,
-    "aiEnhancedDirectories": 1134
+    "avgDirectoriesPerRepo": 1135.0,
+    "totalListings": 10706,
+    "aiEnhancedDirectories": 1135
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14750,12 +14750,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-industrial-labor-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:24:08.715508+00:00Z",
+      "lastUpdated": "2025-11-09T17:24:08.715508+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1134,
+      "directoryCount": 1135,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

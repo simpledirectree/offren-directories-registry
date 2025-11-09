@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:16:46.961761+00:00Z",
+  "lastUpdated": "2025-11-09T04:17:07.245564+00:00Z",
   "stats": {
-    "totalDirectories": 2259,
+    "totalDirectories": 2260,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2259.0,
-    "totalListings": 21324,
-    "aiEnhancedDirectories": 2259
+    "avgDirectoriesPerRepo": 2260.0,
+    "totalListings": 21334,
+    "aiEnhancedDirectories": 2260
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29375,12 +29375,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-gala-planning-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:17:07.245564+00:00Z",
+      "lastUpdated": "2025-11-09T04:17:07.245564+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2259,
+      "directoryCount": 2260,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

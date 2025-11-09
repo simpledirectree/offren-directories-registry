@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:49:25.086751+00:00Z",
+  "lastUpdated": "2025-11-09T03:49:40.699530+00:00Z",
   "stats": {
-    "totalDirectories": 2164,
+    "totalDirectories": 2165,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2164.0,
-    "totalListings": 20407,
-    "aiEnhancedDirectories": 2164
+    "avgDirectoriesPerRepo": 2165.0,
+    "totalListings": 20417,
+    "aiEnhancedDirectories": 2165
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28140,12 +28140,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-buyer-representation-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:49:40.699530+00:00Z",
+      "lastUpdated": "2025-11-09T03:49:40.699530+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2164,
+      "directoryCount": 2165,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

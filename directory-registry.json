@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:53:17.822763+00:00Z",
+  "lastUpdated": "2025-11-09T03:53:36.568547+00:00Z",
   "stats": {
-    "totalDirectories": 2177,
+    "totalDirectories": 2178,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2177.0,
-    "totalListings": 20537,
-    "aiEnhancedDirectories": 2177
+    "avgDirectoriesPerRepo": 2178.0,
+    "totalListings": 20547,
+    "aiEnhancedDirectories": 2178
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28309,12 +28309,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-offer-in-compromise-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:53:36.568547+00:00Z",
+      "lastUpdated": "2025-11-09T03:53:36.568547+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2177,
+      "directoryCount": 2178,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

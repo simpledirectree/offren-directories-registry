@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:49:27.329357+00:00Z",
+  "lastUpdated": "2025-11-09T20:50:33.674125+00:00Z",
   "stats": {
-    "totalDirectories": 1359,
+    "totalDirectories": 1360,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1359.0,
-    "totalListings": 12808,
-    "aiEnhancedDirectories": 1359
+    "avgDirectoriesPerRepo": 1360.0,
+    "totalListings": 12818,
+    "aiEnhancedDirectories": 1360
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17675,12 +17675,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-etf-management-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:50:33.674125+00:00Z",
+      "lastUpdated": "2025-11-09T20:50:33.674125+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1359,
+      "directoryCount": 1360,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:32:54.442325+00:00Z",
+  "lastUpdated": "2025-11-09T20:33:36.379686+00:00Z",
   "stats": {
-    "totalDirectories": 1343,
+    "totalDirectories": 1344,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1343.0,
-    "totalListings": 12655,
-    "aiEnhancedDirectories": 1343
+    "avgDirectoriesPerRepo": 1344.0,
+    "totalListings": 12665,
+    "aiEnhancedDirectories": 1344
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17467,12 +17467,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-sod-installation-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:33:36.379686+00:00Z",
+      "lastUpdated": "2025-11-09T20:33:36.379686+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1343,
+      "directoryCount": 1344,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

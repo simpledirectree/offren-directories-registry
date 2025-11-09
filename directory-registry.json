@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:53:11.098826+00:00Z",
+  "lastUpdated": "2025-11-09T04:53:31.342019+00:00Z",
   "stats": {
-    "totalDirectories": 2382,
+    "totalDirectories": 2383,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2382.0,
-    "totalListings": 22536,
-    "aiEnhancedDirectories": 2382
+    "avgDirectoriesPerRepo": 2383.0,
+    "totalListings": 22546,
+    "aiEnhancedDirectories": 2383
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30974,12 +30974,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-emergency-repair-services-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:53:31.342019+00:00Z",
+      "lastUpdated": "2025-11-09T04:53:31.342019+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2382,
+      "directoryCount": 2383,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

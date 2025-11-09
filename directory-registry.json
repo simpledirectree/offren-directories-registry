@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:09:54.508179+00:00Z",
+  "lastUpdated": "2025-11-09T05:10:11.765481+00:00Z",
   "stats": {
-    "totalDirectories": 2439,
+    "totalDirectories": 2440,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2439.0,
-    "totalListings": 23082,
-    "aiEnhancedDirectories": 2439
+    "avgDirectoriesPerRepo": 2440.0,
+    "totalListings": 23092,
+    "aiEnhancedDirectories": 2440
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31715,12 +31715,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-livestock-care-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:10:11.765481+00:00Z",
+      "lastUpdated": "2025-11-09T05:10:11.765481+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2439,
+      "directoryCount": 2440,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

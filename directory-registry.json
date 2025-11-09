@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:52:33.139360+00:00Z",
+  "lastUpdated": "2025-11-09T01:52:49.302114+00:00Z",
   "stats": {
-    "totalDirectories": 2033,
+    "totalDirectories": 2034,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2033.0,
-    "totalListings": 19187,
-    "aiEnhancedDirectories": 2033
+    "avgDirectoriesPerRepo": 2034.0,
+    "totalListings": 19197,
+    "aiEnhancedDirectories": 2034
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26437,12 +26437,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-cosmetic-surgery-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:52:49.302114+00:00Z",
+      "lastUpdated": "2025-11-09T01:52:49.302114+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2033,
+      "directoryCount": 2034,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

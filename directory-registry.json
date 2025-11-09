@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:31:31.344874+00:00Z",
+  "lastUpdated": "2025-11-09T15:31:46.023282+00:00Z",
   "stats": {
-    "totalDirectories": 1017,
+    "totalDirectories": 1018,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1017.0,
-    "totalListings": 9579,
-    "aiEnhancedDirectories": 1017
+    "avgDirectoriesPerRepo": 1018.0,
+    "totalListings": 9589,
+    "aiEnhancedDirectories": 1018
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13229,12 +13229,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-cost-accounting-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:31:46.023282+00:00Z",
+      "lastUpdated": "2025-11-09T15:31:46.023282+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1017,
+      "directoryCount": 1018,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:01:29.575448+00:00Z",
+  "lastUpdated": "2025-11-09T14:02:10.450333+00:00Z",
   "stats": {
-    "totalDirectories": 915,
+    "totalDirectories": 916,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 915.0,
-    "totalListings": 8635,
-    "aiEnhancedDirectories": 915
+    "avgDirectoriesPerRepo": 916.0,
+    "totalListings": 8645,
+    "aiEnhancedDirectories": 916
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11903,12 +11903,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-professional-development-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:02:10.450333+00:00Z",
+      "lastUpdated": "2025-11-09T14:02:10.450333+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 915,
+      "directoryCount": 916,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

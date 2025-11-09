@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:27:56.456475+00:00Z",
+  "lastUpdated": "2025-11-09T04:28:13.868181+00:00Z",
   "stats": {
-    "totalDirectories": 2295,
+    "totalDirectories": 2296,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2295.0,
-    "totalListings": 21678,
-    "aiEnhancedDirectories": 2295
+    "avgDirectoriesPerRepo": 2296.0,
+    "totalListings": 21688,
+    "aiEnhancedDirectories": 2296
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29843,12 +29843,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-onboarding-programs-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:28:13.868181+00:00Z",
+      "lastUpdated": "2025-11-09T04:28:13.868181+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2295,
+      "directoryCount": 2296,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

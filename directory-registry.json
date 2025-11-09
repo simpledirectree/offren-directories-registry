@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:58:04.347927+00:00Z",
+  "lastUpdated": "2025-11-09T09:58:18.399218+00:00Z",
   "stats": {
-    "totalDirectories": 631,
+    "totalDirectories": 632,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 631.0,
-    "totalListings": 6037,
-    "aiEnhancedDirectories": 631
+    "avgDirectoriesPerRepo": 632.0,
+    "totalListings": 6047,
+    "aiEnhancedDirectories": 632
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8211,12 +8211,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-drought-resistant-landscaping-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:58:18.399218+00:00Z",
+      "lastUpdated": "2025-11-09T09:58:18.399218+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 631,
+      "directoryCount": 632,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

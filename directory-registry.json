@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:57:40.092677+00:00Z",
+  "lastUpdated": "2025-11-09T13:58:43.243400+00:00Z",
   "stats": {
-    "totalDirectories": 906,
+    "totalDirectories": 907,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 906.0,
-    "totalListings": 8552,
-    "aiEnhancedDirectories": 906
+    "avgDirectoriesPerRepo": 907.0,
+    "totalListings": 8562,
+    "aiEnhancedDirectories": 907
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11786,12 +11786,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-mediation-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:58:43.243400+00:00Z",
+      "lastUpdated": "2025-11-09T13:58:43.243400+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 906,
+      "directoryCount": 907,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

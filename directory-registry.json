@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:44:52.707194+00:00Z",
+  "lastUpdated": "2025-11-09T06:45:08.998069+00:00Z",
   "stats": {
-    "totalDirectories": 314,
+    "totalDirectories": 315,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 314.0,
-    "totalListings": 3029,
-    "aiEnhancedDirectories": 314
+    "avgDirectoriesPerRepo": 315.0,
+    "totalListings": 3039,
+    "aiEnhancedDirectories": 315
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4090,12 +4090,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-progressive-web-apps-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:45:08.998069+00:00Z",
+      "lastUpdated": "2025-11-09T06:45:08.998069+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 314,
+      "directoryCount": 315,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

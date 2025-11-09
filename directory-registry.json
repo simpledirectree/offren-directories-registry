@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:59:48.971916+00:00Z",
+  "lastUpdated": "2025-11-09T16:01:25.583368+00:00Z",
   "stats": {
-    "totalDirectories": 1047,
+    "totalDirectories": 1048,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1047.0,
-    "totalListings": 9866,
-    "aiEnhancedDirectories": 1047
+    "avgDirectoriesPerRepo": 1048.0,
+    "totalListings": 9876,
+    "aiEnhancedDirectories": 1048
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13619,12 +13619,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-functional-medicine-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:01:25.583368+00:00Z",
+      "lastUpdated": "2025-11-09T16:01:25.583368+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1047,
+      "directoryCount": 1048,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

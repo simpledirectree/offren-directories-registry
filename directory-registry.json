@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:21:52.701152+00:00Z",
+  "lastUpdated": "2025-11-09T02:23:03.857357+00:00Z",
   "stats": {
-    "totalDirectories": 2062,
+    "totalDirectories": 2063,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2062.0,
-    "totalListings": 19450,
-    "aiEnhancedDirectories": 2062
+    "avgDirectoriesPerRepo": 2063.0,
+    "totalListings": 19460,
+    "aiEnhancedDirectories": 2063
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26814,12 +26814,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-aip-meal-prep-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:23:03.857357+00:00Z",
+      "lastUpdated": "2025-11-09T02:23:03.857357+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2062,
+      "directoryCount": 2063,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:22:29.119846+00:00Z",
+  "lastUpdated": "2025-11-09T16:22:43.627852+00:00Z",
   "stats": {
-    "totalDirectories": 1073,
+    "totalDirectories": 1074,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1073.0,
-    "totalListings": 10120,
-    "aiEnhancedDirectories": 1073
+    "avgDirectoriesPerRepo": 1074.0,
+    "totalListings": 10130,
+    "aiEnhancedDirectories": 1074
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13957,12 +13957,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-virtual-controller-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:22:43.627852+00:00Z",
+      "lastUpdated": "2025-11-09T16:22:43.627852+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1073,
+      "directoryCount": 1074,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

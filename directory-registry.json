@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:48:20.193339+00:00Z",
+  "lastUpdated": "2025-11-09T01:49:27.131471+00:00Z",
   "stats": {
-    "totalDirectories": 2025,
+    "totalDirectories": 2026,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2025.0,
-    "totalListings": 19117,
-    "aiEnhancedDirectories": 2025
+    "avgDirectoriesPerRepo": 2026.0,
+    "totalListings": 19122,
+    "aiEnhancedDirectories": 2026
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26333,12 +26333,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-therapeutic-gardening-programs-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:49:27.131471+00:00Z",
+      "lastUpdated": "2025-11-09T01:49:27.131471+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2025,
+      "directoryCount": 2026,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:31:53.606783+00:00Z",
+  "lastUpdated": "2025-11-09T04:32:10.882172+00:00Z",
   "stats": {
-    "totalDirectories": 2309,
+    "totalDirectories": 2310,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2309.0,
-    "totalListings": 21813,
-    "aiEnhancedDirectories": 2309
+    "avgDirectoriesPerRepo": 2310.0,
+    "totalListings": 21823,
+    "aiEnhancedDirectories": 2310
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30025,12 +30025,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-shrub-maintenance-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:32:10.882172+00:00Z",
+      "lastUpdated": "2025-11-09T04:32:10.882172+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2309,
+      "directoryCount": 2310,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

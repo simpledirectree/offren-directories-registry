@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:29:52.413205+00:00Z",
+  "lastUpdated": "2025-11-09T04:30:11.700875+00:00Z",
   "stats": {
-    "totalDirectories": 2302,
+    "totalDirectories": 2303,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2302.0,
-    "totalListings": 21743,
-    "aiEnhancedDirectories": 2302
+    "avgDirectoriesPerRepo": 2303.0,
+    "totalListings": 21753,
+    "aiEnhancedDirectories": 2303
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29934,12 +29934,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-search-engine-optimization-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:30:11.700875+00:00Z",
+      "lastUpdated": "2025-11-09T04:30:11.700875+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2302,
+      "directoryCount": 2303,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

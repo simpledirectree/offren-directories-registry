@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:33:11.551368+00:00Z",
+  "lastUpdated": "2025-11-09T06:33:29.596441+00:00Z",
   "stats": {
-    "totalDirectories": 271,
+    "totalDirectories": 272,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 271.0,
-    "totalListings": 2611,
-    "aiEnhancedDirectories": 271
+    "avgDirectoriesPerRepo": 272.0,
+    "totalListings": 2621,
+    "aiEnhancedDirectories": 272
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3531,12 +3531,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-swedish-massage-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:33:29.596441+00:00Z",
+      "lastUpdated": "2025-11-09T06:33:29.596441+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 271,
+      "directoryCount": 272,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

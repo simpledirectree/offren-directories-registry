@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:49:05.843264+00:00Z",
+  "lastUpdated": "2025-11-09T04:49:20.158180+00:00Z",
   "stats": {
-    "totalDirectories": 2368,
+    "totalDirectories": 2369,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2368.0,
-    "totalListings": 22399,
-    "aiEnhancedDirectories": 2368
+    "avgDirectoriesPerRepo": 2369.0,
+    "totalListings": 22406,
+    "aiEnhancedDirectories": 2369
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30792,12 +30792,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-general-home-repairs-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:49:20.158180+00:00Z",
+      "lastUpdated": "2025-11-09T04:49:20.158180+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2368,
+      "directoryCount": 2369,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

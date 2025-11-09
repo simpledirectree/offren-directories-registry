@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:09:18.649289+00:00Z",
+  "lastUpdated": "2025-11-09T07:09:34.285551+00:00Z",
   "stats": {
-    "totalDirectories": 403,
+    "totalDirectories": 404,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 403.0,
-    "totalListings": 3881,
-    "aiEnhancedDirectories": 403
+    "avgDirectoriesPerRepo": 404.0,
+    "totalListings": 3891,
+    "aiEnhancedDirectories": 404
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5247,12 +5247,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-inclusion-training-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:09:34.285551+00:00Z",
+      "lastUpdated": "2025-11-09T07:09:34.285551+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 403,
+      "directoryCount": 404,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

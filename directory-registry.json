@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:59:29.203433+00:00Z",
+  "lastUpdated": "2025-11-09T04:59:44.344751+00:00Z",
   "stats": {
-    "totalDirectories": 2404,
+    "totalDirectories": 2405,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2404.0,
-    "totalListings": 22754,
-    "aiEnhancedDirectories": 2404
+    "avgDirectoriesPerRepo": 2405.0,
+    "totalListings": 22764,
+    "aiEnhancedDirectories": 2405
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31260,12 +31260,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-blog-writing-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:59:44.344751+00:00Z",
+      "lastUpdated": "2025-11-09T04:59:44.344751+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2404,
+      "directoryCount": 2405,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

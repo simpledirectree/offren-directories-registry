@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:52:43.966403+00:00Z",
+  "lastUpdated": "2025-11-09T03:53:03.437416+00:00Z",
   "stats": {
-    "totalDirectories": 2175,
+    "totalDirectories": 2176,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2175.0,
-    "totalListings": 20517,
-    "aiEnhancedDirectories": 2175
+    "avgDirectoriesPerRepo": 2176.0,
+    "totalListings": 20527,
+    "aiEnhancedDirectories": 2176
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28283,12 +28283,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-node-js-development-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:53:03.437416+00:00Z",
+      "lastUpdated": "2025-11-09T03:53:03.437416+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2175,
+      "directoryCount": 2176,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

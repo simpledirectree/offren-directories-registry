@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:26:56.212148+00:00Z",
+  "lastUpdated": "2025-11-09T21:27:11.213416+00:00Z",
   "stats": {
-    "totalDirectories": 1394,
+    "totalDirectories": 1395,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1394.0,
-    "totalListings": 13150,
-    "aiEnhancedDirectories": 1394
+    "avgDirectoriesPerRepo": 1395.0,
+    "totalListings": 13160,
+    "aiEnhancedDirectories": 1395
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18130,12 +18130,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-entity-selection-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:27:11.213416+00:00Z",
+      "lastUpdated": "2025-11-09T21:27:11.213416+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1394,
+      "directoryCount": 1395,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

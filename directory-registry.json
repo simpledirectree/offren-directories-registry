@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:56:48.598040+00:00Z",
+  "lastUpdated": "2025-11-09T10:57:02.713438+00:00Z",
   "stats": {
-    "totalDirectories": 712,
+    "totalDirectories": 713,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 712.0,
-    "totalListings": 6779,
-    "aiEnhancedDirectories": 712
+    "avgDirectoriesPerRepo": 713.0,
+    "totalListings": 6789,
+    "aiEnhancedDirectories": 713
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9264,12 +9264,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-mobile-bicycle-repair-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:57:02.713438+00:00Z",
+      "lastUpdated": "2025-11-09T10:57:02.713438+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 712,
+      "directoryCount": 713,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

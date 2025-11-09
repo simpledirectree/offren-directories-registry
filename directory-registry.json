@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:48:12.313123+00:00Z",
+  "lastUpdated": "2025-11-09T04:48:31.786840+00:00Z",
   "stats": {
-    "totalDirectories": 2365,
+    "totalDirectories": 2366,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2365.0,
-    "totalListings": 22369,
-    "aiEnhancedDirectories": 2365
+    "avgDirectoriesPerRepo": 2366.0,
+    "totalListings": 22379,
+    "aiEnhancedDirectories": 2366
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30753,12 +30753,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-personal-chefs-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:48:31.786840+00:00Z",
+      "lastUpdated": "2025-11-09T04:48:31.786840+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2365,
+      "directoryCount": 2366,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

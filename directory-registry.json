@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:58:25.605768+00:00Z",
+  "lastUpdated": "2025-11-09T04:58:43.156954+00:00Z",
   "stats": {
-    "totalDirectories": 2400,
+    "totalDirectories": 2401,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2400.0,
-    "totalListings": 22716,
-    "aiEnhancedDirectories": 2400
+    "avgDirectoriesPerRepo": 2401.0,
+    "totalListings": 22726,
+    "aiEnhancedDirectories": 2401
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31208,12 +31208,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-home-staging-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:58:43.156954+00:00Z",
+      "lastUpdated": "2025-11-09T04:58:43.156954+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2400,
+      "directoryCount": 2401,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

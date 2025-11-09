@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:18:08.516544+00:00Z",
+  "lastUpdated": "2025-11-09T05:18:26.261660+00:00Z",
   "stats": {
-    "totalDirectories": 2469,
+    "totalDirectories": 2470,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2469.0,
-    "totalListings": 23358,
-    "aiEnhancedDirectories": 2469
+    "avgDirectoriesPerRepo": 2470.0,
+    "totalListings": 23368,
+    "aiEnhancedDirectories": 2470
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -32105,12 +32105,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-employee-handbook-creation-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:18:26.261660+00:00Z",
+      "lastUpdated": "2025-11-09T05:18:26.261660+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2469,
+      "directoryCount": 2470,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

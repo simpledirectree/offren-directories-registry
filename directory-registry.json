@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:06:07.805057+00:00Z",
+  "lastUpdated": "2025-11-09T06:06:28.461723+00:00Z",
   "stats": {
-    "totalDirectories": 173,
+    "totalDirectories": 174,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 173.0,
-    "totalListings": 1672,
-    "aiEnhancedDirectories": 173
+    "avgDirectoriesPerRepo": 174.0,
+    "totalListings": 1682,
+    "aiEnhancedDirectories": 174
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2257,12 +2257,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-loading-services-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:06:28.461723+00:00Z",
+      "lastUpdated": "2025-11-09T06:06:28.461723+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 173,
+      "directoryCount": 174,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:12:51.714111+00:00Z",
+  "lastUpdated": "2025-11-09T01:14:23.211026+00:00Z",
   "stats": {
-    "totalDirectories": 1981,
+    "totalDirectories": 1982,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1981.0,
-    "totalListings": 18699,
-    "aiEnhancedDirectories": 1981
+    "avgDirectoriesPerRepo": 1982.0,
+    "totalListings": 18709,
+    "aiEnhancedDirectories": 1982
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25761,12 +25761,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-casualty-insurance-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:14:23.211026+00:00Z",
+      "lastUpdated": "2025-11-09T01:14:23.211026+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1981,
+      "directoryCount": 1982,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

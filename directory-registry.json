@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:38:54.895484+00:00Z",
+  "lastUpdated": "2025-11-09T04:39:32.580361+00:00Z",
   "stats": {
-    "totalDirectories": 2334,
+    "totalDirectories": 2335,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2334.0,
-    "totalListings": 22063,
-    "aiEnhancedDirectories": 2334
+    "avgDirectoriesPerRepo": 2335.0,
+    "totalListings": 22073,
+    "aiEnhancedDirectories": 2335
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30350,12 +30350,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-prototyping-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:39:32.580361+00:00Z",
+      "lastUpdated": "2025-11-09T04:39:32.580361+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2334,
+      "directoryCount": 2335,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

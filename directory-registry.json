@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:40:31.269765+00:00Z",
+  "lastUpdated": "2025-11-09T18:40:45.314918+00:00Z",
   "stats": {
-    "totalDirectories": 1227,
+    "totalDirectories": 1228,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1227.0,
-    "totalListings": 11568,
-    "aiEnhancedDirectories": 1227
+    "avgDirectoriesPerRepo": 1228.0,
+    "totalListings": 11569,
+    "aiEnhancedDirectories": 1228
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15959,12 +15959,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-rheumatologists-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:40:45.314918+00:00Z",
+      "lastUpdated": "2025-11-09T18:40:45.314918+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1227,
+      "directoryCount": 1228,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

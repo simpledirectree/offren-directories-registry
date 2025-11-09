@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:51:43.633124+00:00Z",
+  "lastUpdated": "2025-11-09T03:52:01.959293+00:00Z",
   "stats": {
-    "totalDirectories": 2172,
+    "totalDirectories": 2173,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2172.0,
-    "totalListings": 20487,
-    "aiEnhancedDirectories": 2172
+    "avgDirectoriesPerRepo": 2173.0,
+    "totalListings": 20497,
+    "aiEnhancedDirectories": 2173
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28244,12 +28244,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-hardscaping-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:52:01.959293+00:00Z",
+      "lastUpdated": "2025-11-09T03:52:01.959293+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2172,
+      "directoryCount": 2173,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

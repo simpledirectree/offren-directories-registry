@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:39:39.288452+00:00Z",
+  "lastUpdated": "2025-11-09T14:40:47.502569+00:00Z",
   "stats": {
-    "totalDirectories": 968,
+    "totalDirectories": 969,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 968.0,
-    "totalListings": 9120,
-    "aiEnhancedDirectories": 968
+    "avgDirectoriesPerRepo": 969.0,
+    "totalListings": 9127,
+    "aiEnhancedDirectories": 969
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12592,12 +12592,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-payroll-administration-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:40:47.502569+00:00Z",
+      "lastUpdated": "2025-11-09T14:40:47.502569+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 968,
+      "directoryCount": 969,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

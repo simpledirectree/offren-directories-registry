@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:13:53.212903+00:00Z",
+  "lastUpdated": "2025-11-09T02:15:51.995925+00:00Z",
   "stats": {
-    "totalDirectories": 2052,
+    "totalDirectories": 2053,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2052.0,
-    "totalListings": 19363,
-    "aiEnhancedDirectories": 2052
+    "avgDirectoriesPerRepo": 2053.0,
+    "totalListings": 19368,
+    "aiEnhancedDirectories": 2053
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26684,12 +26684,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-ombre-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:15:51.995925+00:00Z",
+      "lastUpdated": "2025-11-09T02:15:51.995925+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2052,
+      "directoryCount": 2053,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

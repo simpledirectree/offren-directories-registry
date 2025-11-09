@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:32:10.521170+00:00Z",
+  "lastUpdated": "2025-11-09T22:32:25.031320+00:00Z",
   "stats": {
-    "totalDirectories": 1467,
+    "totalDirectories": 1468,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1467.0,
-    "totalListings": 13825,
-    "aiEnhancedDirectories": 1467
+    "avgDirectoriesPerRepo": 1468.0,
+    "totalListings": 13835,
+    "aiEnhancedDirectories": 1468
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19079,12 +19079,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-talent-management-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:32:25.031320+00:00Z",
+      "lastUpdated": "2025-11-09T22:32:25.031320+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1467,
+      "directoryCount": 1468,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:15:02.162058+00:00Z",
+  "lastUpdated": "2025-11-09T20:15:42.467879+00:00Z",
   "stats": {
-    "totalDirectories": 1324,
+    "totalDirectories": 1325,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1324.0,
-    "totalListings": 12474,
-    "aiEnhancedDirectories": 1324
+    "avgDirectoriesPerRepo": 1325.0,
+    "totalListings": 12484,
+    "aiEnhancedDirectories": 1325
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17220,12 +17220,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-prenatal-massage-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:15:42.467879+00:00Z",
+      "lastUpdated": "2025-11-09T20:15:42.467879+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1324,
+      "directoryCount": 1325,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

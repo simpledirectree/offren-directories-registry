@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:28:40.350734+00:00Z",
+  "lastUpdated": "2025-11-09T08:29:43.224833+00:00Z",
   "stats": {
-    "totalDirectories": 530,
+    "totalDirectories": 531,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 530.0,
-    "totalListings": 5115,
-    "aiEnhancedDirectories": 530
+    "avgDirectoriesPerRepo": 531.0,
+    "totalListings": 5125,
+    "aiEnhancedDirectories": 531
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6898,12 +6898,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-grief-counseling-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:29:43.224833+00:00Z",
+      "lastUpdated": "2025-11-09T08:29:43.224833+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 530,
+      "directoryCount": 531,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

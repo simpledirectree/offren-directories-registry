@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:53:19.717124+00:00Z",
+  "lastUpdated": "2025-11-09T02:54:57.070506+00:00Z",
   "stats": {
-    "totalDirectories": 2095,
+    "totalDirectories": 2096,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2095.0,
-    "totalListings": 19745,
-    "aiEnhancedDirectories": 2095
+    "avgDirectoriesPerRepo": 2096.0,
+    "totalListings": 19755,
+    "aiEnhancedDirectories": 2096
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27243,12 +27243,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-quality-assurance-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:54:57.070506+00:00Z",
+      "lastUpdated": "2025-11-09T02:54:57.070506+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2095,
+      "directoryCount": 2096,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

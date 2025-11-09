@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:45:56.956641+00:00Z",
+  "lastUpdated": "2025-11-09T06:46:15.318716+00:00Z",
   "stats": {
-    "totalDirectories": 318,
+    "totalDirectories": 319,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 318.0,
-    "totalListings": 3064,
-    "aiEnhancedDirectories": 318
+    "avgDirectoriesPerRepo": 319.0,
+    "totalListings": 3074,
+    "aiEnhancedDirectories": 319
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4142,12 +4142,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-theater-instruction-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:46:15.318716+00:00Z",
+      "lastUpdated": "2025-11-09T06:46:15.318716+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 318,
+      "directoryCount": 319,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

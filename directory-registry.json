@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:23:46.048928+00:00Z",
+  "lastUpdated": "2025-11-09T09:24:25.560697+00:00Z",
   "stats": {
-    "totalDirectories": 587,
+    "totalDirectories": 588,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 587.0,
-    "totalListings": 5620,
-    "aiEnhancedDirectories": 587
+    "avgDirectoriesPerRepo": 588.0,
+    "totalListings": 5626,
+    "aiEnhancedDirectories": 588
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7639,12 +7639,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-seller-representation-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:24:25.560697+00:00Z",
+      "lastUpdated": "2025-11-09T09:24:25.560697+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 587,
+      "directoryCount": 588,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

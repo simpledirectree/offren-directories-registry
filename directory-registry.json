@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:14:17.929646+00:00Z",
+  "lastUpdated": "2025-11-09T14:14:52.784828+00:00Z",
   "stats": {
-    "totalDirectories": 936,
+    "totalDirectories": 937,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 936.0,
-    "totalListings": 8832,
-    "aiEnhancedDirectories": 936
+    "avgDirectoriesPerRepo": 937.0,
+    "totalListings": 8833,
+    "aiEnhancedDirectories": 937
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12176,12 +12176,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-cleaning-staff-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:14:52.784828+00:00Z",
+      "lastUpdated": "2025-11-09T14:14:52.784828+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 936,
+      "directoryCount": 937,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

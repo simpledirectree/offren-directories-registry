@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:59:36.292201+00:00Z",
+  "lastUpdated": "2025-11-09T10:59:51.059578+00:00Z",
   "stats": {
-    "totalDirectories": 717,
+    "totalDirectories": 718,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 717.0,
-    "totalListings": 6824,
-    "aiEnhancedDirectories": 717
+    "avgDirectoriesPerRepo": 718.0,
+    "totalListings": 6834,
+    "aiEnhancedDirectories": 718
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9329,12 +9329,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-physical-therapy-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:59:51.059578+00:00Z",
+      "lastUpdated": "2025-11-09T10:59:51.059578+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 717,
+      "directoryCount": 718,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

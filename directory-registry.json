@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:01:23.140985+00:00Z",
+  "lastUpdated": "2025-11-09T05:01:42.848132+00:00Z",
   "stats": {
-    "totalDirectories": 2411,
+    "totalDirectories": 2412,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2411.0,
-    "totalListings": 22812,
-    "aiEnhancedDirectories": 2411
+    "avgDirectoriesPerRepo": 2412.0,
+    "totalListings": 22822,
+    "aiEnhancedDirectories": 2412
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31351,12 +31351,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-copyright-registration-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:01:42.848132+00:00Z",
+      "lastUpdated": "2025-11-09T05:01:42.848132+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2411,
+      "directoryCount": 2412,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

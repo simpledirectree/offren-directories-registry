@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:42:33.390130+00:00Z",
+  "lastUpdated": "2025-11-09T05:42:49.715186+00:00Z",
   "stats": {
-    "totalDirectories": 89,
+    "totalDirectories": 90,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 89.0,
-    "totalListings": 859,
-    "aiEnhancedDirectories": 89
+    "avgDirectoriesPerRepo": 90.0,
+    "totalListings": 869,
+    "aiEnhancedDirectories": 90
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1165,12 +1165,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-estate-planning-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:42:49.715186+00:00Z",
+      "lastUpdated": "2025-11-09T05:42:49.715186+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 89,
+      "directoryCount": 90,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

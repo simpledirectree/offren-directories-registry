@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:57:52.696097+00:00Z",
+  "lastUpdated": "2025-11-09T03:58:10.254513+00:00Z",
   "stats": {
-    "totalDirectories": 2193,
+    "totalDirectories": 2194,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2193.0,
-    "totalListings": 20686,
-    "aiEnhancedDirectories": 2193
+    "avgDirectoriesPerRepo": 2194.0,
+    "totalListings": 20696,
+    "aiEnhancedDirectories": 2194
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28517,12 +28517,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-smart-home-wiring-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:58:10.254513+00:00Z",
+      "lastUpdated": "2025-11-09T03:58:10.254513+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2193,
+      "directoryCount": 2194,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

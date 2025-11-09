@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:17:15.786754+00:00Z",
+  "lastUpdated": "2025-11-09T10:18:22.073223+00:00Z",
   "stats": {
-    "totalDirectories": 658,
+    "totalDirectories": 659,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 658.0,
-    "totalListings": 6291,
-    "aiEnhancedDirectories": 658
+    "avgDirectoriesPerRepo": 659.0,
+    "totalListings": 6301,
+    "aiEnhancedDirectories": 659
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8562,12 +8562,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-document-preparation-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:18:22.073223+00:00Z",
+      "lastUpdated": "2025-11-09T10:18:22.073223+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 658,
+      "directoryCount": 659,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

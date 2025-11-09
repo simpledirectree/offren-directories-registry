@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:01:54.731290+00:00Z",
+  "lastUpdated": "2025-11-09T23:02:36.261528+00:00Z",
   "stats": {
-    "totalDirectories": 1501,
+    "totalDirectories": 1502,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1501.0,
-    "totalListings": 14128,
-    "aiEnhancedDirectories": 1501
+    "avgDirectoriesPerRepo": 1502.0,
+    "totalListings": 14138,
+    "aiEnhancedDirectories": 1502
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19521,12 +19521,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-tire-sales-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:02:36.261528+00:00Z",
+      "lastUpdated": "2025-11-09T23:02:36.261528+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1501,
+      "directoryCount": 1502,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

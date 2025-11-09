@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:42:00.493198+00:00Z",
+  "lastUpdated": "2025-11-09T12:43:55.483905+00:00Z",
   "stats": {
-    "totalDirectories": 835,
+    "totalDirectories": 836,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 835.0,
-    "totalListings": 7913,
-    "aiEnhancedDirectories": 835
+    "avgDirectoriesPerRepo": 836.0,
+    "totalListings": 7920,
+    "aiEnhancedDirectories": 836
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10863,12 +10863,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-wellness-consulting-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:43:55.483905+00:00Z",
+      "lastUpdated": "2025-11-09T12:43:55.483905+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 835,
+      "directoryCount": 836,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

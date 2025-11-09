@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:45:28.105559+00:00Z",
+  "lastUpdated": "2025-11-09T06:45:40.761096+00:00Z",
   "stats": {
-    "totalDirectories": 316,
+    "totalDirectories": 317,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 316.0,
-    "totalListings": 3049,
-    "aiEnhancedDirectories": 316
+    "avgDirectoriesPerRepo": 317.0,
+    "totalListings": 3054,
+    "aiEnhancedDirectories": 317
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4116,12 +4116,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-concrete-work-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:45:40.761096+00:00Z",
+      "lastUpdated": "2025-11-09T06:45:40.761096+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 316,
+      "directoryCount": 317,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

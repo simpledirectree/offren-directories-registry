@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:40:39.131321+00:00Z",
+  "lastUpdated": "2025-11-09T03:40:54.590460+00:00Z",
   "stats": {
-    "totalDirectories": 2143,
+    "totalDirectories": 2144,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2143.0,
-    "totalListings": 20197,
-    "aiEnhancedDirectories": 2143
+    "avgDirectoriesPerRepo": 2144.0,
+    "totalListings": 20207,
+    "aiEnhancedDirectories": 2144
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27867,12 +27867,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-desktop-virtualization-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:40:54.590460+00:00Z",
+      "lastUpdated": "2025-11-09T03:40:54.590460+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2143,
+      "directoryCount": 2144,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

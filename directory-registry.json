@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:30:52.148614+00:00Z",
+  "lastUpdated": "2025-11-09T05:31:08.299218+00:00Z",
   "stats": {
-    "totalDirectories": 45,
+    "totalDirectories": 46,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 45.0,
-    "totalListings": 437,
-    "aiEnhancedDirectories": 45
+    "avgDirectoriesPerRepo": 46.0,
+    "totalListings": 447,
+    "aiEnhancedDirectories": 46
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -593,12 +593,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-venue-selection-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:31:08.299218+00:00Z",
+      "lastUpdated": "2025-11-09T05:31:08.299218+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 45,
+      "directoryCount": 46,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

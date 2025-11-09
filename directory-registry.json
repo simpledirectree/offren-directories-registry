@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:56:05.610198+00:00Z",
+  "lastUpdated": "2025-11-09T23:56:20.880145+00:00Z",
   "stats": {
-    "totalDirectories": 1554,
+    "totalDirectories": 1555,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1554.0,
-    "totalListings": 14623,
-    "aiEnhancedDirectories": 1554
+    "avgDirectoriesPerRepo": 1555.0,
+    "totalListings": 14633,
+    "aiEnhancedDirectories": 1555
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20210,12 +20210,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-accountants-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:56:20.880145+00:00Z",
+      "lastUpdated": "2025-11-09T23:56:20.880145+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1554,
+      "directoryCount": 1555,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

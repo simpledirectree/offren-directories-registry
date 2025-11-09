@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:25:50.439846+00:00Z",
+  "lastUpdated": "2025-11-09T17:27:02.231110+00:00Z",
   "stats": {
-    "totalDirectories": 1138,
+    "totalDirectories": 1139,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1138.0,
-    "totalListings": 10732,
-    "aiEnhancedDirectories": 1138
+    "avgDirectoriesPerRepo": 1139.0,
+    "totalListings": 10742,
+    "aiEnhancedDirectories": 1139
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14802,12 +14802,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-jiu-jitsu-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:27:02.231110+00:00Z",
+      "lastUpdated": "2025-11-09T17:27:02.231110+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1138,
+      "directoryCount": 1139,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

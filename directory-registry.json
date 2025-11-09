@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:53:46.617100+00:00Z",
+  "lastUpdated": "2025-11-09T04:54:04.491168+00:00Z",
   "stats": {
-    "totalDirectories": 2384,
+    "totalDirectories": 2385,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2384.0,
-    "totalListings": 22556,
-    "aiEnhancedDirectories": 2384
+    "avgDirectoriesPerRepo": 2385.0,
+    "totalListings": 22566,
+    "aiEnhancedDirectories": 2385
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31000,12 +31000,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-skilled-nursing-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:54:04.491168+00:00Z",
+      "lastUpdated": "2025-11-09T04:54:04.491168+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2384,
+      "directoryCount": 2385,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

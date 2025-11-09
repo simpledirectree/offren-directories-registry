@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:15:22.600317+00:00Z",
+  "lastUpdated": "2025-11-09T07:15:39.061035+00:00Z",
   "stats": {
-    "totalDirectories": 425,
+    "totalDirectories": 426,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 425.0,
-    "totalListings": 4095,
-    "aiEnhancedDirectories": 425
+    "avgDirectoriesPerRepo": 426.0,
+    "totalListings": 4105,
+    "aiEnhancedDirectories": 426
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5533,12 +5533,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-title-insurance-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:15:39.061035+00:00Z",
+      "lastUpdated": "2025-11-09T07:15:39.061035+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 425,
+      "directoryCount": 426,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

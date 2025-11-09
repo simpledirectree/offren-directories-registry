@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:52:30.858707+00:00Z",
+  "lastUpdated": "2025-11-09T07:52:44.004239+00:00Z",
   "stats": {
-    "totalDirectories": 490,
+    "totalDirectories": 491,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 490.0,
-    "totalListings": 4725,
-    "aiEnhancedDirectories": 490
+    "avgDirectoriesPerRepo": 491.0,
+    "totalListings": 4734,
+    "aiEnhancedDirectories": 491
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6378,12 +6378,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-visual-effects-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:52:44.004239+00:00Z",
+      "lastUpdated": "2025-11-09T07:52:44.004239+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 490,
+      "directoryCount": 491,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

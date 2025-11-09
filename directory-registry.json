@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:40:38.087203+00:00Z",
+  "lastUpdated": "2025-11-09T02:41:17.622469+00:00Z",
   "stats": {
-    "totalDirectories": 2083,
+    "totalDirectories": 2084,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2083.0,
-    "totalListings": 19642,
-    "aiEnhancedDirectories": 2083
+    "avgDirectoriesPerRepo": 2084.0,
+    "totalListings": 19647,
+    "aiEnhancedDirectories": 2084
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27087,12 +27087,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-microblading-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:41:17.622469+00:00Z",
+      "lastUpdated": "2025-11-09T02:41:17.622469+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2083,
+      "directoryCount": 2084,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

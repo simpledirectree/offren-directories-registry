@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:47:54.474341+00:00Z",
+  "lastUpdated": "2025-11-09T04:48:12.313123+00:00Z",
   "stats": {
-    "totalDirectories": 2364,
+    "totalDirectories": 2365,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2364.0,
-    "totalListings": 22359,
-    "aiEnhancedDirectories": 2364
+    "avgDirectoriesPerRepo": 2365.0,
+    "totalListings": 22369,
+    "aiEnhancedDirectories": 2365
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30740,12 +30740,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-workers-compensation-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:48:12.313123+00:00Z",
+      "lastUpdated": "2025-11-09T04:48:12.313123+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2364,
+      "directoryCount": 2365,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

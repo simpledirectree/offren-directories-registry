@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:52:37.913807+00:00Z",
+  "lastUpdated": "2025-11-09T04:52:55.944130+00:00Z",
   "stats": {
-    "totalDirectories": 2380,
+    "totalDirectories": 2381,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2380.0,
-    "totalListings": 22516,
-    "aiEnhancedDirectories": 2380
+    "avgDirectoriesPerRepo": 2381.0,
+    "totalListings": 22526,
+    "aiEnhancedDirectories": 2381
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30948,12 +30948,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-data-analytics-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:52:55.944130+00:00Z",
+      "lastUpdated": "2025-11-09T04:52:55.944130+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2380,
+      "directoryCount": 2381,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

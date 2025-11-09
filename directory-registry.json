@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:46:49.442859+00:00Z",
+  "lastUpdated": "2025-11-09T03:47:09.283586+00:00Z",
   "stats": {
-    "totalDirectories": 2155,
+    "totalDirectories": 2156,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2155.0,
-    "totalListings": 20317,
-    "aiEnhancedDirectories": 2155
+    "avgDirectoriesPerRepo": 2156.0,
+    "totalListings": 20327,
+    "aiEnhancedDirectories": 2156
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28023,12 +28023,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-installment-agreements-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:47:09.283586+00:00Z",
+      "lastUpdated": "2025-11-09T03:47:09.283586+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2155,
+      "directoryCount": 2156,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:36:03.754356+00:00Z",
+  "lastUpdated": "2025-11-09T05:36:18.916573+00:00Z",
   "stats": {
-    "totalDirectories": 64,
+    "totalDirectories": 65,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 64.0,
-    "totalListings": 622,
-    "aiEnhancedDirectories": 64
+    "avgDirectoriesPerRepo": 65.0,
+    "totalListings": 632,
+    "aiEnhancedDirectories": 65
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -840,12 +840,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-flower-bed-design-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:36:18.916573+00:00Z",
+      "lastUpdated": "2025-11-09T05:36:18.916573+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 64,
+      "directoryCount": 65,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

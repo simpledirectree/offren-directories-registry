@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:03:07.202562+00:00Z",
+  "lastUpdated": "2025-11-09T13:03:20.350694+00:00Z",
   "stats": {
-    "totalDirectories": 855,
+    "totalDirectories": 856,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 855.0,
-    "totalListings": 8074,
-    "aiEnhancedDirectories": 855
+    "avgDirectoriesPerRepo": 856.0,
+    "totalListings": 8078,
+    "aiEnhancedDirectories": 856
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11123,12 +11123,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-dj-services-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:03:20.350694+00:00Z",
+      "lastUpdated": "2025-11-09T13:03:20.350694+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 855,
+      "directoryCount": 856,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

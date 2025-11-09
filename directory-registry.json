@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:04:36.731282+00:00Z",
+  "lastUpdated": "2025-11-09T12:04:51.851346+00:00Z",
   "stats": {
-    "totalDirectories": 791,
+    "totalDirectories": 792,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 791.0,
-    "totalListings": 7500,
-    "aiEnhancedDirectories": 791
+    "avgDirectoriesPerRepo": 792.0,
+    "totalListings": 7510,
+    "aiEnhancedDirectories": 792
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10291,12 +10291,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-pop-up-restaurants-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:04:51.851346+00:00Z",
+      "lastUpdated": "2025-11-09T12:04:51.851346+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 791,
+      "directoryCount": 792,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

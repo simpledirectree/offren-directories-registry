@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:08:32.726649+00:00Z",
+  "lastUpdated": "2025-11-09T05:08:46.567817+00:00Z",
   "stats": {
-    "totalDirectories": 2434,
+    "totalDirectories": 2435,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2434.0,
-    "totalListings": 23037,
-    "aiEnhancedDirectories": 2434
+    "avgDirectoriesPerRepo": 2435.0,
+    "totalListings": 23042,
+    "aiEnhancedDirectories": 2435
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31650,12 +31650,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-background-check-services-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:08:46.567817+00:00Z",
+      "lastUpdated": "2025-11-09T05:08:46.567817+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2434,
+      "directoryCount": 2435,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

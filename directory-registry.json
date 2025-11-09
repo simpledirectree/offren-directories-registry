@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:30:41.483950+00:00Z",
+  "lastUpdated": "2025-11-09T02:30:57.871520+00:00Z",
   "stats": {
-    "totalDirectories": 2074,
+    "totalDirectories": 2075,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2074.0,
-    "totalListings": 19566,
-    "aiEnhancedDirectories": 2074
+    "avgDirectoriesPerRepo": 2075.0,
+    "totalListings": 19573,
+    "aiEnhancedDirectories": 2075
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26970,12 +26970,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-hair-styling-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:30:57.871520+00:00Z",
+      "lastUpdated": "2025-11-09T02:30:57.871520+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2074,
+      "directoryCount": 2075,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:57:15.682489+00:00Z",
+  "lastUpdated": "2025-11-09T03:57:33.923226+00:00Z",
   "stats": {
-    "totalDirectories": 2191,
+    "totalDirectories": 2192,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2191.0,
-    "totalListings": 20666,
-    "aiEnhancedDirectories": 2191
+    "avgDirectoriesPerRepo": 2192.0,
+    "totalListings": 20676,
+    "aiEnhancedDirectories": 2192
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28491,12 +28491,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-preventive-maintenance-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:57:33.923226+00:00Z",
+      "lastUpdated": "2025-11-09T03:57:33.923226+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2191,
+      "directoryCount": 2192,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

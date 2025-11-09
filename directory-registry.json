@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:00:11.924032+00:00Z",
+  "lastUpdated": "2025-11-09T07:00:25.252333+00:00Z",
   "stats": {
-    "totalDirectories": 370,
+    "totalDirectories": 371,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 370.0,
-    "totalListings": 3566,
-    "aiEnhancedDirectories": 370
+    "avgDirectoriesPerRepo": 371.0,
+    "totalListings": 3573,
+    "aiEnhancedDirectories": 371
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4818,12 +4818,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-virtual-assistants-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:00:25.252333+00:00Z",
+      "lastUpdated": "2025-11-09T07:00:25.252333+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 370,
+      "directoryCount": 371,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

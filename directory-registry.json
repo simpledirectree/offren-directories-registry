@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:06:33.413553+00:00Z",
+  "lastUpdated": "2025-11-09T23:08:28.833683+00:00Z",
   "stats": {
-    "totalDirectories": 1506,
+    "totalDirectories": 1507,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1506.0,
-    "totalListings": 14171,
-    "aiEnhancedDirectories": 1506
+    "avgDirectoriesPerRepo": 1507.0,
+    "totalListings": 14181,
+    "aiEnhancedDirectories": 1507
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19586,12 +19586,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-trade-finance-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:08:28.833683+00:00Z",
+      "lastUpdated": "2025-11-09T23:08:28.833683+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1506,
+      "directoryCount": 1507,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

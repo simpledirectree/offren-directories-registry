@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:52:42.838934+00:00Z",
+  "lastUpdated": "2025-11-09T22:55:04.978102+00:00Z",
   "stats": {
-    "totalDirectories": 1488,
+    "totalDirectories": 1489,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1488.0,
-    "totalListings": 14018,
-    "aiEnhancedDirectories": 1488
+    "avgDirectoriesPerRepo": 1489.0,
+    "totalListings": 14028,
+    "aiEnhancedDirectories": 1489
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19352,12 +19352,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-assisted-living-facilities-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:55:04.978102+00:00Z",
+      "lastUpdated": "2025-11-09T22:55:04.978102+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1488,
+      "directoryCount": 1489,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

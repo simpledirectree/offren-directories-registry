@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:20:14.113138+00:00Z",
+  "lastUpdated": "2025-11-09T14:20:54.286936+00:00Z",
   "stats": {
-    "totalDirectories": 942,
+    "totalDirectories": 943,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 942.0,
-    "totalListings": 8880,
-    "aiEnhancedDirectories": 942
+    "avgDirectoriesPerRepo": 943.0,
+    "totalListings": 8890,
+    "aiEnhancedDirectories": 943
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12254,12 +12254,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-inclusion-training-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:20:54.286936+00:00Z",
+      "lastUpdated": "2025-11-09T14:20:54.286936+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 942,
+      "directoryCount": 943,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

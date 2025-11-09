@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:13:46.898283+00:00Z",
+  "lastUpdated": "2025-11-09T04:14:01.004204+00:00Z",
   "stats": {
-    "totalDirectories": 2248,
+    "totalDirectories": 2249,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2248.0,
-    "totalListings": 21222,
-    "aiEnhancedDirectories": 2248
+    "avgDirectoriesPerRepo": 2249.0,
+    "totalListings": 21229,
+    "aiEnhancedDirectories": 2249
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29232,12 +29232,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-preventive-maintenance-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:14:01.004204+00:00Z",
+      "lastUpdated": "2025-11-09T04:14:01.004204+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2248,
+      "directoryCount": 2249,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

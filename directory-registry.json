@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:50:15.696317+00:00Z",
+  "lastUpdated": "2025-11-09T22:50:56.810113+00:00Z",
   "stats": {
-    "totalDirectories": 1485,
+    "totalDirectories": 1486,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1485.0,
-    "totalListings": 13988,
-    "aiEnhancedDirectories": 1485
+    "avgDirectoriesPerRepo": 1486.0,
+    "totalListings": 13998,
+    "aiEnhancedDirectories": 1486
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19313,12 +19313,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-low-vision-services-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:50:56.810113+00:00Z",
+      "lastUpdated": "2025-11-09T22:50:56.810113+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1485,
+      "directoryCount": 1486,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

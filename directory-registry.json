@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:26:08.332626+00:00Z",
+  "lastUpdated": "2025-11-09T02:26:49.583132+00:00Z",
   "stats": {
-    "totalDirectories": 2068,
+    "totalDirectories": 2069,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2068.0,
-    "totalListings": 19510,
-    "aiEnhancedDirectories": 2068
+    "avgDirectoriesPerRepo": 2069.0,
+    "totalListings": 19520,
+    "aiEnhancedDirectories": 2069
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26892,12 +26892,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-plant-purchasing-assistance-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:26:49.583132+00:00Z",
+      "lastUpdated": "2025-11-09T02:26:49.583132+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2068,
+      "directoryCount": 2069,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

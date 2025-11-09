@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:31:18.193413+00:00Z",
+  "lastUpdated": "2025-11-09T07:34:24.734912+00:00Z",
   "stats": {
-    "totalDirectories": 479,
+    "totalDirectories": 480,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 479.0,
-    "totalListings": 4622,
-    "aiEnhancedDirectories": 479
+    "avgDirectoriesPerRepo": 480.0,
+    "totalListings": 4632,
+    "aiEnhancedDirectories": 480
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6235,12 +6235,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-plastic-surgery-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:34:24.734912+00:00Z",
+      "lastUpdated": "2025-11-09T07:34:24.734912+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 479,
+      "directoryCount": 480,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

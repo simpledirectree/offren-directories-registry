@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:32:07.489371+00:00Z",
+  "lastUpdated": "2025-11-09T06:32:25.399777+00:00Z",
   "stats": {
-    "totalDirectories": 267,
+    "totalDirectories": 268,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 267.0,
-    "totalListings": 2571,
-    "aiEnhancedDirectories": 267
+    "avgDirectoriesPerRepo": 268.0,
+    "totalListings": 2581,
+    "aiEnhancedDirectories": 268
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3479,12 +3479,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-led-therapy-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:32:25.399777+00:00Z",
+      "lastUpdated": "2025-11-09T06:32:25.399777+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 267,
+      "directoryCount": 268,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

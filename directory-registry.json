@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:07:08.805590+00:00Z",
+  "lastUpdated": "2025-11-09T03:10:28.851013+00:00Z",
   "stats": {
-    "totalDirectories": 2110,
+    "totalDirectories": 2111,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2110.0,
-    "totalListings": 19892,
-    "aiEnhancedDirectories": 2110
+    "avgDirectoriesPerRepo": 2111.0,
+    "totalListings": 19902,
+    "aiEnhancedDirectories": 2111
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27438,12 +27438,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-eyelash-extensions-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:10:28.851013+00:00Z",
+      "lastUpdated": "2025-11-09T03:10:28.851013+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2110,
+      "directoryCount": 2111,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

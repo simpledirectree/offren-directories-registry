@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:56:45.404686+00:00Z",
+  "lastUpdated": "2025-11-09T04:57:02.809981+00:00Z",
   "stats": {
-    "totalDirectories": 2394,
+    "totalDirectories": 2395,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2394.0,
-    "totalListings": 22656,
-    "aiEnhancedDirectories": 2394
+    "avgDirectoriesPerRepo": 2395.0,
+    "totalListings": 22666,
+    "aiEnhancedDirectories": 2395
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31130,12 +31130,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-search-engine-optimization-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:57:02.809981+00:00Z",
+      "lastUpdated": "2025-11-09T04:57:02.809981+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2394,
+      "directoryCount": 2395,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

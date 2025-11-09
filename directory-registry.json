@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:15:52.568308+00:00Z",
+  "lastUpdated": "2025-11-09T05:16:11.334113+00:00Z",
   "stats": {
-    "totalDirectories": 2461,
+    "totalDirectories": 2462,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2461.0,
-    "totalListings": 23278,
-    "aiEnhancedDirectories": 2461
+    "avgDirectoriesPerRepo": 2462.0,
+    "totalListings": 23288,
+    "aiEnhancedDirectories": 2462
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -32001,12 +32001,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-tax-planning-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:16:11.334113+00:00Z",
+      "lastUpdated": "2025-11-09T05:16:11.334113+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2461,
+      "directoryCount": 2462,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

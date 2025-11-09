@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:39:18.636433+00:00Z",
+  "lastUpdated": "2025-11-09T10:40:10.257694+00:00Z",
   "stats": {
-    "totalDirectories": 693,
+    "totalDirectories": 694,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 693.0,
-    "totalListings": 6609,
-    "aiEnhancedDirectories": 693
+    "avgDirectoriesPerRepo": 694.0,
+    "totalListings": 6614,
+    "aiEnhancedDirectories": 694
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9017,12 +9017,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-oral-surgery-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:40:10.257694+00:00Z",
+      "lastUpdated": "2025-11-09T10:40:10.257694+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 693,
+      "directoryCount": 694,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

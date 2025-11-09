@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:26:53.757413+00:00Z",
+  "lastUpdated": "2025-11-09T01:27:36.850957+00:00Z",
   "stats": {
-    "totalDirectories": 2000,
+    "totalDirectories": 2001,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2000.0,
-    "totalListings": 18881,
-    "aiEnhancedDirectories": 2000
+    "avgDirectoriesPerRepo": 2001.0,
+    "totalListings": 18891,
+    "aiEnhancedDirectories": 2001
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26008,12 +26008,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-air-quality-systems-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:27:36.850957+00:00Z",
+      "lastUpdated": "2025-11-09T01:27:36.850957+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2000,
+      "directoryCount": 2001,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:32:40.824065+00:00Z",
+  "lastUpdated": "2025-11-09T17:32:56.615620+00:00Z",
   "stats": {
-    "totalDirectories": 1147,
+    "totalDirectories": 1148,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1147.0,
-    "totalListings": 10822,
-    "aiEnhancedDirectories": 1147
+    "avgDirectoriesPerRepo": 1148.0,
+    "totalListings": 10832,
+    "aiEnhancedDirectories": 1148
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14919,12 +14919,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-risk-assessments-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:32:56.615620+00:00Z",
+      "lastUpdated": "2025-11-09T17:32:56.615620+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1147,
+      "directoryCount": 1148,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

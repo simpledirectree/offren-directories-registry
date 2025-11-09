@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:33:29.189114+00:00Z",
+  "lastUpdated": "2025-11-09T05:33:44.042845+00:00Z",
   "stats": {
-    "totalDirectories": 55,
+    "totalDirectories": 56,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 55.0,
-    "totalListings": 532,
-    "aiEnhancedDirectories": 55
+    "avgDirectoriesPerRepo": 56.0,
+    "totalListings": 542,
+    "aiEnhancedDirectories": 56
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -723,12 +723,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-beard-styling-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:33:44.042845+00:00Z",
+      "lastUpdated": "2025-11-09T05:33:44.042845+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 55,
+      "directoryCount": 56,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

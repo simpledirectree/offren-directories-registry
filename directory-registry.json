@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:13:16.829819+00:00Z",
+  "lastUpdated": "2025-11-09T22:14:07.551043+00:00Z",
   "stats": {
-    "totalDirectories": 1446,
+    "totalDirectories": 1447,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1446.0,
-    "totalListings": 13629,
-    "aiEnhancedDirectories": 1446
+    "avgDirectoriesPerRepo": 1447.0,
+    "totalListings": 13630,
+    "aiEnhancedDirectories": 1447
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18806,12 +18806,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-payroll-processing-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:14:07.551043+00:00Z",
+      "lastUpdated": "2025-11-09T22:14:07.551043+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1446,
+      "directoryCount": 1447,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

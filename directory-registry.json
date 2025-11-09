@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:52:04.386343+00:00Z",
+  "lastUpdated": "2025-11-09T04:52:20.752121+00:00Z",
   "stats": {
-    "totalDirectories": 2378,
+    "totalDirectories": 2379,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2378.0,
-    "totalListings": 22496,
-    "aiEnhancedDirectories": 2378
+    "avgDirectoriesPerRepo": 2379.0,
+    "totalListings": 22506,
+    "aiEnhancedDirectories": 2379
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30922,12 +30922,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-bikram-yoga-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:52:20.752121+00:00Z",
+      "lastUpdated": "2025-11-09T04:52:20.752121+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2378,
+      "directoryCount": 2379,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

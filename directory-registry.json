@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:08:29.914738+00:00Z",
+  "lastUpdated": "2025-11-09T12:11:52.354549+00:00Z",
   "stats": {
-    "totalDirectories": 795,
+    "totalDirectories": 796,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 795.0,
-    "totalListings": 7540,
-    "aiEnhancedDirectories": 795
+    "avgDirectoriesPerRepo": 796.0,
+    "totalListings": 7544,
+    "aiEnhancedDirectories": 796
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10343,12 +10343,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-3d-animation-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:11:52.354549+00:00Z",
+      "lastUpdated": "2025-11-09T12:11:52.354549+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 795,
+      "directoryCount": 796,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

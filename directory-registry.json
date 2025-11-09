@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:51:41.104354+00:00Z",
+  "lastUpdated": "2025-11-09T11:52:43.900739+00:00Z",
   "stats": {
-    "totalDirectories": 774,
+    "totalDirectories": 775,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 774.0,
-    "totalListings": 7347,
-    "aiEnhancedDirectories": 774
+    "avgDirectoriesPerRepo": 775.0,
+    "totalListings": 7351,
+    "aiEnhancedDirectories": 775
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10070,12 +10070,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-logistics-consulting-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:52:43.900739+00:00Z",
+      "lastUpdated": "2025-11-09T11:52:43.900739+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 774,
+      "directoryCount": 775,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:10:18.749719+00:00Z",
+  "lastUpdated": "2025-11-09T04:10:40.595655+00:00Z",
   "stats": {
-    "totalDirectories": 2236,
+    "totalDirectories": 2237,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2236.0,
-    "totalListings": 21111,
-    "aiEnhancedDirectories": 2236
+    "avgDirectoriesPerRepo": 2237.0,
+    "totalListings": 21121,
+    "aiEnhancedDirectories": 2237
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29076,12 +29076,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-virtual-assistants-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:10:40.595655+00:00Z",
+      "lastUpdated": "2025-11-09T04:10:40.595655+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2236,
+      "directoryCount": 2237,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:36:31.853313+00:00Z",
+  "lastUpdated": "2025-11-09T18:37:09.270790+00:00Z",
   "stats": {
-    "totalDirectories": 1221,
+    "totalDirectories": 1222,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1221.0,
-    "totalListings": 11517,
-    "aiEnhancedDirectories": 1221
+    "avgDirectoriesPerRepo": 1222.0,
+    "totalListings": 11518,
+    "aiEnhancedDirectories": 1222
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15881,12 +15881,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-search-engine-marketing-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:37:09.270790+00:00Z",
+      "lastUpdated": "2025-11-09T18:37:09.270790+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1221,
+      "directoryCount": 1222,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

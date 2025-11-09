@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:12:40.745781+00:00Z",
+  "lastUpdated": "2025-11-09T04:12:53.438251+00:00Z",
   "stats": {
-    "totalDirectories": 2244,
+    "totalDirectories": 2245,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2244.0,
-    "totalListings": 21191,
-    "aiEnhancedDirectories": 2244
+    "avgDirectoriesPerRepo": 2245.0,
+    "totalListings": 21192,
+    "aiEnhancedDirectories": 2245
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29180,12 +29180,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-private-equity-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:12:53.438251+00:00Z",
+      "lastUpdated": "2025-11-09T04:12:53.438251+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2244,
+      "directoryCount": 2245,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:26:49.583132+00:00Z",
+  "lastUpdated": "2025-11-09T02:27:06.766824+00:00Z",
   "stats": {
-    "totalDirectories": 2069,
+    "totalDirectories": 2070,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2069.0,
-    "totalListings": 19520,
-    "aiEnhancedDirectories": 2069
+    "avgDirectoriesPerRepo": 2070.0,
+    "totalListings": 19530,
+    "aiEnhancedDirectories": 2070
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26905,12 +26905,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-customer-service-process-development-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:27:06.766824+00:00Z",
+      "lastUpdated": "2025-11-09T02:27:06.766824+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2069,
+      "directoryCount": 2070,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

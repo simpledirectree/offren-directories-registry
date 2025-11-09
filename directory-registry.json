@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:13:30.363567+00:00Z",
+  "lastUpdated": "2025-11-09T06:13:49.458026+00:00Z",
   "stats": {
-    "totalDirectories": 198,
+    "totalDirectories": 199,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 198.0,
-    "totalListings": 1913,
-    "aiEnhancedDirectories": 198
+    "avgDirectoriesPerRepo": 199.0,
+    "totalListings": 1923,
+    "aiEnhancedDirectories": 199
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2582,12 +2582,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-day-labor-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:13:49.458026+00:00Z",
+      "lastUpdated": "2025-11-09T06:13:49.458026+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 198,
+      "directoryCount": 199,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

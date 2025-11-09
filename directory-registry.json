@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:19:22.185164+00:00Z",
+  "lastUpdated": "2025-11-09T02:20:04.981134+00:00Z",
   "stats": {
-    "totalDirectories": 2059,
+    "totalDirectories": 2060,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2059.0,
-    "totalListings": 19428,
-    "aiEnhancedDirectories": 2059
+    "avgDirectoriesPerRepo": 2060.0,
+    "totalListings": 19438,
+    "aiEnhancedDirectories": 2060
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26775,12 +26775,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-vendor-coordination-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:20:04.981134+00:00Z",
+      "lastUpdated": "2025-11-09T02:20:04.981134+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2059,
+      "directoryCount": 2060,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

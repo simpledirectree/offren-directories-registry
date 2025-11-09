@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:20:22.727834+00:00Z",
+  "lastUpdated": "2025-11-09T06:20:37.061472+00:00Z",
   "stats": {
-    "totalDirectories": 223,
+    "totalDirectories": 224,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 223.0,
-    "totalListings": 2155,
-    "aiEnhancedDirectories": 223
+    "avgDirectoriesPerRepo": 224.0,
+    "totalListings": 2165,
+    "aiEnhancedDirectories": 224
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2907,12 +2907,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-industry-specific-compliance-consulting-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:20:37.061472+00:00Z",
+      "lastUpdated": "2025-11-09T06:20:37.061472+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 223,
+      "directoryCount": 224,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:30:11.700875+00:00Z",
+  "lastUpdated": "2025-11-09T04:30:30.047203+00:00Z",
   "stats": {
-    "totalDirectories": 2303,
+    "totalDirectories": 2304,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2303.0,
-    "totalListings": 21753,
-    "aiEnhancedDirectories": 2303
+    "avgDirectoriesPerRepo": 2304.0,
+    "totalListings": 21763,
+    "aiEnhancedDirectories": 2304
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29947,12 +29947,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-study-skills-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:30:30.047203+00:00Z",
+      "lastUpdated": "2025-11-09T04:30:30.047203+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2303,
+      "directoryCount": 2304,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

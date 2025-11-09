@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:27:31.083819+00:00Z",
+  "lastUpdated": "2025-11-09T06:27:43.840597+00:00Z",
   "stats": {
-    "totalDirectories": 249,
+    "totalDirectories": 250,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 249.0,
-    "totalListings": 2396,
-    "aiEnhancedDirectories": 249
+    "avgDirectoriesPerRepo": 250.0,
+    "totalListings": 2401,
+    "aiEnhancedDirectories": 250
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3245,12 +3245,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-probate-law-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:27:43.840597+00:00Z",
+      "lastUpdated": "2025-11-09T06:27:43.840597+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 249,
+      "directoryCount": 250,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

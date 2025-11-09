@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:44:24.077053+00:00Z",
+  "lastUpdated": "2025-11-09T05:44:39.876880+00:00Z",
   "stats": {
-    "totalDirectories": 96,
+    "totalDirectories": 97,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 96.0,
-    "totalListings": 920,
-    "aiEnhancedDirectories": 96
+    "avgDirectoriesPerRepo": 97.0,
+    "totalListings": 930,
+    "aiEnhancedDirectories": 97
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1256,12 +1256,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-music-instruction-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:44:39.876880+00:00Z",
+      "lastUpdated": "2025-11-09T05:44:39.876880+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 96,
+      "directoryCount": 97,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

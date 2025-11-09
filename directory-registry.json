@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:45:42.294289+00:00Z",
+  "lastUpdated": "2025-11-09T12:47:13.166609+00:00Z",
   "stats": {
-    "totalDirectories": 838,
+    "totalDirectories": 839,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 838.0,
-    "totalListings": 7935,
-    "aiEnhancedDirectories": 838
+    "avgDirectoriesPerRepo": 839.0,
+    "totalListings": 7945,
+    "aiEnhancedDirectories": 839
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10902,12 +10902,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-medicaid-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:47:13.166609+00:00Z",
+      "lastUpdated": "2025-11-09T12:47:13.166609+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 838,
+      "directoryCount": 839,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

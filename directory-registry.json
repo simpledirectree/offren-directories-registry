@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:26:53.923113+00:00Z",
+  "lastUpdated": "2025-11-09T06:27:12.069487+00:00Z",
   "stats": {
-    "totalDirectories": 247,
+    "totalDirectories": 248,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 247.0,
-    "totalListings": 2376,
-    "aiEnhancedDirectories": 247
+    "avgDirectoriesPerRepo": 248.0,
+    "totalListings": 2386,
+    "aiEnhancedDirectories": 248
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3219,12 +3219,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-search-engine-optimization-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:27:12.069487+00:00Z",
+      "lastUpdated": "2025-11-09T06:27:12.069487+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 247,
+      "directoryCount": 248,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

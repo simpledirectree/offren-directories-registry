@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:29:00.146325+00:00Z",
+  "lastUpdated": "2025-11-09T07:29:16.214973+00:00Z",
   "stats": {
-    "totalDirectories": 473,
+    "totalDirectories": 474,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 473.0,
-    "totalListings": 4562,
-    "aiEnhancedDirectories": 473
+    "avgDirectoriesPerRepo": 474.0,
+    "totalListings": 4572,
+    "aiEnhancedDirectories": 474
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6157,12 +6157,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-pet-sitters-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:29:16.214973+00:00Z",
+      "lastUpdated": "2025-11-09T07:29:16.214973+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 473,
+      "directoryCount": 474,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

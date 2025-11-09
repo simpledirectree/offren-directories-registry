@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:04:03.135673+00:00Z",
+  "lastUpdated": "2025-11-09T04:04:17.737160+00:00Z",
   "stats": {
-    "totalDirectories": 2214,
+    "totalDirectories": 2215,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2214.0,
-    "totalListings": 20896,
-    "aiEnhancedDirectories": 2214
+    "avgDirectoriesPerRepo": 2215.0,
+    "totalListings": 20901,
+    "aiEnhancedDirectories": 2215
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28790,12 +28790,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-tile-roofing-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:04:17.737160+00:00Z",
+      "lastUpdated": "2025-11-09T04:04:17.737160+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2214,
+      "directoryCount": 2215,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:06:13.035058+00:00Z",
+  "lastUpdated": "2025-11-09T10:06:27.866403+00:00Z",
   "stats": {
-    "totalDirectories": 643,
+    "totalDirectories": 644,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 643.0,
-    "totalListings": 6156,
-    "aiEnhancedDirectories": 643
+    "avgDirectoriesPerRepo": 644.0,
+    "totalListings": 6166,
+    "aiEnhancedDirectories": 644
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8367,12 +8367,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-sports-conditioning-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:06:27.866403+00:00Z",
+      "lastUpdated": "2025-11-09T10:06:27.866403+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 643,
+      "directoryCount": 644,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

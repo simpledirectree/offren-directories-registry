@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:16:24.175876+00:00Z",
+  "lastUpdated": "2025-11-09T07:16:39.109521+00:00Z",
   "stats": {
-    "totalDirectories": 429,
+    "totalDirectories": 430,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 429.0,
-    "totalListings": 4134,
-    "aiEnhancedDirectories": 429
+    "avgDirectoriesPerRepo": 430.0,
+    "totalListings": 4144,
+    "aiEnhancedDirectories": 430
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5585,12 +5585,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-car-audio-installation-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:16:39.109521+00:00Z",
+      "lastUpdated": "2025-11-09T07:16:39.109521+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 429,
+      "directoryCount": 430,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

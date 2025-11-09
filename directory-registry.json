@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:24:51.834748+00:00Z",
+  "lastUpdated": "2025-11-09T17:25:08.390312+00:00Z",
   "stats": {
-    "totalDirectories": 1136,
+    "totalDirectories": 1137,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1136.0,
-    "totalListings": 10716,
-    "aiEnhancedDirectories": 1136
+    "avgDirectoriesPerRepo": 1137.0,
+    "totalListings": 10726,
+    "aiEnhancedDirectories": 1137
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14776,12 +14776,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-content-strategy-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:25:08.390312+00:00Z",
+      "lastUpdated": "2025-11-09T17:25:08.390312+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1136,
+      "directoryCount": 1137,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:12:11.886327+00:00Z",
+  "lastUpdated": "2025-11-09T01:12:51.714111+00:00Z",
   "stats": {
-    "totalDirectories": 1980,
+    "totalDirectories": 1981,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1980.0,
-    "totalListings": 18693,
-    "aiEnhancedDirectories": 1980
+    "avgDirectoriesPerRepo": 1981.0,
+    "totalListings": 18699,
+    "aiEnhancedDirectories": 1981
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25748,12 +25748,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-cellulite-treatment-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:12:51.714111+00:00Z",
+      "lastUpdated": "2025-11-09T01:12:51.714111+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1980,
+      "directoryCount": 1981,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

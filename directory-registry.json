@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:38:19.552974+00:00Z",
+  "lastUpdated": "2025-11-09T05:38:33.750704+00:00Z",
   "stats": {
-    "totalDirectories": 73,
+    "totalDirectories": 74,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 73.0,
-    "totalListings": 699,
-    "aiEnhancedDirectories": 73
+    "avgDirectoriesPerRepo": 74.0,
+    "totalListings": 709,
+    "aiEnhancedDirectories": 74
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -957,12 +957,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-ceiling-fans-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:38:33.750704+00:00Z",
+      "lastUpdated": "2025-11-09T05:38:33.750704+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 73,
+      "directoryCount": 74,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

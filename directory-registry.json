@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:34:59.042443+00:00Z",
+  "lastUpdated": "2025-11-09T21:36:09.262056+00:00Z",
   "stats": {
-    "totalDirectories": 1405,
+    "totalDirectories": 1406,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1405.0,
-    "totalListings": 13259,
-    "aiEnhancedDirectories": 1405
+    "avgDirectoriesPerRepo": 1406.0,
+    "totalListings": 13269,
+    "aiEnhancedDirectories": 1406
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18273,12 +18273,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-manual-labor-for-projects-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:36:09.262056+00:00Z",
+      "lastUpdated": "2025-11-09T21:36:09.262056+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1405,
+      "directoryCount": 1406,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

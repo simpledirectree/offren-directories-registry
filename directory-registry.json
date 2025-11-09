@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:16:26.454097+00:00Z",
+  "lastUpdated": "2025-11-09T05:16:44.023637+00:00Z",
   "stats": {
-    "totalDirectories": 2463,
+    "totalDirectories": 2464,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2463.0,
-    "totalListings": 23298,
-    "aiEnhancedDirectories": 2463
+    "avgDirectoriesPerRepo": 2464.0,
+    "totalListings": 23308,
+    "aiEnhancedDirectories": 2464
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -32027,12 +32027,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-commercial-banking-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:16:44.023637+00:00Z",
+      "lastUpdated": "2025-11-09T05:16:44.023637+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2463,
+      "directoryCount": 2464,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

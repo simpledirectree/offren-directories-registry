@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:05:04.106442+00:00Z",
+  "lastUpdated": "2025-11-09T15:05:46.589059+00:00Z",
   "stats": {
-    "totalDirectories": 987,
+    "totalDirectories": 988,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 987.0,
-    "totalListings": 9297,
-    "aiEnhancedDirectories": 987
+    "avgDirectoriesPerRepo": 988.0,
+    "totalListings": 9307,
+    "aiEnhancedDirectories": 988
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12839,12 +12839,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-house-call-doctors-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:05:46.589059+00:00Z",
+      "lastUpdated": "2025-11-09T15:05:46.589059+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 987,
+      "directoryCount": 988,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

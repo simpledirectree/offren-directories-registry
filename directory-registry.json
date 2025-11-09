@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:49:08.357037+00:00Z",
+  "lastUpdated": "2025-11-09T08:50:10.374317+00:00Z",
   "stats": {
-    "totalDirectories": 557,
+    "totalDirectories": 558,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 557.0,
-    "totalListings": 5351,
-    "aiEnhancedDirectories": 557
+    "avgDirectoriesPerRepo": 558.0,
+    "totalListings": 5352,
+    "aiEnhancedDirectories": 558
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7249,12 +7249,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-ai-consulting-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:50:10.374317+00:00Z",
+      "lastUpdated": "2025-11-09T08:50:10.374317+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 557,
+      "directoryCount": 558,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

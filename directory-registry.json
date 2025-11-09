@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:08:00.706250+00:00Z",
+  "lastUpdated": "2025-11-09T07:08:13.583589+00:00Z",
   "stats": {
-    "totalDirectories": 398,
+    "totalDirectories": 399,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 398.0,
-    "totalListings": 3836,
-    "aiEnhancedDirectories": 398
+    "avgDirectoriesPerRepo": 399.0,
+    "totalListings": 3841,
+    "aiEnhancedDirectories": 399
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5182,12 +5182,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-breath-work-sessions-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:08:13.583589+00:00Z",
+      "lastUpdated": "2025-11-09T07:08:13.583589+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 398,
+      "directoryCount": 399,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

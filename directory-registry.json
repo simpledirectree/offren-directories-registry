@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:27:06.766824+00:00Z",
+  "lastUpdated": "2025-11-09T02:27:49.780495+00:00Z",
   "stats": {
-    "totalDirectories": 2070,
+    "totalDirectories": 2071,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2070.0,
-    "totalListings": 19530,
-    "aiEnhancedDirectories": 2070
+    "avgDirectoriesPerRepo": 2071.0,
+    "totalListings": 19540,
+    "aiEnhancedDirectories": 2071
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26918,12 +26918,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-organizational-development-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:27:49.780495+00:00Z",
+      "lastUpdated": "2025-11-09T02:27:49.780495+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2070,
+      "directoryCount": 2071,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

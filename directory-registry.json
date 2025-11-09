@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:08:34.597866+00:00Z",
+  "lastUpdated": "2025-11-09T19:09:41.818543+00:00Z",
   "stats": {
-    "totalDirectories": 1257,
+    "totalDirectories": 1258,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1257.0,
-    "totalListings": 11843,
-    "aiEnhancedDirectories": 1257
+    "avgDirectoriesPerRepo": 1258.0,
+    "totalListings": 11853,
+    "aiEnhancedDirectories": 1258
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16349,12 +16349,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-health-insurance-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:09:41.818543+00:00Z",
+      "lastUpdated": "2025-11-09T19:09:41.818543+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1257,
+      "directoryCount": 1258,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

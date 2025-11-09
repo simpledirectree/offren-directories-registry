@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:15:15.897012+00:00Z",
+  "lastUpdated": "2025-11-09T10:16:20.917870+00:00Z",
   "stats": {
-    "totalDirectories": 655,
+    "totalDirectories": 656,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 655.0,
-    "totalListings": 6261,
-    "aiEnhancedDirectories": 655
+    "avgDirectoriesPerRepo": 656.0,
+    "totalListings": 6271,
+    "aiEnhancedDirectories": 656
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8523,12 +8523,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-event-space-rentals-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:16:20.917870+00:00Z",
+      "lastUpdated": "2025-11-09T10:16:20.917870+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 655,
+      "directoryCount": 656,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

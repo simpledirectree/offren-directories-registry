@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:00:05.708072+00:00Z",
+  "lastUpdated": "2025-11-09T11:00:46.765873+00:00Z",
   "stats": {
-    "totalDirectories": 719,
+    "totalDirectories": 720,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 719.0,
-    "totalListings": 6844,
-    "aiEnhancedDirectories": 719
+    "avgDirectoriesPerRepo": 720.0,
+    "totalListings": 6854,
+    "aiEnhancedDirectories": 720
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9355,12 +9355,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-bed-liner-installation-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:00:46.765873+00:00Z",
+      "lastUpdated": "2025-11-09T11:00:46.765873+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 719,
+      "directoryCount": 720,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:19:05.550205+00:00Z",
+  "lastUpdated": "2025-11-09T04:19:23.193134+00:00Z",
   "stats": {
-    "totalDirectories": 2265,
+    "totalDirectories": 2266,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2265.0,
-    "totalListings": 21384,
-    "aiEnhancedDirectories": 2265
+    "avgDirectoriesPerRepo": 2266.0,
+    "totalListings": 21394,
+    "aiEnhancedDirectories": 2266
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29453,12 +29453,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-tire-sales-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:19:23.193134+00:00Z",
+      "lastUpdated": "2025-11-09T04:19:23.193134+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2265,
+      "directoryCount": 2266,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

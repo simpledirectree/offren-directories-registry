@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:15:38.309851+00:00Z",
+  "lastUpdated": "2025-11-09T04:15:55.332008+00:00Z",
   "stats": {
-    "totalDirectories": 2255,
+    "totalDirectories": 2256,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2255.0,
-    "totalListings": 21284,
-    "aiEnhancedDirectories": 2255
+    "avgDirectoriesPerRepo": 2256.0,
+    "totalListings": 21294,
+    "aiEnhancedDirectories": 2256
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29323,12 +29323,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-senior-fitness-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:15:55.332008+00:00Z",
+      "lastUpdated": "2025-11-09T04:15:55.332008+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2255,
+      "directoryCount": 2256,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

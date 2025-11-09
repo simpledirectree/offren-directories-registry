@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:15:24.360715+00:00Z",
+  "lastUpdated": "2025-11-09T04:15:38.309851+00:00Z",
   "stats": {
-    "totalDirectories": 2254,
+    "totalDirectories": 2255,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2254.0,
-    "totalListings": 21279,
-    "aiEnhancedDirectories": 2254
+    "avgDirectoriesPerRepo": 2255.0,
+    "totalListings": 21284,
+    "aiEnhancedDirectories": 2255
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29310,12 +29310,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-pop-up-restaurants-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:15:38.309851+00:00Z",
+      "lastUpdated": "2025-11-09T04:15:38.309851+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2254,
+      "directoryCount": 2255,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

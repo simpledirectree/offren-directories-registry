@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:47:26.093791+00:00Z",
+  "lastUpdated": "2025-11-09T22:47:42.202749+00:00Z",
   "stats": {
-    "totalDirectories": 1482,
+    "totalDirectories": 1483,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1482.0,
-    "totalListings": 13963,
-    "aiEnhancedDirectories": 1482
+    "avgDirectoriesPerRepo": 1483.0,
+    "totalListings": 13973,
+    "aiEnhancedDirectories": 1483
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19274,12 +19274,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-pediatric-dentistry-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:47:42.202749+00:00Z",
+      "lastUpdated": "2025-11-09T22:47:42.202749+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1482,
+      "directoryCount": 1483,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

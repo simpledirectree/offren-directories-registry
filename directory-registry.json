@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:50:17.119873+00:00Z",
+  "lastUpdated": "2025-11-09T23:50:31.514176+00:00Z",
   "stats": {
-    "totalDirectories": 1549,
+    "totalDirectories": 1550,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1549.0,
-    "totalListings": 14577,
-    "aiEnhancedDirectories": 1549
+    "avgDirectoriesPerRepo": 1550.0,
+    "totalListings": 14587,
+    "aiEnhancedDirectories": 1550
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20145,12 +20145,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-visual-effects-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:50:31.514176+00:00Z",
+      "lastUpdated": "2025-11-09T23:50:31.514176+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1549,
+      "directoryCount": 1550,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:08:39.903189+00:00Z",
+  "lastUpdated": "2025-11-09T04:08:54.183899+00:00Z",
   "stats": {
-    "totalDirectories": 2230,
+    "totalDirectories": 2231,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2230.0,
-    "totalListings": 21051,
-    "aiEnhancedDirectories": 2230
+    "avgDirectoriesPerRepo": 2231.0,
+    "totalListings": 21061,
+    "aiEnhancedDirectories": 2231
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28998,12 +28998,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-business-formation-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:08:54.183899+00:00Z",
+      "lastUpdated": "2025-11-09T04:08:54.183899+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2230,
+      "directoryCount": 2231,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

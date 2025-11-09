@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:48:04.896624+00:00Z",
+  "lastUpdated": "2025-11-09T06:48:22.994443+00:00Z",
   "stats": {
-    "totalDirectories": 326,
+    "totalDirectories": 327,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 326.0,
-    "totalListings": 3135,
-    "aiEnhancedDirectories": 326
+    "avgDirectoriesPerRepo": 327.0,
+    "totalListings": 3145,
+    "aiEnhancedDirectories": 327
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4246,12 +4246,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-vue-js-development-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:48:22.994443+00:00Z",
+      "lastUpdated": "2025-11-09T06:48:22.994443+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 326,
+      "directoryCount": 327,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

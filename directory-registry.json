@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:37:53.226965+00:00Z",
+  "lastUpdated": "2025-11-09T05:38:07.920431+00:00Z",
   "stats": {
-    "totalDirectories": 71,
+    "totalDirectories": 72,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 71.0,
-    "totalListings": 679,
-    "aiEnhancedDirectories": 71
+    "avgDirectoriesPerRepo": 72.0,
+    "totalListings": 689,
+    "aiEnhancedDirectories": 72
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -931,12 +931,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-machine-learning-development-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:38:07.920431+00:00Z",
+      "lastUpdated": "2025-11-09T05:38:07.920431+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 71,
+      "directoryCount": 72,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

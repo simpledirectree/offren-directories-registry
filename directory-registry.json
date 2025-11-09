@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:19:45.170143+00:00Z",
+  "lastUpdated": "2025-11-09T06:20:04.099480+00:00Z",
   "stats": {
-    "totalDirectories": 221,
+    "totalDirectories": 222,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 221.0,
-    "totalListings": 2135,
-    "aiEnhancedDirectories": 221
+    "avgDirectoriesPerRepo": 222.0,
+    "totalListings": 2145,
+    "aiEnhancedDirectories": 222
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2881,12 +2881,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-apprenticeships-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:20:04.099480+00:00Z",
+      "lastUpdated": "2025-11-09T06:20:04.099480+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 221,
+      "directoryCount": 222,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

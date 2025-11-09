@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:00:36.514599+00:00Z",
+  "lastUpdated": "2025-11-09T12:01:17.412840+00:00Z",
   "stats": {
-    "totalDirectories": 785,
+    "totalDirectories": 786,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 785.0,
-    "totalListings": 7444,
-    "aiEnhancedDirectories": 785
+    "avgDirectoriesPerRepo": 786.0,
+    "totalListings": 7451,
+    "aiEnhancedDirectories": 786
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10213,12 +10213,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-grocery-delivery-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:01:17.412840+00:00Z",
+      "lastUpdated": "2025-11-09T12:01:17.412840+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 785,
+      "directoryCount": 786,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

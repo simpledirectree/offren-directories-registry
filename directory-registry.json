@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:59:21.326460+00:00Z",
+  "lastUpdated": "2025-11-09T15:59:34.264892+00:00Z",
   "stats": {
-    "totalDirectories": 1045,
+    "totalDirectories": 1046,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1045.0,
-    "totalListings": 9853,
-    "aiEnhancedDirectories": 1045
+    "avgDirectoriesPerRepo": 1046.0,
+    "totalListings": 9859,
+    "aiEnhancedDirectories": 1046
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13593,12 +13593,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-day-labor-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:59:34.264892+00:00Z",
+      "lastUpdated": "2025-11-09T15:59:34.264892+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1045,
+      "directoryCount": 1046,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

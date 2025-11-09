@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:16:30.488133+00:00Z",
+  "lastUpdated": "2025-11-09T12:16:46.482977+00:00Z",
   "stats": {
-    "totalDirectories": 806,
+    "totalDirectories": 807,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 806.0,
-    "totalListings": 7643,
-    "aiEnhancedDirectories": 806
+    "avgDirectoriesPerRepo": 807.0,
+    "totalListings": 7652,
+    "aiEnhancedDirectories": 807
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10486,12 +10486,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-auto-electrical-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:16:46.482977+00:00Z",
+      "lastUpdated": "2025-11-09T12:16:46.482977+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 806,
+      "directoryCount": 807,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

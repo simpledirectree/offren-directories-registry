@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:36:32.960925+00:00Z",
+  "lastUpdated": "2025-11-09T16:36:47.847800+00:00Z",
   "stats": {
-    "totalDirectories": 1088,
+    "totalDirectories": 1089,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1088.0,
-    "totalListings": 10262,
-    "aiEnhancedDirectories": 1088
+    "avgDirectoriesPerRepo": 1089.0,
+    "totalListings": 10272,
+    "aiEnhancedDirectories": 1089
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14152,12 +14152,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-real-estate-services-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:36:47.847800+00:00Z",
+      "lastUpdated": "2025-11-09T16:36:47.847800+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1088,
+      "directoryCount": 1089,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

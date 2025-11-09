@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:58:25.710327+00:00Z",
+  "lastUpdated": "2025-11-09T03:58:43.054545+00:00Z",
   "stats": {
-    "totalDirectories": 2195,
+    "totalDirectories": 2196,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2195.0,
-    "totalListings": 20706,
-    "aiEnhancedDirectories": 2195
+    "avgDirectoriesPerRepo": 2196.0,
+    "totalListings": 20716,
+    "aiEnhancedDirectories": 2196
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28543,12 +28543,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-general-contracting-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:58:43.054545+00:00Z",
+      "lastUpdated": "2025-11-09T03:58:43.054545+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2195,
+      "directoryCount": 2196,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

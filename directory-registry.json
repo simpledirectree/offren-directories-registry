@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:29:06.297441+00:00Z",
+  "lastUpdated": "2025-11-09T04:29:23.951041+00:00Z",
   "stats": {
-    "totalDirectories": 2299,
+    "totalDirectories": 2300,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2299.0,
-    "totalListings": 21718,
-    "aiEnhancedDirectories": 2299
+    "avgDirectoriesPerRepo": 2300.0,
+    "totalListings": 21728,
+    "aiEnhancedDirectories": 2300
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29895,12 +29895,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-financial-forecasting-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:29:23.951041+00:00Z",
+      "lastUpdated": "2025-11-09T04:29:23.951041+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2299,
+      "directoryCount": 2300,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

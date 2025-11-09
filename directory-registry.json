@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:17:15.033714+00:00Z",
+  "lastUpdated": "2025-11-09T11:17:28.000826+00:00Z",
   "stats": {
-    "totalDirectories": 739,
+    "totalDirectories": 740,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 739.0,
-    "totalListings": 7038,
-    "aiEnhancedDirectories": 739
+    "avgDirectoriesPerRepo": 740.0,
+    "totalListings": 7043,
+    "aiEnhancedDirectories": 740
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9615,12 +9615,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-gyms-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:17:28.000826+00:00Z",
+      "lastUpdated": "2025-11-09T11:17:28.000826+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 739,
+      "directoryCount": 740,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:47:21.820275+00:00Z",
+  "lastUpdated": "2025-11-09T01:47:37.024261+00:00Z",
   "stats": {
-    "totalDirectories": 2023,
+    "totalDirectories": 2024,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2023.0,
-    "totalListings": 19097,
-    "aiEnhancedDirectories": 2023
+    "avgDirectoriesPerRepo": 2024.0,
+    "totalListings": 19107,
+    "aiEnhancedDirectories": 2024
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26307,12 +26307,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-decks-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:47:37.024261+00:00Z",
+      "lastUpdated": "2025-11-09T01:47:37.024261+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2023,
+      "directoryCount": 2024,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

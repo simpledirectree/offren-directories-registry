@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:17:20.644259+00:00Z",
+  "lastUpdated": "2025-11-09T01:18:00.941032+00:00Z",
   "stats": {
-    "totalDirectories": 1985,
+    "totalDirectories": 1986,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1985.0,
-    "totalListings": 18735,
-    "aiEnhancedDirectories": 1985
+    "avgDirectoriesPerRepo": 1986.0,
+    "totalListings": 18745,
+    "aiEnhancedDirectories": 1986
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25813,12 +25813,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-exit-planning-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:18:00.941032+00:00Z",
+      "lastUpdated": "2025-11-09T01:18:00.941032+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1985,
+      "directoryCount": 1986,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

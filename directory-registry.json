@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:33:12.811175+00:00Z",
+  "lastUpdated": "2025-11-09T18:33:27.456567+00:00Z",
   "stats": {
-    "totalDirectories": 1216,
+    "totalDirectories": 1217,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1216.0,
-    "totalListings": 11472,
-    "aiEnhancedDirectories": 1216
+    "avgDirectoriesPerRepo": 1217.0,
+    "totalListings": 11482,
+    "aiEnhancedDirectories": 1217
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15816,12 +15816,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-property-management-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:33:27.456567+00:00Z",
+      "lastUpdated": "2025-11-09T18:33:27.456567+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1216,
+      "directoryCount": 1217,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:26:39.532931+00:00Z",
+  "lastUpdated": "2025-11-09T03:29:51.487685+00:00Z",
   "stats": {
-    "totalDirectories": 2128,
+    "totalDirectories": 2129,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2128.0,
-    "totalListings": 20052,
-    "aiEnhancedDirectories": 2128
+    "avgDirectoriesPerRepo": 2129.0,
+    "totalListings": 20062,
+    "aiEnhancedDirectories": 2129
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27672,12 +27672,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-welding-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:29:51.487685+00:00Z",
+      "lastUpdated": "2025-11-09T03:29:51.487685+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2128,
+      "directoryCount": 2129,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

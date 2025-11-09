@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:08:18.982524+00:00Z",
+  "lastUpdated": "2025-11-09T08:08:34.478046+00:00Z",
   "stats": {
-    "totalDirectories": 512,
+    "totalDirectories": 513,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 512.0,
-    "totalListings": 4944,
-    "aiEnhancedDirectories": 512
+    "avgDirectoriesPerRepo": 513.0,
+    "totalListings": 4954,
+    "aiEnhancedDirectories": 513
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6664,12 +6664,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-furniture-disassembly-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:08:34.478046+00:00Z",
+      "lastUpdated": "2025-11-09T08:08:34.478046+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 512,
+      "directoryCount": 513,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

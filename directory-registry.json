@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:46:42.271900+00:00Z",
+  "lastUpdated": "2025-11-09T05:46:55.669258+00:00Z",
   "stats": {
-    "totalDirectories": 105,
+    "totalDirectories": 106,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 105.0,
-    "totalListings": 1009,
-    "aiEnhancedDirectories": 105
+    "avgDirectoriesPerRepo": 106.0,
+    "totalListings": 1019,
+    "aiEnhancedDirectories": 106
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1373,12 +1373,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-franchise-consulting-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:46:55.669258+00:00Z",
+      "lastUpdated": "2025-11-09T05:46:55.669258+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 105,
+      "directoryCount": 106,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:26:10.836682+00:00Z",
+  "lastUpdated": "2025-11-09T20:26:26.061342+00:00Z",
   "stats": {
-    "totalDirectories": 1335,
+    "totalDirectories": 1336,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1335.0,
-    "totalListings": 12578,
-    "aiEnhancedDirectories": 1335
+    "avgDirectoriesPerRepo": 1336.0,
+    "totalListings": 12588,
+    "aiEnhancedDirectories": 1336
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17363,12 +17363,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-standard-operating-procedure-creation-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:26:26.061342+00:00Z",
+      "lastUpdated": "2025-11-09T20:26:26.061342+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1335,
+      "directoryCount": 1336,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

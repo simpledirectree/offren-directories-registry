@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:07:11.020062+00:00Z",
+  "lastUpdated": "2025-11-09T21:07:26.744957+00:00Z",
   "stats": {
-    "totalDirectories": 1372,
+    "totalDirectories": 1373,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1372.0,
-    "totalListings": 12935,
-    "aiEnhancedDirectories": 1372
+    "avgDirectoriesPerRepo": 1373.0,
+    "totalListings": 12945,
+    "aiEnhancedDirectories": 1373
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17844,12 +17844,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-mobile-auto-maintenance-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:07:26.744957+00:00Z",
+      "lastUpdated": "2025-11-09T21:07:26.744957+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1372,
+      "directoryCount": 1373,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

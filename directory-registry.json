@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:28:25.343157+00:00Z",
+  "lastUpdated": "2025-11-09T15:29:31.395747+00:00Z",
   "stats": {
-    "totalDirectories": 1013,
+    "totalDirectories": 1014,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1013.0,
-    "totalListings": 9539,
-    "aiEnhancedDirectories": 1013
+    "avgDirectoriesPerRepo": 1014.0,
+    "totalListings": 9549,
+    "aiEnhancedDirectories": 1014
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13177,12 +13177,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-legal-aid-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:29:31.395747+00:00Z",
+      "lastUpdated": "2025-11-09T15:29:31.395747+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1013,
+      "directoryCount": 1014,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

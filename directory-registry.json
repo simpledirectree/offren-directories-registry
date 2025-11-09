@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:49:52.270965+00:00Z",
+  "lastUpdated": "2025-11-09T04:50:11.592950+00:00Z",
   "stats": {
-    "totalDirectories": 2371,
+    "totalDirectories": 2372,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2371.0,
-    "totalListings": 22426,
-    "aiEnhancedDirectories": 2371
+    "avgDirectoriesPerRepo": 2372.0,
+    "totalListings": 22436,
+    "aiEnhancedDirectories": 2372
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30831,12 +30831,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-thermostats-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:50:11.592950+00:00Z",
+      "lastUpdated": "2025-11-09T04:50:11.592950+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2371,
+      "directoryCount": 2372,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

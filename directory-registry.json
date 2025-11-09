@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:41:00.491519+00:00Z",
+  "lastUpdated": "2025-11-09T18:41:38.982320+00:00Z",
   "stats": {
-    "totalDirectories": 1229,
+    "totalDirectories": 1230,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1229.0,
-    "totalListings": 11579,
-    "aiEnhancedDirectories": 1229
+    "avgDirectoriesPerRepo": 1230.0,
+    "totalListings": 11585,
+    "aiEnhancedDirectories": 1230
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15985,12 +15985,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-construction-helpers-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:41:38.982320+00:00Z",
+      "lastUpdated": "2025-11-09T18:41:38.982320+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1229,
+      "directoryCount": 1230,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

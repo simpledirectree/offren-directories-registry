@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:41:21.652243+00:00Z",
+  "lastUpdated": "2025-11-09T21:41:43.906076+00:00Z",
   "stats": {
-    "totalDirectories": 1414,
+    "totalDirectories": 1415,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1414.0,
-    "totalListings": 13332,
-    "aiEnhancedDirectories": 1414
+    "avgDirectoriesPerRepo": 1415.0,
+    "totalListings": 13342,
+    "aiEnhancedDirectories": 1415
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18390,12 +18390,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-emissions-testing-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:41:43.906076+00:00Z",
+      "lastUpdated": "2025-11-09T21:41:43.906076+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1414,
+      "directoryCount": 1415,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

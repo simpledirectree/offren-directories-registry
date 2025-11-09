@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:37:12.365817+00:00Z",
+  "lastUpdated": "2025-11-09T03:37:50.820905+00:00Z",
   "stats": {
-    "totalDirectories": 2138,
+    "totalDirectories": 2139,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2138.0,
-    "totalListings": 20147,
-    "aiEnhancedDirectories": 2138
+    "avgDirectoriesPerRepo": 2139.0,
+    "totalListings": 20157,
+    "aiEnhancedDirectories": 2139
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27802,12 +27802,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-medical-grade-treatments-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:37:50.820905+00:00Z",
+      "lastUpdated": "2025-11-09T03:37:50.820905+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2138,
+      "directoryCount": 2139,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

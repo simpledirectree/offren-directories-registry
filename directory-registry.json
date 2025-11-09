@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:56:08.571320+00:00Z",
+  "lastUpdated": "2025-11-09T00:57:43.250025+00:00Z",
   "stats": {
-    "totalDirectories": 1962,
+    "totalDirectories": 1963,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1962.0,
-    "totalListings": 18517,
-    "aiEnhancedDirectories": 1962
+    "avgDirectoriesPerRepo": 1963.0,
+    "totalListings": 18527,
+    "aiEnhancedDirectories": 1963
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25514,12 +25514,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-mammography-services-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:57:43.250025+00:00Z",
+      "lastUpdated": "2025-11-09T00:57:43.250025+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1962,
+      "directoryCount": 1963,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

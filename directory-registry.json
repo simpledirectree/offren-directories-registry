@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:41:14.175285+00:00Z",
+  "lastUpdated": "2025-11-09T10:41:27.834765+00:00Z",
   "stats": {
-    "totalDirectories": 695,
+    "totalDirectories": 696,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 695.0,
-    "totalListings": 6624,
-    "aiEnhancedDirectories": 695
+    "avgDirectoriesPerRepo": 696.0,
+    "totalListings": 6634,
+    "aiEnhancedDirectories": 696
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9043,12 +9043,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-conflict-resolution-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:41:27.834765+00:00Z",
+      "lastUpdated": "2025-11-09T10:41:27.834765+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 695,
+      "directoryCount": 696,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

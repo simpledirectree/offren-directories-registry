@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:16:54.351249+00:00Z",
+  "lastUpdated": "2025-11-09T07:17:12.276844+00:00Z",
   "stats": {
-    "totalDirectories": 431,
+    "totalDirectories": 432,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 431.0,
-    "totalListings": 4154,
-    "aiEnhancedDirectories": 431
+    "avgDirectoriesPerRepo": 432.0,
+    "totalListings": 4164,
+    "aiEnhancedDirectories": 432
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5611,12 +5611,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-hipaa-compliance-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:17:12.276844+00:00Z",
+      "lastUpdated": "2025-11-09T07:17:12.276844+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 431,
+      "directoryCount": 432,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

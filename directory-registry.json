@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:03:57.135478+00:00Z",
+  "lastUpdated": "2025-11-09T12:04:36.731282+00:00Z",
   "stats": {
-    "totalDirectories": 790,
+    "totalDirectories": 791,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 790.0,
-    "totalListings": 7490,
-    "aiEnhancedDirectories": 790
+    "avgDirectoriesPerRepo": 791.0,
+    "totalListings": 7500,
+    "aiEnhancedDirectories": 791
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10278,12 +10278,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-laser-treatments-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:04:36.731282+00:00Z",
+      "lastUpdated": "2025-11-09T12:04:36.731282+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 790,
+      "directoryCount": 791,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

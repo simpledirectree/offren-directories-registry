@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:50:46.329605+00:00Z",
+  "lastUpdated": "2025-11-09T23:51:51.037491+00:00Z",
   "stats": {
-    "totalDirectories": 1551,
+    "totalDirectories": 1552,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1551.0,
-    "totalListings": 14597,
-    "aiEnhancedDirectories": 1551
+    "avgDirectoriesPerRepo": 1552.0,
+    "totalListings": 14607,
+    "aiEnhancedDirectories": 1552
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20171,12 +20171,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-tax-law-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:51:51.037491+00:00Z",
+      "lastUpdated": "2025-11-09T23:51:51.037491+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1551,
+      "directoryCount": 1552,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

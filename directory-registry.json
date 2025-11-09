@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:07:28.026082+00:00Z",
+  "lastUpdated": "2025-11-09T07:07:42.892135+00:00Z",
   "stats": {
-    "totalDirectories": 396,
+    "totalDirectories": 397,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 396.0,
-    "totalListings": 3822,
-    "aiEnhancedDirectories": 396
+    "avgDirectoriesPerRepo": 397.0,
+    "totalListings": 3826,
+    "aiEnhancedDirectories": 397
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5156,12 +5156,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-test-preparation-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:07:42.892135+00:00Z",
+      "lastUpdated": "2025-11-09T07:07:42.892135+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 396,
+      "directoryCount": 397,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:23:29.101912+00:00Z",
+  "lastUpdated": "2025-11-09T06:23:44.265274+00:00Z",
   "stats": {
-    "totalDirectories": 234,
+    "totalDirectories": 235,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 234.0,
-    "totalListings": 2263,
-    "aiEnhancedDirectories": 234
+    "avgDirectoriesPerRepo": 235.0,
+    "totalListings": 2271,
+    "aiEnhancedDirectories": 235
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3050,12 +3050,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-international-trade-compliance-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:23:44.265274+00:00Z",
+      "lastUpdated": "2025-11-09T06:23:44.265274+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 234,
+      "directoryCount": 235,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

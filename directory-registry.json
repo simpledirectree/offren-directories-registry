@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:15:04.242196+00:00Z",
+  "lastUpdated": "2025-11-09T05:15:18.072142+00:00Z",
   "stats": {
-    "totalDirectories": 2458,
+    "totalDirectories": 2459,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2458.0,
-    "totalListings": 23253,
-    "aiEnhancedDirectories": 2458
+    "avgDirectoriesPerRepo": 2459.0,
+    "totalListings": 23258,
+    "aiEnhancedDirectories": 2459
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31962,12 +31962,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-prenatal-yoga-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:15:18.072142+00:00Z",
+      "lastUpdated": "2025-11-09T05:15:18.072142+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2458,
+      "directoryCount": 2459,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

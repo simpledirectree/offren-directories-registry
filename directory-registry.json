@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:30:20.882451+00:00Z",
+  "lastUpdated": "2025-11-09T06:30:35.674389+00:00Z",
   "stats": {
-    "totalDirectories": 260,
+    "totalDirectories": 261,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 260.0,
-    "totalListings": 2501,
-    "aiEnhancedDirectories": 260
+    "avgDirectoriesPerRepo": 261.0,
+    "totalListings": 2511,
+    "aiEnhancedDirectories": 261
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3388,12 +3388,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-herbal-medicine-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:30:35.674389+00:00Z",
+      "lastUpdated": "2025-11-09T06:30:35.674389+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 260,
+      "directoryCount": 261,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:41:38.982320+00:00Z",
+  "lastUpdated": "2025-11-09T18:43:47.264302+00:00Z",
   "stats": {
-    "totalDirectories": 1230,
+    "totalDirectories": 1231,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1230.0,
-    "totalListings": 11585,
-    "aiEnhancedDirectories": 1230
+    "avgDirectoriesPerRepo": 1231.0,
+    "totalListings": 11595,
+    "aiEnhancedDirectories": 1231
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15998,12 +15998,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-transmission-replacement-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:43:47.264302+00:00Z",
+      "lastUpdated": "2025-11-09T18:43:47.264302+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1230,
+      "directoryCount": 1231,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

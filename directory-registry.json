@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:09:03.652912+00:00Z",
+  "lastUpdated": "2025-11-09T21:11:02.979500+00:00Z",
   "stats": {
-    "totalDirectories": 1376,
+    "totalDirectories": 1377,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1376.0,
-    "totalListings": 12975,
-    "aiEnhancedDirectories": 1376
+    "avgDirectoriesPerRepo": 1377.0,
+    "totalListings": 12985,
+    "aiEnhancedDirectories": 1377
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17896,12 +17896,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-meal-planning-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:11:02.979500+00:00Z",
+      "lastUpdated": "2025-11-09T21:11:02.979500+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1376,
+      "directoryCount": 1377,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

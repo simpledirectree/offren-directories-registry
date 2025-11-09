@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:32:56.615620+00:00Z",
+  "lastUpdated": "2025-11-09T17:33:10.741423+00:00Z",
   "stats": {
-    "totalDirectories": 1148,
+    "totalDirectories": 1149,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1148.0,
-    "totalListings": 10832,
-    "aiEnhancedDirectories": 1148
+    "avgDirectoriesPerRepo": 1149.0,
+    "totalListings": 10842,
+    "aiEnhancedDirectories": 1149
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14932,12 +14932,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-garden-consultation-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:33:10.741423+00:00Z",
+      "lastUpdated": "2025-11-09T17:33:10.741423+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1148,
+      "directoryCount": 1149,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

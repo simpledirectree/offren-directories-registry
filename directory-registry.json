@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:01:35.126060+00:00Z",
+  "lastUpdated": "2025-11-09T07:01:52.384116+00:00Z",
   "stats": {
-    "totalDirectories": 375,
+    "totalDirectories": 376,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 375.0,
-    "totalListings": 3613,
-    "aiEnhancedDirectories": 375
+    "avgDirectoriesPerRepo": 376.0,
+    "totalListings": 3623,
+    "aiEnhancedDirectories": 376
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4883,12 +4883,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-agility-training-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:01:52.384116+00:00Z",
+      "lastUpdated": "2025-11-09T07:01:52.384116+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 375,
+      "directoryCount": 376,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:58:10.235301+00:00Z",
+  "lastUpdated": "2025-11-09T05:58:25.570468+00:00Z",
   "stats": {
-    "totalDirectories": 145,
+    "totalDirectories": 146,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 145.0,
-    "totalListings": 1395,
-    "aiEnhancedDirectories": 145
+    "avgDirectoriesPerRepo": 146.0,
+    "totalListings": 1405,
+    "aiEnhancedDirectories": 146
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1893,12 +1893,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-shingle-roofing-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:58:25.570468+00:00Z",
+      "lastUpdated": "2025-11-09T05:58:25.570468+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 145,
+      "directoryCount": 146,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

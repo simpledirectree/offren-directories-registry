@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:55:57.444607+00:00Z",
+  "lastUpdated": "2025-11-09T17:57:05.500411+00:00Z",
   "stats": {
-    "totalDirectories": 1171,
+    "totalDirectories": 1172,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1171.0,
-    "totalListings": 11062,
-    "aiEnhancedDirectories": 1171
+    "avgDirectoriesPerRepo": 1172.0,
+    "totalListings": 11072,
+    "aiEnhancedDirectories": 1172
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15231,12 +15231,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-website-hosting-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:57:05.500411+00:00Z",
+      "lastUpdated": "2025-11-09T17:57:05.500411+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1171,
+      "directoryCount": 1172,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:07:50.916280+00:00Z",
+  "lastUpdated": "2025-11-09T15:08:05.362925+00:00Z",
   "stats": {
-    "totalDirectories": 991,
+    "totalDirectories": 992,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 991.0,
-    "totalListings": 9337,
-    "aiEnhancedDirectories": 991
+    "avgDirectoriesPerRepo": 992.0,
+    "totalListings": 9347,
+    "aiEnhancedDirectories": 992
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12891,12 +12891,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-financial-services-consulting-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:08:05.362925+00:00Z",
+      "lastUpdated": "2025-11-09T15:08:05.362925+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 991,
+      "directoryCount": 992,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

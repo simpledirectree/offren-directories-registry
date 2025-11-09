@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:59:45.534004+00:00Z",
+  "lastUpdated": "2025-11-09T06:00:03.185967+00:00Z",
   "stats": {
-    "totalDirectories": 151,
+    "totalDirectories": 152,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 151.0,
-    "totalListings": 1455,
-    "aiEnhancedDirectories": 151
+    "avgDirectoriesPerRepo": 152.0,
+    "totalListings": 1465,
+    "aiEnhancedDirectories": 152
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1971,12 +1971,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-powerlifting-coaching-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:00:03.185967+00:00Z",
+      "lastUpdated": "2025-11-09T06:00:03.185967+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 151,
+      "directoryCount": 152,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

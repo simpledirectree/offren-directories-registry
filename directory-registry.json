@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:05:06.327447+00:00Z",
+  "lastUpdated": "2025-11-09T09:07:01.531914+00:00Z",
   "stats": {
-    "totalDirectories": 576,
+    "totalDirectories": 577,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 576.0,
-    "totalListings": 5515,
-    "aiEnhancedDirectories": 576
+    "avgDirectoriesPerRepo": 577.0,
+    "totalListings": 5525,
+    "aiEnhancedDirectories": 577
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7496,12 +7496,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-medical-equipment-delivery-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:07:01.531914+00:00Z",
+      "lastUpdated": "2025-11-09T09:07:01.531914+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 576,
+      "directoryCount": 577,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

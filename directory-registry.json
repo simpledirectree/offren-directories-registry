@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:27:06.449149+00:00Z",
+  "lastUpdated": "2025-11-09T04:27:23.468427+00:00Z",
   "stats": {
-    "totalDirectories": 2292,
+    "totalDirectories": 2293,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2292.0,
-    "totalListings": 21648,
-    "aiEnhancedDirectories": 2292
+    "avgDirectoriesPerRepo": 2293.0,
+    "totalListings": 21658,
+    "aiEnhancedDirectories": 2293
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29804,12 +29804,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-cosmetic-dentistry-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:27:23.468427+00:00Z",
+      "lastUpdated": "2025-11-09T04:27:23.468427+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2292,
+      "directoryCount": 2293,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

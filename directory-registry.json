@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:07:01.531914+00:00Z",
+  "lastUpdated": "2025-11-09T09:08:56.479473+00:00Z",
   "stats": {
-    "totalDirectories": 577,
+    "totalDirectories": 578,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 577.0,
-    "totalListings": 5525,
-    "aiEnhancedDirectories": 577
+    "avgDirectoriesPerRepo": 578.0,
+    "totalListings": 5535,
+    "aiEnhancedDirectories": 578
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7509,12 +7509,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-venue-selection-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:08:56.479473+00:00Z",
+      "lastUpdated": "2025-11-09T09:08:56.479473+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 577,
+      "directoryCount": 578,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:54:42.505078+00:00Z",
+  "lastUpdated": "2025-11-09T06:54:58.807443+00:00Z",
   "stats": {
-    "totalDirectories": 350,
+    "totalDirectories": 351,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 350.0,
-    "totalListings": 3366,
-    "aiEnhancedDirectories": 350
+    "avgDirectoriesPerRepo": 351.0,
+    "totalListings": 3376,
+    "aiEnhancedDirectories": 351
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4558,12 +4558,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-vinyasa-yoga-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:54:58.807443+00:00Z",
+      "lastUpdated": "2025-11-09T06:54:58.807443+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 350,
+      "directoryCount": 351,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

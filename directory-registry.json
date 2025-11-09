@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:44:35.276600+00:00Z",
+  "lastUpdated": "2025-11-09T13:46:05.574139+00:00Z",
   "stats": {
-    "totalDirectories": 890,
+    "totalDirectories": 891,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 890.0,
-    "totalListings": 8401,
-    "aiEnhancedDirectories": 890
+    "avgDirectoriesPerRepo": 891.0,
+    "totalListings": 8411,
+    "aiEnhancedDirectories": 891
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11578,12 +11578,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-wrestling-classes-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:46:05.574139+00:00Z",
+      "lastUpdated": "2025-11-09T13:46:05.574139+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 890,
+      "directoryCount": 891,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

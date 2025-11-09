@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:15:52.610652+00:00Z",
+  "lastUpdated": "2025-11-09T07:16:09.529999+00:00Z",
   "stats": {
-    "totalDirectories": 427,
+    "totalDirectories": 428,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 427.0,
-    "totalListings": 4114,
-    "aiEnhancedDirectories": 427
+    "avgDirectoriesPerRepo": 428.0,
+    "totalListings": 4124,
+    "aiEnhancedDirectories": 428
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5559,12 +5559,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-athletic-conditioning-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:16:09.529999+00:00Z",
+      "lastUpdated": "2025-11-09T07:16:09.529999+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 427,
+      "directoryCount": 428,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

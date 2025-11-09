@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:01:11.507357+00:00Z",
+  "lastUpdated": "2025-11-09T01:01:29.449421+00:00Z",
   "stats": {
-    "totalDirectories": 1965,
+    "totalDirectories": 1966,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1965.0,
-    "totalListings": 18547,
-    "aiEnhancedDirectories": 1965
+    "avgDirectoriesPerRepo": 1966.0,
+    "totalListings": 18557,
+    "aiEnhancedDirectories": 1966
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25553,12 +25553,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-foreign-language-tutoring-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:01:29.449421+00:00Z",
+      "lastUpdated": "2025-11-09T01:01:29.449421+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1965,
+      "directoryCount": 1966,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

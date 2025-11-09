@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:21:31.693156+00:00Z",
+  "lastUpdated": "2025-11-09T04:21:50.636914+00:00Z",
   "stats": {
-    "totalDirectories": 2273,
+    "totalDirectories": 2274,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2273.0,
-    "totalListings": 21464,
-    "aiEnhancedDirectories": 2273
+    "avgDirectoriesPerRepo": 2274.0,
+    "totalListings": 21474,
+    "aiEnhancedDirectories": 2274
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29557,12 +29557,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-genetic-testing-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:21:50.636914+00:00Z",
+      "lastUpdated": "2025-11-09T04:21:50.636914+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2273,
+      "directoryCount": 2274,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

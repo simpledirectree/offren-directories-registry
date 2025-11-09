@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:39:24.946019+00:00Z",
+  "lastUpdated": "2025-11-09T14:39:39.288452+00:00Z",
   "stats": {
-    "totalDirectories": 967,
+    "totalDirectories": 968,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 967.0,
-    "totalListings": 9115,
-    "aiEnhancedDirectories": 967
+    "avgDirectoriesPerRepo": 968.0,
+    "totalListings": 9120,
+    "aiEnhancedDirectories": 968
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12579,12 +12579,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-employee-handbook-creation-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:39:39.288452+00:00Z",
+      "lastUpdated": "2025-11-09T14:39:39.288452+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 967,
+      "directoryCount": 968,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

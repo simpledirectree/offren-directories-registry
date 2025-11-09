@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:42:18.190579+00:00Z",
+  "lastUpdated": "2025-11-09T05:42:33.390130+00:00Z",
   "stats": {
-    "totalDirectories": 88,
+    "totalDirectories": 89,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 88.0,
-    "totalListings": 849,
-    "aiEnhancedDirectories": 88
+    "avgDirectoriesPerRepo": 89.0,
+    "totalListings": 859,
+    "aiEnhancedDirectories": 89
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1152,12 +1152,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-door-repair-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:42:33.390130+00:00Z",
+      "lastUpdated": "2025-11-09T05:42:33.390130+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 88,
+      "directoryCount": 89,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

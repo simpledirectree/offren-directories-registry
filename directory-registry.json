@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:52:32.428358+00:00Z",
+  "lastUpdated": "2025-11-09T06:52:47.228609+00:00Z",
   "stats": {
-    "totalDirectories": 342,
+    "totalDirectories": 343,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 342.0,
-    "totalListings": 3289,
-    "aiEnhancedDirectories": 342
+    "avgDirectoriesPerRepo": 343.0,
+    "totalListings": 3299,
+    "aiEnhancedDirectories": 343
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4454,12 +4454,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-seasonal-garden-cleanup-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:52:47.228609+00:00Z",
+      "lastUpdated": "2025-11-09T06:52:47.228609+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 342,
+      "directoryCount": 343,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

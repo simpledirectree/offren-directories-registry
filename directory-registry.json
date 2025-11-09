@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:33:57.107073+00:00Z",
+  "lastUpdated": "2025-11-09T02:35:06.897893+00:00Z",
   "stats": {
-    "totalDirectories": 2078,
+    "totalDirectories": 2079,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2078.0,
-    "totalListings": 19599,
-    "aiEnhancedDirectories": 2078
+    "avgDirectoriesPerRepo": 2079.0,
+    "totalListings": 19609,
+    "aiEnhancedDirectories": 2079
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27022,12 +27022,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-strategy-development-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:35:06.897893+00:00Z",
+      "lastUpdated": "2025-11-09T02:35:06.897893+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2078,
+      "directoryCount": 2079,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

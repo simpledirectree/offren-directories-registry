@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:39:21.940650+00:00Z",
+  "lastUpdated": "2025-11-09T06:39:39.809965+00:00Z",
   "stats": {
-    "totalDirectories": 294,
+    "totalDirectories": 295,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 294.0,
-    "totalListings": 2829,
-    "aiEnhancedDirectories": 294
+    "avgDirectoriesPerRepo": 295.0,
+    "totalListings": 2839,
+    "aiEnhancedDirectories": 295
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3830,12 +3830,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-bodybuilding-coaching-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:39:39.809965+00:00Z",
+      "lastUpdated": "2025-11-09T06:39:39.809965+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 294,
+      "directoryCount": 295,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

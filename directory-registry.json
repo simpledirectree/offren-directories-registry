@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:47:44.051948+00:00Z",
+  "lastUpdated": "2025-11-09T03:47:59.405041+00:00Z",
   "stats": {
-    "totalDirectories": 2158,
+    "totalDirectories": 2159,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2158.0,
-    "totalListings": 20347,
-    "aiEnhancedDirectories": 2158
+    "avgDirectoriesPerRepo": 2159.0,
+    "totalListings": 20357,
+    "aiEnhancedDirectories": 2159
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28062,12 +28062,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-reading-tutoring-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:47:59.405041+00:00Z",
+      "lastUpdated": "2025-11-09T03:47:59.405041+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2158,
+      "directoryCount": 2159,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

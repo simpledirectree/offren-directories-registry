@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:04:06.110019+00:00Z",
+  "lastUpdated": "2025-11-09T07:04:21.261394+00:00Z",
   "stats": {
-    "totalDirectories": 384,
+    "totalDirectories": 385,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 384.0,
-    "totalListings": 3703,
-    "aiEnhancedDirectories": 384
+    "avgDirectoriesPerRepo": 385.0,
+    "totalListings": 3713,
+    "aiEnhancedDirectories": 385
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5000,12 +5000,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-senior-fitness-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:04:21.261394+00:00Z",
+      "lastUpdated": "2025-11-09T07:04:21.261394+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 384,
+      "directoryCount": 385,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

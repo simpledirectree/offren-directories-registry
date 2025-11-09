@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:34:49.959268+00:00Z",
+  "lastUpdated": "2025-11-09T22:35:28.798675+00:00Z",
   "stats": {
-    "totalDirectories": 1471,
+    "totalDirectories": 1472,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1471.0,
-    "totalListings": 13865,
-    "aiEnhancedDirectories": 1471
+    "avgDirectoriesPerRepo": 1472.0,
+    "totalListings": 13870,
+    "aiEnhancedDirectories": 1472
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19131,12 +19131,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-writing-workshops-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:35:28.798675+00:00Z",
+      "lastUpdated": "2025-11-09T22:35:28.798675+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1471,
+      "directoryCount": 1472,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

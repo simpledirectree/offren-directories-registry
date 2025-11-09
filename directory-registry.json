@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:39:55.720462+00:00Z",
+  "lastUpdated": "2025-11-09T05:40:13.459761+00:00Z",
   "stats": {
-    "totalDirectories": 79,
+    "totalDirectories": 80,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 79.0,
-    "totalListings": 759,
-    "aiEnhancedDirectories": 79
+    "avgDirectoriesPerRepo": 80.0,
+    "totalListings": 769,
+    "aiEnhancedDirectories": 80
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1035,12 +1035,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-employee-handbook-creation-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:40:13.459761+00:00Z",
+      "lastUpdated": "2025-11-09T05:40:13.459761+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 79,
+      "directoryCount": 80,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:23:34.064299+00:00Z",
+  "lastUpdated": "2025-11-09T23:26:16.497021+00:00Z",
   "stats": {
-    "totalDirectories": 1519,
+    "totalDirectories": 1520,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1519.0,
-    "totalListings": 14294,
-    "aiEnhancedDirectories": 1519
+    "avgDirectoriesPerRepo": 1520.0,
+    "totalListings": 14304,
+    "aiEnhancedDirectories": 1520
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19755,12 +19755,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-ultrasound-services-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:26:16.497021+00:00Z",
+      "lastUpdated": "2025-11-09T23:26:16.497021+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1519,
+      "directoryCount": 1520,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:03:36.852993+00:00Z",
+  "lastUpdated": "2025-11-09T22:05:17.082314+00:00Z",
   "stats": {
-    "totalDirectories": 1437,
+    "totalDirectories": 1438,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1437.0,
-    "totalListings": 13550,
-    "aiEnhancedDirectories": 1437
+    "avgDirectoriesPerRepo": 1438.0,
+    "totalListings": 13560,
+    "aiEnhancedDirectories": 1438
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18689,12 +18689,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-onboarding-programs-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:05:17.082314+00:00Z",
+      "lastUpdated": "2025-11-09T22:05:17.082314+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1437,
+      "directoryCount": 1438,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

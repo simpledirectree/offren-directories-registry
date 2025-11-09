@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:53:31.342019+00:00Z",
+  "lastUpdated": "2025-11-09T04:53:46.617100+00:00Z",
   "stats": {
-    "totalDirectories": 2383,
+    "totalDirectories": 2384,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2383.0,
-    "totalListings": 22546,
-    "aiEnhancedDirectories": 2383
+    "avgDirectoriesPerRepo": 2384.0,
+    "totalListings": 22556,
+    "aiEnhancedDirectories": 2384
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30987,12 +30987,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-soil-testing-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:53:46.617100+00:00Z",
+      "lastUpdated": "2025-11-09T04:53:46.617100+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2383,
+      "directoryCount": 2384,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

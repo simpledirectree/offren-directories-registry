@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:34:18.429929+00:00Z",
+  "lastUpdated": "2025-11-09T21:34:59.042443+00:00Z",
   "stats": {
-    "totalDirectories": 1404,
+    "totalDirectories": 1405,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1404.0,
-    "totalListings": 13249,
-    "aiEnhancedDirectories": 1404
+    "avgDirectoriesPerRepo": 1405.0,
+    "totalListings": 13259,
+    "aiEnhancedDirectories": 1405
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18260,12 +18260,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-dj-services-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:34:59.042443+00:00Z",
+      "lastUpdated": "2025-11-09T21:34:59.042443+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1404,
+      "directoryCount": 1405,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

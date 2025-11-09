@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:45:11.965359+00:00Z",
+  "lastUpdated": "2025-11-09T03:45:36.665427+00:00Z",
   "stats": {
-    "totalDirectories": 2150,
+    "totalDirectories": 2151,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2150.0,
-    "totalListings": 20267,
-    "aiEnhancedDirectories": 2150
+    "avgDirectoriesPerRepo": 2151.0,
+    "totalListings": 20277,
+    "aiEnhancedDirectories": 2151
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27958,12 +27958,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-inclusion-training-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:45:36.665427+00:00Z",
+      "lastUpdated": "2025-11-09T03:45:36.665427+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2150,
+      "directoryCount": 2151,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

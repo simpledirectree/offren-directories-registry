@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:05:43.525551+00:00Z",
+  "lastUpdated": "2025-11-09T00:05:59.066700+00:00Z",
   "stats": {
-    "totalDirectories": 1902,
+    "totalDirectories": 1903,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1902.0,
-    "totalListings": 17972,
-    "aiEnhancedDirectories": 1902
+    "avgDirectoriesPerRepo": 1903.0,
+    "totalListings": 17982,
+    "aiEnhancedDirectories": 1903
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24734,12 +24734,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-healthcare-consulting-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:05:59.066700+00:00Z",
+      "lastUpdated": "2025-11-09T00:05:59.066700+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1902,
+      "directoryCount": 1903,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

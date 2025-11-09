@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:06:09.678558+00:00Z",
+  "lastUpdated": "2025-11-09T11:07:15.877639+00:00Z",
   "stats": {
-    "totalDirectories": 725,
+    "totalDirectories": 726,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 725.0,
-    "totalListings": 6904,
-    "aiEnhancedDirectories": 725
+    "avgDirectoriesPerRepo": 726.0,
+    "totalListings": 6914,
+    "aiEnhancedDirectories": 726
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9433,12 +9433,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-temporary-staffing-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:07:15.877639+00:00Z",
+      "lastUpdated": "2025-11-09T11:07:15.877639+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 725,
+      "directoryCount": 726,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

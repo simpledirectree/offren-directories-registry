@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:25:07.283748+00:00Z",
+  "lastUpdated": "2025-11-09T16:25:21.950282+00:00Z",
   "stats": {
-    "totalDirectories": 1075,
+    "totalDirectories": 1076,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1075.0,
-    "totalListings": 10140,
-    "aiEnhancedDirectories": 1075
+    "avgDirectoriesPerRepo": 1076.0,
+    "totalListings": 10150,
+    "aiEnhancedDirectories": 1076
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13983,12 +13983,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-judo-classes-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:25:21.950282+00:00Z",
+      "lastUpdated": "2025-11-09T16:25:21.950282+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1075,
+      "directoryCount": 1076,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

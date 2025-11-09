@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:57:59.986314+00:00Z",
+  "lastUpdated": "2025-11-09T06:58:14.391961+00:00Z",
   "stats": {
-    "totalDirectories": 362,
+    "totalDirectories": 363,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 362.0,
-    "totalListings": 3486,
-    "aiEnhancedDirectories": 362
+    "avgDirectoriesPerRepo": 363.0,
+    "totalListings": 3496,
+    "aiEnhancedDirectories": 363
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4714,12 +4714,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-managed-service-providers-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:58:14.391961+00:00Z",
+      "lastUpdated": "2025-11-09T06:58:14.391961+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 362,
+      "directoryCount": 363,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

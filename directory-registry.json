@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:34:42.067862+00:00Z",
+  "lastUpdated": "2025-11-09T23:36:35.039685+00:00Z",
   "stats": {
-    "totalDirectories": 1530,
+    "totalDirectories": 1531,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1530.0,
-    "totalListings": 14402,
-    "aiEnhancedDirectories": 1530
+    "avgDirectoriesPerRepo": 1531.0,
+    "totalListings": 14405,
+    "aiEnhancedDirectories": 1531
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19898,12 +19898,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-homeowners-insurance-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:36:35.039685+00:00Z",
+      "lastUpdated": "2025-11-09T23:36:35.039685+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1530,
+      "directoryCount": 1531,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

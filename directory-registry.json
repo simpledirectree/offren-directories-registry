@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:22:07.040298+00:00Z",
+  "lastUpdated": "2025-11-09T14:22:22.118974+00:00Z",
   "stats": {
-    "totalDirectories": 948,
+    "totalDirectories": 949,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 948.0,
-    "totalListings": 8935,
-    "aiEnhancedDirectories": 948
+    "avgDirectoriesPerRepo": 949.0,
+    "totalListings": 8945,
+    "aiEnhancedDirectories": 949
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12332,12 +12332,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-painting-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:22:22.118974+00:00Z",
+      "lastUpdated": "2025-11-09T14:22:22.118974+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 948,
+      "directoryCount": 949,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

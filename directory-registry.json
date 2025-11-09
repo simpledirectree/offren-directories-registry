@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:48:56.218698+00:00Z",
+  "lastUpdated": "2025-11-09T06:49:12.041100+00:00Z",
   "stats": {
-    "totalDirectories": 329,
+    "totalDirectories": 330,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 329.0,
-    "totalListings": 3165,
-    "aiEnhancedDirectories": 329
+    "avgDirectoriesPerRepo": 330.0,
+    "totalListings": 3175,
+    "aiEnhancedDirectories": 330
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4285,12 +4285,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-men-s-grooming-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:49:12.041100+00:00Z",
+      "lastUpdated": "2025-11-09T06:49:12.041100+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 329,
+      "directoryCount": 330,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

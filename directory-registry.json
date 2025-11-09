@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:59:12.861952+00:00Z",
+  "lastUpdated": "2025-11-09T14:00:15.773721+00:00Z",
   "stats": {
-    "totalDirectories": 909,
+    "totalDirectories": 910,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 909.0,
-    "totalListings": 8582,
-    "aiEnhancedDirectories": 909
+    "avgDirectoriesPerRepo": 910.0,
+    "totalListings": 8592,
+    "aiEnhancedDirectories": 910
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11825,12 +11825,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-quality-management-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:00:15.773721+00:00Z",
+      "lastUpdated": "2025-11-09T14:00:15.773721+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 909,
+      "directoryCount": 910,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

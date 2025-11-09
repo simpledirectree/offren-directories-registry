@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:06:48.103203+00:00Z",
+  "lastUpdated": "2025-11-09T04:07:05.022231+00:00Z",
   "stats": {
-    "totalDirectories": 2224,
+    "totalDirectories": 2225,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2224.0,
-    "totalListings": 20991,
-    "aiEnhancedDirectories": 2224
+    "avgDirectoriesPerRepo": 2225.0,
+    "totalListings": 21001,
+    "aiEnhancedDirectories": 2225
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28920,12 +28920,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-wheel-alignment-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:07:05.022231+00:00Z",
+      "lastUpdated": "2025-11-09T04:07:05.022231+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2224,
+      "directoryCount": 2225,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

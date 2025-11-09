@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:31:52.755540+00:00Z",
+  "lastUpdated": "2025-11-09T19:32:07.260640+00:00Z",
   "stats": {
-    "totalDirectories": 1279,
+    "totalDirectories": 1280,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1279.0,
-    "totalListings": 12053,
-    "aiEnhancedDirectories": 1279
+    "avgDirectoriesPerRepo": 1280.0,
+    "totalListings": 12063,
+    "aiEnhancedDirectories": 1280
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16635,12 +16635,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-energy-healing-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:32:07.260640+00:00Z",
+      "lastUpdated": "2025-11-09T19:32:07.260640+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1279,
+      "directoryCount": 1280,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

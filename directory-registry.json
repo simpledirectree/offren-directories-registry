@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:25:25.452666+00:00Z",
+  "lastUpdated": "2025-11-09T07:25:40.692545+00:00Z",
   "stats": {
-    "totalDirectories": 460,
+    "totalDirectories": 461,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 460.0,
-    "totalListings": 4432,
-    "aiEnhancedDirectories": 460
+    "avgDirectoriesPerRepo": 461.0,
+    "totalListings": 4442,
+    "aiEnhancedDirectories": 461
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5988,12 +5988,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-tree-removal-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:25:40.692545+00:00Z",
+      "lastUpdated": "2025-11-09T07:25:40.692545+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 460,
+      "directoryCount": 461,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

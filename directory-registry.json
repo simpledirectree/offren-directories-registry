@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:47:59.405041+00:00Z",
+  "lastUpdated": "2025-11-09T03:48:19.204374+00:00Z",
   "stats": {
-    "totalDirectories": 2159,
+    "totalDirectories": 2160,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2159.0,
-    "totalListings": 20357,
-    "aiEnhancedDirectories": 2159
+    "avgDirectoriesPerRepo": 2160.0,
+    "totalListings": 20367,
+    "aiEnhancedDirectories": 2160
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28075,12 +28075,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-fire-pits-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:48:19.204374+00:00Z",
+      "lastUpdated": "2025-11-09T03:48:19.204374+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2159,
+      "directoryCount": 2160,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

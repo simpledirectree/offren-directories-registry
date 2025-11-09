@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:51:24.288681+00:00Z",
+  "lastUpdated": "2025-11-09T03:51:43.633124+00:00Z",
   "stats": {
-    "totalDirectories": 2171,
+    "totalDirectories": 2172,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2171.0,
-    "totalListings": 20477,
-    "aiEnhancedDirectories": 2171
+    "avgDirectoriesPerRepo": 2172.0,
+    "totalListings": 20487,
+    "aiEnhancedDirectories": 2172
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28231,12 +28231,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-crm-setup-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:51:43.633124+00:00Z",
+      "lastUpdated": "2025-11-09T03:51:43.633124+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2171,
+      "directoryCount": 2172,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

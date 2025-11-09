@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:39:18.808526+00:00Z",
+  "lastUpdated": "2025-11-09T11:40:35.323655+00:00Z",
   "stats": {
-    "totalDirectories": 762,
+    "totalDirectories": 763,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 762.0,
-    "totalListings": 7236,
-    "aiEnhancedDirectories": 762
+    "avgDirectoriesPerRepo": 763.0,
+    "totalListings": 7237,
+    "aiEnhancedDirectories": 763
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9914,12 +9914,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-spinning-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:40:35.323655+00:00Z",
+      "lastUpdated": "2025-11-09T11:40:35.323655+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 762,
+      "directoryCount": 763,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

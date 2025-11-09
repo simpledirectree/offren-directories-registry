@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:45:18.603717+00:00Z",
+  "lastUpdated": "2025-11-09T21:45:34.639325+00:00Z",
   "stats": {
-    "totalDirectories": 1420,
+    "totalDirectories": 1421,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1420.0,
-    "totalListings": 13386,
-    "aiEnhancedDirectories": 1420
+    "avgDirectoriesPerRepo": 1421.0,
+    "totalListings": 13396,
+    "aiEnhancedDirectories": 1421
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18468,12 +18468,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-24-hour-fitness-centers-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:45:34.639325+00:00Z",
+      "lastUpdated": "2025-11-09T21:45:34.639325+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1420,
+      "directoryCount": 1421,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

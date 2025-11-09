@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:08:47.824712+00:00Z",
+  "lastUpdated": "2025-11-09T21:09:03.652912+00:00Z",
   "stats": {
-    "totalDirectories": 1375,
+    "totalDirectories": 1376,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1375.0,
-    "totalListings": 12965,
-    "aiEnhancedDirectories": 1375
+    "avgDirectoriesPerRepo": 1376.0,
+    "totalListings": 12975,
+    "aiEnhancedDirectories": 1376
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17883,12 +17883,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-auto-glass-repair-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:09:03.652912+00:00Z",
+      "lastUpdated": "2025-11-09T21:09:03.652912+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1375,
+      "directoryCount": 1376,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

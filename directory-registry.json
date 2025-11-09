@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:22:35.505951+00:00Z",
+  "lastUpdated": "2025-11-09T06:22:52.591138+00:00Z",
   "stats": {
-    "totalDirectories": 231,
+    "totalDirectories": 232,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 231.0,
-    "totalListings": 2233,
-    "aiEnhancedDirectories": 231
+    "avgDirectoriesPerRepo": 232.0,
+    "totalListings": 2243,
+    "aiEnhancedDirectories": 232
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3011,12 +3011,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-calendar-management-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:22:52.591138+00:00Z",
+      "lastUpdated": "2025-11-09T06:22:52.591138+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 231,
+      "directoryCount": 232,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

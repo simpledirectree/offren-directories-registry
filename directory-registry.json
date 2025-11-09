@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:49:36.437186+00:00Z",
+  "lastUpdated": "2025-11-09T02:49:52.213723+00:00Z",
   "stats": {
-    "totalDirectories": 2091,
+    "totalDirectories": 2092,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2091.0,
-    "totalListings": 19714,
-    "aiEnhancedDirectories": 2091
+    "avgDirectoriesPerRepo": 2092.0,
+    "totalListings": 19724,
+    "aiEnhancedDirectories": 2092
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27191,12 +27191,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-pathology-services-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:49:52.213723+00:00Z",
+      "lastUpdated": "2025-11-09T02:49:52.213723+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2091,
+      "directoryCount": 2092,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

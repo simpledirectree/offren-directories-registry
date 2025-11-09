@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:57:06.254743+00:00Z",
+  "lastUpdated": "2025-11-09T05:57:19.602414+00:00Z",
   "stats": {
-    "totalDirectories": 141,
+    "totalDirectories": 142,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 141.0,
-    "totalListings": 1357,
-    "aiEnhancedDirectories": 141
+    "avgDirectoriesPerRepo": 142.0,
+    "totalListings": 1365,
+    "aiEnhancedDirectories": 142
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1841,12 +1841,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-retaining-walls-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:57:19.602414+00:00Z",
+      "lastUpdated": "2025-11-09T05:57:19.602414+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 141,
+      "directoryCount": 142,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

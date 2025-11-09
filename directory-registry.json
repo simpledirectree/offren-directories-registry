@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:26:26.061342+00:00Z",
+  "lastUpdated": "2025-11-09T20:26:42.092089+00:00Z",
   "stats": {
-    "totalDirectories": 1336,
+    "totalDirectories": 1337,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1336.0,
-    "totalListings": 12588,
-    "aiEnhancedDirectories": 1336
+    "avgDirectoriesPerRepo": 1337.0,
+    "totalListings": 12598,
+    "aiEnhancedDirectories": 1337
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17376,12 +17376,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-group-fitness-classes-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:26:42.092089+00:00Z",
+      "lastUpdated": "2025-11-09T20:26:42.092089+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1336,
+      "directoryCount": 1337,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

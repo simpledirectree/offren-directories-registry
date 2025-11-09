@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:29:32.404224+00:00Z",
+  "lastUpdated": "2025-11-09T07:29:50.379498+00:00Z",
   "stats": {
-    "totalDirectories": 475,
+    "totalDirectories": 476,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 475.0,
-    "totalListings": 4582,
-    "aiEnhancedDirectories": 475
+    "avgDirectoriesPerRepo": 476.0,
+    "totalListings": 4592,
+    "aiEnhancedDirectories": 476
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6183,12 +6183,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-slope-stabilization-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:29:50.379498+00:00Z",
+      "lastUpdated": "2025-11-09T07:29:50.379498+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 475,
+      "directoryCount": 476,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

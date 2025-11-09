@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:47:09.283586+00:00Z",
+  "lastUpdated": "2025-11-09T03:47:27.072751+00:00Z",
   "stats": {
-    "totalDirectories": 2156,
+    "totalDirectories": 2157,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2156.0,
-    "totalListings": 20327,
-    "aiEnhancedDirectories": 2156
+    "avgDirectoriesPerRepo": 2157.0,
+    "totalListings": 20337,
+    "aiEnhancedDirectories": 2157
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28036,12 +28036,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-barbershops-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:47:27.072751+00:00Z",
+      "lastUpdated": "2025-11-09T03:47:27.072751+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2156,
+      "directoryCount": 2157,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

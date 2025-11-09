@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:38:32.132870+00:00Z",
+  "lastUpdated": "2025-11-09T01:40:32.455846+00:00Z",
   "stats": {
-    "totalDirectories": 2015,
+    "totalDirectories": 2016,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2015.0,
-    "totalListings": 19021,
-    "aiEnhancedDirectories": 2015
+    "avgDirectoriesPerRepo": 2016.0,
+    "totalListings": 19031,
+    "aiEnhancedDirectories": 2016
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26203,12 +26203,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-body-contouring-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:40:32.455846+00:00Z",
+      "lastUpdated": "2025-11-09T01:40:32.455846+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2015,
+      "directoryCount": 2016,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

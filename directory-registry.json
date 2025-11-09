@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:34:33.495809+00:00Z",
+  "lastUpdated": "2025-11-09T18:35:36.053330+00:00Z",
   "stats": {
-    "totalDirectories": 1218,
+    "totalDirectories": 1219,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1218.0,
-    "totalListings": 11490,
-    "aiEnhancedDirectories": 1218
+    "avgDirectoriesPerRepo": 1219.0,
+    "totalListings": 11497,
+    "aiEnhancedDirectories": 1219
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15842,12 +15842,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-translation-services-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:35:36.053330+00:00Z",
+      "lastUpdated": "2025-11-09T18:35:36.053330+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1218,
+      "directoryCount": 1219,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

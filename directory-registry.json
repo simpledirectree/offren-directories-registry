@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:26:08.382630+00:00Z",
+  "lastUpdated": "2025-11-09T05:26:22.064642+00:00Z",
   "stats": {
-    "totalDirectories": 27,
+    "totalDirectories": 28,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 27.0,
-    "totalListings": 265,
-    "aiEnhancedDirectories": 27
+    "avgDirectoriesPerRepo": 28.0,
+    "totalListings": 275,
+    "aiEnhancedDirectories": 28
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -359,12 +359,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-steam-rooms-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:26:22.064642+00:00Z",
+      "lastUpdated": "2025-11-09T05:26:22.064642+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 27,
+      "directoryCount": 28,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

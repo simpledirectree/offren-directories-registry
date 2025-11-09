@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:17:31.725763+00:00Z",
+  "lastUpdated": "2025-11-09T05:17:51.310529+00:00Z",
   "stats": {
-    "totalDirectories": 2467,
+    "totalDirectories": 2468,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2467.0,
-    "totalListings": 23338,
-    "aiEnhancedDirectories": 2467
+    "avgDirectoriesPerRepo": 2468.0,
+    "totalListings": 23348,
+    "aiEnhancedDirectories": 2468
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -32079,12 +32079,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-application-strategy-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:17:51.310529+00:00Z",
+      "lastUpdated": "2025-11-09T05:17:51.310529+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2467,
+      "directoryCount": 2468,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

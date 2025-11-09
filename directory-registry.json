@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:59:12.569642+00:00Z",
+  "lastUpdated": "2025-11-09T04:59:29.203433+00:00Z",
   "stats": {
-    "totalDirectories": 2403,
+    "totalDirectories": 2404,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2403.0,
-    "totalListings": 22744,
-    "aiEnhancedDirectories": 2403
+    "avgDirectoriesPerRepo": 2404.0,
+    "totalListings": 22754,
+    "aiEnhancedDirectories": 2404
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31247,12 +31247,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-vein-treatment-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:59:29.203433+00:00Z",
+      "lastUpdated": "2025-11-09T04:59:29.203433+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2403,
+      "directoryCount": 2404,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

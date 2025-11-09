@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:57:43.250025+00:00Z",
+  "lastUpdated": "2025-11-09T00:59:41.137430+00:00Z",
   "stats": {
-    "totalDirectories": 1963,
+    "totalDirectories": 1964,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1963.0,
-    "totalListings": 18527,
-    "aiEnhancedDirectories": 1963
+    "avgDirectoriesPerRepo": 1964.0,
+    "totalListings": 18537,
+    "aiEnhancedDirectories": 1964
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25527,12 +25527,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-body-scrubs-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:59:41.137430+00:00Z",
+      "lastUpdated": "2025-11-09T00:59:41.137430+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1963,
+      "directoryCount": 1964,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

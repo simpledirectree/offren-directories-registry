@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:04:47.892263+00:00Z",
+  "lastUpdated": "2025-11-09T08:05:25.950145+00:00Z",
   "stats": {
-    "totalDirectories": 508,
+    "totalDirectories": 509,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 508.0,
-    "totalListings": 4904,
-    "aiEnhancedDirectories": 508
+    "avgDirectoriesPerRepo": 509.0,
+    "totalListings": 4914,
+    "aiEnhancedDirectories": 509
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6612,12 +6612,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-database-administration-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:05:25.950145+00:00Z",
+      "lastUpdated": "2025-11-09T08:05:25.950145+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 508,
+      "directoryCount": 509,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

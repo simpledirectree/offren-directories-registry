@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:36:48.716607+00:00Z",
+  "lastUpdated": "2025-11-09T21:37:03.527501+00:00Z",
   "stats": {
-    "totalDirectories": 1407,
+    "totalDirectories": 1408,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1407.0,
-    "totalListings": 13270,
-    "aiEnhancedDirectories": 1407
+    "avgDirectoriesPerRepo": 1408.0,
+    "totalListings": 13280,
+    "aiEnhancedDirectories": 1408
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18299,12 +18299,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-endpoint-protection-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:37:03.527501+00:00Z",
+      "lastUpdated": "2025-11-09T21:37:03.527501+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1407,
+      "directoryCount": 1408,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

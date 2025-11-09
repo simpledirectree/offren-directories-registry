@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:12:25.134316+00:00Z",
+  "lastUpdated": "2025-11-09T04:12:40.745781+00:00Z",
   "stats": {
-    "totalDirectories": 2243,
+    "totalDirectories": 2244,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2243.0,
-    "totalListings": 21181,
-    "aiEnhancedDirectories": 2243
+    "avgDirectoriesPerRepo": 2244.0,
+    "totalListings": 21191,
+    "aiEnhancedDirectories": 2244
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29167,12 +29167,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-real-estate-agents-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:12:40.745781+00:00Z",
+      "lastUpdated": "2025-11-09T04:12:40.745781+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2243,
+      "directoryCount": 2244,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

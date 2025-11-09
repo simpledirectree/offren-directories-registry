@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:31:09.429788+00:00Z",
+  "lastUpdated": "2025-11-09T06:31:24.945954+00:00Z",
   "stats": {
-    "totalDirectories": 263,
+    "totalDirectories": 264,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 263.0,
-    "totalListings": 2531,
-    "aiEnhancedDirectories": 263
+    "avgDirectoriesPerRepo": 264.0,
+    "totalListings": 2541,
+    "aiEnhancedDirectories": 264
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3427,12 +3427,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-fitness-instructors-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:31:24.945954+00:00Z",
+      "lastUpdated": "2025-11-09T06:31:24.945954+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 263,
+      "directoryCount": 264,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:31:28.926514+00:00Z",
+  "lastUpdated": "2025-11-09T11:31:45.272167+00:00Z",
   "stats": {
-    "totalDirectories": 752,
+    "totalDirectories": 753,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 752.0,
-    "totalListings": 7139,
-    "aiEnhancedDirectories": 752
+    "avgDirectoriesPerRepo": 753.0,
+    "totalListings": 7149,
+    "aiEnhancedDirectories": 753
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9784,12 +9784,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-bumper-repair-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:31:45.272167+00:00Z",
+      "lastUpdated": "2025-11-09T11:31:45.272167+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 752,
+      "directoryCount": 753,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

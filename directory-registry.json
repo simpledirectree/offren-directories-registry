@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:22:19.567911+00:00Z",
+  "lastUpdated": "2025-11-09T06:22:35.505951+00:00Z",
   "stats": {
-    "totalDirectories": 230,
+    "totalDirectories": 231,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 230.0,
-    "totalListings": 2223,
-    "aiEnhancedDirectories": 230
+    "avgDirectoriesPerRepo": 231.0,
+    "totalListings": 2233,
+    "aiEnhancedDirectories": 231
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2998,12 +2998,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-commercial-lease-negotiation-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:22:35.505951+00:00Z",
+      "lastUpdated": "2025-11-09T06:22:35.505951+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 230,
+      "directoryCount": 231,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

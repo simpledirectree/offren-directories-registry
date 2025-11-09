@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:42:28.381456+00:00Z",
+  "lastUpdated": "2025-11-09T13:43:08.777123+00:00Z",
   "stats": {
-    "totalDirectories": 886,
+    "totalDirectories": 887,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 886.0,
-    "totalListings": 8361,
-    "aiEnhancedDirectories": 886
+    "avgDirectoriesPerRepo": 887.0,
+    "totalListings": 8371,
+    "aiEnhancedDirectories": 887
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11526,12 +11526,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-agricultural-documentation-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:43:08.777123+00:00Z",
+      "lastUpdated": "2025-11-09T13:43:08.777123+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 886,
+      "directoryCount": 887,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

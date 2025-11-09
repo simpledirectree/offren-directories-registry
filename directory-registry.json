@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:48:19.204374+00:00Z",
+  "lastUpdated": "2025-11-09T03:48:34.907481+00:00Z",
   "stats": {
-    "totalDirectories": 2160,
+    "totalDirectories": 2161,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2160.0,
-    "totalListings": 20367,
-    "aiEnhancedDirectories": 2160
+    "avgDirectoriesPerRepo": 2161.0,
+    "totalListings": 20377,
+    "aiEnhancedDirectories": 2161
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28088,12 +28088,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-pathology-services-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:48:34.907481+00:00Z",
+      "lastUpdated": "2025-11-09T03:48:34.907481+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2160,
+      "directoryCount": 2161,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

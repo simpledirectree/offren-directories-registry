@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:40:08.742793+00:00Z",
+  "lastUpdated": "2025-11-09T09:40:32.761485+00:00Z",
   "stats": {
-    "totalDirectories": 609,
+    "totalDirectories": 610,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 609.0,
-    "totalListings": 5824,
-    "aiEnhancedDirectories": 609
+    "avgDirectoriesPerRepo": 610.0,
+    "totalListings": 5834,
+    "aiEnhancedDirectories": 610
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7925,12 +7925,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-photography-instruction-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:40:32.761485+00:00Z",
+      "lastUpdated": "2025-11-09T09:40:32.761485+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 609,
+      "directoryCount": 610,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

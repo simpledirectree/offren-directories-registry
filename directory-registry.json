@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:59:34.264892+00:00Z",
+  "lastUpdated": "2025-11-09T15:59:48.971916+00:00Z",
   "stats": {
-    "totalDirectories": 1046,
+    "totalDirectories": 1047,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1046.0,
-    "totalListings": 9859,
-    "aiEnhancedDirectories": 1046
+    "avgDirectoriesPerRepo": 1047.0,
+    "totalListings": 9866,
+    "aiEnhancedDirectories": 1047
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13606,12 +13606,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-hvac-repair-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:59:48.971916+00:00Z",
+      "lastUpdated": "2025-11-09T15:59:48.971916+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1046,
+      "directoryCount": 1047,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

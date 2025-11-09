@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:05:59.056924+00:00Z",
+  "lastUpdated": "2025-11-09T04:06:15.637702+00:00Z",
   "stats": {
-    "totalDirectories": 2221,
+    "totalDirectories": 2222,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2221.0,
-    "totalListings": 20961,
-    "aiEnhancedDirectories": 2221
+    "avgDirectoriesPerRepo": 2222.0,
+    "totalListings": 20971,
+    "aiEnhancedDirectories": 2222
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28881,12 +28881,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-mobile-rv-repair-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:06:15.637702+00:00Z",
+      "lastUpdated": "2025-11-09T04:06:15.637702+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2221,
+      "directoryCount": 2222,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

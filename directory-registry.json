@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:36:35.039685+00:00Z",
+  "lastUpdated": "2025-11-09T23:36:49.808954+00:00Z",
   "stats": {
-    "totalDirectories": 1531,
+    "totalDirectories": 1532,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1531.0,
-    "totalListings": 14405,
-    "aiEnhancedDirectories": 1531
+    "avgDirectoriesPerRepo": 1532.0,
+    "totalListings": 14415,
+    "aiEnhancedDirectories": 1532
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19911,12 +19911,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-safety-training-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:36:49.808954+00:00Z",
+      "lastUpdated": "2025-11-09T23:36:49.808954+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1531,
+      "directoryCount": 1532,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

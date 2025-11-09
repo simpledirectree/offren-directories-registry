@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:14:49.109175+00:00Z",
+  "lastUpdated": "2025-11-09T05:15:04.242196+00:00Z",
   "stats": {
-    "totalDirectories": 2457,
+    "totalDirectories": 2458,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2457.0,
-    "totalListings": 23243,
-    "aiEnhancedDirectories": 2457
+    "avgDirectoriesPerRepo": 2458.0,
+    "totalListings": 23253,
+    "aiEnhancedDirectories": 2458
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31949,12 +31949,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-credit-analysis-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:15:04.242196+00:00Z",
+      "lastUpdated": "2025-11-09T05:15:04.242196+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2457,
+      "directoryCount": 2458,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

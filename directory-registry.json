@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:14:35.027999+00:00Z",
+  "lastUpdated": "2025-11-09T11:15:37.787075+00:00Z",
   "stats": {
-    "totalDirectories": 737,
+    "totalDirectories": 738,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 737.0,
-    "totalListings": 7018,
-    "aiEnhancedDirectories": 737
+    "avgDirectoriesPerRepo": 738.0,
+    "totalListings": 7028,
+    "aiEnhancedDirectories": 738
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9589,12 +9589,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-meal-kits-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:15:37.787075+00:00Z",
+      "lastUpdated": "2025-11-09T11:15:37.787075+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 737,
+      "directoryCount": 738,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:03:25.217289+00:00Z",
+  "lastUpdated": "2025-11-09T09:05:06.327447+00:00Z",
   "stats": {
-    "totalDirectories": 575,
+    "totalDirectories": 576,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 575.0,
-    "totalListings": 5505,
-    "aiEnhancedDirectories": 575
+    "avgDirectoriesPerRepo": 576.0,
+    "totalListings": 5515,
+    "aiEnhancedDirectories": 576
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7483,12 +7483,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-bed-liner-installation-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:05:06.327447+00:00Z",
+      "lastUpdated": "2025-11-09T09:05:06.327447+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 575,
+      "directoryCount": 576,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

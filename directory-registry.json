@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:48:06.448290+00:00Z",
+  "lastUpdated": "2025-11-09T20:48:30.563530+00:00Z",
   "stats": {
-    "totalDirectories": 1356,
+    "totalDirectories": 1357,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1356.0,
-    "totalListings": 12778,
-    "aiEnhancedDirectories": 1356
+    "avgDirectoriesPerRepo": 1357.0,
+    "totalListings": 12788,
+    "aiEnhancedDirectories": 1357
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17636,12 +17636,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-aerial-yoga-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:48:30.563530+00:00Z",
+      "lastUpdated": "2025-11-09T20:48:30.563530+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1356,
+      "directoryCount": 1357,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

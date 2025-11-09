@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:42:41.619601+00:00Z",
+  "lastUpdated": "2025-11-09T04:42:58.733218+00:00Z",
   "stats": {
-    "totalDirectories": 2346,
+    "totalDirectories": 2347,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2346.0,
-    "totalListings": 22183,
-    "aiEnhancedDirectories": 2346
+    "avgDirectoriesPerRepo": 2347.0,
+    "totalListings": 22193,
+    "aiEnhancedDirectories": 2347
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30506,12 +30506,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-software-re-engineering-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:42:58.733218+00:00Z",
+      "lastUpdated": "2025-11-09T04:42:58.733218+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2346,
+      "directoryCount": 2347,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

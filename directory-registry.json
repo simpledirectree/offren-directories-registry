@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:14:36.613065+00:00Z",
+  "lastUpdated": "2025-11-09T04:14:53.116530+00:00Z",
   "stats": {
-    "totalDirectories": 2251,
+    "totalDirectories": 2252,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2251.0,
-    "totalListings": 21249,
-    "aiEnhancedDirectories": 2251
+    "avgDirectoriesPerRepo": 2252.0,
+    "totalListings": 21259,
+    "aiEnhancedDirectories": 2252
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29271,12 +29271,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-yin-yoga-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:14:53.116530+00:00Z",
+      "lastUpdated": "2025-11-09T04:14:53.116530+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2251,
+      "directoryCount": 2252,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

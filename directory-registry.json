@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:34:35.217626+00:00Z",
+  "lastUpdated": "2025-11-09T22:34:49.959268+00:00Z",
   "stats": {
-    "totalDirectories": 1470,
+    "totalDirectories": 1471,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1470.0,
-    "totalListings": 13855,
-    "aiEnhancedDirectories": 1470
+    "avgDirectoriesPerRepo": 1471.0,
+    "totalListings": 13865,
+    "aiEnhancedDirectories": 1471
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19118,12 +19118,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-family-law-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:34:49.959268+00:00Z",
+      "lastUpdated": "2025-11-09T22:34:49.959268+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1470,
+      "directoryCount": 1471,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:33:27.516669+00:00Z",
+  "lastUpdated": "2025-11-09T10:33:43.284205+00:00Z",
   "stats": {
-    "totalDirectories": 681,
+    "totalDirectories": 682,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 681.0,
-    "totalListings": 6489,
-    "aiEnhancedDirectories": 681
+    "avgDirectoriesPerRepo": 682.0,
+    "totalListings": 6499,
+    "aiEnhancedDirectories": 682
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8861,12 +8861,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-door-adjustments-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:33:43.284205+00:00Z",
+      "lastUpdated": "2025-11-09T10:33:43.284205+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 681,
+      "directoryCount": 682,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:53:44.442427+00:00Z",
+  "lastUpdated": "2025-11-09T15:53:59.414713+00:00Z",
   "stats": {
-    "totalDirectories": 1041,
+    "totalDirectories": 1042,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1041.0,
-    "totalListings": 9813,
-    "aiEnhancedDirectories": 1041
+    "avgDirectoriesPerRepo": 1042.0,
+    "totalListings": 9823,
+    "aiEnhancedDirectories": 1042
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13541,12 +13541,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-exit-planning-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:53:59.414713+00:00Z",
+      "lastUpdated": "2025-11-09T15:53:59.414713+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1041,
+      "directoryCount": 1042,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

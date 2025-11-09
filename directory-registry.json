@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:02:05.534376+00:00Z",
+  "lastUpdated": "2025-11-09T06:02:20.006039+00:00Z",
   "stats": {
-    "totalDirectories": 159,
+    "totalDirectories": 160,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 159.0,
-    "totalListings": 1535,
-    "aiEnhancedDirectories": 159
+    "avgDirectoriesPerRepo": 160.0,
+    "totalListings": 1545,
+    "aiEnhancedDirectories": 160
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2075,12 +2075,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-24-7-monitoring-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:02:20.006039+00:00Z",
+      "lastUpdated": "2025-11-09T06:02:20.006039+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 159,
+      "directoryCount": 160,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

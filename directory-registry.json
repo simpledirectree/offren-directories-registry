@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:44:32.637549+00:00Z",
+  "lastUpdated": "2025-11-09T18:45:37.306267+00:00Z",
   "stats": {
-    "totalDirectories": 1234,
+    "totalDirectories": 1235,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1234.0,
-    "totalListings": 11625,
-    "aiEnhancedDirectories": 1234
+    "avgDirectoriesPerRepo": 1235.0,
+    "totalListings": 11633,
+    "aiEnhancedDirectories": 1235
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16050,12 +16050,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-remote-work-technology-solutions-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:45:37.306267+00:00Z",
+      "lastUpdated": "2025-11-09T18:45:37.306267+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1234,
+      "directoryCount": 1235,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

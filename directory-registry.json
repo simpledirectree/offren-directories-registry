@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:47:13.166609+00:00Z",
+  "lastUpdated": "2025-11-09T12:48:16.593086+00:00Z",
   "stats": {
-    "totalDirectories": 839,
+    "totalDirectories": 840,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 839.0,
-    "totalListings": 7945,
-    "aiEnhancedDirectories": 839
+    "avgDirectoriesPerRepo": 840.0,
+    "totalListings": 7951,
+    "aiEnhancedDirectories": 840
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10915,12 +10915,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-ethnic-catering-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:48:16.593086+00:00Z",
+      "lastUpdated": "2025-11-09T12:48:16.593086+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 839,
+      "directoryCount": 840,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

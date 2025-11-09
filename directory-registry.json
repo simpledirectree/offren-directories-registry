@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:57:02.809981+00:00Z",
+  "lastUpdated": "2025-11-09T04:57:19.716067+00:00Z",
   "stats": {
-    "totalDirectories": 2395,
+    "totalDirectories": 2396,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2395.0,
-    "totalListings": 22666,
-    "aiEnhancedDirectories": 2395
+    "avgDirectoriesPerRepo": 2396.0,
+    "totalListings": 22676,
+    "aiEnhancedDirectories": 2396
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31143,12 +31143,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-real-estate-agents-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:57:19.716067+00:00Z",
+      "lastUpdated": "2025-11-09T04:57:19.716067+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2395,
+      "directoryCount": 2396,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

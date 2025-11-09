@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:58:43.054545+00:00Z",
+  "lastUpdated": "2025-11-09T03:58:59.683168+00:00Z",
   "stats": {
-    "totalDirectories": 2196,
+    "totalDirectories": 2197,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2196.0,
-    "totalListings": 20716,
-    "aiEnhancedDirectories": 2196
+    "avgDirectoriesPerRepo": 2197.0,
+    "totalListings": 20726,
+    "aiEnhancedDirectories": 2197
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28556,12 +28556,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-masonry-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:58:59.683168+00:00Z",
+      "lastUpdated": "2025-11-09T03:58:59.683168+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2196,
+      "directoryCount": 2197,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

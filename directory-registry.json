@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:33:11.903089+00:00Z",
+  "lastUpdated": "2025-11-09T05:33:29.189114+00:00Z",
   "stats": {
-    "totalDirectories": 54,
+    "totalDirectories": 55,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 54.0,
-    "totalListings": 522,
-    "aiEnhancedDirectories": 54
+    "avgDirectoriesPerRepo": 55.0,
+    "totalListings": 532,
+    "aiEnhancedDirectories": 55
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -710,12 +710,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-data-warehousing-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:33:29.189114+00:00Z",
+      "lastUpdated": "2025-11-09T05:33:29.189114+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 54,
+      "directoryCount": 55,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

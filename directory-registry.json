@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:42:08.297289+00:00Z",
+  "lastUpdated": "2025-11-09T04:42:23.630112+00:00Z",
   "stats": {
-    "totalDirectories": 2344,
+    "totalDirectories": 2345,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2344.0,
-    "totalListings": 22163,
-    "aiEnhancedDirectories": 2344
+    "avgDirectoriesPerRepo": 2345.0,
+    "totalListings": 22173,
+    "aiEnhancedDirectories": 2345
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30480,12 +30480,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-fine-dining-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:42:23.630112+00:00Z",
+      "lastUpdated": "2025-11-09T04:42:23.630112+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2344,
+      "directoryCount": 2345,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

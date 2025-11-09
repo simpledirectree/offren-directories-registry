@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:51:54.545121+00:00Z",
+  "lastUpdated": "2025-11-09T06:52:08.466476+00:00Z",
   "stats": {
-    "totalDirectories": 340,
+    "totalDirectories": 341,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 340.0,
-    "totalListings": 3269,
-    "aiEnhancedDirectories": 340
+    "avgDirectoriesPerRepo": 341.0,
+    "totalListings": 3279,
+    "aiEnhancedDirectories": 341
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4428,12 +4428,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-meditation-instruction-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:52:08.466476+00:00Z",
+      "lastUpdated": "2025-11-09T06:52:08.466476+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 340,
+      "directoryCount": 341,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

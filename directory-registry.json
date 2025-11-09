@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:17:41.931203+00:00Z",
+  "lastUpdated": "2025-11-09T23:19:59.905007+00:00Z",
   "stats": {
-    "totalDirectories": 1514,
+    "totalDirectories": 1515,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1514.0,
-    "totalListings": 14246,
-    "aiEnhancedDirectories": 1514
+    "avgDirectoriesPerRepo": 1515.0,
+    "totalListings": 14255,
+    "aiEnhancedDirectories": 1515
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19690,12 +19690,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-d-o-insurance-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:19:59.905007+00:00Z",
+      "lastUpdated": "2025-11-09T23:19:59.905007+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1514,
+      "directoryCount": 1515,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

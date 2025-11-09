@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:00:14.313722+00:00Z",
+  "lastUpdated": "2025-11-09T05:00:32.470614+00:00Z",
   "stats": {
-    "totalDirectories": 2407,
+    "totalDirectories": 2408,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2407.0,
-    "totalListings": 22777,
-    "aiEnhancedDirectories": 2407
+    "avgDirectoriesPerRepo": 2408.0,
+    "totalListings": 22787,
+    "aiEnhancedDirectories": 2408
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31299,12 +31299,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-family-style-restaurants-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:00:32.470614+00:00Z",
+      "lastUpdated": "2025-11-09T05:00:32.470614+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2407,
+      "directoryCount": 2408,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

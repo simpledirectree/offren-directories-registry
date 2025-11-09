@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:56:10.468171+00:00Z",
+  "lastUpdated": "2025-11-09T10:56:48.598040+00:00Z",
   "stats": {
-    "totalDirectories": 711,
+    "totalDirectories": 712,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 711.0,
-    "totalListings": 6774,
-    "aiEnhancedDirectories": 711
+    "avgDirectoriesPerRepo": 712.0,
+    "totalListings": 6779,
+    "aiEnhancedDirectories": 712
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9251,12 +9251,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-ada-compliance-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:56:48.598040+00:00Z",
+      "lastUpdated": "2025-11-09T10:56:48.598040+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 711,
+      "directoryCount": 712,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:35:34.884999+00:00Z",
+  "lastUpdated": "2025-11-09T04:35:51.676639+00:00Z",
   "stats": {
-    "totalDirectories": 2322,
+    "totalDirectories": 2323,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2322.0,
-    "totalListings": 21943,
-    "aiEnhancedDirectories": 2322
+    "avgDirectoriesPerRepo": 2323.0,
+    "totalListings": 21953,
+    "aiEnhancedDirectories": 2323
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30194,12 +30194,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-umbrella-insurance-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:35:51.676639+00:00Z",
+      "lastUpdated": "2025-11-09T04:35:51.676639+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2322,
+      "directoryCount": 2323,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

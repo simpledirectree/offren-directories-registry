@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:37:09.270790+00:00Z",
+  "lastUpdated": "2025-11-09T18:37:23.999729+00:00Z",
   "stats": {
-    "totalDirectories": 1222,
+    "totalDirectories": 1223,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1222.0,
-    "totalListings": 11518,
-    "aiEnhancedDirectories": 1222
+    "avgDirectoriesPerRepo": 1223.0,
+    "totalListings": 11528,
+    "aiEnhancedDirectories": 1223
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15894,12 +15894,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-patent-law-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:37:23.999729+00:00Z",
+      "lastUpdated": "2025-11-09T18:37:23.999729+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1222,
+      "directoryCount": 1223,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

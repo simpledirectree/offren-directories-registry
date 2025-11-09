@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:21:43.837732+00:00Z",
+  "lastUpdated": "2025-11-09T01:21:58.673997+00:00Z",
   "stats": {
-    "totalDirectories": 1995,
+    "totalDirectories": 1996,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1995.0,
-    "totalListings": 18832,
-    "aiEnhancedDirectories": 1995
+    "avgDirectoriesPerRepo": 1996.0,
+    "totalListings": 18841,
+    "aiEnhancedDirectories": 1996
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25943,12 +25943,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-interpretation-services-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:21:58.673997+00:00Z",
+      "lastUpdated": "2025-11-09T01:21:58.673997+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1995,
+      "directoryCount": 1996,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

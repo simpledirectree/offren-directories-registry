@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:05:36.825559+00:00Z",
+  "lastUpdated": "2025-11-09T06:05:53.267405+00:00Z",
   "stats": {
-    "totalDirectories": 171,
+    "totalDirectories": 172,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 171.0,
-    "totalListings": 1652,
-    "aiEnhancedDirectories": 171
+    "avgDirectoriesPerRepo": 172.0,
+    "totalListings": 1662,
+    "aiEnhancedDirectories": 172
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2231,12 +2231,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-comedians-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:05:53.267405+00:00Z",
+      "lastUpdated": "2025-11-09T06:05:53.267405+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 171,
+      "directoryCount": 172,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

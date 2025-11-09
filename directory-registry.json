@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:59:16.903684+00:00Z",
+  "lastUpdated": "2025-11-09T11:59:56.529706+00:00Z",
   "stats": {
-    "totalDirectories": 783,
+    "totalDirectories": 784,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 783.0,
-    "totalListings": 7424,
-    "aiEnhancedDirectories": 783
+    "avgDirectoriesPerRepo": 784.0,
+    "totalListings": 7434,
+    "aiEnhancedDirectories": 784
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10187,12 +10187,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-specialty-restaurants-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:59:56.529706+00:00Z",
+      "lastUpdated": "2025-11-09T11:59:56.529706+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 783,
+      "directoryCount": 784,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:21:38.153949+00:00Z",
+  "lastUpdated": "2025-11-09T13:24:22.671639+00:00Z",
   "stats": {
-    "totalDirectories": 873,
+    "totalDirectories": 874,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 873.0,
-    "totalListings": 8236,
-    "aiEnhancedDirectories": 873
+    "avgDirectoriesPerRepo": 874.0,
+    "totalListings": 8246,
+    "aiEnhancedDirectories": 874
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11357,12 +11357,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-psychology-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:24:22.671639+00:00Z",
+      "lastUpdated": "2025-11-09T13:24:22.671639+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 873,
+      "directoryCount": 874,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

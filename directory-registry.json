@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:31:56.302551+00:00Z",
+  "lastUpdated": "2025-11-09T10:32:09.905306+00:00Z",
   "stats": {
-    "totalDirectories": 678,
+    "totalDirectories": 679,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 678.0,
-    "totalListings": 6464,
-    "aiEnhancedDirectories": 678
+    "avgDirectoriesPerRepo": 679.0,
+    "totalListings": 6469,
+    "aiEnhancedDirectories": 679
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8822,12 +8822,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-shrub-trimming-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:32:09.905306+00:00Z",
+      "lastUpdated": "2025-11-09T10:32:09.905306+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 678,
+      "directoryCount": 679,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

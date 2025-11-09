@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:52:47.228609+00:00Z",
+  "lastUpdated": "2025-11-09T06:53:05.453772+00:00Z",
   "stats": {
-    "totalDirectories": 343,
+    "totalDirectories": 344,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 343.0,
-    "totalListings": 3299,
-    "aiEnhancedDirectories": 343
+    "avgDirectoriesPerRepo": 344.0,
+    "totalListings": 3309,
+    "aiEnhancedDirectories": 344
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4467,12 +4467,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-corporate-law-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:53:05.453772+00:00Z",
+      "lastUpdated": "2025-11-09T06:53:05.453772+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 343,
+      "directoryCount": 344,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

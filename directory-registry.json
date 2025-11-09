@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:38:03.598014+00:00Z",
+  "lastUpdated": "2025-11-09T04:38:24.247799+00:00Z",
   "stats": {
-    "totalDirectories": 2331,
+    "totalDirectories": 2332,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2331.0,
-    "totalListings": 22033,
-    "aiEnhancedDirectories": 2331
+    "avgDirectoriesPerRepo": 2332.0,
+    "totalListings": 22043,
+    "aiEnhancedDirectories": 2332
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30311,12 +30311,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-crm-development-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:38:24.247799+00:00Z",
+      "lastUpdated": "2025-11-09T04:38:24.247799+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2331,
+      "directoryCount": 2332,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:28:57.426498+00:00Z",
+  "lastUpdated": "2025-11-09T12:29:38.634614+00:00Z",
   "stats": {
-    "totalDirectories": 826,
+    "totalDirectories": 827,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 826.0,
-    "totalListings": 7824,
-    "aiEnhancedDirectories": 826
+    "avgDirectoriesPerRepo": 827.0,
+    "totalListings": 7834,
+    "aiEnhancedDirectories": 827
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10746,12 +10746,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-supply-chain-management-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:29:38.634614+00:00Z",
+      "lastUpdated": "2025-11-09T12:29:38.634614+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 826,
+      "directoryCount": 827,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

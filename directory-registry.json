@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:57:49.182493+00:00Z",
+  "lastUpdated": "2025-11-09T01:59:23.498841+00:00Z",
   "stats": {
-    "totalDirectories": 2041,
+    "totalDirectories": 2042,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2041.0,
-    "totalListings": 19262,
-    "aiEnhancedDirectories": 2041
+    "avgDirectoriesPerRepo": 2042.0,
+    "totalListings": 19267,
+    "aiEnhancedDirectories": 2042
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26541,12 +26541,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-house-call-doctors-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:59:23.498841+00:00Z",
+      "lastUpdated": "2025-11-09T01:59:23.498841+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2041,
+      "directoryCount": 2042,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:31:02.629332+00:00Z",
+  "lastUpdated": "2025-11-09T04:31:20.307680+00:00Z",
   "stats": {
-    "totalDirectories": 2306,
+    "totalDirectories": 2307,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2306.0,
-    "totalListings": 21783,
-    "aiEnhancedDirectories": 2306
+    "avgDirectoriesPerRepo": 2307.0,
+    "totalListings": 21793,
+    "aiEnhancedDirectories": 2307
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29986,12 +29986,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-real-estate-agents-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:31:20.307680+00:00Z",
+      "lastUpdated": "2025-11-09T04:31:20.307680+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2306,
+      "directoryCount": 2307,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

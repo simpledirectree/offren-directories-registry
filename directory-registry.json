@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:32:09.905306+00:00Z",
+  "lastUpdated": "2025-11-09T10:33:13.810178+00:00Z",
   "stats": {
-    "totalDirectories": 679,
+    "totalDirectories": 680,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 679.0,
-    "totalListings": 6469,
-    "aiEnhancedDirectories": 679
+    "avgDirectoriesPerRepo": 680.0,
+    "totalListings": 6479,
+    "aiEnhancedDirectories": 680
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8835,12 +8835,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-dog-walking-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:33:13.810178+00:00Z",
+      "lastUpdated": "2025-11-09T10:33:13.810178+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 679,
+      "directoryCount": 680,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

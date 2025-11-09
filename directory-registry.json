@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:06:45.302874+00:00Z",
+  "lastUpdated": "2025-11-09T06:07:05.241106+00:00Z",
   "stats": {
-    "totalDirectories": 175,
+    "totalDirectories": 176,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 175.0,
-    "totalListings": 1692,
-    "aiEnhancedDirectories": 175
+    "avgDirectoriesPerRepo": 176.0,
+    "totalListings": 1702,
+    "aiEnhancedDirectories": 176
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2283,12 +2283,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-tutors-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:07:05.241106+00:00Z",
+      "lastUpdated": "2025-11-09T06:07:05.241106+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 175,
+      "directoryCount": 176,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

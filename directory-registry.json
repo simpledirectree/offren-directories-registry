@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:45:11.913542+00:00Z",
+  "lastUpdated": "2025-11-09T14:46:42.147788+00:00Z",
   "stats": {
-    "totalDirectories": 974,
+    "totalDirectories": 975,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 974.0,
-    "totalListings": 9177,
-    "aiEnhancedDirectories": 974
+    "avgDirectoriesPerRepo": 975.0,
+    "totalListings": 9187,
+    "aiEnhancedDirectories": 975
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12670,12 +12670,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-switch-configuration-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:46:42.147788+00:00Z",
+      "lastUpdated": "2025-11-09T14:46:42.147788+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 974,
+      "directoryCount": 975,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

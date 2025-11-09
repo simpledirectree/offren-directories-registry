@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:32:07.919002+00:00Z",
+  "lastUpdated": "2025-11-09T03:34:02.717136+00:00Z",
   "stats": {
-    "totalDirectories": 2133,
+    "totalDirectories": 2134,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2133.0,
-    "totalListings": 20102,
-    "aiEnhancedDirectories": 2133
+    "avgDirectoriesPerRepo": 2134.0,
+    "totalListings": 20112,
+    "aiEnhancedDirectories": 2134
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27737,12 +27737,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-ada-compliance-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:34:02.717136+00:00Z",
+      "lastUpdated": "2025-11-09T03:34:02.717136+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2133,
+      "directoryCount": 2134,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

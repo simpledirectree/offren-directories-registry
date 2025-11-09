@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:32:52.715495+00:00Z",
+  "lastUpdated": "2025-11-09T06:33:11.551368+00:00Z",
   "stats": {
-    "totalDirectories": 270,
+    "totalDirectories": 271,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 270.0,
-    "totalListings": 2601,
-    "aiEnhancedDirectories": 270
+    "avgDirectoriesPerRepo": 271.0,
+    "totalListings": 2611,
+    "aiEnhancedDirectories": 271
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3518,12 +3518,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-night-nannies-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:33:11.551368+00:00Z",
+      "lastUpdated": "2025-11-09T06:33:11.551368+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 270,
+      "directoryCount": 271,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

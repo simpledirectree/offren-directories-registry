@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:21:21.626472+00:00Z",
+  "lastUpdated": "2025-11-09T06:21:41.515011+00:00Z",
   "stats": {
-    "totalDirectories": 227,
+    "totalDirectories": 228,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 227.0,
-    "totalListings": 2193,
-    "aiEnhancedDirectories": 227
+    "avgDirectoriesPerRepo": 228.0,
+    "totalListings": 2203,
+    "aiEnhancedDirectories": 228
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2959,12 +2959,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-cost-analysis-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:21:41.515011+00:00Z",
+      "lastUpdated": "2025-11-09T06:21:41.515011+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 227,
+      "directoryCount": 228,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

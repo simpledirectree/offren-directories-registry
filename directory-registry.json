@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T21:41:43.906076+00:00Z",
+  "lastUpdated": "2025-11-09T21:42:23.997213+00:00Z",
   "stats": {
-    "totalDirectories": 1415,
+    "totalDirectories": 1416,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1415.0,
-    "totalListings": 13342,
-    "aiEnhancedDirectories": 1415
+    "avgDirectoriesPerRepo": 1416.0,
+    "totalListings": 13348,
+    "aiEnhancedDirectories": 1416
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18403,12 +18403,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-portfolio-management-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T21:42:23.997213+00:00Z",
+      "lastUpdated": "2025-11-09T21:42:23.997213+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1415,
+      "directoryCount": 1416,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:28:30.737094+00:00Z",
+  "lastUpdated": "2025-11-09T00:28:43.798829+00:00Z",
   "stats": {
-    "totalDirectories": 1931,
+    "totalDirectories": 1932,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1931.0,
-    "totalListings": 18245,
-    "aiEnhancedDirectories": 1931
+    "avgDirectoriesPerRepo": 1932.0,
+    "totalListings": 18249,
+    "aiEnhancedDirectories": 1932
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25111,12 +25111,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-cryotherapy-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:28:43.798829+00:00Z",
+      "lastUpdated": "2025-11-09T00:28:43.798829+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1931,
+      "directoryCount": 1932,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:53:09.840810+00:00Z",
+  "lastUpdated": "2025-11-09T05:53:27.670297+00:00Z",
   "stats": {
-    "totalDirectories": 130,
+    "totalDirectories": 131,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 130.0,
-    "totalListings": 1247,
-    "aiEnhancedDirectories": 130
+    "avgDirectoriesPerRepo": 131.0,
+    "totalListings": 1257,
+    "aiEnhancedDirectories": 131
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1698,12 +1698,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-data-privacy-compliance-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:53:27.670297+00:00Z",
+      "lastUpdated": "2025-11-09T05:53:27.670297+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 130,
+      "directoryCount": 131,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

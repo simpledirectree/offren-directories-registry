@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:28:04.112103+00:00Z",
+  "lastUpdated": "2025-11-09T18:29:06.715840+00:00Z",
   "stats": {
-    "totalDirectories": 1210,
+    "totalDirectories": 1211,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1210.0,
-    "totalListings": 11417,
-    "aiEnhancedDirectories": 1210
+    "avgDirectoriesPerRepo": 1211.0,
+    "totalListings": 11422,
+    "aiEnhancedDirectories": 1211
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15738,12 +15738,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-daily-financial-record-keeping-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:29:06.715840+00:00Z",
+      "lastUpdated": "2025-11-09T18:29:06.715840+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1210,
+      "directoryCount": 1211,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

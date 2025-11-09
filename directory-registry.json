@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:33:29.596441+00:00Z",
+  "lastUpdated": "2025-11-09T06:33:44.737804+00:00Z",
   "stats": {
-    "totalDirectories": 272,
+    "totalDirectories": 273,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 272.0,
-    "totalListings": 2621,
-    "aiEnhancedDirectories": 272
+    "avgDirectoriesPerRepo": 273.0,
+    "totalListings": 2631,
+    "aiEnhancedDirectories": 273
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3544,12 +3544,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-landscape-renovation-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:33:44.737804+00:00Z",
+      "lastUpdated": "2025-11-09T06:33:44.737804+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 272,
+      "directoryCount": 273,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

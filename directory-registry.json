@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:53:55.537322+00:00Z",
+  "lastUpdated": "2025-11-09T03:54:08.984836+00:00Z",
   "stats": {
-    "totalDirectories": 2179,
+    "totalDirectories": 2180,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2179.0,
-    "totalListings": 20557,
-    "aiEnhancedDirectories": 2179
+    "avgDirectoriesPerRepo": 2180.0,
+    "totalListings": 20562,
+    "aiEnhancedDirectories": 2180
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28335,12 +28335,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-health-coaching-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:54:08.984836+00:00Z",
+      "lastUpdated": "2025-11-09T03:54:08.984836+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2179,
+      "directoryCount": 2180,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

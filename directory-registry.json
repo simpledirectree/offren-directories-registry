@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:21:48.147789+00:00Z",
+  "lastUpdated": "2025-11-09T16:22:29.119846+00:00Z",
   "stats": {
-    "totalDirectories": 1072,
+    "totalDirectories": 1073,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1072.0,
-    "totalListings": 10110,
-    "aiEnhancedDirectories": 1072
+    "avgDirectoriesPerRepo": 1073.0,
+    "totalListings": 10120,
+    "aiEnhancedDirectories": 1073
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13944,12 +13944,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-commercial-moving-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:22:29.119846+00:00Z",
+      "lastUpdated": "2025-11-09T16:22:29.119846+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1072,
+      "directoryCount": 1073,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:55:27.037141+00:00Z",
+  "lastUpdated": "2025-11-09T05:55:44.831117+00:00Z",
   "stats": {
-    "totalDirectories": 135,
+    "totalDirectories": 136,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 135.0,
-    "totalListings": 1297,
-    "aiEnhancedDirectories": 135
+    "avgDirectoriesPerRepo": 136.0,
+    "totalListings": 1307,
+    "aiEnhancedDirectories": 136
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1763,12 +1763,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-conversion-rate-optimization-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:55:44.831117+00:00Z",
+      "lastUpdated": "2025-11-09T05:55:44.831117+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 135,
+      "directoryCount": 136,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

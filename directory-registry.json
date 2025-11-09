@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:25:43.109537+00:00Z",
+  "lastUpdated": "2025-11-09T00:26:29.598846+00:00Z",
   "stats": {
-    "totalDirectories": 1927,
+    "totalDirectories": 1928,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1927.0,
-    "totalListings": 18205,
-    "aiEnhancedDirectories": 1927
+    "avgDirectoriesPerRepo": 1928.0,
+    "totalListings": 18215,
+    "aiEnhancedDirectories": 1928
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25059,12 +25059,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-landscape-planning-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:26:29.598846+00:00Z",
+      "lastUpdated": "2025-11-09T00:26:29.598846+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1927,
+      "directoryCount": 1928,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

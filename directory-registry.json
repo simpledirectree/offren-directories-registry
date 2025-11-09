@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:12:28.846082+00:00Z",
+  "lastUpdated": "2025-11-09T02:12:44.248040+00:00Z",
   "stats": {
-    "totalDirectories": 2048,
+    "totalDirectories": 2049,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2048.0,
-    "totalListings": 19327,
-    "aiEnhancedDirectories": 2048
+    "avgDirectoriesPerRepo": 2049.0,
+    "totalListings": 19337,
+    "aiEnhancedDirectories": 2049
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26632,12 +26632,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-gymnastics-coaching-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:12:44.248040+00:00Z",
+      "lastUpdated": "2025-11-09T02:12:44.248040+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2048,
+      "directoryCount": 2049,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

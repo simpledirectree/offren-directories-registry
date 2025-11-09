@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:17:36.472822+00:00Z",
+  "lastUpdated": "2025-11-09T15:18:45.465712+00:00Z",
   "stats": {
-    "totalDirectories": 1002,
+    "totalDirectories": 1003,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1002.0,
-    "totalListings": 9438,
-    "aiEnhancedDirectories": 1002
+    "avgDirectoriesPerRepo": 1003.0,
+    "totalListings": 9448,
+    "aiEnhancedDirectories": 1003
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13034,12 +13034,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-sculpture-instruction-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:18:45.465712+00:00Z",
+      "lastUpdated": "2025-11-09T15:18:45.465712+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1002,
+      "directoryCount": 1003,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

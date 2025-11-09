@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:20:43.373419+00:00Z",
+  "lastUpdated": "2025-11-09T07:20:57.041418+00:00Z",
   "stats": {
-    "totalDirectories": 445,
+    "totalDirectories": 446,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 445.0,
-    "totalListings": 4287,
-    "aiEnhancedDirectories": 445
+    "avgDirectoriesPerRepo": 446.0,
+    "totalListings": 4292,
+    "aiEnhancedDirectories": 446
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5793,12 +5793,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-functional-fitness-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:20:57.041418+00:00Z",
+      "lastUpdated": "2025-11-09T07:20:57.041418+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 445,
+      "directoryCount": 446,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

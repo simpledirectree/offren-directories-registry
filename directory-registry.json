@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:28:59.305194+00:00Z",
+  "lastUpdated": "2025-11-09T14:31:19.203190+00:00Z",
   "stats": {
-    "totalDirectories": 953,
+    "totalDirectories": 954,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 953.0,
-    "totalListings": 8985,
-    "aiEnhancedDirectories": 953
+    "avgDirectoriesPerRepo": 954.0,
+    "totalListings": 8995,
+    "aiEnhancedDirectories": 954
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12397,12 +12397,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-temporary-workspaces-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:31:19.203190+00:00Z",
+      "lastUpdated": "2025-11-09T14:31:19.203190+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 953,
+      "directoryCount": 954,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

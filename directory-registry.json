@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:45:12.057415+00:00Z",
+  "lastUpdated": "2025-11-09T11:45:52.054541+00:00Z",
   "stats": {
-    "totalDirectories": 768,
+    "totalDirectories": 769,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 768.0,
-    "totalListings": 7287,
-    "aiEnhancedDirectories": 768
+    "avgDirectoriesPerRepo": 769.0,
+    "totalListings": 7297,
+    "aiEnhancedDirectories": 769
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9992,12 +9992,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-content-strategy-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:45:52.054541+00:00Z",
+      "lastUpdated": "2025-11-09T11:45:52.054541+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 768,
+      "directoryCount": 769,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

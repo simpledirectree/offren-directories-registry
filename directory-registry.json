@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:31:22.222828+00:00Z",
+  "lastUpdated": "2025-11-09T05:31:37.839150+00:00Z",
   "stats": {
-    "totalDirectories": 47,
+    "totalDirectories": 48,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 47.0,
-    "totalListings": 457,
-    "aiEnhancedDirectories": 47
+    "avgDirectoriesPerRepo": 48.0,
+    "totalListings": 467,
+    "aiEnhancedDirectories": 48
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -619,12 +619,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-hair-extensions-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:31:37.839150+00:00Z",
+      "lastUpdated": "2025-11-09T05:31:37.839150+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 47,
+      "directoryCount": 48,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

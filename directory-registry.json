@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:46:39.706535+00:00Z",
+  "lastUpdated": "2025-11-09T02:46:54.519779+00:00Z",
   "stats": {
-    "totalDirectories": 2088,
+    "totalDirectories": 2089,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2088.0,
-    "totalListings": 19684,
-    "aiEnhancedDirectories": 2088
+    "avgDirectoriesPerRepo": 2089.0,
+    "totalListings": 19694,
+    "aiEnhancedDirectories": 2089
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27152,12 +27152,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-employee-handbook-creation-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:46:54.519779+00:00Z",
+      "lastUpdated": "2025-11-09T02:46:54.519779+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2088,
+      "directoryCount": 2089,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:04:21.261394+00:00Z",
+  "lastUpdated": "2025-11-09T07:04:37.233121+00:00Z",
   "stats": {
-    "totalDirectories": 385,
+    "totalDirectories": 386,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 385.0,
-    "totalListings": 3713,
-    "aiEnhancedDirectories": 385
+    "avgDirectoriesPerRepo": 386.0,
+    "totalListings": 3723,
+    "aiEnhancedDirectories": 386
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5013,12 +5013,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-mobile-dog-groomers-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:04:37.233121+00:00Z",
+      "lastUpdated": "2025-11-09T07:04:37.233121+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 385,
+      "directoryCount": 386,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

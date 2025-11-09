@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:13:11.406666+00:00Z",
+  "lastUpdated": "2025-11-09T05:13:30.762418+00:00Z",
   "stats": {
-    "totalDirectories": 2451,
+    "totalDirectories": 2452,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2451.0,
-    "totalListings": 23197,
-    "aiEnhancedDirectories": 2451
+    "avgDirectoriesPerRepo": 2452.0,
+    "totalListings": 23207,
+    "aiEnhancedDirectories": 2452
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31871,12 +31871,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-orchestras-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:13:30.762418+00:00Z",
+      "lastUpdated": "2025-11-09T05:13:30.762418+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2451,
+      "directoryCount": 2452,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

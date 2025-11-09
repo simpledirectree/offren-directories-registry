@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:54:23.530250+00:00Z",
+  "lastUpdated": "2025-11-09T14:55:29.256041+00:00Z",
   "stats": {
-    "totalDirectories": 980,
+    "totalDirectories": 981,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 980.0,
-    "totalListings": 9228,
-    "aiEnhancedDirectories": 980
+    "avgDirectoriesPerRepo": 981.0,
+    "totalListings": 9238,
+    "aiEnhancedDirectories": 981
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12748,12 +12748,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-seasonal-garden-cleanup-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:55:29.256041+00:00Z",
+      "lastUpdated": "2025-11-09T14:55:29.256041+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 980,
+      "directoryCount": 981,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

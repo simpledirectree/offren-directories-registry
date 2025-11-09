@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:23:47.660705+00:00Z",
+  "lastUpdated": "2025-11-09T05:24:00.818529+00:00Z",
   "stats": {
-    "totalDirectories": 18,
+    "totalDirectories": 19,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 18.0,
-    "totalListings": 175,
-    "aiEnhancedDirectories": 18
+    "avgDirectoriesPerRepo": 19.0,
+    "totalListings": 185,
+    "aiEnhancedDirectories": 19
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -242,12 +242,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-corporate-djs-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:24:00.818529+00:00Z",
+      "lastUpdated": "2025-11-09T05:24:00.818529+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 18,
+      "directoryCount": 19,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

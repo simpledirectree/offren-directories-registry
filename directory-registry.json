@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:57:13.804020+00:00Z",
+  "lastUpdated": "2025-11-09T23:57:53.706564+00:00Z",
   "stats": {
-    "totalDirectories": 1557,
+    "totalDirectories": 1558,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1557.0,
-    "totalListings": 14653,
-    "aiEnhancedDirectories": 1557
+    "avgDirectoriesPerRepo": 1558.0,
+    "totalListings": 14658,
+    "aiEnhancedDirectories": 1558
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20249,12 +20249,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-casualty-insurance-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:57:53.706564+00:00Z",
+      "lastUpdated": "2025-11-09T23:57:53.706564+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1557,
+      "directoryCount": 1558,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

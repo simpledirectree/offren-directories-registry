@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:11:31.483076+00:00Z",
+  "lastUpdated": "2025-11-09T04:11:50.558498+00:00Z",
   "stats": {
-    "totalDirectories": 2240,
+    "totalDirectories": 2241,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2240.0,
-    "totalListings": 21151,
-    "aiEnhancedDirectories": 2240
+    "avgDirectoriesPerRepo": 2241.0,
+    "totalListings": 21161,
+    "aiEnhancedDirectories": 2241
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29128,12 +29128,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-irrigation-system-installation-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:11:50.558498+00:00Z",
+      "lastUpdated": "2025-11-09T04:11:50.558498+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2240,
+      "directoryCount": 2241,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

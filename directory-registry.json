@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:20:08.063414+00:00Z",
+  "lastUpdated": "2025-11-09T18:20:49.560458+00:00Z",
   "stats": {
-    "totalDirectories": 1200,
+    "totalDirectories": 1201,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1200.0,
-    "totalListings": 11318,
-    "aiEnhancedDirectories": 1200
+    "avgDirectoriesPerRepo": 1201.0,
+    "totalListings": 11328,
+    "aiEnhancedDirectories": 1201
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15608,12 +15608,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-roofing-repair-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:20:49.560458+00:00Z",
+      "lastUpdated": "2025-11-09T18:20:49.560458+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1200,
+      "directoryCount": 1201,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

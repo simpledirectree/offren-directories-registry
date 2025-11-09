@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:30:35.821447+00:00Z",
+  "lastUpdated": "2025-11-09T05:30:52.148614+00:00Z",
   "stats": {
-    "totalDirectories": 44,
+    "totalDirectories": 45,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 44.0,
-    "totalListings": 427,
-    "aiEnhancedDirectories": 44
+    "avgDirectoriesPerRepo": 45.0,
+    "totalListings": 437,
+    "aiEnhancedDirectories": 45
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -580,12 +580,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-it-support-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:30:52.148614+00:00Z",
+      "lastUpdated": "2025-11-09T05:30:52.148614+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 44,
+      "directoryCount": 45,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

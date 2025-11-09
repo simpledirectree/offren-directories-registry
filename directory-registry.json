@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:02:08.630962+00:00Z",
+  "lastUpdated": "2025-11-09T07:02:26.561904+00:00Z",
   "stats": {
-    "totalDirectories": 377,
+    "totalDirectories": 378,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 377.0,
-    "totalListings": 3633,
-    "aiEnhancedDirectories": 377
+    "avgDirectoriesPerRepo": 378.0,
+    "totalListings": 3643,
+    "aiEnhancedDirectories": 378
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4909,12 +4909,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-conversational-practice-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:02:26.561904+00:00Z",
+      "lastUpdated": "2025-11-09T07:02:26.561904+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 377,
+      "directoryCount": 378,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:16:18.152217+00:00Z",
+  "lastUpdated": "2025-11-09T08:16:58.654536+00:00Z",
   "stats": {
-    "totalDirectories": 521,
+    "totalDirectories": 522,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 521.0,
-    "totalListings": 5025,
-    "aiEnhancedDirectories": 521
+    "avgDirectoriesPerRepo": 522.0,
+    "totalListings": 5035,
+    "aiEnhancedDirectories": 522
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6781,12 +6781,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-fitness-instructors-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:16:58.654536+00:00Z",
+      "lastUpdated": "2025-11-09T08:16:58.654536+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 521,
+      "directoryCount": 522,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

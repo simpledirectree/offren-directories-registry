@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:35:55.784691+00:00Z",
+  "lastUpdated": "2025-11-09T14:37:01.347817+00:00Z",
   "stats": {
-    "totalDirectories": 962,
+    "totalDirectories": 963,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 962.0,
-    "totalListings": 9070,
-    "aiEnhancedDirectories": 962
+    "avgDirectoriesPerRepo": 963.0,
+    "totalListings": 9080,
+    "aiEnhancedDirectories": 963
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12514,12 +12514,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-driving-instruction-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:37:01.347817+00:00Z",
+      "lastUpdated": "2025-11-09T14:37:01.347817+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 962,
+      "directoryCount": 963,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:37:16.128112+00:00Z",
+  "lastUpdated": "2025-11-09T14:38:02.493330+00:00Z",
   "stats": {
-    "totalDirectories": 964,
+    "totalDirectories": 965,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 964.0,
-    "totalListings": 9085,
-    "aiEnhancedDirectories": 964
+    "avgDirectoriesPerRepo": 965.0,
+    "totalListings": 9095,
+    "aiEnhancedDirectories": 965
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12540,12 +12540,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-customer-service-process-development-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:38:02.493330+00:00Z",
+      "lastUpdated": "2025-11-09T14:38:02.493330+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 964,
+      "directoryCount": 965,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

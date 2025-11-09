@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:12:50.145573+00:00Z",
+  "lastUpdated": "2025-11-09T06:13:05.310487+00:00Z",
   "stats": {
-    "totalDirectories": 196,
+    "totalDirectories": 197,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 196.0,
-    "totalListings": 1893,
-    "aiEnhancedDirectories": 196
+    "avgDirectoriesPerRepo": 197.0,
+    "totalListings": 1903,
+    "aiEnhancedDirectories": 197
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2556,12 +2556,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-digital-forensics-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:13:05.310487+00:00Z",
+      "lastUpdated": "2025-11-09T06:13:05.310487+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 196,
+      "directoryCount": 197,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

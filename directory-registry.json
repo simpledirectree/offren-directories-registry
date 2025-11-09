@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:01:13.897547+00:00Z",
+  "lastUpdated": "2025-11-09T18:02:21.731974+00:00Z",
   "stats": {
-    "totalDirectories": 1178,
+    "totalDirectories": 1179,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1178.0,
-    "totalListings": 11127,
-    "aiEnhancedDirectories": 1178
+    "avgDirectoriesPerRepo": 1179.0,
+    "totalListings": 11137,
+    "aiEnhancedDirectories": 1179
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15322,12 +15322,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-battery-service-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:02:21.731974+00:00Z",
+      "lastUpdated": "2025-11-09T18:02:21.731974+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1178,
+      "directoryCount": 1179,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

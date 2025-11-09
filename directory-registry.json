@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:55:44.831117+00:00Z",
+  "lastUpdated": "2025-11-09T05:56:00.692647+00:00Z",
   "stats": {
-    "totalDirectories": 136,
+    "totalDirectories": 137,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 136.0,
-    "totalListings": 1307,
-    "aiEnhancedDirectories": 136
+    "avgDirectoriesPerRepo": 137.0,
+    "totalListings": 1317,
+    "aiEnhancedDirectories": 137
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1776,12 +1776,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-workers-compensation-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:56:00.692647+00:00Z",
+      "lastUpdated": "2025-11-09T05:56:00.692647+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 136,
+      "directoryCount": 137,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

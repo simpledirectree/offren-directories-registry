@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:43:52.614063+00:00Z",
+  "lastUpdated": "2025-11-09T05:44:06.283857+00:00Z",
   "stats": {
-    "totalDirectories": 94,
+    "totalDirectories": 95,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 94.0,
-    "totalListings": 900,
-    "aiEnhancedDirectories": 94
+    "avgDirectoriesPerRepo": 95.0,
+    "totalListings": 910,
+    "aiEnhancedDirectories": 95
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1230,12 +1230,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-cloud-migration-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:44:06.283857+00:00Z",
+      "lastUpdated": "2025-11-09T05:44:06.283857+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 94,
+      "directoryCount": 95,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

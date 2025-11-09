@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:34:47.949016+00:00Z",
+  "lastUpdated": "2025-11-09T12:36:43.718818+00:00Z",
   "stats": {
-    "totalDirectories": 833,
+    "totalDirectories": 834,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 833.0,
-    "totalListings": 7894,
-    "aiEnhancedDirectories": 833
+    "avgDirectoriesPerRepo": 834.0,
+    "totalListings": 7904,
+    "aiEnhancedDirectories": 834
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10837,12 +10837,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-anti-money-laundering-compliance-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:36:43.718818+00:00Z",
+      "lastUpdated": "2025-11-09T12:36:43.718818+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 833,
+      "directoryCount": 834,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

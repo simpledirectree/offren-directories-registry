@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:21:15.543093+00:00Z",
+  "lastUpdated": "2025-11-09T04:21:31.693156+00:00Z",
   "stats": {
-    "totalDirectories": 2272,
+    "totalDirectories": 2273,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2272.0,
-    "totalListings": 21454,
-    "aiEnhancedDirectories": 2272
+    "avgDirectoriesPerRepo": 2273.0,
+    "totalListings": 21464,
+    "aiEnhancedDirectories": 2273
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29544,12 +29544,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-internal-auditing-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:21:31.693156+00:00Z",
+      "lastUpdated": "2025-11-09T04:21:31.693156+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2272,
+      "directoryCount": 2273,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

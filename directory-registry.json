@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:18:36.053118+00:00Z",
+  "lastUpdated": "2025-11-09T10:18:50.559777+00:00Z",
   "stats": {
-    "totalDirectories": 660,
+    "totalDirectories": 661,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 660.0,
-    "totalListings": 6311,
-    "aiEnhancedDirectories": 660
+    "avgDirectoriesPerRepo": 661.0,
+    "totalListings": 6321,
+    "aiEnhancedDirectories": 661
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8588,12 +8588,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-auto-diagnostics-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:18:50.559777+00:00Z",
+      "lastUpdated": "2025-11-09T10:18:50.559777+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 660,
+      "directoryCount": 661,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

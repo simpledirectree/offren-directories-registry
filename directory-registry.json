@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:50:33.242059+00:00Z",
+  "lastUpdated": "2025-11-09T06:50:49.853453+00:00Z",
   "stats": {
-    "totalDirectories": 335,
+    "totalDirectories": 336,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 335.0,
-    "totalListings": 3219,
-    "aiEnhancedDirectories": 335
+    "avgDirectoriesPerRepo": 336.0,
+    "totalListings": 3229,
+    "aiEnhancedDirectories": 336
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4363,12 +4363,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-content-creation-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:50:49.853453+00:00Z",
+      "lastUpdated": "2025-11-09T06:50:49.853453+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 335,
+      "directoryCount": 336,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

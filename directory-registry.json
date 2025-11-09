@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:21:26.232766+00:00Z",
+  "lastUpdated": "2025-11-09T05:21:40.550535+00:00Z",
   "stats": {
-    "totalDirectories": 9,
+    "totalDirectories": 10,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 9.0,
-    "totalListings": 85,
-    "aiEnhancedDirectories": 9
+    "avgDirectoriesPerRepo": 10.0,
+    "totalListings": 95,
+    "aiEnhancedDirectories": 10
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -125,12 +125,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-ultrasound-services-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:21:40.550535+00:00Z",
+      "lastUpdated": "2025-11-09T05:21:40.550535+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 9,
+      "directoryCount": 10,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

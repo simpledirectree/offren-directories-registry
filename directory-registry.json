@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:17:06.722852+00:00Z",
+  "lastUpdated": "2025-11-09T03:17:47.627818+00:00Z",
   "stats": {
-    "totalDirectories": 2120,
+    "totalDirectories": 2121,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2120.0,
-    "totalListings": 19984,
-    "aiEnhancedDirectories": 2120
+    "avgDirectoriesPerRepo": 2121.0,
+    "totalListings": 19989,
+    "aiEnhancedDirectories": 2121
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27568,12 +27568,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-microdermabrasion-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:17:47.627818+00:00Z",
+      "lastUpdated": "2025-11-09T03:17:47.627818+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2120,
+      "directoryCount": 2121,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

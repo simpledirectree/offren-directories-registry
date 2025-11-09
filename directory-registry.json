@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:23:44.435006+00:00Z",
+  "lastUpdated": "2025-11-09T18:24:50.121506+00:00Z",
   "stats": {
-    "totalDirectories": 1206,
+    "totalDirectories": 1207,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1206.0,
-    "totalListings": 11377,
-    "aiEnhancedDirectories": 1206
+    "avgDirectoriesPerRepo": 1207.0,
+    "totalListings": 11387,
+    "aiEnhancedDirectories": 1207
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15686,12 +15686,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-acting-instruction-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:24:50.121506+00:00Z",
+      "lastUpdated": "2025-11-09T18:24:50.121506+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1206,
+      "directoryCount": 1207,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

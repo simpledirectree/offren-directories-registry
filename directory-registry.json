@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:16:55.448055+00:00Z",
+  "lastUpdated": "2025-11-09T06:17:09.876518+00:00Z",
   "stats": {
-    "totalDirectories": 210,
+    "totalDirectories": 211,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 210.0,
-    "totalListings": 2030,
-    "aiEnhancedDirectories": 210
+    "avgDirectoriesPerRepo": 211.0,
+    "totalListings": 2040,
+    "aiEnhancedDirectories": 211
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2738,12 +2738,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-athletic-conditioning-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:17:09.876518+00:00Z",
+      "lastUpdated": "2025-11-09T06:17:09.876518+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 210,
+      "directoryCount": 211,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

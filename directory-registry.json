@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:31:39.084260+00:00Z",
+  "lastUpdated": "2025-11-09T06:31:53.304459+00:00Z",
   "stats": {
-    "totalDirectories": 265,
+    "totalDirectories": 266,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 265.0,
-    "totalListings": 2551,
-    "aiEnhancedDirectories": 265
+    "avgDirectoriesPerRepo": 266.0,
+    "totalListings": 2561,
+    "aiEnhancedDirectories": 266
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3453,12 +3453,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-brake-fluid-service-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:31:53.304459+00:00Z",
+      "lastUpdated": "2025-11-09T06:31:53.304459+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 265,
+      "directoryCount": 266,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

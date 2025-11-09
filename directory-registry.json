@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:29:20.566223+00:00Z",
+  "lastUpdated": "2025-11-09T09:29:35.436473+00:00Z",
   "stats": {
-    "totalDirectories": 593,
+    "totalDirectories": 594,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 593.0,
-    "totalListings": 5667,
-    "aiEnhancedDirectories": 593
+    "avgDirectoriesPerRepo": 594.0,
+    "totalListings": 5677,
+    "aiEnhancedDirectories": 594
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7717,12 +7717,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-manicures-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:29:35.436473+00:00Z",
+      "lastUpdated": "2025-11-09T09:29:35.436473+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 593,
+      "directoryCount": 594,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

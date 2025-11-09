@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:47:11.180955+00:00Z",
+  "lastUpdated": "2025-11-09T17:47:24.852035+00:00Z",
   "stats": {
-    "totalDirectories": 1165,
+    "totalDirectories": 1166,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1165.0,
-    "totalListings": 11002,
-    "aiEnhancedDirectories": 1165
+    "avgDirectoriesPerRepo": 1166.0,
+    "totalListings": 11012,
+    "aiEnhancedDirectories": 1166
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15153,12 +15153,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-test-automation-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:47:24.852035+00:00Z",
+      "lastUpdated": "2025-11-09T17:47:24.852035+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1165,
+      "directoryCount": 1166,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

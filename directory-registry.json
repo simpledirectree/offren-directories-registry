@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:48:32.309728+00:00Z",
+  "lastUpdated": "2025-11-09T11:51:41.104354+00:00Z",
   "stats": {
-    "totalDirectories": 773,
+    "totalDirectories": 774,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 773.0,
-    "totalListings": 7337,
-    "aiEnhancedDirectories": 773
+    "avgDirectoriesPerRepo": 774.0,
+    "totalListings": 7347,
+    "aiEnhancedDirectories": 774
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10057,12 +10057,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-specialty-veterinary-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:51:41.104354+00:00Z",
+      "lastUpdated": "2025-11-09T11:51:41.104354+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 773,
+      "directoryCount": 774,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

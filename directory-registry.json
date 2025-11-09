@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:10:56.297564+00:00Z",
+  "lastUpdated": "2025-11-09T07:11:13.869272+00:00Z",
   "stats": {
-    "totalDirectories": 409,
+    "totalDirectories": 410,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 409.0,
-    "totalListings": 3941,
-    "aiEnhancedDirectories": 409
+    "avgDirectoriesPerRepo": 410.0,
+    "totalListings": 3951,
+    "aiEnhancedDirectories": 410
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5325,12 +5325,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-virtual-assistants-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:11:13.869272+00:00Z",
+      "lastUpdated": "2025-11-09T07:11:13.869272+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 409,
+      "directoryCount": 410,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:12:46.413419+00:00Z",
+  "lastUpdated": "2025-11-09T18:13:27.102910+00:00Z",
   "stats": {
-    "totalDirectories": 1191,
+    "totalDirectories": 1192,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1191.0,
-    "totalListings": 11244,
-    "aiEnhancedDirectories": 1191
+    "avgDirectoriesPerRepo": 1192.0,
+    "totalListings": 11251,
+    "aiEnhancedDirectories": 1192
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15491,12 +15491,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-wealth-management-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:13:27.102910+00:00Z",
+      "lastUpdated": "2025-11-09T18:13:27.102910+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1191,
+      "directoryCount": 1192,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

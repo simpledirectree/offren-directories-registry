@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:19:52.388833+00:00Z",
+  "lastUpdated": "2025-11-09T01:20:34.172668+00:00Z",
   "stats": {
-    "totalDirectories": 1990,
+    "totalDirectories": 1991,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1990.0,
-    "totalListings": 18785,
-    "aiEnhancedDirectories": 1990
+    "avgDirectoriesPerRepo": 1991.0,
+    "totalListings": 18792,
+    "aiEnhancedDirectories": 1991
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25878,12 +25878,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-driving-instruction-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:20:34.172668+00:00Z",
+      "lastUpdated": "2025-11-09T01:20:34.172668+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1990,
+      "directoryCount": 1991,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

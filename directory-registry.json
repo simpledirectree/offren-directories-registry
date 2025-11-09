@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:00:05.562329+00:00Z",
+  "lastUpdated": "2025-11-09T18:01:13.897547+00:00Z",
   "stats": {
-    "totalDirectories": 1177,
+    "totalDirectories": 1178,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1177.0,
-    "totalListings": 11117,
-    "aiEnhancedDirectories": 1177
+    "avgDirectoriesPerRepo": 1178.0,
+    "totalListings": 11127,
+    "aiEnhancedDirectories": 1178
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15309,12 +15309,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-ayurvedic-medicine-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:01:13.897547+00:00Z",
+      "lastUpdated": "2025-11-09T18:01:13.897547+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1177,
+      "directoryCount": 1178,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

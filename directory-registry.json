@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:49:08.697923+00:00Z",
+  "lastUpdated": "2025-11-09T03:49:25.086751+00:00Z",
   "stats": {
-    "totalDirectories": 2163,
+    "totalDirectories": 2164,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2163.0,
-    "totalListings": 20397,
-    "aiEnhancedDirectories": 2163
+    "avgDirectoriesPerRepo": 2164.0,
+    "totalListings": 20407,
+    "aiEnhancedDirectories": 2164
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28127,12 +28127,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-adult-driving-lessons-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:49:25.086751+00:00Z",
+      "lastUpdated": "2025-11-09T03:49:25.086751+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2163,
+      "directoryCount": 2164,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

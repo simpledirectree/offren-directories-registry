@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:21:26.480637+00:00Z",
+  "lastUpdated": "2025-11-09T22:22:55.508295+00:00Z",
   "stats": {
-    "totalDirectories": 1456,
+    "totalDirectories": 1457,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1456.0,
-    "totalListings": 13717,
-    "aiEnhancedDirectories": 1456
+    "avgDirectoriesPerRepo": 1457.0,
+    "totalListings": 13725,
+    "aiEnhancedDirectories": 1457
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18936,12 +18936,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-24-7-monitoring-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:22:55.508295+00:00Z",
+      "lastUpdated": "2025-11-09T22:22:55.508295+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1456,
+      "directoryCount": 1457,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

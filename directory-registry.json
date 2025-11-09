@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:57:47.835711+00:00Z",
+  "lastUpdated": "2025-11-09T09:58:04.347927+00:00Z",
   "stats": {
-    "totalDirectories": 630,
+    "totalDirectories": 631,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 630.0,
-    "totalListings": 6027,
-    "aiEnhancedDirectories": 630
+    "avgDirectoriesPerRepo": 631.0,
+    "totalListings": 6037,
+    "aiEnhancedDirectories": 631
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8198,12 +8198,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-financial-advisors-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:58:04.347927+00:00Z",
+      "lastUpdated": "2025-11-09T09:58:04.347927+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 630,
+      "directoryCount": 631,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

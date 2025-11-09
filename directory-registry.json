@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:36:10.225508+00:00Z",
+  "lastUpdated": "2025-11-09T06:36:27.412499+00:00Z",
   "stats": {
-    "totalDirectories": 282,
+    "totalDirectories": 283,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 282.0,
-    "totalListings": 2714,
-    "aiEnhancedDirectories": 282
+    "avgDirectoriesPerRepo": 283.0,
+    "totalListings": 2724,
+    "aiEnhancedDirectories": 283
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3674,12 +3674,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-crop-consulting-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:36:27.412499+00:00Z",
+      "lastUpdated": "2025-11-09T06:36:27.412499+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 282,
+      "directoryCount": 283,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

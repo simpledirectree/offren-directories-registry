@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T17:40:37.517811+00:00Z",
+  "lastUpdated": "2025-11-09T17:43:20.804861+00:00Z",
   "stats": {
-    "totalDirectories": 1156,
+    "totalDirectories": 1157,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1156.0,
-    "totalListings": 10912,
-    "aiEnhancedDirectories": 1156
+    "avgDirectoriesPerRepo": 1157.0,
+    "totalListings": 10922,
+    "aiEnhancedDirectories": 1157
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15036,12 +15036,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-paint-correction-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T17:43:20.804861+00:00Z",
+      "lastUpdated": "2025-11-09T17:43:20.804861+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1156,
+      "directoryCount": 1157,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

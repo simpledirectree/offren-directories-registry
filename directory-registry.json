@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:40:17.493794+00:00Z",
+  "lastUpdated": "2025-11-09T15:40:38.880019+00:00Z",
   "stats": {
-    "totalDirectories": 1029,
+    "totalDirectories": 1030,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1029.0,
-    "totalListings": 9695,
-    "aiEnhancedDirectories": 1029
+    "avgDirectoriesPerRepo": 1030.0,
+    "totalListings": 9703,
+    "aiEnhancedDirectories": 1030
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13385,12 +13385,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-dance-instruction-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:40:38.880019+00:00Z",
+      "lastUpdated": "2025-11-09T15:40:38.880019+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1029,
+      "directoryCount": 1030,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

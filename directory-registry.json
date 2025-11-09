@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:16:35.375460+00:00Z",
+  "lastUpdated": "2025-11-09T19:17:42.805586+00:00Z",
   "stats": {
-    "totalDirectories": 1267,
+    "totalDirectories": 1268,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1267.0,
-    "totalListings": 11943,
-    "aiEnhancedDirectories": 1267
+    "avgDirectoriesPerRepo": 1268.0,
+    "totalListings": 11953,
+    "aiEnhancedDirectories": 1268
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16479,12 +16479,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-skills-assessment-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:17:42.805586+00:00Z",
+      "lastUpdated": "2025-11-09T19:17:42.805586+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1267,
+      "directoryCount": 1268,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

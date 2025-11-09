@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:37:16.176721+00:00Z",
+  "lastUpdated": "2025-11-09T00:37:31.352221+00:00Z",
   "stats": {
-    "totalDirectories": 1941,
+    "totalDirectories": 1942,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1941.0,
-    "totalListings": 18325,
-    "aiEnhancedDirectories": 1941
+    "avgDirectoriesPerRepo": 1942.0,
+    "totalListings": 18335,
+    "aiEnhancedDirectories": 1942
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25241,12 +25241,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-email-marketing-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:37:31.352221+00:00Z",
+      "lastUpdated": "2025-11-09T00:37:31.352221+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1941,
+      "directoryCount": 1942,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

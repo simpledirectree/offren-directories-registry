@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:54:39.509786+00:00Z",
+  "lastUpdated": "2025-11-09T04:54:56.572902+00:00Z",
   "stats": {
-    "totalDirectories": 2387,
+    "totalDirectories": 2388,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2387.0,
-    "totalListings": 22586,
-    "aiEnhancedDirectories": 2387
+    "avgDirectoriesPerRepo": 2388.0,
+    "totalListings": 22596,
+    "aiEnhancedDirectories": 2388
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31039,12 +31039,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-concierge-medicine-practices-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:54:56.572902+00:00Z",
+      "lastUpdated": "2025-11-09T04:54:56.572902+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2387,
+      "directoryCount": 2388,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:54:05.054561+00:00Z",
+  "lastUpdated": "2025-11-09T07:55:09.677781+00:00Z",
   "stats": {
-    "totalDirectories": 493,
+    "totalDirectories": 494,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 493.0,
-    "totalListings": 4754,
-    "aiEnhancedDirectories": 493
+    "avgDirectoriesPerRepo": 494.0,
+    "totalListings": 4764,
+    "aiEnhancedDirectories": 494
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6417,12 +6417,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-environmental-compliance-consulting-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:55:09.677781+00:00Z",
+      "lastUpdated": "2025-11-09T07:55:09.677781+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 493,
+      "directoryCount": 494,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

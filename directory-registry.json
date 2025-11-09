@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:20:54.342531+00:00Z",
+  "lastUpdated": "2025-11-09T05:21:10.112520+00:00Z",
   "stats": {
-    "totalDirectories": 7,
+    "totalDirectories": 8,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 7.0,
-    "totalListings": 65,
-    "aiEnhancedDirectories": 7
+    "avgDirectoriesPerRepo": 8.0,
+    "totalListings": 75,
+    "aiEnhancedDirectories": 8
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -99,12 +99,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-medical-equipment-delivery-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:21:10.112520+00:00Z",
+      "lastUpdated": "2025-11-09T05:21:10.112520+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 7,
+      "directoryCount": 8,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

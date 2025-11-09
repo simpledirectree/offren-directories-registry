@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:13:31.078065+00:00Z",
+  "lastUpdated": "2025-11-09T07:13:44.164849+00:00Z",
   "stats": {
-    "totalDirectories": 418,
+    "totalDirectories": 419,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 418.0,
-    "totalListings": 4031,
-    "aiEnhancedDirectories": 418
+    "avgDirectoriesPerRepo": 419.0,
+    "totalListings": 4036,
+    "aiEnhancedDirectories": 419
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5442,12 +5442,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-crisis-intervention-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:13:44.164849+00:00Z",
+      "lastUpdated": "2025-11-09T07:13:44.164849+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 418,
+      "directoryCount": 419,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

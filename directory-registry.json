@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:26:30.754142+00:00Z",
+  "lastUpdated": "2025-11-09T23:27:11.260908+00:00Z",
   "stats": {
-    "totalDirectories": 1521,
+    "totalDirectories": 1522,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1521.0,
-    "totalListings": 14312,
-    "aiEnhancedDirectories": 1521
+    "avgDirectoriesPerRepo": 1522.0,
+    "totalListings": 14322,
+    "aiEnhancedDirectories": 1522
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19781,12 +19781,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-adhd-support-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:27:11.260908+00:00Z",
+      "lastUpdated": "2025-11-09T23:27:11.260908+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1521,
+      "directoryCount": 1522,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

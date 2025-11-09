@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:37:56.468860+00:00Z",
+  "lastUpdated": "2025-11-09T23:38:10.367811+00:00Z",
   "stats": {
-    "totalDirectories": 1533,
+    "totalDirectories": 1534,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1533.0,
-    "totalListings": 14425,
-    "aiEnhancedDirectories": 1533
+    "avgDirectoriesPerRepo": 1534.0,
+    "totalListings": 14432,
+    "aiEnhancedDirectories": 1534
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19937,12 +19937,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-contingency-recruiting-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:38:10.367811+00:00Z",
+      "lastUpdated": "2025-11-09T23:38:10.367811+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1533,
+      "directoryCount": 1534,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

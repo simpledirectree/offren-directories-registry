@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:31:18.016595+00:00Z",
+  "lastUpdated": "2025-11-09T16:32:49.893823+00:00Z",
   "stats": {
-    "totalDirectories": 1084,
+    "totalDirectories": 1085,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1084.0,
-    "totalListings": 10228,
-    "aiEnhancedDirectories": 1084
+    "avgDirectoriesPerRepo": 1085.0,
+    "totalListings": 10232,
+    "aiEnhancedDirectories": 1085
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -14100,12 +14100,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-aerialists-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:32:49.893823+00:00Z",
+      "lastUpdated": "2025-11-09T16:32:49.893823+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1084,
+      "directoryCount": 1085,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

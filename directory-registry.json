@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:34:30.397022+00:00Z",
+  "lastUpdated": "2025-11-09T00:36:05.231409+00:00Z",
   "stats": {
-    "totalDirectories": 1938,
+    "totalDirectories": 1939,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1938.0,
-    "totalListings": 18300,
-    "aiEnhancedDirectories": 1938
+    "avgDirectoriesPerRepo": 1939.0,
+    "totalListings": 18310,
+    "aiEnhancedDirectories": 1939
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25202,12 +25202,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-emdr-therapy-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:36:05.231409+00:00Z",
+      "lastUpdated": "2025-11-09T00:36:05.231409+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1938,
+      "directoryCount": 1939,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

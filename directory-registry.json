@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:40:13.459761+00:00Z",
+  "lastUpdated": "2025-11-09T05:40:27.198479+00:00Z",
   "stats": {
-    "totalDirectories": 80,
+    "totalDirectories": 81,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 80.0,
-    "totalListings": 769,
-    "aiEnhancedDirectories": 80
+    "avgDirectoriesPerRepo": 81.0,
+    "totalListings": 779,
+    "aiEnhancedDirectories": 81
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1048,12 +1048,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-portfolio-management-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:40:27.198479+00:00Z",
+      "lastUpdated": "2025-11-09T05:40:27.198479+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 80,
+      "directoryCount": 81,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

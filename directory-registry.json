@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:11:58.609274+00:00Z",
+  "lastUpdated": "2025-11-09T16:12:15.488219+00:00Z",
   "stats": {
-    "totalDirectories": 1062,
+    "totalDirectories": 1063,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1062.0,
-    "totalListings": 10016,
-    "aiEnhancedDirectories": 1062
+    "avgDirectoriesPerRepo": 1063.0,
+    "totalListings": 10026,
+    "aiEnhancedDirectories": 1063
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13814,12 +13814,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-airbrush-makeup-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:12:15.488219+00:00Z",
+      "lastUpdated": "2025-11-09T16:12:15.488219+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1062,
+      "directoryCount": 1063,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

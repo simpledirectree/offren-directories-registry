@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:47:04.790598+00:00Z",
+  "lastUpdated": "2025-11-09T06:47:20.054975+00:00Z",
   "stats": {
-    "totalDirectories": 322,
+    "totalDirectories": 323,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 322.0,
-    "totalListings": 3104,
-    "aiEnhancedDirectories": 322
+    "avgDirectoriesPerRepo": 323.0,
+    "totalListings": 3114,
+    "aiEnhancedDirectories": 323
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -4194,12 +4194,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-telecommunications-consulting-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:47:20.054975+00:00Z",
+      "lastUpdated": "2025-11-09T06:47:20.054975+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 322,
+      "directoryCount": 323,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

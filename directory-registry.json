@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T15:47:23.738412+00:00Z",
+  "lastUpdated": "2025-11-09T15:48:30.674282+00:00Z",
   "stats": {
-    "totalDirectories": 1035,
+    "totalDirectories": 1036,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1035.0,
-    "totalListings": 9753,
-    "aiEnhancedDirectories": 1035
+    "avgDirectoriesPerRepo": 1036.0,
+    "totalListings": 9763,
+    "aiEnhancedDirectories": 1036
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13463,12 +13463,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-liability-insurance-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T15:48:30.674282+00:00Z",
+      "lastUpdated": "2025-11-09T15:48:30.674282+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1035,
+      "directoryCount": 1036,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

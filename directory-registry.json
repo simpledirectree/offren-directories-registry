@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:11:45.596263+00:00Z",
+  "lastUpdated": "2025-11-09T07:12:02.872738+00:00Z",
   "stats": {
-    "totalDirectories": 412,
+    "totalDirectories": 413,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 412.0,
-    "totalListings": 3971,
-    "aiEnhancedDirectories": 412
+    "avgDirectoriesPerRepo": 413.0,
+    "totalListings": 3981,
+    "aiEnhancedDirectories": 413
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5364,12 +5364,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-ddos-protection-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:12:02.872738+00:00Z",
+      "lastUpdated": "2025-11-09T07:12:02.872738+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 412,
+      "directoryCount": 413,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

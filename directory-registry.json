@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:04:12.904185+00:00Z",
+  "lastUpdated": "2025-11-09T05:04:34.680728+00:00Z",
   "stats": {
-    "totalDirectories": 2421,
+    "totalDirectories": 2422,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2421.0,
-    "totalListings": 22912,
-    "aiEnhancedDirectories": 2421
+    "avgDirectoriesPerRepo": 2422.0,
+    "totalListings": 22922,
+    "aiEnhancedDirectories": 2422
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31481,12 +31481,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-spinning-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:04:34.680728+00:00Z",
+      "lastUpdated": "2025-11-09T05:04:34.680728+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2421,
+      "directoryCount": 2422,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

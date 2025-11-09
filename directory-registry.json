@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:03:05.342726+00:00Z",
+  "lastUpdated": "2025-11-09T01:03:20.325039+00:00Z",
   "stats": {
-    "totalDirectories": 1969,
+    "totalDirectories": 1970,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1969.0,
-    "totalListings": 18587,
-    "aiEnhancedDirectories": 1969
+    "avgDirectoriesPerRepo": 1970.0,
+    "totalListings": 18597,
+    "aiEnhancedDirectories": 1970
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25605,12 +25605,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-physical-therapy-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:03:20.325039+00:00Z",
+      "lastUpdated": "2025-11-09T01:03:20.325039+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1969,
+      "directoryCount": 1970,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

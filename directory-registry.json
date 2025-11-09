@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:27:11.260908+00:00Z",
+  "lastUpdated": "2025-11-09T23:27:50.605489+00:00Z",
   "stats": {
-    "totalDirectories": 1522,
+    "totalDirectories": 1523,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1522.0,
-    "totalListings": 14322,
-    "aiEnhancedDirectories": 1522
+    "avgDirectoriesPerRepo": 1523.0,
+    "totalListings": 14332,
+    "aiEnhancedDirectories": 1523
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19794,12 +19794,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-event-insurance-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:27:50.605489+00:00Z",
+      "lastUpdated": "2025-11-09T23:27:50.605489+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1522,
+      "directoryCount": 1523,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

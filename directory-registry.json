@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:06:14.824883+00:00Z",
+  "lastUpdated": "2025-11-09T14:06:28.550171+00:00Z",
   "stats": {
-    "totalDirectories": 924,
+    "totalDirectories": 925,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 924.0,
-    "totalListings": 8723,
-    "aiEnhancedDirectories": 924
+    "avgDirectoriesPerRepo": 925.0,
+    "totalListings": 8733,
+    "aiEnhancedDirectories": 925
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12020,12 +12020,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-specialty-item-moving-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:06:28.550171+00:00Z",
+      "lastUpdated": "2025-11-09T14:06:28.550171+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 924,
+      "directoryCount": 925,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

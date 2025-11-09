@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:54:58.900227+00:00Z",
+  "lastUpdated": "2025-11-09T03:55:17.388842+00:00Z",
   "stats": {
-    "totalDirectories": 2183,
+    "totalDirectories": 2184,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2183.0,
-    "totalListings": 20592,
-    "aiEnhancedDirectories": 2183
+    "avgDirectoriesPerRepo": 2184.0,
+    "totalListings": 20602,
+    "aiEnhancedDirectories": 2184
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -28387,12 +28387,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-cloud-monitoring-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:55:17.388842+00:00Z",
+      "lastUpdated": "2025-11-09T03:55:17.388842+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2183,
+      "directoryCount": 2184,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

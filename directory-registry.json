@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:57:34.906153+00:00Z",
+  "lastUpdated": "2025-11-09T01:57:49.182493+00:00Z",
   "stats": {
-    "totalDirectories": 2040,
+    "totalDirectories": 2041,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2040.0,
-    "totalListings": 19252,
-    "aiEnhancedDirectories": 2040
+    "avgDirectoriesPerRepo": 2041.0,
+    "totalListings": 19262,
+    "aiEnhancedDirectories": 2041
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26528,12 +26528,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-business-intelligence-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:57:49.182493+00:00Z",
+      "lastUpdated": "2025-11-09T01:57:49.182493+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2040,
+      "directoryCount": 2041,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

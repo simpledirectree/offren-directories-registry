@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:50:42.066163+00:00Z",
+  "lastUpdated": "2025-11-09T01:51:51.826456+00:00Z",
   "stats": {
-    "totalDirectories": 2031,
+    "totalDirectories": 2032,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2031.0,
-    "totalListings": 19167,
-    "aiEnhancedDirectories": 2031
+    "avgDirectoriesPerRepo": 2032.0,
+    "totalListings": 19177,
+    "aiEnhancedDirectories": 2032
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26411,12 +26411,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-cash-flow-forecasting-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:51:51.826456+00:00Z",
+      "lastUpdated": "2025-11-09T01:51:51.826456+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2031,
+      "directoryCount": 2032,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

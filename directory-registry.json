@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:39:08.749803+00:00Z",
+  "lastUpdated": "2025-11-09T06:39:21.940650+00:00Z",
   "stats": {
-    "totalDirectories": 293,
+    "totalDirectories": 294,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 293.0,
-    "totalListings": 2824,
-    "aiEnhancedDirectories": 293
+    "avgDirectoriesPerRepo": 294.0,
+    "totalListings": 2829,
+    "aiEnhancedDirectories": 294
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3817,12 +3817,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-live-bands-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:39:21.940650+00:00Z",
+      "lastUpdated": "2025-11-09T06:39:21.940650+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 293,
+      "directoryCount": 294,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

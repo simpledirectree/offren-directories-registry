@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:33:44.042845+00:00Z",
+  "lastUpdated": "2025-11-09T05:34:01.296618+00:00Z",
   "stats": {
-    "totalDirectories": 56,
+    "totalDirectories": 57,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 56.0,
-    "totalListings": 542,
-    "aiEnhancedDirectories": 56
+    "avgDirectoriesPerRepo": 57.0,
+    "totalListings": 552,
+    "aiEnhancedDirectories": 57
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -736,12 +736,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-space-planning-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:34:01.296618+00:00Z",
+      "lastUpdated": "2025-11-09T05:34:01.296618+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 56,
+      "directoryCount": 57,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

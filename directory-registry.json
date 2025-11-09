@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:12:47.438982+00:00Z",
+  "lastUpdated": "2025-11-09T12:13:01.590014+00:00Z",
   "stats": {
-    "totalDirectories": 798,
+    "totalDirectories": 799,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 798.0,
-    "totalListings": 7564,
-    "aiEnhancedDirectories": 798
+    "avgDirectoriesPerRepo": 799.0,
+    "totalListings": 7573,
+    "aiEnhancedDirectories": 799
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10382,12 +10382,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-d-o-insurance-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:13:01.590014+00:00Z",
+      "lastUpdated": "2025-11-09T12:13:01.590014+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 798,
+      "directoryCount": 799,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

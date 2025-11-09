@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:44:53.775950+00:00Z",
+  "lastUpdated": "2025-11-09T19:45:09.211654+00:00Z",
   "stats": {
-    "totalDirectories": 1292,
+    "totalDirectories": 1293,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1292.0,
-    "totalListings": 12177,
-    "aiEnhancedDirectories": 1292
+    "avgDirectoriesPerRepo": 1293.0,
+    "totalListings": 12187,
+    "aiEnhancedDirectories": 1293
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16804,12 +16804,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-personal-training-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:45:09.211654+00:00Z",
+      "lastUpdated": "2025-11-09T19:45:09.211654+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1292,
+      "directoryCount": 1293,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

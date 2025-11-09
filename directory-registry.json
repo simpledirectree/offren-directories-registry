@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:12:53.438251+00:00Z",
+  "lastUpdated": "2025-11-09T04:13:08.612198+00:00Z",
   "stats": {
-    "totalDirectories": 2245,
+    "totalDirectories": 2246,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2245.0,
-    "totalListings": 21192,
-    "aiEnhancedDirectories": 2245
+    "avgDirectoriesPerRepo": 2246.0,
+    "totalListings": 21202,
+    "aiEnhancedDirectories": 2246
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29193,12 +29193,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-social-celebration-planning-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:13:08.612198+00:00Z",
+      "lastUpdated": "2025-11-09T04:13:08.612198+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2245,
+      "directoryCount": 2246,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

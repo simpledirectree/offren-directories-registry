@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:42:31.356899+00:00Z",
+  "lastUpdated": "2025-11-09T10:42:46.639884+00:00Z",
   "stats": {
-    "totalDirectories": 697,
+    "totalDirectories": 698,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 697.0,
-    "totalListings": 6644,
-    "aiEnhancedDirectories": 697
+    "avgDirectoriesPerRepo": 698.0,
+    "totalListings": 6652,
+    "aiEnhancedDirectories": 698
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9069,12 +9069,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-guest-management-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:42:46.639884+00:00Z",
+      "lastUpdated": "2025-11-09T10:42:46.639884+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 697,
+      "directoryCount": 698,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

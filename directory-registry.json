@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:59:51.059578+00:00Z",
+  "lastUpdated": "2025-11-09T11:00:05.708072+00:00Z",
   "stats": {
-    "totalDirectories": 718,
+    "totalDirectories": 719,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 718.0,
-    "totalListings": 6834,
-    "aiEnhancedDirectories": 718
+    "avgDirectoriesPerRepo": 719.0,
+    "totalListings": 6844,
+    "aiEnhancedDirectories": 719
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -9342,12 +9342,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-digital-transformation-consulting-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:00:05.708072+00:00Z",
+      "lastUpdated": "2025-11-09T11:00:05.708072+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 718,
+      "directoryCount": 719,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

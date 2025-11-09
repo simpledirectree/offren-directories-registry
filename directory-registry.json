@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:37:36.056671+00:00Z",
+  "lastUpdated": "2025-11-09T05:37:53.226965+00:00Z",
   "stats": {
-    "totalDirectories": 70,
+    "totalDirectories": 71,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 70.0,
-    "totalListings": 669,
-    "aiEnhancedDirectories": 70
+    "avgDirectoriesPerRepo": 71.0,
+    "totalListings": 679,
+    "aiEnhancedDirectories": 71
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -918,12 +918,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-fitness-instructors-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:37:53.226965+00:00Z",
+      "lastUpdated": "2025-11-09T05:37:53.226965+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 70,
+      "directoryCount": 71,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

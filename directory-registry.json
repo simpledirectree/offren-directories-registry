@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:38:09.696315+00:00Z",
+  "lastUpdated": "2025-11-09T06:38:23.186198+00:00Z",
   "stats": {
-    "totalDirectories": 289,
+    "totalDirectories": 290,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 289.0,
-    "totalListings": 2784,
-    "aiEnhancedDirectories": 289
+    "avgDirectoriesPerRepo": 290.0,
+    "totalListings": 2794,
+    "aiEnhancedDirectories": 290
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3765,12 +3765,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-herbal-medicine-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:38:23.186198+00:00Z",
+      "lastUpdated": "2025-11-09T06:38:23.186198+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 289,
+      "directoryCount": 290,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

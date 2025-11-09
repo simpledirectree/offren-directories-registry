@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:03:41.135045+00:00Z",
+  "lastUpdated": "2025-11-09T05:03:58.242512+00:00Z",
   "stats": {
-    "totalDirectories": 2419,
+    "totalDirectories": 2420,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2419.0,
-    "totalListings": 22892,
-    "aiEnhancedDirectories": 2419
+    "avgDirectoriesPerRepo": 2420.0,
+    "totalListings": 22902,
+    "aiEnhancedDirectories": 2420
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31455,12 +31455,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-medical-grade-treatments-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:03:58.242512+00:00Z",
+      "lastUpdated": "2025-11-09T05:03:58.242512+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2419,
+      "directoryCount": 2420,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:45:09.211654+00:00Z",
+  "lastUpdated": "2025-11-09T19:45:49.192660+00:00Z",
   "stats": {
-    "totalDirectories": 1293,
+    "totalDirectories": 1294,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1293.0,
-    "totalListings": 12187,
-    "aiEnhancedDirectories": 1293
+    "avgDirectoriesPerRepo": 1294.0,
+    "totalListings": 12192,
+    "aiEnhancedDirectories": 1294
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16817,12 +16817,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-crop-planning-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:45:49.192660+00:00Z",
+      "lastUpdated": "2025-11-09T19:45:49.192660+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1293,
+      "directoryCount": 1294,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:42:57.659600+00:00Z",
+  "lastUpdated": "2025-11-09T20:45:42.484288+00:00Z",
   "stats": {
-    "totalDirectories": 1352,
+    "totalDirectories": 1353,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1352.0,
-    "totalListings": 12740,
-    "aiEnhancedDirectories": 1352
+    "avgDirectoriesPerRepo": 1353.0,
+    "totalListings": 12748,
+    "aiEnhancedDirectories": 1353
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17584,12 +17584,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-title-insurance-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:45:42.484288+00:00Z",
+      "lastUpdated": "2025-11-09T20:45:42.484288+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1352,
+      "directoryCount": 1353,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

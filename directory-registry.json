@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:36:18.916573+00:00Z",
+  "lastUpdated": "2025-11-09T05:36:32.344856+00:00Z",
   "stats": {
-    "totalDirectories": 65,
+    "totalDirectories": 66,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 65.0,
-    "totalListings": 632,
-    "aiEnhancedDirectories": 65
+    "avgDirectoriesPerRepo": 66.0,
+    "totalListings": 637,
+    "aiEnhancedDirectories": 66
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -853,12 +853,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-carpet-installation-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:36:32.344856+00:00Z",
+      "lastUpdated": "2025-11-09T05:36:32.344856+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 65,
+      "directoryCount": 66,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

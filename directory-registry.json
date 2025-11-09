@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:29:06.058027+00:00Z",
+  "lastUpdated": "2025-11-09T10:30:08.500837+00:00Z",
   "stats": {
-    "totalDirectories": 673,
+    "totalDirectories": 674,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 673.0,
-    "totalListings": 6420,
-    "aiEnhancedDirectories": 673
+    "avgDirectoriesPerRepo": 674.0,
+    "totalListings": 6430,
+    "aiEnhancedDirectories": 674
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8757,12 +8757,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-skin-tightening-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:30:08.500837+00:00Z",
+      "lastUpdated": "2025-11-09T10:30:08.500837+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 673,
+      "directoryCount": 674,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

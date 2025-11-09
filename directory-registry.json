@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:46:31.688559+00:00Z",
+  "lastUpdated": "2025-11-09T04:46:50.872506+00:00Z",
   "stats": {
-    "totalDirectories": 2359,
+    "totalDirectories": 2360,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2359.0,
-    "totalListings": 22313,
-    "aiEnhancedDirectories": 2359
+    "avgDirectoriesPerRepo": 2360.0,
+    "totalListings": 22323,
+    "aiEnhancedDirectories": 2360
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30675,12 +30675,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-feasibility-studies-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:46:50.872506+00:00Z",
+      "lastUpdated": "2025-11-09T04:46:50.872506+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2359,
+      "directoryCount": 2360,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

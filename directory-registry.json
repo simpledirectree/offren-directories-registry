@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:47:37.780946+00:00Z",
+  "lastUpdated": "2025-11-09T04:47:54.474341+00:00Z",
   "stats": {
-    "totalDirectories": 2363,
+    "totalDirectories": 2364,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2363.0,
-    "totalListings": 22349,
-    "aiEnhancedDirectories": 2363
+    "avgDirectoriesPerRepo": 2364.0,
+    "totalListings": 22359,
+    "aiEnhancedDirectories": 2364
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -30727,12 +30727,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-retail-banking-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:47:54.474341+00:00Z",
+      "lastUpdated": "2025-11-09T04:47:54.474341+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2363,
+      "directoryCount": 2364,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

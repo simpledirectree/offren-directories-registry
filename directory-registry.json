@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:28:17.316803+00:00Z",
+  "lastUpdated": "2025-11-09T13:28:54.710486+00:00Z",
   "stats": {
-    "totalDirectories": 879,
+    "totalDirectories": 880,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 879.0,
-    "totalListings": 8296,
-    "aiEnhancedDirectories": 879
+    "avgDirectoriesPerRepo": 880.0,
+    "totalListings": 8301,
+    "aiEnhancedDirectories": 880
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11435,12 +11435,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-dental-insurance-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:28:54.710486+00:00Z",
+      "lastUpdated": "2025-11-09T13:28:54.710486+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 879,
+      "directoryCount": 880,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

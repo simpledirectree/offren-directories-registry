@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T20:38:59.912236+00:00Z",
+  "lastUpdated": "2025-11-09T20:39:25.876799+00:00Z",
   "stats": {
-    "totalDirectories": 1347,
+    "totalDirectories": 1348,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1347.0,
-    "totalListings": 12695,
-    "aiEnhancedDirectories": 1347
+    "avgDirectoriesPerRepo": 1348.0,
+    "totalListings": 12705,
+    "aiEnhancedDirectories": 1348
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -17519,12 +17519,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-psychology-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T20:39:25.876799+00:00Z",
+      "lastUpdated": "2025-11-09T20:39:25.876799+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1347,
+      "directoryCount": 1348,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

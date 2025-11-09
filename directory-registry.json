@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:39:37.962721+00:00Z",
+  "lastUpdated": "2025-11-09T05:39:55.720462+00:00Z",
   "stats": {
-    "totalDirectories": 78,
+    "totalDirectories": 79,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 78.0,
-    "totalListings": 749,
-    "aiEnhancedDirectories": 78
+    "avgDirectoriesPerRepo": 79.0,
+    "totalListings": 759,
+    "aiEnhancedDirectories": 79
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1022,12 +1022,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-facility-management-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:39:55.720462+00:00Z",
+      "lastUpdated": "2025-11-09T05:39:55.720462+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 78,
+      "directoryCount": 79,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

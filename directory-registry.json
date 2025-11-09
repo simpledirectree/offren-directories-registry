@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:54:33.643867+00:00Z",
+  "lastUpdated": "2025-11-09T05:54:49.963817+00:00Z",
   "stats": {
-    "totalDirectories": 132,
+    "totalDirectories": 133,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 132.0,
-    "totalListings": 1267,
-    "aiEnhancedDirectories": 132
+    "avgDirectoriesPerRepo": 133.0,
+    "totalListings": 1277,
+    "aiEnhancedDirectories": 133
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1724,12 +1724,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-moving-supply-rental-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:54:49.963817+00:00Z",
+      "lastUpdated": "2025-11-09T05:54:49.963817+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 132,
+      "directoryCount": 133,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

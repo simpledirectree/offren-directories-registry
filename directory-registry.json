@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T14:38:02.493330+00:00Z",
+  "lastUpdated": "2025-11-09T14:38:43.716044+00:00Z",
   "stats": {
-    "totalDirectories": 965,
+    "totalDirectories": 966,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 965.0,
-    "totalListings": 9095,
-    "aiEnhancedDirectories": 965
+    "avgDirectoriesPerRepo": 966.0,
+    "totalListings": 9105,
+    "aiEnhancedDirectories": 966
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -12553,12 +12553,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-homeowners-insurance-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T14:38:43.716044+00:00Z",
+      "lastUpdated": "2025-11-09T14:38:43.716044+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 965,
+      "directoryCount": 966,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

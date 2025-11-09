@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:22:53.744279+00:00Z",
+  "lastUpdated": "2025-11-09T01:25:21.075735+00:00Z",
   "stats": {
-    "totalDirectories": 1998,
+    "totalDirectories": 1999,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1998.0,
-    "totalListings": 18861,
-    "aiEnhancedDirectories": 1998
+    "avgDirectoriesPerRepo": 1999.0,
+    "totalListings": 18871,
+    "aiEnhancedDirectories": 1999
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25982,12 +25982,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-health-insurance-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:25:21.075735+00:00Z",
+      "lastUpdated": "2025-11-09T01:25:21.075735+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1998,
+      "directoryCount": 1999,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

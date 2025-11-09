@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:21:50.636914+00:00Z",
+  "lastUpdated": "2025-11-09T04:22:05.328980+00:00Z",
   "stats": {
-    "totalDirectories": 2274,
+    "totalDirectories": 2275,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2274.0,
-    "totalListings": 21474,
-    "aiEnhancedDirectories": 2274
+    "avgDirectoriesPerRepo": 2275.0,
+    "totalListings": 21482,
+    "aiEnhancedDirectories": 2275
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29570,12 +29570,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-body-wraps-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:22:05.328980+00:00Z",
+      "lastUpdated": "2025-11-09T04:22:05.328980+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2274,
+      "directoryCount": 2275,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

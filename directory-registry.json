@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T02:23:03.857357+00:00Z",
+  "lastUpdated": "2025-11-09T02:24:13.115284+00:00Z",
   "stats": {
-    "totalDirectories": 2063,
+    "totalDirectories": 2064,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2063.0,
-    "totalListings": 19460,
-    "aiEnhancedDirectories": 2063
+    "avgDirectoriesPerRepo": 2064.0,
+    "totalListings": 19470,
+    "aiEnhancedDirectories": 2064
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26827,12 +26827,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-irrigation-system-installation-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T02:24:13.115284+00:00Z",
+      "lastUpdated": "2025-11-09T02:24:13.115284+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2063,
+      "directoryCount": 2064,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

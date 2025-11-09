@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:05:05.669004+00:00Z",
+  "lastUpdated": "2025-11-09T06:05:36.825559+00:00Z",
   "stats": {
-    "totalDirectories": 170,
+    "totalDirectories": 171,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 170.0,
-    "totalListings": 1642,
-    "aiEnhancedDirectories": 170
+    "avgDirectoriesPerRepo": 171.0,
+    "totalListings": 1652,
+    "aiEnhancedDirectories": 171
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2218,12 +2218,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-franchise-consulting-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:05:36.825559+00:00Z",
+      "lastUpdated": "2025-11-09T06:05:36.825559+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 170,
+      "directoryCount": 171,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

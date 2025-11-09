@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T18:18:58.474530+00:00Z",
+  "lastUpdated": "2025-11-09T18:19:12.799926+00:00Z",
   "stats": {
-    "totalDirectories": 1197,
+    "totalDirectories": 1198,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1197.0,
-    "totalListings": 11288,
-    "aiEnhancedDirectories": 1197
+    "avgDirectoriesPerRepo": 1198.0,
+    "totalListings": 11298,
+    "aiEnhancedDirectories": 1198
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -15569,12 +15569,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-business-plan-writing-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T18:19:12.799926+00:00Z",
+      "lastUpdated": "2025-11-09T18:19:12.799926+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1197,
+      "directoryCount": 1198,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

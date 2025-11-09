@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:31:24.945954+00:00Z",
+  "lastUpdated": "2025-11-09T06:31:39.084260+00:00Z",
   "stats": {
-    "totalDirectories": 264,
+    "totalDirectories": 265,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 264.0,
-    "totalListings": 2541,
-    "aiEnhancedDirectories": 264
+    "avgDirectoriesPerRepo": 265.0,
+    "totalListings": 2551,
+    "aiEnhancedDirectories": 265
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3440,12 +3440,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-crystal-healing-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:31:39.084260+00:00Z",
+      "lastUpdated": "2025-11-09T06:31:39.084260+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 264,
+      "directoryCount": 265,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

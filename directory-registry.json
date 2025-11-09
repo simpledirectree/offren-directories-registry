@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T13:14:12.014310+00:00Z",
+  "lastUpdated": "2025-11-09T13:18:36.866744+00:00Z",
   "stats": {
-    "totalDirectories": 869,
+    "totalDirectories": 870,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 869.0,
-    "totalListings": 8206,
-    "aiEnhancedDirectories": 869
+    "avgDirectoriesPerRepo": 870.0,
+    "totalListings": 8211,
+    "aiEnhancedDirectories": 870
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -11305,12 +11305,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-vendor-negotiation-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T13:18:36.866744+00:00Z",
+      "lastUpdated": "2025-11-09T13:18:36.866744+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 869,
+      "directoryCount": 870,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:51:51.037491+00:00Z",
+  "lastUpdated": "2025-11-09T23:53:43.935521+00:00Z",
   "stats": {
-    "totalDirectories": 1552,
+    "totalDirectories": 1553,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1552.0,
-    "totalListings": 14607,
-    "aiEnhancedDirectories": 1552
+    "avgDirectoriesPerRepo": 1553.0,
+    "totalListings": 14617,
+    "aiEnhancedDirectories": 1553
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20184,12 +20184,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-day-labor-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:53:43.935521+00:00Z",
+      "lastUpdated": "2025-11-09T23:53:43.935521+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1552,
+      "directoryCount": 1553,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

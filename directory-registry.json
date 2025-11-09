@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:27:58.480761+00:00Z",
+  "lastUpdated": "2025-11-09T06:28:15.493663+00:00Z",
   "stats": {
-    "totalDirectories": 251,
+    "totalDirectories": 252,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 251.0,
-    "totalListings": 2411,
-    "aiEnhancedDirectories": 251
+    "avgDirectoriesPerRepo": 252.0,
+    "totalListings": 2421,
+    "aiEnhancedDirectories": 252
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3271,12 +3271,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-tree-trimming-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:28:15.493663+00:00Z",
+      "lastUpdated": "2025-11-09T06:28:15.493663+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 251,
+      "directoryCount": 252,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

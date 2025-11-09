@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:30:20.647936+00:00Z",
+  "lastUpdated": "2025-11-09T05:30:35.821447+00:00Z",
   "stats": {
-    "totalDirectories": 43,
+    "totalDirectories": 44,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 43.0,
-    "totalListings": 420,
-    "aiEnhancedDirectories": 43
+    "avgDirectoriesPerRepo": 44.0,
+    "totalListings": 427,
+    "aiEnhancedDirectories": 44
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -567,12 +567,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-background-check-services-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:30:35.821447+00:00Z",
+      "lastUpdated": "2025-11-09T05:30:35.821447+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 43,
+      "directoryCount": 44,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

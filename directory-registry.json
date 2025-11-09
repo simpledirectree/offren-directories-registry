@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:37:03.392637+00:00Z",
+  "lastUpdated": "2025-11-09T05:37:20.934103+00:00Z",
   "stats": {
-    "totalDirectories": 68,
+    "totalDirectories": 69,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 68.0,
-    "totalListings": 649,
-    "aiEnhancedDirectories": 68
+    "avgDirectoriesPerRepo": 69.0,
+    "totalListings": 659,
+    "aiEnhancedDirectories": 69
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -892,12 +892,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-water-features-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:37:20.934103+00:00Z",
+      "lastUpdated": "2025-11-09T05:37:20.934103+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 68,
+      "directoryCount": 69,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

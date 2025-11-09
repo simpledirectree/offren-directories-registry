@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:52:37.302933+00:00Z",
+  "lastUpdated": "2025-11-09T05:52:50.743312+00:00Z",
   "stats": {
-    "totalDirectories": 128,
+    "totalDirectories": 129,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 128.0,
-    "totalListings": 1234,
-    "aiEnhancedDirectories": 128
+    "avgDirectoriesPerRepo": 129.0,
+    "totalListings": 1237,
+    "aiEnhancedDirectories": 129
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1672,12 +1672,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-moving-assistants-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:52:50.743312+00:00Z",
+      "lastUpdated": "2025-11-09T05:52:50.743312+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 128,
+      "directoryCount": 129,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

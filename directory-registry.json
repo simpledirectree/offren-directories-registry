@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:22:52.591138+00:00Z",
+  "lastUpdated": "2025-11-09T06:23:11.328603+00:00Z",
   "stats": {
-    "totalDirectories": 232,
+    "totalDirectories": 233,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 232.0,
-    "totalListings": 2243,
-    "aiEnhancedDirectories": 232
+    "avgDirectoriesPerRepo": 233.0,
+    "totalListings": 2253,
+    "aiEnhancedDirectories": 233
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3024,12 +3024,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-day-labor-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:23:11.328603+00:00Z",
+      "lastUpdated": "2025-11-09T06:23:11.328603+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 232,
+      "directoryCount": 233,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

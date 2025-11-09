@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T09:11:45.422135+00:00Z",
+  "lastUpdated": "2025-11-09T09:12:00.962905+00:00Z",
   "stats": {
-    "totalDirectories": 580,
+    "totalDirectories": 581,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 580.0,
-    "totalListings": 5555,
-    "aiEnhancedDirectories": 580
+    "avgDirectoriesPerRepo": 581.0,
+    "totalListings": 5565,
+    "aiEnhancedDirectories": 581
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -7548,12 +7548,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-weight-management-programs-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T09:12:00.962905+00:00Z",
+      "lastUpdated": "2025-11-09T09:12:00.962905+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 580,
+      "directoryCount": 581,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:34:01.291963+00:00Z",
+  "lastUpdated": "2025-11-09T06:34:15.816026+00:00Z",
   "stats": {
-    "totalDirectories": 274,
+    "totalDirectories": 275,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 274.0,
-    "totalListings": 2641,
-    "aiEnhancedDirectories": 274
+    "avgDirectoriesPerRepo": 275.0,
+    "totalListings": 2651,
+    "aiEnhancedDirectories": 275
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3570,12 +3570,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-concierge-medicine-practices-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:34:15.816026+00:00Z",
+      "lastUpdated": "2025-11-09T06:34:15.816026+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 274,
+      "directoryCount": 275,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:10:11.765481+00:00Z",
+  "lastUpdated": "2025-11-09T05:10:26.039462+00:00Z",
   "stats": {
-    "totalDirectories": 2440,
+    "totalDirectories": 2441,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2440.0,
-    "totalListings": 23092,
-    "aiEnhancedDirectories": 2440
+    "avgDirectoriesPerRepo": 2441.0,
+    "totalListings": 23102,
+    "aiEnhancedDirectories": 2441
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31728,12 +31728,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-container-gardening-services-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:10:26.039462+00:00Z",
+      "lastUpdated": "2025-11-09T05:10:26.039462+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2440,
+      "directoryCount": 2441,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

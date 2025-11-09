@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T08:33:26.865278+00:00Z",
+  "lastUpdated": "2025-11-09T08:34:08.269230+00:00Z",
   "stats": {
-    "totalDirectories": 536,
+    "totalDirectories": 537,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 536.0,
-    "totalListings": 5166,
-    "aiEnhancedDirectories": 536
+    "avgDirectoriesPerRepo": 537.0,
+    "totalListings": 5176,
+    "aiEnhancedDirectories": 537
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -6976,12 +6976,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-estate-planning-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T08:34:08.269230+00:00Z",
+      "lastUpdated": "2025-11-09T08:34:08.269230+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 536,
+      "directoryCount": 537,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

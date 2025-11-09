@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T04:23:29.556270+00:00Z",
+  "lastUpdated": "2025-11-09T04:23:47.189125+00:00Z",
   "stats": {
-    "totalDirectories": 2280,
+    "totalDirectories": 2281,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2280.0,
-    "totalListings": 21532,
-    "aiEnhancedDirectories": 2280
+    "avgDirectoriesPerRepo": 2281.0,
+    "totalListings": 21542,
+    "aiEnhancedDirectories": 2281
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -29648,12 +29648,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-business-process-outsourcing-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T04:23:47.189125+00:00Z",
+      "lastUpdated": "2025-11-09T04:23:47.189125+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2280,
+      "directoryCount": 2281,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

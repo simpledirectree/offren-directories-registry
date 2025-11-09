@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:13:57.534197+00:00Z",
+  "lastUpdated": "2025-11-09T03:14:13.306371+00:00Z",
   "stats": {
-    "totalDirectories": 2116,
+    "totalDirectories": 2117,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2116.0,
-    "totalListings": 19949,
-    "aiEnhancedDirectories": 2116
+    "avgDirectoriesPerRepo": 2117.0,
+    "totalListings": 19959,
+    "aiEnhancedDirectories": 2117
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27516,12 +27516,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-mobile-detailing-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:14:13.306371+00:00Z",
+      "lastUpdated": "2025-11-09T03:14:13.306371+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2116,
+      "directoryCount": 2117,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

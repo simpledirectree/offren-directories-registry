@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:53:27.670297+00:00Z",
+  "lastUpdated": "2025-11-09T05:54:33.643867+00:00Z",
   "stats": {
-    "totalDirectories": 131,
+    "totalDirectories": 132,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 131.0,
-    "totalListings": 1257,
-    "aiEnhancedDirectories": 131
+    "avgDirectoriesPerRepo": 132.0,
+    "totalListings": 1267,
+    "aiEnhancedDirectories": 132
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -1711,12 +1711,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-dental-implants-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:54:33.643867+00:00Z",
+      "lastUpdated": "2025-11-09T05:54:33.643867+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 131,
+      "directoryCount": 132,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:02:20.006039+00:00Z",
+  "lastUpdated": "2025-11-09T06:02:36.917203+00:00Z",
   "stats": {
-    "totalDirectories": 160,
+    "totalDirectories": 161,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 160.0,
-    "totalListings": 1545,
-    "aiEnhancedDirectories": 160
+    "avgDirectoriesPerRepo": 161.0,
+    "totalListings": 1555,
+    "aiEnhancedDirectories": 161
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -2088,12 +2088,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-risk-assessments-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:02:36.917203+00:00Z",
+      "lastUpdated": "2025-11-09T06:02:36.917203+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 160,
+      "directoryCount": 161,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

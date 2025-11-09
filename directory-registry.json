@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T03:34:02.717136+00:00Z",
+  "lastUpdated": "2025-11-09T03:34:41.955417+00:00Z",
   "stats": {
-    "totalDirectories": 2134,
+    "totalDirectories": 2135,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2134.0,
-    "totalListings": 20112,
-    "aiEnhancedDirectories": 2134
+    "avgDirectoriesPerRepo": 2135.0,
+    "totalListings": 20117,
+    "aiEnhancedDirectories": 2135
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -27750,12 +27750,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-pop-up-restaurants-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T03:34:41.955417+00:00Z",
+      "lastUpdated": "2025-11-09T03:34:41.955417+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2134,
+      "directoryCount": 2135,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

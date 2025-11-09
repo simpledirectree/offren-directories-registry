@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:55:46.405165+00:00Z",
+  "lastUpdated": "2025-11-09T22:56:25.651292+00:00Z",
   "stats": {
-    "totalDirectories": 1490,
+    "totalDirectories": 1491,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1490.0,
-    "totalListings": 14038,
-    "aiEnhancedDirectories": 1490
+    "avgDirectoriesPerRepo": 1491.0,
+    "totalListings": 14045,
+    "aiEnhancedDirectories": 1491
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19378,12 +19378,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-kitchen-design-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:56:25.651292+00:00Z",
+      "lastUpdated": "2025-11-09T22:56:25.651292+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1490,
+      "directoryCount": 1491,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

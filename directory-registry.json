@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T11:47:51.565269+00:00Z",
+  "lastUpdated": "2025-11-09T11:48:32.309728+00:00Z",
   "stats": {
-    "totalDirectories": 772,
+    "totalDirectories": 773,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 772.0,
-    "totalListings": 7327,
-    "aiEnhancedDirectories": 772
+    "avgDirectoriesPerRepo": 773.0,
+    "totalListings": 7337,
+    "aiEnhancedDirectories": 773
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10044,12 +10044,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-hospice-services-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T11:48:32.309728+00:00Z",
+      "lastUpdated": "2025-11-09T11:48:32.309728+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 772,
+      "directoryCount": 773,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

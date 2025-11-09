@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T07:18:51.297980+00:00Z",
+  "lastUpdated": "2025-11-09T07:19:06.261091+00:00Z",
   "stats": {
-    "totalDirectories": 438,
+    "totalDirectories": 439,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 438.0,
-    "totalListings": 4217,
-    "aiEnhancedDirectories": 438
+    "avgDirectoriesPerRepo": 439.0,
+    "totalListings": 4227,
+    "aiEnhancedDirectories": 439
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -5702,12 +5702,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-e-commerce-platform-setup-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T07:19:06.261091+00:00Z",
+      "lastUpdated": "2025-11-09T07:19:06.261091+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 438,
+      "directoryCount": 439,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

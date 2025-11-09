@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T16:15:08.495850+00:00Z",
+  "lastUpdated": "2025-11-09T16:15:51.361277+00:00Z",
   "stats": {
-    "totalDirectories": 1066,
+    "totalDirectories": 1067,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1066.0,
-    "totalListings": 10050,
-    "aiEnhancedDirectories": 1066
+    "avgDirectoriesPerRepo": 1067.0,
+    "totalListings": 10060,
+    "aiEnhancedDirectories": 1067
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -13866,12 +13866,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-beard-styling-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T16:15:51.361277+00:00Z",
+      "lastUpdated": "2025-11-09T16:15:51.361277+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1066,
+      "directoryCount": 1067,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

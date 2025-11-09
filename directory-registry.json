@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:47:31.827778+00:00Z",
+  "lastUpdated": "2025-11-09T19:48:12.549802+00:00Z",
   "stats": {
-    "totalDirectories": 1296,
+    "totalDirectories": 1297,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1296.0,
-    "totalListings": 12206,
-    "aiEnhancedDirectories": 1296
+    "avgDirectoriesPerRepo": 1297.0,
+    "totalListings": 12216,
+    "aiEnhancedDirectories": 1297
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16856,12 +16856,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-closet-organization-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:48:12.549802+00:00Z",
+      "lastUpdated": "2025-11-09T19:48:12.549802+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1296,
+      "directoryCount": 1297,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

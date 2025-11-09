@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:31:29.947188+00:00Z",
+  "lastUpdated": "2025-11-09T22:32:10.521170+00:00Z",
   "stats": {
-    "totalDirectories": 1466,
+    "totalDirectories": 1467,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1466.0,
-    "totalListings": 13815,
-    "aiEnhancedDirectories": 1466
+    "avgDirectoriesPerRepo": 1467.0,
+    "totalListings": 13825,
+    "aiEnhancedDirectories": 1467
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19066,12 +19066,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-roofing-installation-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:32:10.521170+00:00Z",
+      "lastUpdated": "2025-11-09T22:32:10.521170+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1466,
+      "directoryCount": 1467,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

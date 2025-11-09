@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:09:38.365911+00:00Z",
+  "lastUpdated": "2025-11-09T05:09:54.508179+00:00Z",
   "stats": {
-    "totalDirectories": 2438,
+    "totalDirectories": 2439,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2438.0,
-    "totalListings": 23072,
-    "aiEnhancedDirectories": 2438
+    "avgDirectoriesPerRepo": 2439.0,
+    "totalListings": 23082,
+    "aiEnhancedDirectories": 2439
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31702,12 +31702,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-commercial-banking-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:09:54.508179+00:00Z",
+      "lastUpdated": "2025-11-09T05:09:54.508179+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2438,
+      "directoryCount": 2439,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

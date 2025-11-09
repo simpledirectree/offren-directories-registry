@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T01:56:27.043040+00:00Z",
+  "lastUpdated": "2025-11-09T01:57:34.906153+00:00Z",
   "stats": {
-    "totalDirectories": 2039,
+    "totalDirectories": 2040,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2039.0,
-    "totalListings": 19242,
-    "aiEnhancedDirectories": 2039
+    "avgDirectoriesPerRepo": 2040.0,
+    "totalListings": 19252,
+    "aiEnhancedDirectories": 2040
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -26515,12 +26515,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-moving-protection-plans-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T01:57:34.906153+00:00Z",
+      "lastUpdated": "2025-11-09T01:57:34.906153+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2039,
+      "directoryCount": 2040,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

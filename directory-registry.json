@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T12:36:43.718818+00:00Z",
+  "lastUpdated": "2025-11-09T12:42:00.493198+00:00Z",
   "stats": {
-    "totalDirectories": 834,
+    "totalDirectories": 835,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 834.0,
-    "totalListings": 7904,
-    "aiEnhancedDirectories": 834
+    "avgDirectoriesPerRepo": 835.0,
+    "totalListings": 7913,
+    "aiEnhancedDirectories": 835
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -10850,12 +10850,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-electrolysis-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T12:42:00.493198+00:00Z",
+      "lastUpdated": "2025-11-09T12:42:00.493198+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 834,
+      "directoryCount": 835,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

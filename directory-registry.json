@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T06:36:27.412499+00:00Z",
+  "lastUpdated": "2025-11-09T06:36:45.170460+00:00Z",
   "stats": {
-    "totalDirectories": 283,
+    "totalDirectories": 284,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 283.0,
-    "totalListings": 2724,
-    "aiEnhancedDirectories": 283
+    "avgDirectoriesPerRepo": 284.0,
+    "totalListings": 2734,
+    "aiEnhancedDirectories": 284
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -3687,12 +3687,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-mobile-dog-groomers-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T06:36:45.170460+00:00Z",
+      "lastUpdated": "2025-11-09T06:36:45.170460+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 283,
+      "directoryCount": 284,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T22:20:56.893291+00:00Z",
+  "lastUpdated": "2025-11-09T22:21:12.137086+00:00Z",
   "stats": {
-    "totalDirectories": 1454,
+    "totalDirectories": 1455,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1454.0,
-    "totalListings": 13697,
-    "aiEnhancedDirectories": 1454
+    "avgDirectoriesPerRepo": 1455.0,
+    "totalListings": 13707,
+    "aiEnhancedDirectories": 1455
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -18910,12 +18910,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-fashion-rental-styling-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T22:21:12.137086+00:00Z",
+      "lastUpdated": "2025-11-09T22:21:12.137086+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1454,
+      "directoryCount": 1455,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

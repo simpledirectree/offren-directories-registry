@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T23:26:16.497021+00:00Z",
+  "lastUpdated": "2025-11-09T23:26:30.754142+00:00Z",
   "stats": {
-    "totalDirectories": 1520,
+    "totalDirectories": 1521,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1520.0,
-    "totalListings": 14304,
-    "aiEnhancedDirectories": 1520
+    "avgDirectoriesPerRepo": 1521.0,
+    "totalListings": 14312,
+    "aiEnhancedDirectories": 1521
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -19768,12 +19768,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-specialty-restaurants-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T23:26:30.754142+00:00Z",
+      "lastUpdated": "2025-11-09T23:26:30.754142+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1520,
+      "directoryCount": 1521,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

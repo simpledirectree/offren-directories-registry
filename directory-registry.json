@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T10:11:16.332443+00:00Z",
+  "lastUpdated": "2025-11-09T10:12:22.999075+00:00Z",
   "stats": {
-    "totalDirectories": 649,
+    "totalDirectories": 650,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 649.0,
-    "totalListings": 6210,
-    "aiEnhancedDirectories": 649
+    "avgDirectoriesPerRepo": 650.0,
+    "totalListings": 6220,
+    "aiEnhancedDirectories": 650
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -8445,12 +8445,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-multi-channel-selling-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T10:12:22.999075+00:00Z",
+      "lastUpdated": "2025-11-09T10:12:22.999075+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 649,
+      "directoryCount": 650,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

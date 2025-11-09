@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T19:10:36.582441+00:00Z",
+  "lastUpdated": "2025-11-09T19:10:51.929678+00:00Z",
   "stats": {
-    "totalDirectories": 1260,
+    "totalDirectories": 1261,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1260.0,
-    "totalListings": 11873,
-    "aiEnhancedDirectories": 1260
+    "avgDirectoriesPerRepo": 1261.0,
+    "totalListings": 11883,
+    "aiEnhancedDirectories": 1261
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -16388,12 +16388,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-technology-training-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T19:10:51.929678+00:00Z",
+      "lastUpdated": "2025-11-09T19:10:51.929678+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1260,
+      "directoryCount": 1261,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

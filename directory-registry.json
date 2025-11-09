@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:21:51.073051+00:00Z",
+  "lastUpdated": "2025-11-09T00:22:07.126512+00:00Z",
   "stats": {
-    "totalDirectories": 1920,
+    "totalDirectories": 1921,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1920.0,
-    "totalListings": 18142,
-    "aiEnhancedDirectories": 1920
+    "avgDirectoriesPerRepo": 1921.0,
+    "totalListings": 18152,
+    "aiEnhancedDirectories": 1921
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -24968,12 +24968,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-drywall-installation-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:22:07.126512+00:00Z",
+      "lastUpdated": "2025-11-09T00:22:07.126512+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1920,
+      "directoryCount": 1921,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

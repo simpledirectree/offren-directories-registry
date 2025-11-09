@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T05:07:13.700033+00:00Z",
+  "lastUpdated": "2025-11-09T05:07:31.222646+00:00Z",
   "stats": {
-    "totalDirectories": 2429,
+    "totalDirectories": 2430,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2429.0,
-    "totalListings": 22992,
-    "aiEnhancedDirectories": 2429
+    "avgDirectoriesPerRepo": 2430.0,
+    "totalListings": 23002,
+    "aiEnhancedDirectories": 2430
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -31585,12 +31585,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-shingle-roofing-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T05:07:31.222646+00:00Z",
+      "lastUpdated": "2025-11-09T05:07:31.222646+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 2429,
+      "directoryCount": 2430,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

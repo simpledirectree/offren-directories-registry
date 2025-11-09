@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-09T00:27:35.239967+00:00Z",
+  "lastUpdated": "2025-11-09T00:28:15.667098+00:00Z",
   "stats": {
-    "totalDirectories": 1929,
+    "totalDirectories": 1930,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1929.0,
-    "totalListings": 18225,
-    "aiEnhancedDirectories": 1929
+    "avgDirectoriesPerRepo": 1930.0,
+    "totalListings": 18235,
+    "aiEnhancedDirectories": 1930
   },
   "directories": {
     "agnostic-owned-stump-grinding-in-arizona": {
@@ -25085,12 +25085,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-financial-aid-consulting-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-09T00:28:15.667098+00:00Z",
+      "lastUpdated": "2025-11-09T00:28:15.667098+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-08T04:05:26.311782+00:00Z",
-      "directoryCount": 1929,
+      "directoryCount": 1930,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

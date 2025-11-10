@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:06:14.375321+00:00Z",
+  "lastUpdated": "2025-11-10T06:06:31.978961+00:00Z",
   "stats": {
-    "totalDirectories": 2309,
+    "totalDirectories": 2310,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2309.0,
-    "totalListings": 21783,
-    "aiEnhancedDirectories": 2309
+    "avgDirectoriesPerRepo": 2310.0,
+    "totalListings": 21793,
+    "aiEnhancedDirectories": 2310
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30025,12 +30025,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-insulation-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:06:31.978961+00:00Z",
+      "lastUpdated": "2025-11-10T06:06:31.978961+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2309,
+      "directoryCount": 2310,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

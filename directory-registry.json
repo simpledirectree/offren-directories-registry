@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:25:57.997532+00:00Z",
+  "lastUpdated": "2025-11-10T22:26:37.243634+00:00Z",
   "stats": {
-    "totalDirectories": 1230,
+    "totalDirectories": 1231,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1230.0,
-    "totalListings": 11448,
-    "aiEnhancedDirectories": 1230
+    "avgDirectoriesPerRepo": 1231.0,
+    "totalListings": 11453,
+    "aiEnhancedDirectories": 1231
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15998,12 +15998,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-breach-notification-services-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:26:37.243634+00:00Z",
+      "lastUpdated": "2025-11-10T22:26:37.243634+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1230,
+      "directoryCount": 1231,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

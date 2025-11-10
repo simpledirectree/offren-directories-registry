@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:55:58.512579+00:00Z",
+  "lastUpdated": "2025-11-10T03:56:16.914437+00:00Z",
   "stats": {
-    "totalDirectories": 1858,
+    "totalDirectories": 1859,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1858.0,
-    "totalListings": 17399,
-    "aiEnhancedDirectories": 1858
+    "avgDirectoriesPerRepo": 1859.0,
+    "totalListings": 17409,
+    "aiEnhancedDirectories": 1859
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24162,12 +24162,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-tablet-repair-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:56:16.914437+00:00Z",
+      "lastUpdated": "2025-11-10T03:56:16.914437+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1858,
+      "directoryCount": 1859,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:43:27.487544+00:00Z",
+  "lastUpdated": "2025-11-10T07:43:44.448916+00:00Z",
   "stats": {
-    "totalDirectories": 177,
+    "totalDirectories": 178,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 177.0,
-    "totalListings": 1722,
-    "aiEnhancedDirectories": 177
+    "avgDirectoriesPerRepo": 178.0,
+    "totalListings": 1732,
+    "aiEnhancedDirectories": 178
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2309,12 +2309,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-legal-aid-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:43:44.448916+00:00Z",
+      "lastUpdated": "2025-11-10T07:43:44.448916+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 177,
+      "directoryCount": 178,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

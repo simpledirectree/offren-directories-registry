@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:56:16.723278+00:00Z",
+  "lastUpdated": "2025-11-10T02:56:51.024347+00:00Z",
   "stats": {
-    "totalDirectories": 1769,
+    "totalDirectories": 1770,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1769.0,
-    "totalListings": 16562,
-    "aiEnhancedDirectories": 1769
+    "avgDirectoriesPerRepo": 1770.0,
+    "totalListings": 16563,
+    "aiEnhancedDirectories": 1770
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23005,12 +23005,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-home-cleaners-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:56:51.024347+00:00Z",
+      "lastUpdated": "2025-11-10T02:56:51.024347+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1769,
+      "directoryCount": 1770,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

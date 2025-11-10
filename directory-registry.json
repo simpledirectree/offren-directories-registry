@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:40:32.952422+00:00Z",
+  "lastUpdated": "2025-11-10T07:40:50.130185+00:00Z",
   "stats": {
-    "totalDirectories": 167,
+    "totalDirectories": 168,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 167.0,
-    "totalListings": 1626,
-    "aiEnhancedDirectories": 167
+    "avgDirectoriesPerRepo": 168.0,
+    "totalListings": 1636,
+    "aiEnhancedDirectories": 168
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2179,12 +2179,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-e-commerce-development-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:40:50.130185+00:00Z",
+      "lastUpdated": "2025-11-10T07:40:50.130185+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 167,
+      "directoryCount": 168,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

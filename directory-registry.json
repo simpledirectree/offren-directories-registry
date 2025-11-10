@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:00:35.777212+00:00Z",
+  "lastUpdated": "2025-11-10T18:00:48.925048+00:00Z",
   "stats": {
-    "totalDirectories": 908,
+    "totalDirectories": 909,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 908.0,
-    "totalListings": 8476,
-    "aiEnhancedDirectories": 908
+    "avgDirectoriesPerRepo": 909.0,
+    "totalListings": 8479,
+    "aiEnhancedDirectories": 909
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11812,12 +11812,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-tutors-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:00:48.925048+00:00Z",
+      "lastUpdated": "2025-11-10T18:00:48.925048+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 908,
+      "directoryCount": 909,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

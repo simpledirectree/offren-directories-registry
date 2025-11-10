@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:57:54.423615+00:00Z",
+  "lastUpdated": "2025-11-10T05:58:14.086021+00:00Z",
   "stats": {
-    "totalDirectories": 2282,
+    "totalDirectories": 2283,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2282.0,
-    "totalListings": 21525,
-    "aiEnhancedDirectories": 2282
+    "avgDirectoriesPerRepo": 2283.0,
+    "totalListings": 21535,
+    "aiEnhancedDirectories": 2283
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29674,12 +29674,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-rehabilitation-services-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:58:14.086021+00:00Z",
+      "lastUpdated": "2025-11-10T05:58:14.086021+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2282,
+      "directoryCount": 2283,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

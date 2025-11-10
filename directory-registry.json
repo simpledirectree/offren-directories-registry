@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:06:45.404740+00:00Z",
+  "lastUpdated": "2025-11-10T04:07:02.700571+00:00Z",
   "stats": {
-    "totalDirectories": 1896,
+    "totalDirectories": 1897,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1896.0,
-    "totalListings": 17770,
-    "aiEnhancedDirectories": 1896
+    "avgDirectoriesPerRepo": 1897.0,
+    "totalListings": 17780,
+    "aiEnhancedDirectories": 1897
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24656,12 +24656,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-emergency-medicine-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:07:02.700571+00:00Z",
+      "lastUpdated": "2025-11-10T04:07:02.700571+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1896,
+      "directoryCount": 1897,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

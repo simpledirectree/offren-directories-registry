@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:17:52.848646+00:00Z",
+  "lastUpdated": "2025-11-10T02:18:34.305030+00:00Z",
   "stats": {
-    "totalDirectories": 1726,
+    "totalDirectories": 1727,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1726.0,
-    "totalListings": 16152,
-    "aiEnhancedDirectories": 1726
+    "avgDirectoriesPerRepo": 1727.0,
+    "totalListings": 16162,
+    "aiEnhancedDirectories": 1727
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22446,12 +22446,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-supplier-agreement-review-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:18:34.305030+00:00Z",
+      "lastUpdated": "2025-11-10T02:18:34.305030+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1726,
+      "directoryCount": 1727,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

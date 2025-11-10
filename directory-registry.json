@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:24:36.402530+00:00Z",
+  "lastUpdated": "2025-11-10T10:25:15.585770+00:00Z",
   "stats": {
-    "totalDirectories": 377,
+    "totalDirectories": 378,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 377.0,
-    "totalListings": 3622,
-    "aiEnhancedDirectories": 377
+    "avgDirectoriesPerRepo": 378.0,
+    "totalListings": 3632,
+    "aiEnhancedDirectories": 378
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4909,12 +4909,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-compensation-consulting-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:25:15.585770+00:00Z",
+      "lastUpdated": "2025-11-10T10:25:15.585770+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 377,
+      "directoryCount": 378,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

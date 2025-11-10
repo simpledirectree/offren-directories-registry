@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:11:31.547910+00:00Z",
+  "lastUpdated": "2025-11-10T13:12:13.617239+00:00Z",
   "stats": {
-    "totalDirectories": 570,
+    "totalDirectories": 571,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 570.0,
-    "totalListings": 5400,
-    "aiEnhancedDirectories": 570
+    "avgDirectoriesPerRepo": 571.0,
+    "totalListings": 5410,
+    "aiEnhancedDirectories": 571
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7418,12 +7418,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-financial-statement-preparation-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:12:13.617239+00:00Z",
+      "lastUpdated": "2025-11-10T13:12:13.617239+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 570,
+      "directoryCount": 571,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

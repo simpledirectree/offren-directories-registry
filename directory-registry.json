@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:45:52.100495+00:00Z",
+  "lastUpdated": "2025-11-10T02:48:35.883028+00:00Z",
   "stats": {
-    "totalDirectories": 1760,
+    "totalDirectories": 1761,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1760.0,
-    "totalListings": 16472,
-    "aiEnhancedDirectories": 1760
+    "avgDirectoriesPerRepo": 1761.0,
+    "totalListings": 16482,
+    "aiEnhancedDirectories": 1761
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22888,12 +22888,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-contract-drafting-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:48:35.883028+00:00Z",
+      "lastUpdated": "2025-11-10T02:48:35.883028+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1760,
+      "directoryCount": 1761,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

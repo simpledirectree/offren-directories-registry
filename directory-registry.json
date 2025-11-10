@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:38:50.795048+00:00Z",
+  "lastUpdated": "2025-11-10T10:39:49.616953+00:00Z",
   "stats": {
-    "totalDirectories": 399,
+    "totalDirectories": 400,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 399.0,
-    "totalListings": 3831,
-    "aiEnhancedDirectories": 399
+    "avgDirectoriesPerRepo": 400.0,
+    "totalListings": 3841,
+    "aiEnhancedDirectories": 400
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5195,12 +5195,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-payroll-administration-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:39:49.616953+00:00Z",
+      "lastUpdated": "2025-11-10T10:39:49.616953+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 399,
+      "directoryCount": 400,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

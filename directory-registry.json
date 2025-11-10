@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:58:14.958627+00:00Z",
+  "lastUpdated": "2025-11-10T03:58:33.292026+00:00Z",
   "stats": {
-    "totalDirectories": 1866,
+    "totalDirectories": 1867,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1866.0,
-    "totalListings": 17479,
-    "aiEnhancedDirectories": 1866
+    "avgDirectoriesPerRepo": 1867.0,
+    "totalListings": 17489,
+    "aiEnhancedDirectories": 1867
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24266,12 +24266,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-flat-roofing-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:58:33.292026+00:00Z",
+      "lastUpdated": "2025-11-10T03:58:33.292026+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1866,
+      "directoryCount": 1867,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

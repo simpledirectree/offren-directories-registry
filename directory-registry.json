@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:14:16.420879+00:00Z",
+  "lastUpdated": "2025-11-10T10:14:56.330128+00:00Z",
   "stats": {
-    "totalDirectories": 363,
+    "totalDirectories": 364,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 363.0,
-    "totalListings": 3496,
-    "aiEnhancedDirectories": 363
+    "avgDirectoriesPerRepo": 364.0,
+    "totalListings": 3506,
+    "aiEnhancedDirectories": 364
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4727,12 +4727,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-treasury-services-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:14:56.330128+00:00Z",
+      "lastUpdated": "2025-11-10T10:14:56.330128+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 363,
+      "directoryCount": 364,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

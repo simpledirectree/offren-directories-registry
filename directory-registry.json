@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:04:57.634139+00:00Z",
+  "lastUpdated": "2025-11-10T17:05:14.551078+00:00Z",
   "stats": {
-    "totalDirectories": 849,
+    "totalDirectories": 850,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 849.0,
-    "totalListings": 7909,
-    "aiEnhancedDirectories": 849
+    "avgDirectoriesPerRepo": 850.0,
+    "totalListings": 7919,
+    "aiEnhancedDirectories": 850
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11045,12 +11045,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-investment-banking-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:05:14.551078+00:00Z",
+      "lastUpdated": "2025-11-10T17:05:14.551078+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 849,
+      "directoryCount": 850,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

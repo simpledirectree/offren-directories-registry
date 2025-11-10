@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:03:37.080653+00:00Z",
+  "lastUpdated": "2025-11-10T04:03:53.938045+00:00Z",
   "stats": {
-    "totalDirectories": 1885,
+    "totalDirectories": 1886,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1885.0,
-    "totalListings": 17664,
-    "aiEnhancedDirectories": 1885
+    "avgDirectoriesPerRepo": 1886.0,
+    "totalListings": 17674,
+    "aiEnhancedDirectories": 1886
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24513,12 +24513,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-recommendation-engines-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:03:53.938045+00:00Z",
+      "lastUpdated": "2025-11-10T04:03:53.938045+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1885,
+      "directoryCount": 1886,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

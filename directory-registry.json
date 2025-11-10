@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:05:23.042762+00:00Z",
+  "lastUpdated": "2025-11-10T04:05:40.164750+00:00Z",
   "stats": {
-    "totalDirectories": 1891,
+    "totalDirectories": 1892,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1891.0,
-    "totalListings": 17724,
-    "aiEnhancedDirectories": 1891
+    "avgDirectoriesPerRepo": 1892.0,
+    "totalListings": 17734,
+    "aiEnhancedDirectories": 1892
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24591,12 +24591,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-internal-auditing-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:05:40.164750+00:00Z",
+      "lastUpdated": "2025-11-10T04:05:40.164750+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1891,
+      "directoryCount": 1892,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:08:13.704339+00:00Z",
+  "lastUpdated": "2025-11-10T20:10:07.059351+00:00Z",
   "stats": {
-    "totalDirectories": 1060,
+    "totalDirectories": 1061,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1060.0,
-    "totalListings": 9867,
-    "aiEnhancedDirectories": 1060
+    "avgDirectoriesPerRepo": 1061.0,
+    "totalListings": 9877,
+    "aiEnhancedDirectories": 1061
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13788,12 +13788,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-occupational-therapy-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:10:07.059351+00:00Z",
+      "lastUpdated": "2025-11-10T20:10:07.059351+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1060,
+      "directoryCount": 1061,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

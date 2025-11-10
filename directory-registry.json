@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:28:54.546551+00:00Z",
+  "lastUpdated": "2025-11-10T05:29:09.127852+00:00Z",
   "stats": {
-    "totalDirectories": 2180,
+    "totalDirectories": 2181,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2180.0,
-    "totalListings": 20546,
-    "aiEnhancedDirectories": 2180
+    "avgDirectoriesPerRepo": 2181.0,
+    "totalListings": 20551,
+    "aiEnhancedDirectories": 2181
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28348,12 +28348,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-part-time-daycare-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:29:09.127852+00:00Z",
+      "lastUpdated": "2025-11-10T05:29:09.127852+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2180,
+      "directoryCount": 2181,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:03:32.052717+00:00Z",
+  "lastUpdated": "2025-11-10T05:03:49.979785+00:00Z",
   "stats": {
-    "totalDirectories": 2095,
+    "totalDirectories": 2096,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2095.0,
-    "totalListings": 19702,
-    "aiEnhancedDirectories": 2095
+    "avgDirectoriesPerRepo": 2096.0,
+    "totalListings": 19712,
+    "aiEnhancedDirectories": 2096
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27243,12 +27243,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-mulching-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:03:49.979785+00:00Z",
+      "lastUpdated": "2025-11-10T05:03:49.979785+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2095,
+      "directoryCount": 2096,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

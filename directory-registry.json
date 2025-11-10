@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:03:03.890196+00:00Z",
+  "lastUpdated": "2025-11-10T02:04:59.700790+00:00Z",
   "stats": {
-    "totalDirectories": 1708,
+    "totalDirectories": 1709,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1708.0,
-    "totalListings": 15993,
-    "aiEnhancedDirectories": 1708
+    "avgDirectoriesPerRepo": 1709.0,
+    "totalListings": 15994,
+    "aiEnhancedDirectories": 1709
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22212,12 +22212,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-financial-counseling-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:04:59.700790+00:00Z",
+      "lastUpdated": "2025-11-10T02:04:59.700790+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1708,
+      "directoryCount": 1709,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:02:11.618602+00:00Z",
+  "lastUpdated": "2025-11-10T22:02:27.394196+00:00Z",
   "stats": {
-    "totalDirectories": 1194,
+    "totalDirectories": 1195,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1194.0,
-    "totalListings": 11117,
-    "aiEnhancedDirectories": 1194
+    "avgDirectoriesPerRepo": 1195.0,
+    "totalListings": 11127,
+    "aiEnhancedDirectories": 1195
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15530,12 +15530,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-desktop-virtualization-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:02:27.394196+00:00Z",
+      "lastUpdated": "2025-11-10T22:02:27.394196+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1194,
+      "directoryCount": 1195,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

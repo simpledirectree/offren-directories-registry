@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:03:49.001626+00:00Z",
+  "lastUpdated": "2025-11-10T03:04:28.780474+00:00Z",
   "stats": {
-    "totalDirectories": 1774,
+    "totalDirectories": 1775,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1774.0,
-    "totalListings": 16603,
-    "aiEnhancedDirectories": 1774
+    "avgDirectoriesPerRepo": 1775.0,
+    "totalListings": 16613,
+    "aiEnhancedDirectories": 1775
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23070,12 +23070,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-senior-fitness-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:04:28.780474+00:00Z",
+      "lastUpdated": "2025-11-10T03:04:28.780474+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1774,
+      "directoryCount": 1775,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

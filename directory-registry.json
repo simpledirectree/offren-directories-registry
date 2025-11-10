@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:27:20.641272+00:00Z",
+  "lastUpdated": "2025-11-10T21:28:04.082765+00:00Z",
   "stats": {
-    "totalDirectories": 1160,
+    "totalDirectories": 1161,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1160.0,
-    "totalListings": 10798,
-    "aiEnhancedDirectories": 1160
+    "avgDirectoriesPerRepo": 1161.0,
+    "totalListings": 10808,
+    "aiEnhancedDirectories": 1161
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15088,12 +15088,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-learning-management-systems-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:28:04.082765+00:00Z",
+      "lastUpdated": "2025-11-10T21:28:04.082765+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1160,
+      "directoryCount": 1161,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

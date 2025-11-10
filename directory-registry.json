@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:12:04.712296+00:00Z",
+  "lastUpdated": "2025-11-10T05:12:27.299420+00:00Z",
   "stats": {
-    "totalDirectories": 2123,
+    "totalDirectories": 2124,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2123.0,
-    "totalListings": 19982,
-    "aiEnhancedDirectories": 2123
+    "avgDirectoriesPerRepo": 2124.0,
+    "totalListings": 19992,
+    "aiEnhancedDirectories": 2124
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27607,12 +27607,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-conversational-practice-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:12:27.299420+00:00Z",
+      "lastUpdated": "2025-11-10T05:12:27.299420+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2123,
+      "directoryCount": 2124,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

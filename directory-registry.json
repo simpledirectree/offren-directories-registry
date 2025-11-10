@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:52:07.447130+00:00Z",
+  "lastUpdated": "2025-11-10T14:57:52.034124+00:00Z",
   "stats": {
-    "totalDirectories": 682,
+    "totalDirectories": 683,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 682.0,
-    "totalListings": 6395,
-    "aiEnhancedDirectories": 682
+    "avgDirectoriesPerRepo": 683.0,
+    "totalListings": 6405,
+    "aiEnhancedDirectories": 683
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8874,12 +8874,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-violin-lessons-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:57:52.034124+00:00Z",
+      "lastUpdated": "2025-11-10T14:57:52.034124+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 682,
+      "directoryCount": 683,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

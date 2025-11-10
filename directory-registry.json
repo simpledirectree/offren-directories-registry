@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:23:46.220170+00:00Z",
+  "lastUpdated": "2025-11-10T21:24:03.157184+00:00Z",
   "stats": {
-    "totalDirectories": 1153,
+    "totalDirectories": 1154,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1153.0,
-    "totalListings": 10733,
-    "aiEnhancedDirectories": 1153
+    "avgDirectoriesPerRepo": 1154.0,
+    "totalListings": 10743,
+    "aiEnhancedDirectories": 1154
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14997,12 +14997,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-primary-care-physicians-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:24:03.157184+00:00Z",
+      "lastUpdated": "2025-11-10T21:24:03.157184+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1153,
+      "directoryCount": 1154,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

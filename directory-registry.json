@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:38:27.877740+00:00Z",
+  "lastUpdated": "2025-11-10T06:38:44.646402+00:00Z",
   "stats": {
-    "totalDirectories": 2421,
+    "totalDirectories": 2422,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2421.0,
-    "totalListings": 22863,
-    "aiEnhancedDirectories": 2421
+    "avgDirectoriesPerRepo": 2422.0,
+    "totalListings": 22873,
+    "aiEnhancedDirectories": 2422
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31481,12 +31481,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "christian-owned-acrylic-nails-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:38:44.646402+00:00Z",
+      "lastUpdated": "2025-11-10T06:38:44.646402+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2421,
+      "directoryCount": 2422,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

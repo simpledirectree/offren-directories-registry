@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:02:51.415725+00:00Z",
+  "lastUpdated": "2025-11-10T07:03:06.487031+00:00Z",
   "stats": {
-    "totalDirectories": 33,
+    "totalDirectories": 34,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 33.0,
-    "totalListings": 325,
-    "aiEnhancedDirectories": 33
+    "avgDirectoriesPerRepo": 34.0,
+    "totalListings": 328,
+    "aiEnhancedDirectories": 34
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -437,12 +437,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-skilled-nursing-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:03:06.487031+00:00Z",
+      "lastUpdated": "2025-11-10T07:03:06.487031+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 33,
+      "directoryCount": 34,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

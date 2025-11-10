@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:00:36.528350+00:00Z",
+  "lastUpdated": "2025-11-10T00:00:52.051539+00:00Z",
   "stats": {
-    "totalDirectories": 1562,
+    "totalDirectories": 1563,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1562.0,
-    "totalListings": 14693,
-    "aiEnhancedDirectories": 1562
+    "avgDirectoriesPerRepo": 1563.0,
+    "totalListings": 14703,
+    "aiEnhancedDirectories": 1563
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20314,12 +20314,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-landscape-planning-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:00:52.051539+00:00Z",
+      "lastUpdated": "2025-11-10T00:00:52.051539+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1562,
+      "directoryCount": 1563,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

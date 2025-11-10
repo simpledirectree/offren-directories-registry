@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:18:05.419688+00:00Z",
+  "lastUpdated": "2025-11-10T18:18:46.952847+00:00Z",
   "stats": {
-    "totalDirectories": 932,
+    "totalDirectories": 933,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 932.0,
-    "totalListings": 8681,
-    "aiEnhancedDirectories": 932
+    "avgDirectoriesPerRepo": 933.0,
+    "totalListings": 8691,
+    "aiEnhancedDirectories": 933
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12124,12 +12124,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-illusionists-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:18:46.952847+00:00Z",
+      "lastUpdated": "2025-11-10T18:18:46.952847+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 932,
+      "directoryCount": 933,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

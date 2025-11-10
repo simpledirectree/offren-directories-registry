@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:16:31.392242+00:00Z",
+  "lastUpdated": "2025-11-10T07:16:44.910626+00:00Z",
   "stats": {
-    "totalDirectories": 82,
+    "totalDirectories": 83,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 82.0,
-    "totalListings": 789,
-    "aiEnhancedDirectories": 82
+    "avgDirectoriesPerRepo": 83.0,
+    "totalListings": 799,
+    "aiEnhancedDirectories": 83
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1074,12 +1074,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "christian-owned-buffet-catering-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:16:44.910626+00:00Z",
+      "lastUpdated": "2025-11-10T07:16:44.910626+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 82,
+      "directoryCount": 83,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:07:43.209964+00:00Z",
+  "lastUpdated": "2025-11-10T03:08:02.906705+00:00Z",
   "stats": {
-    "totalDirectories": 1781,
+    "totalDirectories": 1782,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1781.0,
-    "totalListings": 16672,
-    "aiEnhancedDirectories": 1781
+    "avgDirectoriesPerRepo": 1782.0,
+    "totalListings": 16677,
+    "aiEnhancedDirectories": 1782
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23161,12 +23161,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-data-analytics-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:08:02.906705+00:00Z",
+      "lastUpdated": "2025-11-10T03:08:02.906705+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1781,
+      "directoryCount": 1782,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:09:58.501261+00:00Z",
+  "lastUpdated": "2025-11-10T13:11:01.587795+00:00Z",
   "stats": {
-    "totalDirectories": 567,
+    "totalDirectories": 568,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 567.0,
-    "totalListings": 5378,
-    "aiEnhancedDirectories": 567
+    "avgDirectoriesPerRepo": 568.0,
+    "totalListings": 5388,
+    "aiEnhancedDirectories": 568
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7379,12 +7379,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-title-services-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:11:01.587795+00:00Z",
+      "lastUpdated": "2025-11-10T13:11:01.587795+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 567,
+      "directoryCount": 568,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

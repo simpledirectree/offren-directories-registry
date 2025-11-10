@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:08:11.345413+00:00Z",
+  "lastUpdated": "2025-11-10T12:09:42.232479+00:00Z",
   "stats": {
-    "totalDirectories": 501,
+    "totalDirectories": 502,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 501.0,
-    "totalListings": 4777,
-    "aiEnhancedDirectories": 501
+    "avgDirectoriesPerRepo": 502.0,
+    "totalListings": 4787,
+    "aiEnhancedDirectories": 502
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6521,12 +6521,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-water-features-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:09:42.232479+00:00Z",
+      "lastUpdated": "2025-11-10T12:09:42.232479+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 501,
+      "directoryCount": 502,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

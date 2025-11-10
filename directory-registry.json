@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:57:43.633829+00:00Z",
+  "lastUpdated": "2025-11-10T03:57:59.637114+00:00Z",
   "stats": {
-    "totalDirectories": 1864,
+    "totalDirectories": 1865,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1864.0,
-    "totalListings": 17459,
-    "aiEnhancedDirectories": 1864
+    "avgDirectoriesPerRepo": 1865.0,
+    "totalListings": 17469,
+    "aiEnhancedDirectories": 1865
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24240,12 +24240,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-deep-cleaning-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:57:59.637114+00:00Z",
+      "lastUpdated": "2025-11-10T03:57:59.637114+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1864,
+      "directoryCount": 1865,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

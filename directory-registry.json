@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:13:54.695181+00:00Z",
+  "lastUpdated": "2025-11-10T18:14:37.250898+00:00Z",
   "stats": {
-    "totalDirectories": 924,
+    "totalDirectories": 925,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 924.0,
-    "totalListings": 8611,
-    "aiEnhancedDirectories": 924
+    "avgDirectoriesPerRepo": 925.0,
+    "totalListings": 8621,
+    "aiEnhancedDirectories": 925
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12020,12 +12020,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-string-quartets-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:14:37.250898+00:00Z",
+      "lastUpdated": "2025-11-10T18:14:37.250898+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 924,
+      "directoryCount": 925,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

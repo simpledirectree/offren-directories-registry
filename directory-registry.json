@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:32:24.444757+00:00Z",
+  "lastUpdated": "2025-11-10T06:32:38.595519+00:00Z",
   "stats": {
-    "totalDirectories": 2400,
+    "totalDirectories": 2401,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2400.0,
-    "totalListings": 22658,
-    "aiEnhancedDirectories": 2400
+    "avgDirectoriesPerRepo": 2401.0,
+    "totalListings": 22663,
+    "aiEnhancedDirectories": 2401
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31208,12 +31208,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-financial-dashboards-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:32:38.595519+00:00Z",
+      "lastUpdated": "2025-11-10T06:32:38.595519+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2400,
+      "directoryCount": 2401,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:04:52.961433+00:00Z",
+  "lastUpdated": "2025-11-10T10:06:23.477398+00:00Z",
   "stats": {
-    "totalDirectories": 355,
+    "totalDirectories": 356,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 355.0,
-    "totalListings": 3418,
-    "aiEnhancedDirectories": 355
+    "avgDirectoriesPerRepo": 356.0,
+    "totalListings": 3428,
+    "aiEnhancedDirectories": 356
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4623,12 +4623,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-medical-spas-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:06:23.477398+00:00Z",
+      "lastUpdated": "2025-11-10T10:06:23.477398+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 355,
+      "directoryCount": 356,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

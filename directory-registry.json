@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:37:01.597706+00:00Z",
+  "lastUpdated": "2025-11-10T04:37:22.559412+00:00Z",
   "stats": {
-    "totalDirectories": 2002,
+    "totalDirectories": 2003,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2002.0,
-    "totalListings": 18801,
-    "aiEnhancedDirectories": 2002
+    "avgDirectoriesPerRepo": 2003.0,
+    "totalListings": 18811,
+    "aiEnhancedDirectories": 2003
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26034,12 +26034,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-home-additions-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:37:22.559412+00:00Z",
+      "lastUpdated": "2025-11-10T04:37:22.559412+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2002,
+      "directoryCount": 2003,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

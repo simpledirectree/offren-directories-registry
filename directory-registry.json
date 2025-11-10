@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:20:37.653232+00:00Z",
+  "lastUpdated": "2025-11-10T07:20:53.407675+00:00Z",
   "stats": {
-    "totalDirectories": 97,
+    "totalDirectories": 98,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 97.0,
-    "totalListings": 939,
-    "aiEnhancedDirectories": 97
+    "avgDirectoriesPerRepo": 98.0,
+    "totalListings": 949,
+    "aiEnhancedDirectories": 98
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1269,12 +1269,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-banking-relationship-management-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:20:53.407675+00:00Z",
+      "lastUpdated": "2025-11-10T07:20:53.407675+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 97,
+      "directoryCount": 98,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

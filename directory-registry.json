@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:38:41.572983+00:00Z",
+  "lastUpdated": "2025-11-10T05:38:58.257876+00:00Z",
   "stats": {
-    "totalDirectories": 2215,
+    "totalDirectories": 2216,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2215.0,
-    "totalListings": 20869,
-    "aiEnhancedDirectories": 2215
+    "avgDirectoriesPerRepo": 2216.0,
+    "totalListings": 20879,
+    "aiEnhancedDirectories": 2216
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28803,12 +28803,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-hot-towel-shaves-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:38:58.257876+00:00Z",
+      "lastUpdated": "2025-11-10T05:38:58.257876+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2215,
+      "directoryCount": 2216,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

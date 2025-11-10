@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:50:46.002612+00:00Z",
+  "lastUpdated": "2025-11-10T22:52:15.658912+00:00Z",
   "stats": {
-    "totalDirectories": 1253,
+    "totalDirectories": 1254,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1253.0,
-    "totalListings": 11660,
-    "aiEnhancedDirectories": 1253
+    "avgDirectoriesPerRepo": 1254.0,
+    "totalListings": 11670,
+    "aiEnhancedDirectories": 1254
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16297,12 +16297,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-corporate-websites-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:52:15.658912+00:00Z",
+      "lastUpdated": "2025-11-10T22:52:15.658912+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1253,
+      "directoryCount": 1254,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

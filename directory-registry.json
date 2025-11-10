@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:52:42.603809+00:00Z",
+  "lastUpdated": "2025-11-10T15:52:58.456075+00:00Z",
   "stats": {
-    "totalDirectories": 755,
+    "totalDirectories": 756,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 755.0,
-    "totalListings": 7064,
-    "aiEnhancedDirectories": 755
+    "avgDirectoriesPerRepo": 756.0,
+    "totalListings": 7074,
+    "aiEnhancedDirectories": 756
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9823,12 +9823,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-ethnic-catering-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:52:58.456075+00:00Z",
+      "lastUpdated": "2025-11-10T15:52:58.456075+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 755,
+      "directoryCount": 756,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:09:13.480032+00:00Z",
+  "lastUpdated": "2025-11-10T09:11:33.159019+00:00Z",
   "stats": {
-    "totalDirectories": 281,
+    "totalDirectories": 282,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 281.0,
-    "totalListings": 2725,
-    "aiEnhancedDirectories": 281
+    "avgDirectoriesPerRepo": 282.0,
+    "totalListings": 2735,
+    "aiEnhancedDirectories": 282
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3661,12 +3661,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-customer-service-training-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:11:33.159019+00:00Z",
+      "lastUpdated": "2025-11-10T09:11:33.159019+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 281,
+      "directoryCount": 282,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

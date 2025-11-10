@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:51:40.763297+00:00Z",
+  "lastUpdated": "2025-11-10T06:52:01.289018+00:00Z",
   "stats": {
-    "totalDirectories": 2465,
+    "totalDirectories": 2466,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2465.0,
-    "totalListings": 23303,
-    "aiEnhancedDirectories": 2465
+    "avgDirectoriesPerRepo": 2466.0,
+    "totalListings": 23313,
+    "aiEnhancedDirectories": 2466
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -32053,12 +32053,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-engine-replacement-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:52:01.289018+00:00Z",
+      "lastUpdated": "2025-11-10T06:52:01.289018+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2465,
+      "directoryCount": 2466,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

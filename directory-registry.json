@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:51:03.218629+00:00Z",
+  "lastUpdated": "2025-11-10T01:51:18.938125+00:00Z",
   "stats": {
-    "totalDirectories": 1691,
+    "totalDirectories": 1692,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1691.0,
-    "totalListings": 15835,
-    "aiEnhancedDirectories": 1691
+    "avgDirectoriesPerRepo": 1692.0,
+    "totalListings": 15845,
+    "aiEnhancedDirectories": 1692
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21991,12 +21991,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-kosher-catering-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:51:18.938125+00:00Z",
+      "lastUpdated": "2025-11-10T01:51:18.938125+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1691,
+      "directoryCount": 1692,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

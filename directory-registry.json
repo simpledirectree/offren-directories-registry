@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:05:57.940330+00:00Z",
+  "lastUpdated": "2025-11-10T04:06:12.491468+00:00Z",
   "stats": {
-    "totalDirectories": 1893,
+    "totalDirectories": 1894,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1893.0,
-    "totalListings": 17744,
-    "aiEnhancedDirectories": 1893
+    "avgDirectoriesPerRepo": 1894.0,
+    "totalListings": 17750,
+    "aiEnhancedDirectories": 1894
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24617,12 +24617,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-metal-roofing-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:06:12.491468+00:00Z",
+      "lastUpdated": "2025-11-10T04:06:12.491468+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1893,
+      "directoryCount": 1894,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:00:50.463404+00:00Z",
+  "lastUpdated": "2025-11-10T04:01:06.519784+00:00Z",
   "stats": {
-    "totalDirectories": 1875,
+    "totalDirectories": 1876,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1875.0,
-    "totalListings": 17569,
-    "aiEnhancedDirectories": 1875
+    "avgDirectoriesPerRepo": 1876.0,
+    "totalListings": 17574,
+    "aiEnhancedDirectories": 1876
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24383,12 +24383,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-garden-tool-maintenance-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:01:06.519784+00:00Z",
+      "lastUpdated": "2025-11-10T04:01:06.519784+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1875,
+      "directoryCount": 1876,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

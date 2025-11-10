@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:44:56.248816+00:00Z",
+  "lastUpdated": "2025-11-10T14:45:11.773747+00:00Z",
   "stats": {
-    "totalDirectories": 674,
+    "totalDirectories": 675,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 674.0,
-    "totalListings": 6332,
-    "aiEnhancedDirectories": 674
+    "avgDirectoriesPerRepo": 675.0,
+    "totalListings": 6342,
+    "aiEnhancedDirectories": 675
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8770,12 +8770,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-postnatal-recovery-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:45:11.773747+00:00Z",
+      "lastUpdated": "2025-11-10T14:45:11.773747+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 674,
+      "directoryCount": 675,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

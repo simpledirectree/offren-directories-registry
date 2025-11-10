@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:26:06.459943+00:00Z",
+  "lastUpdated": "2025-11-10T00:27:36.037826+00:00Z",
   "stats": {
-    "totalDirectories": 1597,
+    "totalDirectories": 1598,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1597.0,
-    "totalListings": 14992,
-    "aiEnhancedDirectories": 1597
+    "avgDirectoriesPerRepo": 1598.0,
+    "totalListings": 15002,
+    "aiEnhancedDirectories": 1598
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20769,12 +20769,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-rv-service-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:27:36.037826+00:00Z",
+      "lastUpdated": "2025-11-10T00:27:36.037826+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1597,
+      "directoryCount": 1598,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

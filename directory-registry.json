@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:20:09.498447+00:00Z",
+  "lastUpdated": "2025-11-10T21:20:25.052154+00:00Z",
   "stats": {
-    "totalDirectories": 1146,
+    "totalDirectories": 1147,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1146.0,
-    "totalListings": 10663,
-    "aiEnhancedDirectories": 1146
+    "avgDirectoriesPerRepo": 1147.0,
+    "totalListings": 10673,
+    "aiEnhancedDirectories": 1147
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14906,12 +14906,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-mobile-bicycle-repair-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:20:25.052154+00:00Z",
+      "lastUpdated": "2025-11-10T21:20:25.052154+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1146,
+      "directoryCount": 1147,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

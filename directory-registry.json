@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:35:52.082048+00:00Z",
+  "lastUpdated": "2025-11-10T13:36:54.611656+00:00Z",
   "stats": {
-    "totalDirectories": 590,
+    "totalDirectories": 591,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 590.0,
-    "totalListings": 5574,
-    "aiEnhancedDirectories": 590
+    "avgDirectoriesPerRepo": 591.0,
+    "totalListings": 5575,
+    "aiEnhancedDirectories": 591
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7678,12 +7678,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-social-media-marketing-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:36:54.611656+00:00Z",
+      "lastUpdated": "2025-11-10T13:36:54.611656+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 590,
+      "directoryCount": 591,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

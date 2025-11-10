@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:36:13.042988+00:00Z",
+  "lastUpdated": "2025-11-10T06:36:29.940150+00:00Z",
   "stats": {
-    "totalDirectories": 2413,
+    "totalDirectories": 2414,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2413.0,
-    "totalListings": 22783,
-    "aiEnhancedDirectories": 2413
+    "avgDirectoriesPerRepo": 2414.0,
+    "totalListings": 22793,
+    "aiEnhancedDirectories": 2414
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31377,12 +31377,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-international-moving-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:36:29.940150+00:00Z",
+      "lastUpdated": "2025-11-10T06:36:29.940150+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2413,
+      "directoryCount": 2414,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

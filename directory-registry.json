@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:29:08.874536+00:00Z",
+  "lastUpdated": "2025-11-10T10:29:24.484341+00:00Z",
   "stats": {
-    "totalDirectories": 382,
+    "totalDirectories": 383,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 382.0,
-    "totalListings": 3672,
-    "aiEnhancedDirectories": 382
+    "avgDirectoriesPerRepo": 383.0,
+    "totalListings": 3682,
+    "aiEnhancedDirectories": 383
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4974,12 +4974,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-x-ray-services-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:29:24.484341+00:00Z",
+      "lastUpdated": "2025-11-10T10:29:24.484341+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 382,
+      "directoryCount": 383,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

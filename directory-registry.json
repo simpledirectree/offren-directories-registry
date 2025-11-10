@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:02:52.701473+00:00Z",
+  "lastUpdated": "2025-11-10T05:03:09.718038+00:00Z",
   "stats": {
-    "totalDirectories": 2093,
+    "totalDirectories": 2094,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2093.0,
-    "totalListings": 19682,
-    "aiEnhancedDirectories": 2093
+    "avgDirectoriesPerRepo": 2094.0,
+    "totalListings": 19692,
+    "aiEnhancedDirectories": 2094
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27217,12 +27217,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-plated-catering-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:03:09.718038+00:00Z",
+      "lastUpdated": "2025-11-10T05:03:09.718038+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2093,
+      "directoryCount": 2094,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

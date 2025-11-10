@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:35:38.006556+00:00Z",
+  "lastUpdated": "2025-11-10T04:35:55.885913+00:00Z",
   "stats": {
-    "totalDirectories": 1997,
+    "totalDirectories": 1998,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1997.0,
-    "totalListings": 18751,
-    "aiEnhancedDirectories": 1997
+    "avgDirectoriesPerRepo": 1998.0,
+    "totalListings": 18761,
+    "aiEnhancedDirectories": 1998
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25969,12 +25969,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-house-call-doctors-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:35:55.885913+00:00Z",
+      "lastUpdated": "2025-11-10T04:35:55.885913+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1997,
+      "directoryCount": 1998,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

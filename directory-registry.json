@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:07:10.035570+00:00Z",
+  "lastUpdated": "2025-11-10T17:07:26.122056+00:00Z",
   "stats": {
-    "totalDirectories": 851,
+    "totalDirectories": 852,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 851.0,
-    "totalListings": 7929,
-    "aiEnhancedDirectories": 851
+    "avgDirectoriesPerRepo": 852.0,
+    "totalListings": 7939,
+    "aiEnhancedDirectories": 852
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11071,12 +11071,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-trade-secrets-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:07:26.122056+00:00Z",
+      "lastUpdated": "2025-11-10T17:07:26.122056+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 851,
+      "directoryCount": 852,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

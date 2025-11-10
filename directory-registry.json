@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:18:43.973328+00:00Z",
+  "lastUpdated": "2025-11-10T11:19:22.102316+00:00Z",
   "stats": {
-    "totalDirectories": 448,
+    "totalDirectories": 449,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 448.0,
-    "totalListings": 4290,
-    "aiEnhancedDirectories": 448
+    "avgDirectoriesPerRepo": 449.0,
+    "totalListings": 4300,
+    "aiEnhancedDirectories": 449
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5832,12 +5832,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-customer-relationship-management-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:19:22.102316+00:00Z",
+      "lastUpdated": "2025-11-10T11:19:22.102316+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 448,
+      "directoryCount": 449,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

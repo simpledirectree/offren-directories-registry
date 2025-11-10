@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:58:21.984233+00:00Z",
+  "lastUpdated": "2025-11-10T08:01:06.951045+00:00Z",
   "stats": {
-    "totalDirectories": 210,
+    "totalDirectories": 211,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 210.0,
-    "totalListings": 2050,
-    "aiEnhancedDirectories": 210
+    "avgDirectoriesPerRepo": 211.0,
+    "totalListings": 2060,
+    "aiEnhancedDirectories": 211
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2738,12 +2738,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-mentoring-services-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:01:06.951045+00:00Z",
+      "lastUpdated": "2025-11-10T08:01:06.951045+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 210,
+      "directoryCount": 211,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

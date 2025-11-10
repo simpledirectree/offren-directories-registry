@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:02:47.844487+00:00Z",
+  "lastUpdated": "2025-11-10T19:04:18.283815+00:00Z",
   "stats": {
-    "totalDirectories": 992,
+    "totalDirectories": 993,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 992.0,
-    "totalListings": 9236,
-    "aiEnhancedDirectories": 992
+    "avgDirectoriesPerRepo": 993.0,
+    "totalListings": 9241,
+    "aiEnhancedDirectories": 993
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12904,12 +12904,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-diet-specific-catering-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:04:18.283815+00:00Z",
+      "lastUpdated": "2025-11-10T19:04:18.283815+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 992,
+      "directoryCount": 993,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

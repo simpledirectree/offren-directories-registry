@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:10:16.312475+00:00Z",
+  "lastUpdated": "2025-11-10T03:12:33.877225+00:00Z",
   "stats": {
-    "totalDirectories": 1784,
+    "totalDirectories": 1785,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1784.0,
-    "totalListings": 16697,
-    "aiEnhancedDirectories": 1784
+    "avgDirectoriesPerRepo": 1785.0,
+    "totalListings": 16703,
+    "aiEnhancedDirectories": 1785
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23200,12 +23200,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-professional-organizing-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:12:33.877225+00:00Z",
+      "lastUpdated": "2025-11-10T03:12:33.877225+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1784,
+      "directoryCount": 1785,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

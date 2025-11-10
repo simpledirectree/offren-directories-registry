@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:45:24.676671+00:00Z",
+  "lastUpdated": "2025-11-10T07:45:41.166323+00:00Z",
   "stats": {
-    "totalDirectories": 184,
+    "totalDirectories": 185,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 184.0,
-    "totalListings": 1792,
-    "aiEnhancedDirectories": 184
+    "avgDirectoriesPerRepo": 185.0,
+    "totalListings": 1802,
+    "aiEnhancedDirectories": 185
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2400,12 +2400,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-air-conditioning-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:45:41.166323+00:00Z",
+      "lastUpdated": "2025-11-10T07:45:41.166323+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 184,
+      "directoryCount": 185,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

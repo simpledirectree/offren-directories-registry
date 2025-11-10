@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:26:27.169247+00:00Z",
+  "lastUpdated": "2025-11-10T04:26:41.563824+00:00Z",
   "stats": {
-    "totalDirectories": 1964,
+    "totalDirectories": 1965,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1964.0,
-    "totalListings": 18421,
-    "aiEnhancedDirectories": 1964
+    "avgDirectoriesPerRepo": 1965.0,
+    "totalListings": 18431,
+    "aiEnhancedDirectories": 1965
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25540,12 +25540,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-specialty-cuisine-catering-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:26:41.563824+00:00Z",
+      "lastUpdated": "2025-11-10T04:26:41.563824+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1964,
+      "directoryCount": 1965,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

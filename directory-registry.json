@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:41:56.955848+00:00Z",
+  "lastUpdated": "2025-11-10T05:42:13.246635+00:00Z",
   "stats": {
-    "totalDirectories": 2227,
+    "totalDirectories": 2228,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2227.0,
-    "totalListings": 20987,
-    "aiEnhancedDirectories": 2227
+    "avgDirectoriesPerRepo": 2228.0,
+    "totalListings": 20997,
+    "aiEnhancedDirectories": 2228
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28959,12 +28959,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-retirement-planning-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:42:13.246635+00:00Z",
+      "lastUpdated": "2025-11-10T05:42:13.246635+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2227,
+      "directoryCount": 2228,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

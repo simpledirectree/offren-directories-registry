@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:08:57.346523+00:00Z",
+  "lastUpdated": "2025-11-10T05:09:18.055580+00:00Z",
   "stats": {
-    "totalDirectories": 2113,
+    "totalDirectories": 2114,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2113.0,
-    "totalListings": 19882,
-    "aiEnhancedDirectories": 2113
+    "avgDirectoriesPerRepo": 2114.0,
+    "totalListings": 19892,
+    "aiEnhancedDirectories": 2114
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27477,12 +27477,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-aerialists-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:09:18.055580+00:00Z",
+      "lastUpdated": "2025-11-10T05:09:18.055580+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2113,
+      "directoryCount": 2114,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

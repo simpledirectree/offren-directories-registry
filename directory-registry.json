@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:12:21.085162+00:00Z",
+  "lastUpdated": "2025-11-10T17:12:37.744776+00:00Z",
   "stats": {
-    "totalDirectories": 856,
+    "totalDirectories": 857,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 856.0,
-    "totalListings": 7979,
-    "aiEnhancedDirectories": 856
+    "avgDirectoriesPerRepo": 857.0,
+    "totalListings": 7989,
+    "aiEnhancedDirectories": 857
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11136,12 +11136,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-real-estate-agents-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:12:37.744776+00:00Z",
+      "lastUpdated": "2025-11-10T17:12:37.744776+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 856,
+      "directoryCount": 857,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

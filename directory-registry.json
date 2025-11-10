@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:43:43.452021+00:00Z",
+  "lastUpdated": "2025-11-10T18:43:58.771137+00:00Z",
   "stats": {
-    "totalDirectories": 963,
+    "totalDirectories": 964,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 963.0,
-    "totalListings": 8982,
-    "aiEnhancedDirectories": 963
+    "avgDirectoriesPerRepo": 964.0,
+    "totalListings": 8992,
+    "aiEnhancedDirectories": 964
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12527,12 +12527,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-restorative-yoga-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:43:58.771137+00:00Z",
+      "lastUpdated": "2025-11-10T18:43:58.771137+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 963,
+      "directoryCount": 964,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:16:15.655282+00:00Z",
+  "lastUpdated": "2025-11-10T18:16:57.479918+00:00Z",
   "stats": {
-    "totalDirectories": 928,
+    "totalDirectories": 929,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 928.0,
-    "totalListings": 8651,
-    "aiEnhancedDirectories": 928
+    "avgDirectoriesPerRepo": 929.0,
+    "totalListings": 8661,
+    "aiEnhancedDirectories": 929
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12072,12 +12072,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-drought-resistant-landscaping-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:16:57.479918+00:00Z",
+      "lastUpdated": "2025-11-10T18:16:57.479918+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 928,
+      "directoryCount": 929,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

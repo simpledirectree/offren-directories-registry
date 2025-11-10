@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:22:56.528078+00:00Z",
+  "lastUpdated": "2025-11-10T04:23:09.604150+00:00Z",
   "stats": {
-    "totalDirectories": 1952,
+    "totalDirectories": 1953,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1952.0,
-    "totalListings": 18310,
-    "aiEnhancedDirectories": 1952
+    "avgDirectoriesPerRepo": 1953.0,
+    "totalListings": 18311,
+    "aiEnhancedDirectories": 1953
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25384,12 +25384,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-quick-service-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:23:09.604150+00:00Z",
+      "lastUpdated": "2025-11-10T04:23:09.604150+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1952,
+      "directoryCount": 1953,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

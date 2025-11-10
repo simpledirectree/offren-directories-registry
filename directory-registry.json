@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:45:03.521572+00:00Z",
+  "lastUpdated": "2025-11-10T05:45:18.602749+00:00Z",
   "stats": {
-    "totalDirectories": 2238,
+    "totalDirectories": 2239,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2238.0,
-    "totalListings": 21089,
-    "aiEnhancedDirectories": 2238
+    "avgDirectoriesPerRepo": 2239.0,
+    "totalListings": 21099,
+    "aiEnhancedDirectories": 2239
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29102,12 +29102,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-infrastructure-optimization-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:45:18.602749+00:00Z",
+      "lastUpdated": "2025-11-10T05:45:18.602749+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2238,
+      "directoryCount": 2239,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:14:53.795636+00:00Z",
+  "lastUpdated": "2025-11-10T04:15:11.372639+00:00Z",
   "stats": {
-    "totalDirectories": 1924,
+    "totalDirectories": 1925,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1924.0,
-    "totalListings": 18037,
-    "aiEnhancedDirectories": 1924
+    "avgDirectoriesPerRepo": 1925.0,
+    "totalListings": 18047,
+    "aiEnhancedDirectories": 1925
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25020,12 +25020,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-handyman-services-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:15:11.372639+00:00Z",
+      "lastUpdated": "2025-11-10T04:15:11.372639+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1924,
+      "directoryCount": 1925,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

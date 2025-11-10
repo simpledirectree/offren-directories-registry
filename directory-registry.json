@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:31:09.587742+00:00Z",
+  "lastUpdated": "2025-11-10T04:31:26.600144+00:00Z",
   "stats": {
-    "totalDirectories": 1981,
+    "totalDirectories": 1982,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1981.0,
-    "totalListings": 18591,
-    "aiEnhancedDirectories": 1981
+    "avgDirectoriesPerRepo": 1982.0,
+    "totalListings": 18601,
+    "aiEnhancedDirectories": 1982
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25761,12 +25761,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-deck-repairs-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:31:26.600144+00:00Z",
+      "lastUpdated": "2025-11-10T04:31:26.600144+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1981,
+      "directoryCount": 1982,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:05:58.374952+00:00Z",
+  "lastUpdated": "2025-11-10T13:06:38.033329+00:00Z",
   "stats": {
-    "totalDirectories": 563,
+    "totalDirectories": 564,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 563.0,
-    "totalListings": 5347,
-    "aiEnhancedDirectories": 563
+    "avgDirectoriesPerRepo": 564.0,
+    "totalListings": 5357,
+    "aiEnhancedDirectories": 564
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7327,12 +7327,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-software-selection-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:06:38.033329+00:00Z",
+      "lastUpdated": "2025-11-10T13:06:38.033329+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 563,
+      "directoryCount": 564,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

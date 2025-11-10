@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:54:29.470178+00:00Z",
+  "lastUpdated": "2025-11-10T06:54:46.955643+00:00Z",
   "stats": {
-    "totalDirectories": 2,
+    "totalDirectories": 3,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2.0,
-    "totalListings": 20,
-    "aiEnhancedDirectories": 2
+    "avgDirectoriesPerRepo": 3.0,
+    "totalListings": 30,
+    "aiEnhancedDirectories": 3
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -34,12 +34,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-wireless-networks-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:54:46.955643+00:00Z",
+      "lastUpdated": "2025-11-10T06:54:46.955643+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 2,
+      "directoryCount": 3,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

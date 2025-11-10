@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:51:56.649225+00:00Z",
+  "lastUpdated": "2025-11-10T02:52:37.979872+00:00Z",
   "stats": {
-    "totalDirectories": 1764,
+    "totalDirectories": 1765,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1764.0,
-    "totalListings": 16512,
-    "aiEnhancedDirectories": 1764
+    "avgDirectoriesPerRepo": 1765.0,
+    "totalListings": 16522,
+    "aiEnhancedDirectories": 1765
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22940,12 +22940,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-integrative-medicine-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:52:37.979872+00:00Z",
+      "lastUpdated": "2025-11-10T02:52:37.979872+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1764,
+      "directoryCount": 1765,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:23:14.285370+00:00Z",
+  "lastUpdated": "2025-11-10T05:23:29.578465+00:00Z",
   "stats": {
-    "totalDirectories": 2161,
+    "totalDirectories": 2162,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2161.0,
-    "totalListings": 20356,
-    "aiEnhancedDirectories": 2161
+    "avgDirectoriesPerRepo": 2162.0,
+    "totalListings": 20366,
+    "aiEnhancedDirectories": 2162
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28101,12 +28101,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-property-insurance-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:23:29.578465+00:00Z",
+      "lastUpdated": "2025-11-10T05:23:29.578465+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2161,
+      "directoryCount": 2162,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

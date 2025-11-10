@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:26:53.249364+00:00Z",
+  "lastUpdated": "2025-11-10T07:27:10.689346+00:00Z",
   "stats": {
-    "totalDirectories": 120,
+    "totalDirectories": 121,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 120.0,
-    "totalListings": 1159,
-    "aiEnhancedDirectories": 120
+    "avgDirectoriesPerRepo": 121.0,
+    "totalListings": 1169,
+    "aiEnhancedDirectories": 121
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1568,12 +1568,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-stump-grinding-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:27:10.689346+00:00Z",
+      "lastUpdated": "2025-11-10T07:27:10.689346+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 120,
+      "directoryCount": 121,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

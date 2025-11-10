@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:14:51.475529+00:00Z",
+  "lastUpdated": "2025-11-10T11:15:56.673054+00:00Z",
   "stats": {
-    "totalDirectories": 442,
+    "totalDirectories": 443,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 442.0,
-    "totalListings": 4230,
-    "aiEnhancedDirectories": 442
+    "avgDirectoriesPerRepo": 443.0,
+    "totalListings": 4240,
+    "aiEnhancedDirectories": 443
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5754,12 +5754,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-daily-financial-record-keeping-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:15:56.673054+00:00Z",
+      "lastUpdated": "2025-11-10T11:15:56.673054+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 442,
+      "directoryCount": 443,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

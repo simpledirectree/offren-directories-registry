@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:00:48.925048+00:00Z",
+  "lastUpdated": "2025-11-10T18:01:06.191134+00:00Z",
   "stats": {
-    "totalDirectories": 909,
+    "totalDirectories": 910,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 909.0,
-    "totalListings": 8479,
-    "aiEnhancedDirectories": 909
+    "avgDirectoriesPerRepo": 910.0,
+    "totalListings": 8489,
+    "aiEnhancedDirectories": 910
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11825,12 +11825,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-manual-labor-for-projects-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:01:06.191134+00:00Z",
+      "lastUpdated": "2025-11-10T18:01:06.191134+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 909,
+      "directoryCount": 910,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

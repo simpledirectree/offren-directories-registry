@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:46:18.442292+00:00Z",
+  "lastUpdated": "2025-11-10T19:46:34.131554+00:00Z",
   "stats": {
-    "totalDirectories": 1035,
+    "totalDirectories": 1036,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1035.0,
-    "totalListings": 9636,
-    "aiEnhancedDirectories": 1035
+    "avgDirectoriesPerRepo": 1036.0,
+    "totalListings": 9646,
+    "aiEnhancedDirectories": 1036
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13463,12 +13463,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-project-management-services-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:46:34.131554+00:00Z",
+      "lastUpdated": "2025-11-10T19:46:34.131554+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1035,
+      "directoryCount": 1036,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

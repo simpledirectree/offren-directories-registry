@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:54:51.573789+00:00Z",
+  "lastUpdated": "2025-11-10T04:55:09.142053+00:00Z",
   "stats": {
-    "totalDirectories": 2065,
+    "totalDirectories": 2066,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2065.0,
-    "totalListings": 19411,
-    "aiEnhancedDirectories": 2065
+    "avgDirectoriesPerRepo": 2066.0,
+    "totalListings": 19421,
+    "aiEnhancedDirectories": 2066
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26853,12 +26853,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-golf-coaching-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:55:09.142053+00:00Z",
+      "lastUpdated": "2025-11-10T04:55:09.142053+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2065,
+      "directoryCount": 2066,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

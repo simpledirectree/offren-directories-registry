@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:52:37.979872+00:00Z",
+  "lastUpdated": "2025-11-10T02:53:44.229144+00:00Z",
   "stats": {
-    "totalDirectories": 1765,
+    "totalDirectories": 1766,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1765.0,
-    "totalListings": 16522,
-    "aiEnhancedDirectories": 1765
+    "avgDirectoriesPerRepo": 1766.0,
+    "totalListings": 16532,
+    "aiEnhancedDirectories": 1766
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22953,12 +22953,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-payroll-administration-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:53:44.229144+00:00Z",
+      "lastUpdated": "2025-11-10T02:53:44.229144+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1765,
+      "directoryCount": 1766,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

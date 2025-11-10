@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:23:29.578465+00:00Z",
+  "lastUpdated": "2025-11-10T05:23:45.333165+00:00Z",
   "stats": {
-    "totalDirectories": 2162,
+    "totalDirectories": 2163,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2162.0,
-    "totalListings": 20366,
-    "aiEnhancedDirectories": 2162
+    "avgDirectoriesPerRepo": 2163.0,
+    "totalListings": 20376,
+    "aiEnhancedDirectories": 2163
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28114,12 +28114,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-yin-yoga-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:23:45.333165+00:00Z",
+      "lastUpdated": "2025-11-10T05:23:45.333165+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2162,
+      "directoryCount": 2163,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

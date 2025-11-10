@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:40:58.882852+00:00Z",
+  "lastUpdated": "2025-11-10T09:41:59.403674+00:00Z",
   "stats": {
-    "totalDirectories": 327,
+    "totalDirectories": 328,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 327.0,
-    "totalListings": 3153,
-    "aiEnhancedDirectories": 327
+    "avgDirectoriesPerRepo": 328.0,
+    "totalListings": 3163,
+    "aiEnhancedDirectories": 328
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4259,12 +4259,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-plumbing-fixtures-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:41:59.403674+00:00Z",
+      "lastUpdated": "2025-11-10T09:41:59.403674+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 327,
+      "directoryCount": 328,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

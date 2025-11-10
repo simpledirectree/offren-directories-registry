@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:28:17.872081+00:00Z",
+  "lastUpdated": "2025-11-10T01:28:59.214273+00:00Z",
   "stats": {
-    "totalDirectories": 1660,
+    "totalDirectories": 1661,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1660.0,
-    "totalListings": 15551,
-    "aiEnhancedDirectories": 1660
+    "avgDirectoriesPerRepo": 1661.0,
+    "totalListings": 15558,
+    "aiEnhancedDirectories": 1661
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21588,12 +21588,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-real-estate-law-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:28:59.214273+00:00Z",
+      "lastUpdated": "2025-11-10T01:28:59.214273+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1660,
+      "directoryCount": 1661,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

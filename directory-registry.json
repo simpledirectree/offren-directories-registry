@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:24:02.981504+00:00Z",
+  "lastUpdated": "2025-11-10T10:24:20.840779+00:00Z",
   "stats": {
-    "totalDirectories": 375,
+    "totalDirectories": 376,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 375.0,
-    "totalListings": 3602,
-    "aiEnhancedDirectories": 375
+    "avgDirectoriesPerRepo": 376.0,
+    "totalListings": 3612,
+    "aiEnhancedDirectories": 376
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4883,12 +4883,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-flooring-installation-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:24:20.840779+00:00Z",
+      "lastUpdated": "2025-11-10T10:24:20.840779+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 375,
+      "directoryCount": 376,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

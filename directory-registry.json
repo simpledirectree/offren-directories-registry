@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:36:29.940150+00:00Z",
+  "lastUpdated": "2025-11-10T06:36:46.929900+00:00Z",
   "stats": {
-    "totalDirectories": 2414,
+    "totalDirectories": 2415,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2414.0,
-    "totalListings": 22793,
-    "aiEnhancedDirectories": 2414
+    "avgDirectoriesPerRepo": 2415.0,
+    "totalListings": 22803,
+    "aiEnhancedDirectories": 2415
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31390,12 +31390,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-wine-bars-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:36:46.929900+00:00Z",
+      "lastUpdated": "2025-11-10T06:36:46.929900+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2414,
+      "directoryCount": 2415,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

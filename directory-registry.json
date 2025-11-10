@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:25:13.752969+00:00Z",
+  "lastUpdated": "2025-11-10T04:25:29.489420+00:00Z",
   "stats": {
-    "totalDirectories": 1960,
+    "totalDirectories": 1961,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1960.0,
-    "totalListings": 18381,
-    "aiEnhancedDirectories": 1960
+    "avgDirectoriesPerRepo": 1961.0,
+    "totalListings": 18391,
+    "aiEnhancedDirectories": 1961
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25488,12 +25488,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-buffet-restaurants-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:25:29.489420+00:00Z",
+      "lastUpdated": "2025-11-10T04:25:29.489420+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1960,
+      "directoryCount": 1961,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

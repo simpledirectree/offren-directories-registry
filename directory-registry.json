@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:09:18.930522+00:00Z",
+  "lastUpdated": "2025-11-10T06:09:38.671602+00:00Z",
   "stats": {
-    "totalDirectories": 2320,
+    "totalDirectories": 2321,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2320.0,
-    "totalListings": 21887,
-    "aiEnhancedDirectories": 2320
+    "avgDirectoriesPerRepo": 2321.0,
+    "totalListings": 21897,
+    "aiEnhancedDirectories": 2321
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30168,12 +30168,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-quality-control-procedures-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:09:38.671602+00:00Z",
+      "lastUpdated": "2025-11-10T06:09:38.671602+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2320,
+      "directoryCount": 2321,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

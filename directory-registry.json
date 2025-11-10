@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:55:30.385747+00:00Z",
+  "lastUpdated": "2025-11-10T06:55:45.579160+00:00Z",
   "stats": {
-    "totalDirectories": 6,
+    "totalDirectories": 7,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 6.0,
-    "totalListings": 60,
-    "aiEnhancedDirectories": 6
+    "avgDirectoriesPerRepo": 7.0,
+    "totalListings": 70,
+    "aiEnhancedDirectories": 7
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -86,12 +86,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-personal-lending-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:55:45.579160+00:00Z",
+      "lastUpdated": "2025-11-10T06:55:45.579160+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 6,
+      "directoryCount": 7,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

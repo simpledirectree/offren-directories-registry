@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:39:42.554954+00:00Z",
+  "lastUpdated": "2025-11-10T07:39:58.431692+00:00Z",
   "stats": {
-    "totalDirectories": 164,
+    "totalDirectories": 165,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 164.0,
-    "totalListings": 1596,
-    "aiEnhancedDirectories": 164
+    "avgDirectoriesPerRepo": 165.0,
+    "totalListings": 1606,
+    "aiEnhancedDirectories": 165
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2140,12 +2140,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-physical-therapy-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:39:58.431692+00:00Z",
+      "lastUpdated": "2025-11-10T07:39:58.431692+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 164,
+      "directoryCount": 165,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

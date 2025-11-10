@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:36:46.018033+00:00Z",
+  "lastUpdated": "2025-11-10T09:36:59.414973+00:00Z",
   "stats": {
-    "totalDirectories": 320,
+    "totalDirectories": 321,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 320.0,
-    "totalListings": 3088,
-    "aiEnhancedDirectories": 320
+    "avgDirectoriesPerRepo": 321.0,
+    "totalListings": 3093,
+    "aiEnhancedDirectories": 321
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4168,12 +4168,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-dermaplaning-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:36:59.414973+00:00Z",
+      "lastUpdated": "2025-11-10T09:36:59.414973+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 320,
+      "directoryCount": 321,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

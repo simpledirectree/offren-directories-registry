@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:04:28.780474+00:00Z",
+  "lastUpdated": "2025-11-10T03:05:09.173316+00:00Z",
   "stats": {
-    "totalDirectories": 1775,
+    "totalDirectories": 1776,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1775.0,
-    "totalListings": 16613,
-    "aiEnhancedDirectories": 1775
+    "avgDirectoriesPerRepo": 1776.0,
+    "totalListings": 16622,
+    "aiEnhancedDirectories": 1776
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23083,12 +23083,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-tire-repair-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:05:09.173316+00:00Z",
+      "lastUpdated": "2025-11-10T03:05:09.173316+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1775,
+      "directoryCount": 1776,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

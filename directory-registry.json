@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:41:26.792763+00:00Z",
+  "lastUpdated": "2025-11-10T02:41:42.092772+00:00Z",
   "stats": {
-    "totalDirectories": 1752,
+    "totalDirectories": 1753,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1752.0,
-    "totalListings": 16406,
-    "aiEnhancedDirectories": 1752
+    "avgDirectoriesPerRepo": 1753.0,
+    "totalListings": 16416,
+    "aiEnhancedDirectories": 1753
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22784,12 +22784,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-specialty-diet-services-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:41:42.092772+00:00Z",
+      "lastUpdated": "2025-11-10T02:41:42.092772+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1752,
+      "directoryCount": 1753,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

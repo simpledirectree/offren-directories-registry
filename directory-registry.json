@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:43:57.727779+00:00Z",
+  "lastUpdated": "2025-11-10T20:44:37.164188+00:00Z",
   "stats": {
-    "totalDirectories": 1096,
+    "totalDirectories": 1097,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1096.0,
-    "totalListings": 10212,
-    "aiEnhancedDirectories": 1096
+    "avgDirectoriesPerRepo": 1097.0,
+    "totalListings": 10217,
+    "aiEnhancedDirectories": 1097
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14256,12 +14256,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-daycare-centers-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:44:37.164188+00:00Z",
+      "lastUpdated": "2025-11-10T20:44:37.164188+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1096,
+      "directoryCount": 1097,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

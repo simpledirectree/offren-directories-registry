@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:35:41.156870+00:00Z",
+  "lastUpdated": "2025-11-10T05:35:58.115459+00:00Z",
   "stats": {
-    "totalDirectories": 2204,
+    "totalDirectories": 2205,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2204.0,
-    "totalListings": 20759,
-    "aiEnhancedDirectories": 2204
+    "avgDirectoriesPerRepo": 2205.0,
+    "totalListings": 20769,
+    "aiEnhancedDirectories": 2205
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28660,12 +28660,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-tax-strategy-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:35:58.115459+00:00Z",
+      "lastUpdated": "2025-11-10T05:35:58.115459+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2204,
+      "directoryCount": 2205,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

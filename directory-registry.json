@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:33:58.215832+00:00Z",
+  "lastUpdated": "2025-11-10T15:34:41.702246+00:00Z",
   "stats": {
-    "totalDirectories": 725,
+    "totalDirectories": 726,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 725.0,
-    "totalListings": 6788,
-    "aiEnhancedDirectories": 725
+    "avgDirectoriesPerRepo": 726.0,
+    "totalListings": 6798,
+    "aiEnhancedDirectories": 726
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9433,12 +9433,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-fine-dining-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:34:41.702246+00:00Z",
+      "lastUpdated": "2025-11-10T15:34:41.702246+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 725,
+      "directoryCount": 726,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

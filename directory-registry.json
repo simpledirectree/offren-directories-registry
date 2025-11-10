@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:40:36.648851+00:00Z",
+  "lastUpdated": "2025-11-10T04:40:55.505603+00:00Z",
   "stats": {
-    "totalDirectories": 2014,
+    "totalDirectories": 2015,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2014.0,
-    "totalListings": 18921,
-    "aiEnhancedDirectories": 2014
+    "avgDirectoriesPerRepo": 2015.0,
+    "totalListings": 18931,
+    "aiEnhancedDirectories": 2015
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26190,12 +26190,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-background-check-services-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:40:55.505603+00:00Z",
+      "lastUpdated": "2025-11-10T04:40:55.505603+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2014,
+      "directoryCount": 2015,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

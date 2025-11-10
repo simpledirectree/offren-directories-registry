@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:00:33.989731+00:00Z",
+  "lastUpdated": "2025-11-10T06:00:53.273309+00:00Z",
   "stats": {
-    "totalDirectories": 2291,
+    "totalDirectories": 2292,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2291.0,
-    "totalListings": 21615,
-    "aiEnhancedDirectories": 2291
+    "avgDirectoriesPerRepo": 2292.0,
+    "totalListings": 21625,
+    "aiEnhancedDirectories": 2292
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29791,12 +29791,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-detox-programs-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:00:53.273309+00:00Z",
+      "lastUpdated": "2025-11-10T06:00:53.273309+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2291,
+      "directoryCount": 2292,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

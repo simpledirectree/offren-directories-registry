@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:18:42.129680+00:00Z",
+  "lastUpdated": "2025-11-10T20:21:12.465798+00:00Z",
   "stats": {
-    "totalDirectories": 1072,
+    "totalDirectories": 1073,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1072.0,
-    "totalListings": 9972,
-    "aiEnhancedDirectories": 1072
+    "avgDirectoriesPerRepo": 1073.0,
+    "totalListings": 9982,
+    "aiEnhancedDirectories": 1073
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13944,12 +13944,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-record-keeping-systems-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:21:12.465798+00:00Z",
+      "lastUpdated": "2025-11-10T20:21:12.465798+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1072,
+      "directoryCount": 1073,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

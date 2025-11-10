@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:10:06.751950+00:00Z",
+  "lastUpdated": "2025-11-10T00:10:21.172372+00:00Z",
   "stats": {
-    "totalDirectories": 1571,
+    "totalDirectories": 1572,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1571.0,
-    "totalListings": 14768,
-    "aiEnhancedDirectories": 1571
+    "avgDirectoriesPerRepo": 1572.0,
+    "totalListings": 14778,
+    "aiEnhancedDirectories": 1572
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20431,12 +20431,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-receptionist-services-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:10:21.172372+00:00Z",
+      "lastUpdated": "2025-11-10T00:10:21.172372+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1571,
+      "directoryCount": 1572,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

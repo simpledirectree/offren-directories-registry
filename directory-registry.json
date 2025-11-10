@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:44:37.777417+00:00Z",
+  "lastUpdated": "2025-11-10T22:44:53.067655+00:00Z",
   "stats": {
-    "totalDirectories": 1248,
+    "totalDirectories": 1249,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1248.0,
-    "totalListings": 11610,
-    "aiEnhancedDirectories": 1248
+    "avgDirectoriesPerRepo": 1249.0,
+    "totalListings": 11620,
+    "aiEnhancedDirectories": 1249
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16232,12 +16232,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-risk-assessments-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:44:53.067655+00:00Z",
+      "lastUpdated": "2025-11-10T22:44:53.067655+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1248,
+      "directoryCount": 1249,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:43:05.852806+00:00Z",
+  "lastUpdated": "2025-11-10T00:43:45.860942+00:00Z",
   "stats": {
-    "totalDirectories": 1613,
+    "totalDirectories": 1614,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1613.0,
-    "totalListings": 15139,
-    "aiEnhancedDirectories": 1613
+    "avgDirectoriesPerRepo": 1614.0,
+    "totalListings": 15147,
+    "aiEnhancedDirectories": 1614
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20977,12 +20977,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-deep-tissue-massage-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:43:45.860942+00:00Z",
+      "lastUpdated": "2025-11-10T00:43:45.860942+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1613,
+      "directoryCount": 1614,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:22:32.539035+00:00Z",
+  "lastUpdated": "2025-11-10T06:22:49.065692+00:00Z",
   "stats": {
-    "totalDirectories": 2366,
+    "totalDirectories": 2367,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2366.0,
-    "totalListings": 22333,
-    "aiEnhancedDirectories": 2366
+    "avgDirectoriesPerRepo": 2367.0,
+    "totalListings": 22343,
+    "aiEnhancedDirectories": 2367
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30766,12 +30766,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-customer-relationship-management-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:22:49.065692+00:00Z",
+      "lastUpdated": "2025-11-10T06:22:49.065692+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2366,
+      "directoryCount": 2367,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

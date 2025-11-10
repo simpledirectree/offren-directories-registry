@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:47:13.875454+00:00Z",
+  "lastUpdated": "2025-11-10T07:47:33.491974+00:00Z",
   "stats": {
-    "totalDirectories": 190,
+    "totalDirectories": 191,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 190.0,
-    "totalListings": 1852,
-    "aiEnhancedDirectories": 190
+    "avgDirectoriesPerRepo": 191.0,
+    "totalListings": 1862,
+    "aiEnhancedDirectories": 191
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2478,12 +2478,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-switch-installation-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:47:33.491974+00:00Z",
+      "lastUpdated": "2025-11-10T07:47:33.491974+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 190,
+      "directoryCount": 191,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

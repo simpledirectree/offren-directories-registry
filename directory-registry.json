@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:27:41.901626+00:00Z",
+  "lastUpdated": "2025-11-10T07:28:10.773016+00:00Z",
   "stats": {
-    "totalDirectories": 123,
+    "totalDirectories": 124,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 123.0,
-    "totalListings": 1189,
-    "aiEnhancedDirectories": 123
+    "avgDirectoriesPerRepo": 124.0,
+    "totalListings": 1199,
+    "aiEnhancedDirectories": 124
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1607,12 +1607,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-talent-management-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:28:10.773016+00:00Z",
+      "lastUpdated": "2025-11-10T07:28:10.773016+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 123,
+      "directoryCount": 124,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

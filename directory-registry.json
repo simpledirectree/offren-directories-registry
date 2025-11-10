@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:59:26.817949+00:00Z",
+  "lastUpdated": "2025-11-10T15:00:09.626436+00:00Z",
   "stats": {
-    "totalDirectories": 686,
+    "totalDirectories": 687,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 686.0,
-    "totalListings": 6428,
-    "aiEnhancedDirectories": 686
+    "avgDirectoriesPerRepo": 687.0,
+    "totalListings": 6438,
+    "aiEnhancedDirectories": 687
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8926,12 +8926,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-permanent-staffing-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:00:09.626436+00:00Z",
+      "lastUpdated": "2025-11-10T15:00:09.626436+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 686,
+      "directoryCount": 687,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

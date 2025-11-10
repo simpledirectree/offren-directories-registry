@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:02:28.504206+00:00Z",
+  "lastUpdated": "2025-11-10T16:03:12.783735+00:00Z",
   "stats": {
-    "totalDirectories": 768,
+    "totalDirectories": 769,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 768.0,
-    "totalListings": 7189,
-    "aiEnhancedDirectories": 768
+    "avgDirectoriesPerRepo": 769.0,
+    "totalListings": 7199,
+    "aiEnhancedDirectories": 769
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9992,12 +9992,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-behavioral-training-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:03:12.783735+00:00Z",
+      "lastUpdated": "2025-11-10T16:03:12.783735+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 768,
+      "directoryCount": 769,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

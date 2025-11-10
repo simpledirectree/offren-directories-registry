@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:12:52.053424+00:00Z",
+  "lastUpdated": "2025-11-10T09:13:06.861333+00:00Z",
   "stats": {
-    "totalDirectories": 284,
+    "totalDirectories": 285,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 284.0,
-    "totalListings": 2755,
-    "aiEnhancedDirectories": 284
+    "avgDirectoriesPerRepo": 285.0,
+    "totalListings": 2763,
+    "aiEnhancedDirectories": 285
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3700,12 +3700,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-tire-rotation-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:13:06.861333+00:00Z",
+      "lastUpdated": "2025-11-10T09:13:06.861333+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 284,
+      "directoryCount": 285,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

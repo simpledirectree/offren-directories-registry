@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:57:34.580792+00:00Z",
+  "lastUpdated": "2025-11-10T04:57:53.639486+00:00Z",
   "stats": {
-    "totalDirectories": 2075,
+    "totalDirectories": 2076,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2075.0,
-    "totalListings": 19509,
-    "aiEnhancedDirectories": 2075
+    "avgDirectoriesPerRepo": 2076.0,
+    "totalListings": 19519,
+    "aiEnhancedDirectories": 2076
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26983,12 +26983,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-shopping-ads-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:57:53.639486+00:00Z",
+      "lastUpdated": "2025-11-10T04:57:53.639486+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2075,
+      "directoryCount": 2076,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

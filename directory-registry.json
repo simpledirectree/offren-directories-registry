@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:25:54.851178+00:00Z",
+  "lastUpdated": "2025-11-10T05:26:13.905691+00:00Z",
   "stats": {
-    "totalDirectories": 2171,
+    "totalDirectories": 2172,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2171.0,
-    "totalListings": 20456,
-    "aiEnhancedDirectories": 2171
+    "avgDirectoriesPerRepo": 2172.0,
+    "totalListings": 20466,
+    "aiEnhancedDirectories": 2172
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28231,12 +28231,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-mobile-dog-groomers-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:26:13.905691+00:00Z",
+      "lastUpdated": "2025-11-10T05:26:13.905691+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2171,
+      "directoryCount": 2172,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

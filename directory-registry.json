@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:57:24.137039+00:00Z",
+  "lastUpdated": "2025-11-10T00:58:08.017123+00:00Z",
   "stats": {
-    "totalDirectories": 1627,
+    "totalDirectories": 1628,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1627.0,
-    "totalListings": 15263,
-    "aiEnhancedDirectories": 1627
+    "avgDirectoriesPerRepo": 1628.0,
+    "totalListings": 15273,
+    "aiEnhancedDirectories": 1628
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21159,12 +21159,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-rose-care-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:58:08.017123+00:00Z",
+      "lastUpdated": "2025-11-10T00:58:08.017123+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1627,
+      "directoryCount": 1628,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

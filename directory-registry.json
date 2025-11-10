@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:31:07.390956+00:00Z",
+  "lastUpdated": "2025-11-10T03:31:47.880821+00:00Z",
   "stats": {
-    "totalDirectories": 1800,
+    "totalDirectories": 1801,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1800.0,
-    "totalListings": 16842,
-    "aiEnhancedDirectories": 1800
+    "avgDirectoriesPerRepo": 1801.0,
+    "totalListings": 16852,
+    "aiEnhancedDirectories": 1801
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23408,12 +23408,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-insurance-planning-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:31:47.880821+00:00Z",
+      "lastUpdated": "2025-11-10T03:31:47.880821+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1800,
+      "directoryCount": 1801,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:05:53.923805+00:00Z",
+  "lastUpdated": "2025-11-10T20:06:10.193794+00:00Z",
   "stats": {
-    "totalDirectories": 1053,
+    "totalDirectories": 1054,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1053.0,
-    "totalListings": 9803,
-    "aiEnhancedDirectories": 1053
+    "avgDirectoriesPerRepo": 1054.0,
+    "totalListings": 9813,
+    "aiEnhancedDirectories": 1054
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13697,12 +13697,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-pet-photography-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:06:10.193794+00:00Z",
+      "lastUpdated": "2025-11-10T20:06:10.193794+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1053,
+      "directoryCount": 1054,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

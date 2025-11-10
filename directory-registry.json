@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:44:00.285129+00:00Z",
+  "lastUpdated": "2025-11-10T07:44:17.711290+00:00Z",
   "stats": {
-    "totalDirectories": 179,
+    "totalDirectories": 180,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 179.0,
-    "totalListings": 1742,
-    "aiEnhancedDirectories": 179
+    "avgDirectoriesPerRepo": 180.0,
+    "totalListings": 1752,
+    "aiEnhancedDirectories": 180
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2335,12 +2335,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-financing-assistance-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:44:17.711290+00:00Z",
+      "lastUpdated": "2025-11-10T07:44:17.711290+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 179,
+      "directoryCount": 180,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

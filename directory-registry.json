@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T08:35:05.854789+00:00Z",
+  "lastUpdated": "2025-11-10T08:38:55.799835+00:00Z",
   "stats": {
-    "totalDirectories": 245,
+    "totalDirectories": 246,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 245.0,
-    "totalListings": 2383,
-    "aiEnhancedDirectories": 245
+    "avgDirectoriesPerRepo": 246.0,
+    "totalListings": 2393,
+    "aiEnhancedDirectories": 246
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3193,12 +3193,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-climate-controlled-storage-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:38:55.799835+00:00Z",
+      "lastUpdated": "2025-11-10T08:38:55.799835+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 245,
+      "directoryCount": 246,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

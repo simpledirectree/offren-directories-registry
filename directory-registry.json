@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:48:50.681890+00:00Z",
+  "lastUpdated": "2025-11-10T04:49:04.367745+00:00Z",
   "stats": {
-    "totalDirectories": 2044,
+    "totalDirectories": 2045,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2044.0,
-    "totalListings": 19207,
-    "aiEnhancedDirectories": 2044
+    "avgDirectoriesPerRepo": 2045.0,
+    "totalListings": 19217,
+    "aiEnhancedDirectories": 2045
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26580,12 +26580,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-party-planners-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:49:04.367745+00:00Z",
+      "lastUpdated": "2025-11-10T04:49:04.367745+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2044,
+      "directoryCount": 2045,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:14:36.103609+00:00Z",
+  "lastUpdated": "2025-11-10T07:14:52.100436+00:00Z",
   "stats": {
-    "totalDirectories": 75,
+    "totalDirectories": 76,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 75.0,
-    "totalListings": 728,
-    "aiEnhancedDirectories": 75
+    "avgDirectoriesPerRepo": 76.0,
+    "totalListings": 738,
+    "aiEnhancedDirectories": 76
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -983,12 +983,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-vinyasa-yoga-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:14:52.100436+00:00Z",
+      "lastUpdated": "2025-11-10T07:14:52.100436+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 75,
+      "directoryCount": 76,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:20:31.762273+00:00Z",
+  "lastUpdated": "2025-11-10T04:20:49.919367+00:00Z",
   "stats": {
-    "totalDirectories": 1944,
+    "totalDirectories": 1945,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1944.0,
-    "totalListings": 18230,
-    "aiEnhancedDirectories": 1944
+    "avgDirectoriesPerRepo": 1945.0,
+    "totalListings": 18240,
+    "aiEnhancedDirectories": 1945
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25280,12 +25280,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-essay-coaching-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:20:49.919367+00:00Z",
+      "lastUpdated": "2025-11-10T04:20:49.919367+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1944,
+      "directoryCount": 1945,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:59:22.643555+00:00Z",
+  "lastUpdated": "2025-11-10T06:59:36.403099+00:00Z",
   "stats": {
-    "totalDirectories": 20,
+    "totalDirectories": 21,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 20.0,
-    "totalListings": 200,
-    "aiEnhancedDirectories": 20
+    "avgDirectoriesPerRepo": 21.0,
+    "totalListings": 210,
+    "aiEnhancedDirectories": 21
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -268,12 +268,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-illusionists-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:59:36.403099+00:00Z",
+      "lastUpdated": "2025-11-10T06:59:36.403099+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 20,
+      "directoryCount": 21,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

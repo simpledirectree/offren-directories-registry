@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:47:38.394247+00:00Z",
+  "lastUpdated": "2025-11-10T05:48:02.572098+00:00Z",
   "stats": {
-    "totalDirectories": 2247,
+    "totalDirectories": 2248,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2247.0,
-    "totalListings": 21179,
-    "aiEnhancedDirectories": 2247
+    "avgDirectoriesPerRepo": 2248.0,
+    "totalListings": 21189,
+    "aiEnhancedDirectories": 2248
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29219,12 +29219,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-muay-thai-classes-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:48:02.572098+00:00Z",
+      "lastUpdated": "2025-11-10T05:48:02.572098+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2247,
+      "directoryCount": 2248,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

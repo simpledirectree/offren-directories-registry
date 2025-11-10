@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:22:53.627182+00:00Z",
+  "lastUpdated": "2025-11-10T05:23:14.285370+00:00Z",
   "stats": {
-    "totalDirectories": 2160,
+    "totalDirectories": 2161,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2160.0,
-    "totalListings": 20346,
-    "aiEnhancedDirectories": 2160
+    "avgDirectoriesPerRepo": 2161.0,
+    "totalListings": 20356,
+    "aiEnhancedDirectories": 2161
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28088,12 +28088,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-visual-effects-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:23:14.285370+00:00Z",
+      "lastUpdated": "2025-11-10T05:23:14.285370+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2160,
+      "directoryCount": 2161,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

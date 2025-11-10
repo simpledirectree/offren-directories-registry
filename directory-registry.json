@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:50:37.115825+00:00Z",
+  "lastUpdated": "2025-11-10T03:50:55.018626+00:00Z",
   "stats": {
-    "totalDirectories": 1839,
+    "totalDirectories": 1840,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1839.0,
-    "totalListings": 17218,
-    "aiEnhancedDirectories": 1839
+    "avgDirectoriesPerRepo": 1840.0,
+    "totalListings": 17228,
+    "aiEnhancedDirectories": 1840
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23915,12 +23915,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-sewer-lines-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:50:55.018626+00:00Z",
+      "lastUpdated": "2025-11-10T03:50:55.018626+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1839,
+      "directoryCount": 1840,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

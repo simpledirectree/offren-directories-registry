@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:30:36.458476+00:00Z",
+  "lastUpdated": "2025-11-10T01:30:52.296096+00:00Z",
   "stats": {
-    "totalDirectories": 1662,
+    "totalDirectories": 1663,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1662.0,
-    "totalListings": 15568,
-    "aiEnhancedDirectories": 1662
+    "avgDirectoriesPerRepo": 1663.0,
+    "totalListings": 15578,
+    "aiEnhancedDirectories": 1663
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21614,12 +21614,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-customer-service-process-development-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:30:52.296096+00:00Z",
+      "lastUpdated": "2025-11-10T01:30:52.296096+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1662,
+      "directoryCount": 1663,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

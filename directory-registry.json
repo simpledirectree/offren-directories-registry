@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:53:57.138730+00:00Z",
+  "lastUpdated": "2025-11-10T16:55:07.996666+00:00Z",
   "stats": {
-    "totalDirectories": 836,
+    "totalDirectories": 837,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 836.0,
-    "totalListings": 7792,
-    "aiEnhancedDirectories": 836
+    "avgDirectoriesPerRepo": 837.0,
+    "totalListings": 7802,
+    "aiEnhancedDirectories": 837
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10876,12 +10876,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-lead-nurturing-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:55:07.996666+00:00Z",
+      "lastUpdated": "2025-11-10T16:55:07.996666+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 836,
+      "directoryCount": 837,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

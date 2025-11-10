@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:28:14.243903+00:00Z",
+  "lastUpdated": "2025-11-10T06:28:29.924584+00:00Z",
   "stats": {
-    "totalDirectories": 2385,
+    "totalDirectories": 2386,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2385.0,
-    "totalListings": 22517,
-    "aiEnhancedDirectories": 2385
+    "avgDirectoriesPerRepo": 2386.0,
+    "totalListings": 22522,
+    "aiEnhancedDirectories": 2386
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31013,12 +31013,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-lan-wan-management-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:28:29.924584+00:00Z",
+      "lastUpdated": "2025-11-10T06:28:29.924584+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2385,
+      "directoryCount": 2386,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

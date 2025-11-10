@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:49:38.716712+00:00Z",
+  "lastUpdated": "2025-11-10T04:49:53.059091+00:00Z",
   "stats": {
-    "totalDirectories": 2047,
+    "totalDirectories": 2048,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2047.0,
-    "totalListings": 19237,
-    "aiEnhancedDirectories": 2047
+    "avgDirectoriesPerRepo": 2048.0,
+    "totalListings": 19241,
+    "aiEnhancedDirectories": 2048
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26619,12 +26619,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-equal-employment-opportunity-compliance-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:49:53.059091+00:00Z",
+      "lastUpdated": "2025-11-10T04:49:53.059091+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2047,
+      "directoryCount": 2048,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:45:07.726967+00:00Z",
+  "lastUpdated": "2025-11-10T03:45:23.103546+00:00Z",
   "stats": {
-    "totalDirectories": 1820,
+    "totalDirectories": 1821,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1820.0,
-    "totalListings": 17028,
-    "aiEnhancedDirectories": 1820
+    "avgDirectoriesPerRepo": 1821.0,
+    "totalListings": 17038,
+    "aiEnhancedDirectories": 1821
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23668,12 +23668,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-wound-care-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:45:23.103546+00:00Z",
+      "lastUpdated": "2025-11-10T03:45:23.103546+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1820,
+      "directoryCount": 1821,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

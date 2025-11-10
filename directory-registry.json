@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:43:08.935772+00:00Z",
+  "lastUpdated": "2025-11-10T05:43:22.158898+00:00Z",
   "stats": {
-    "totalDirectories": 2231,
+    "totalDirectories": 2232,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2231.0,
-    "totalListings": 21027,
-    "aiEnhancedDirectories": 2231
+    "avgDirectoriesPerRepo": 2232.0,
+    "totalListings": 21029,
+    "aiEnhancedDirectories": 2232
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29011,12 +29011,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-cardiovascular-surgery-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:43:22.158898+00:00Z",
+      "lastUpdated": "2025-11-10T05:43:22.158898+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2231,
+      "directoryCount": 2232,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:00:25.534679+00:00Z",
+  "lastUpdated": "2025-11-10T05:00:47.681903+00:00Z",
   "stats": {
-    "totalDirectories": 2085,
+    "totalDirectories": 2086,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2085.0,
-    "totalListings": 19602,
-    "aiEnhancedDirectories": 2085
+    "avgDirectoriesPerRepo": 2086.0,
+    "totalListings": 19612,
+    "aiEnhancedDirectories": 2086
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27113,12 +27113,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-record-keeping-systems-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:00:47.681903+00:00Z",
+      "lastUpdated": "2025-11-10T05:00:47.681903+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2085,
+      "directoryCount": 2086,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

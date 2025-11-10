@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:17:28.788842+00:00Z",
+  "lastUpdated": "2025-11-10T06:17:43.992631+00:00Z",
   "stats": {
-    "totalDirectories": 2348,
+    "totalDirectories": 2349,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2348.0,
-    "totalListings": 22165,
-    "aiEnhancedDirectories": 2348
+    "avgDirectoriesPerRepo": 2349.0,
+    "totalListings": 22175,
+    "aiEnhancedDirectories": 2349
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30532,12 +30532,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-film-set-catering-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:17:43.992631+00:00Z",
+      "lastUpdated": "2025-11-10T06:17:43.992631+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2348,
+      "directoryCount": 2349,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

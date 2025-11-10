@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:47:10.041638+00:00Z",
+  "lastUpdated": "2025-11-10T11:48:38.459828+00:00Z",
   "stats": {
-    "totalDirectories": 481,
+    "totalDirectories": 482,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 481.0,
-    "totalListings": 4591,
-    "aiEnhancedDirectories": 481
+    "avgDirectoriesPerRepo": 482.0,
+    "totalListings": 4601,
+    "aiEnhancedDirectories": 482
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6261,12 +6261,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-accounts-receivable-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:48:38.459828+00:00Z",
+      "lastUpdated": "2025-11-10T11:48:38.459828+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 481,
+      "directoryCount": 482,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

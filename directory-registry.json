@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:18:44.139420+00:00Z",
+  "lastUpdated": "2025-11-10T07:19:01.867632+00:00Z",
   "stats": {
-    "totalDirectories": 90,
+    "totalDirectories": 91,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 90.0,
-    "totalListings": 869,
-    "aiEnhancedDirectories": 90
+    "avgDirectoriesPerRepo": 91.0,
+    "totalListings": 879,
+    "aiEnhancedDirectories": 91
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1178,12 +1178,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-franchise-consulting-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:19:01.867632+00:00Z",
+      "lastUpdated": "2025-11-10T07:19:01.867632+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 90,
+      "directoryCount": 91,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

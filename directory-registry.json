@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:40:50.519903+00:00Z",
+  "lastUpdated": "2025-11-10T06:41:08.335994+00:00Z",
   "stats": {
-    "totalDirectories": 2429,
+    "totalDirectories": 2430,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2429.0,
-    "totalListings": 22943,
-    "aiEnhancedDirectories": 2429
+    "avgDirectoriesPerRepo": 2430.0,
+    "totalListings": 22953,
+    "aiEnhancedDirectories": 2430
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31585,12 +31585,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-plumbing-installation-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:41:08.335994+00:00Z",
+      "lastUpdated": "2025-11-10T06:41:08.335994+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2429,
+      "directoryCount": 2430,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:32:53.473956+00:00Z",
+  "lastUpdated": "2025-11-10T10:33:34.236583+00:00Z",
   "stats": {
-    "totalDirectories": 389,
+    "totalDirectories": 390,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 389.0,
-    "totalListings": 3734,
-    "aiEnhancedDirectories": 389
+    "avgDirectoriesPerRepo": 390.0,
+    "totalListings": 3744,
+    "aiEnhancedDirectories": 390
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5065,12 +5065,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-point-of-sale-system-installation-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:33:34.236583+00:00Z",
+      "lastUpdated": "2025-11-10T10:33:34.236583+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 389,
+      "directoryCount": 390,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:41:07.219409+00:00Z",
+  "lastUpdated": "2025-11-10T05:41:24.270812+00:00Z",
   "stats": {
-    "totalDirectories": 2224,
+    "totalDirectories": 2225,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2224.0,
-    "totalListings": 20959,
-    "aiEnhancedDirectories": 2224
+    "avgDirectoriesPerRepo": 2225.0,
+    "totalListings": 20969,
+    "aiEnhancedDirectories": 2225
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28920,12 +28920,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-auto-detailing-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:41:24.270812+00:00Z",
+      "lastUpdated": "2025-11-10T05:41:24.270812+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2224,
+      "directoryCount": 2225,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

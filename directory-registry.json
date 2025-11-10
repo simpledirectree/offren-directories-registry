@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:13:24.802019+00:00Z",
+  "lastUpdated": "2025-11-10T21:14:30.694153+00:00Z",
   "stats": {
-    "totalDirectories": 1137,
+    "totalDirectories": 1138,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1137.0,
-    "totalListings": 10591,
-    "aiEnhancedDirectories": 1137
+    "avgDirectoriesPerRepo": 1138.0,
+    "totalListings": 10596,
+    "aiEnhancedDirectories": 1138
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14789,12 +14789,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-organizational-development-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:14:30.694153+00:00Z",
+      "lastUpdated": "2025-11-10T21:14:30.694153+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1137,
+      "directoryCount": 1138,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

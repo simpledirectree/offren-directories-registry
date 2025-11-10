@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:18:01.559476+00:00Z",
+  "lastUpdated": "2025-11-10T16:19:11.262960+00:00Z",
   "stats": {
-    "totalDirectories": 790,
+    "totalDirectories": 791,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 790.0,
-    "totalListings": 7375,
-    "aiEnhancedDirectories": 790
+    "avgDirectoriesPerRepo": 791.0,
+    "totalListings": 7385,
+    "aiEnhancedDirectories": 791
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10278,12 +10278,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-permit-assistance-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:19:11.262960+00:00Z",
+      "lastUpdated": "2025-11-10T16:19:11.262960+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 790,
+      "directoryCount": 791,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T23:29:33.631776+00:00Z",
+  "lastUpdated": "2025-11-10T23:29:47.250612+00:00Z",
   "stats": {
-    "totalDirectories": 1286,
+    "totalDirectories": 1287,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1286.0,
-    "totalListings": 11976,
-    "aiEnhancedDirectories": 1286
+    "avgDirectoriesPerRepo": 1287.0,
+    "totalListings": 11980,
+    "aiEnhancedDirectories": 1287
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16726,12 +16726,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-telemedicine-platforms-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T23:29:47.250612+00:00Z",
+      "lastUpdated": "2025-11-10T23:29:47.250612+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1286,
+      "directoryCount": 1287,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

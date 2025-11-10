@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:12:37.842527+00:00Z",
+  "lastUpdated": "2025-11-10T04:12:54.808554+00:00Z",
   "stats": {
-    "totalDirectories": 1916,
+    "totalDirectories": 1917,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1916.0,
-    "totalListings": 17957,
-    "aiEnhancedDirectories": 1916
+    "avgDirectoriesPerRepo": 1917.0,
+    "totalListings": 17967,
+    "aiEnhancedDirectories": 1917
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24916,12 +24916,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-oil-changes-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:12:54.808554+00:00Z",
+      "lastUpdated": "2025-11-10T04:12:54.808554+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1916,
+      "directoryCount": 1917,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

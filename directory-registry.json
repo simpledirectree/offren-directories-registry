@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:00:18.090445+00:00Z",
+  "lastUpdated": "2025-11-10T21:01:00.242294+00:00Z",
   "stats": {
-    "totalDirectories": 1122,
+    "totalDirectories": 1123,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1122.0,
-    "totalListings": 10464,
-    "aiEnhancedDirectories": 1122
+    "avgDirectoriesPerRepo": 1123.0,
+    "totalListings": 10474,
+    "aiEnhancedDirectories": 1123
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14594,12 +14594,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-keto-meal-prep-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:01:00.242294+00:00Z",
+      "lastUpdated": "2025-11-10T21:01:00.242294+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1122,
+      "directoryCount": 1123,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

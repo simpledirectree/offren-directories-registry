@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:00:10.672171+00:00Z",
+  "lastUpdated": "2025-11-10T05:00:25.534679+00:00Z",
   "stats": {
-    "totalDirectories": 2084,
+    "totalDirectories": 2085,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2084.0,
-    "totalListings": 19592,
-    "aiEnhancedDirectories": 2084
+    "avgDirectoriesPerRepo": 2085.0,
+    "totalListings": 19602,
+    "aiEnhancedDirectories": 2085
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27100,12 +27100,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-office-moving-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:00:25.534679+00:00Z",
+      "lastUpdated": "2025-11-10T05:00:25.534679+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2084,
+      "directoryCount": 2085,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

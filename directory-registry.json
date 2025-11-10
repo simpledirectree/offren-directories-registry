@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:16:37.432767+00:00Z",
+  "lastUpdated": "2025-11-10T06:16:55.500434+00:00Z",
   "stats": {
-    "totalDirectories": 2345,
+    "totalDirectories": 2346,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2345.0,
-    "totalListings": 22135,
-    "aiEnhancedDirectories": 2345
+    "avgDirectoriesPerRepo": 2346.0,
+    "totalListings": 22145,
+    "aiEnhancedDirectories": 2346
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30493,12 +30493,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-pet-insurance-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:16:55.500434+00:00Z",
+      "lastUpdated": "2025-11-10T06:16:55.500434+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2345,
+      "directoryCount": 2346,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

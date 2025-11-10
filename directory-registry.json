@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:09:26.345824+00:00Z",
+  "lastUpdated": "2025-11-10T00:10:06.751950+00:00Z",
   "stats": {
-    "totalDirectories": 1570,
+    "totalDirectories": 1571,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1570.0,
-    "totalListings": 14763,
-    "aiEnhancedDirectories": 1570
+    "avgDirectoriesPerRepo": 1571.0,
+    "totalListings": 14768,
+    "aiEnhancedDirectories": 1571
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20418,12 +20418,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-forensic-accounting-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:10:06.751950+00:00Z",
+      "lastUpdated": "2025-11-10T00:10:06.751950+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1570,
+      "directoryCount": 1571,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

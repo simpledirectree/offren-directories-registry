@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:35:19.624719+00:00Z",
+  "lastUpdated": "2025-11-10T06:35:37.252985+00:00Z",
   "stats": {
-    "totalDirectories": 2410,
+    "totalDirectories": 2411,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2410.0,
-    "totalListings": 22753,
-    "aiEnhancedDirectories": 2410
+    "avgDirectoriesPerRepo": 2411.0,
+    "totalListings": 22763,
+    "aiEnhancedDirectories": 2411
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31338,12 +31338,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-roofing-repair-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:35:37.252985+00:00Z",
+      "lastUpdated": "2025-11-10T06:35:37.252985+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2410,
+      "directoryCount": 2411,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:07:40.511249+00:00Z",
+  "lastUpdated": "2025-11-10T15:07:56.627152+00:00Z",
   "stats": {
-    "totalDirectories": 693,
+    "totalDirectories": 694,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 693.0,
-    "totalListings": 6488,
-    "aiEnhancedDirectories": 693
+    "avgDirectoriesPerRepo": 694.0,
+    "totalListings": 6498,
+    "aiEnhancedDirectories": 694
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9017,12 +9017,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-bumper-repair-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:07:56.627152+00:00Z",
+      "lastUpdated": "2025-11-10T15:07:56.627152+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 693,
+      "directoryCount": 694,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

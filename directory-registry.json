@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:01:11.127179+00:00Z",
+  "lastUpdated": "2025-11-10T22:01:53.581402+00:00Z",
   "stats": {
-    "totalDirectories": 1192,
+    "totalDirectories": 1193,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1192.0,
-    "totalListings": 11097,
-    "aiEnhancedDirectories": 1192
+    "avgDirectoriesPerRepo": 1193.0,
+    "totalListings": 11107,
+    "aiEnhancedDirectories": 1193
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15504,12 +15504,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-hatha-yoga-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:01:53.581402+00:00Z",
+      "lastUpdated": "2025-11-10T22:01:53.581402+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1192,
+      "directoryCount": 1193,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:48:38.251280+00:00Z",
+  "lastUpdated": "2025-11-10T05:48:55.376811+00:00Z",
   "stats": {
-    "totalDirectories": 2250,
+    "totalDirectories": 2251,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2250.0,
-    "totalListings": 21209,
-    "aiEnhancedDirectories": 2250
+    "avgDirectoriesPerRepo": 2251.0,
+    "totalListings": 21219,
+    "aiEnhancedDirectories": 2251
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29258,12 +29258,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-self-storage-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:48:55.376811+00:00Z",
+      "lastUpdated": "2025-11-10T05:48:55.376811+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2250,
+      "directoryCount": 2251,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

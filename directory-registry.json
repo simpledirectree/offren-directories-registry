@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:06:53.140633+00:00Z",
+  "lastUpdated": "2025-11-10T20:07:10.036716+00:00Z",
   "stats": {
-    "totalDirectories": 1055,
+    "totalDirectories": 1056,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1055.0,
-    "totalListings": 9822,
-    "aiEnhancedDirectories": 1055
+    "avgDirectoriesPerRepo": 1056.0,
+    "totalListings": 9832,
+    "aiEnhancedDirectories": 1056
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13723,12 +13723,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-bed-liner-installation-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:07:10.036716+00:00Z",
+      "lastUpdated": "2025-11-10T20:07:10.036716+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1055,
+      "directoryCount": 1056,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

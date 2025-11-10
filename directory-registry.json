@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:18:20.065618+00:00Z",
+  "lastUpdated": "2025-11-10T04:18:35.828221+00:00Z",
   "stats": {
-    "totalDirectories": 1936,
+    "totalDirectories": 1937,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1936.0,
-    "totalListings": 18157,
-    "aiEnhancedDirectories": 1936
+    "avgDirectoriesPerRepo": 1937.0,
+    "totalListings": 18167,
+    "aiEnhancedDirectories": 1937
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25176,12 +25176,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-paint-correction-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:18:35.828221+00:00Z",
+      "lastUpdated": "2025-11-10T04:18:35.828221+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1936,
+      "directoryCount": 1937,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

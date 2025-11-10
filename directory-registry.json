@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T08:45:07.805654+00:00Z",
+  "lastUpdated": "2025-11-10T08:46:37.586586+00:00Z",
   "stats": {
-    "totalDirectories": 253,
+    "totalDirectories": 254,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 253.0,
-    "totalListings": 2463,
-    "aiEnhancedDirectories": 253
+    "avgDirectoriesPerRepo": 254.0,
+    "totalListings": 2473,
+    "aiEnhancedDirectories": 254
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3297,12 +3297,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-ipl-therapy-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:46:37.586586+00:00Z",
+      "lastUpdated": "2025-11-10T08:46:37.586586+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 253,
+      "directoryCount": 254,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

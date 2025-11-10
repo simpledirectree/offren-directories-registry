@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:35:23.252456+00:00Z",
+  "lastUpdated": "2025-11-10T15:37:46.461565+00:00Z",
   "stats": {
-    "totalDirectories": 727,
+    "totalDirectories": 728,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 727.0,
-    "totalListings": 6808,
-    "aiEnhancedDirectories": 727
+    "avgDirectoriesPerRepo": 728.0,
+    "totalListings": 6818,
+    "aiEnhancedDirectories": 728
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9459,12 +9459,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-flower-bed-maintenance-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:37:46.461565+00:00Z",
+      "lastUpdated": "2025-11-10T15:37:46.461565+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 727,
+      "directoryCount": 728,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

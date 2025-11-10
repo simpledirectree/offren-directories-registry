@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:59:04.232138+00:00Z",
+  "lastUpdated": "2025-11-10T06:59:22.643555+00:00Z",
   "stats": {
-    "totalDirectories": 19,
+    "totalDirectories": 20,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 19.0,
-    "totalListings": 190,
-    "aiEnhancedDirectories": 19
+    "avgDirectoriesPerRepo": 20.0,
+    "totalListings": 200,
+    "aiEnhancedDirectories": 20
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -255,12 +255,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-angular-development-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:59:22.643555+00:00Z",
+      "lastUpdated": "2025-11-10T06:59:22.643555+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 19,
+      "directoryCount": 20,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

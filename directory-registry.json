@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:24:00.004842+00:00Z",
+  "lastUpdated": "2025-11-10T02:24:16.754891+00:00Z",
   "stats": {
-    "totalDirectories": 1733,
+    "totalDirectories": 1734,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1733.0,
-    "totalListings": 16221,
-    "aiEnhancedDirectories": 1733
+    "avgDirectoriesPerRepo": 1734.0,
+    "totalListings": 16231,
+    "aiEnhancedDirectories": 1734
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22537,12 +22537,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-retained-recruiting-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:24:16.754891+00:00Z",
+      "lastUpdated": "2025-11-10T02:24:16.754891+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1733,
+      "directoryCount": 1734,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

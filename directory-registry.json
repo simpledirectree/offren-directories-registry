@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:25:31.877712+00:00Z",
+  "lastUpdated": "2025-11-10T01:25:45.877755+00:00Z",
   "stats": {
-    "totalDirectories": 1656,
+    "totalDirectories": 1657,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1656.0,
-    "totalListings": 15521,
-    "aiEnhancedDirectories": 1656
+    "avgDirectoriesPerRepo": 1657.0,
+    "totalListings": 15526,
+    "aiEnhancedDirectories": 1657
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21536,12 +21536,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-permanent-staffing-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:25:45.877755+00:00Z",
+      "lastUpdated": "2025-11-10T01:25:45.877755+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1656,
+      "directoryCount": 1657,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

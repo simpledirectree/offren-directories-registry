@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:58:25.333120+00:00Z",
+  "lastUpdated": "2025-11-10T20:58:40.090485+00:00Z",
   "stats": {
-    "totalDirectories": 1118,
+    "totalDirectories": 1119,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1118.0,
-    "totalListings": 10427,
-    "aiEnhancedDirectories": 1118
+    "avgDirectoriesPerRepo": 1119.0,
+    "totalListings": 10434,
+    "aiEnhancedDirectories": 1119
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14542,12 +14542,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-aip-meal-prep-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:58:40.090485+00:00Z",
+      "lastUpdated": "2025-11-10T20:58:40.090485+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1118,
+      "directoryCount": 1119,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

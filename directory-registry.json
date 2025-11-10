@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:22:47.675574+00:00Z",
+  "lastUpdated": "2025-11-10T13:25:37.659130+00:00Z",
   "stats": {
-    "totalDirectories": 580,
+    "totalDirectories": 581,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 580.0,
-    "totalListings": 5490,
-    "aiEnhancedDirectories": 580
+    "avgDirectoriesPerRepo": 581.0,
+    "totalListings": 5500,
+    "aiEnhancedDirectories": 581
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7548,12 +7548,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-culinary-instruction-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:25:37.659130+00:00Z",
+      "lastUpdated": "2025-11-10T13:25:37.659130+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 580,
+      "directoryCount": 581,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

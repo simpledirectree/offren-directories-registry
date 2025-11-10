@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:00:04.800370+00:00Z",
+  "lastUpdated": "2025-11-10T07:00:20.782087+00:00Z",
   "stats": {
-    "totalDirectories": 23,
+    "totalDirectories": 24,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 23.0,
-    "totalListings": 225,
-    "aiEnhancedDirectories": 23
+    "avgDirectoriesPerRepo": 24.0,
+    "totalListings": 235,
+    "aiEnhancedDirectories": 24
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -307,12 +307,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-party-planners-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:00:20.782087+00:00Z",
+      "lastUpdated": "2025-11-10T07:00:20.782087+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 23,
+      "directoryCount": 24,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

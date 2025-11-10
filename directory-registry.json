@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:40:19.047208+00:00Z",
+  "lastUpdated": "2025-11-10T05:40:37.727136+00:00Z",
   "stats": {
-    "totalDirectories": 2221,
+    "totalDirectories": 2222,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2221.0,
-    "totalListings": 20929,
-    "aiEnhancedDirectories": 2221
+    "avgDirectoriesPerRepo": 2222.0,
+    "totalListings": 20939,
+    "aiEnhancedDirectories": 2222
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28881,12 +28881,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-api-integration-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:40:37.727136+00:00Z",
+      "lastUpdated": "2025-11-10T05:40:37.727136+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2221,
+      "directoryCount": 2222,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

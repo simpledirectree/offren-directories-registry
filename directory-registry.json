@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:25:57.187685+00:00Z",
+  "lastUpdated": "2025-11-10T21:26:39.544557+00:00Z",
   "stats": {
-    "totalDirectories": 1158,
+    "totalDirectories": 1159,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1158.0,
-    "totalListings": 10778,
-    "aiEnhancedDirectories": 1158
+    "avgDirectoriesPerRepo": 1159.0,
+    "totalListings": 10788,
+    "aiEnhancedDirectories": 1159
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15062,12 +15062,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-home-cleaners-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:26:39.544557+00:00Z",
+      "lastUpdated": "2025-11-10T21:26:39.544557+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1158,
+      "directoryCount": 1159,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

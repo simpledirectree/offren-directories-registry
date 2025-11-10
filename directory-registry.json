@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:15:08.446124+00:00Z",
+  "lastUpdated": "2025-11-10T07:15:25.635478+00:00Z",
   "stats": {
-    "totalDirectories": 77,
+    "totalDirectories": 78,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 77.0,
-    "totalListings": 748,
-    "aiEnhancedDirectories": 77
+    "avgDirectoriesPerRepo": 78.0,
+    "totalListings": 758,
+    "aiEnhancedDirectories": 78
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1009,12 +1009,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-healthcare-consulting-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:15:25.635478+00:00Z",
+      "lastUpdated": "2025-11-10T07:15:25.635478+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 77,
+      "directoryCount": 78,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

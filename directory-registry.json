@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:19:01.867632+00:00Z",
+  "lastUpdated": "2025-11-10T07:19:17.648438+00:00Z",
   "stats": {
-    "totalDirectories": 91,
+    "totalDirectories": 92,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 91.0,
-    "totalListings": 879,
-    "aiEnhancedDirectories": 91
+    "avgDirectoriesPerRepo": 92.0,
+    "totalListings": 889,
+    "aiEnhancedDirectories": 92
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1191,12 +1191,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-market-analysis-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:19:17.648438+00:00Z",
+      "lastUpdated": "2025-11-10T07:19:17.648438+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 91,
+      "directoryCount": 92,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

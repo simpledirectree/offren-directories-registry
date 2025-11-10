@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:33:31.894019+00:00Z",
+  "lastUpdated": "2025-11-10T16:33:45.699487+00:00Z",
   "stats": {
-    "totalDirectories": 808,
+    "totalDirectories": 809,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 808.0,
-    "totalListings": 7542,
-    "aiEnhancedDirectories": 808
+    "avgDirectoriesPerRepo": 809.0,
+    "totalListings": 7550,
+    "aiEnhancedDirectories": 809
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10512,12 +10512,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-night-nannies-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:33:45.699487+00:00Z",
+      "lastUpdated": "2025-11-10T16:33:45.699487+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 808,
+      "directoryCount": 809,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

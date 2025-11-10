@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:42:01.621477+00:00Z",
+  "lastUpdated": "2025-11-10T21:43:59.344088+00:00Z",
   "stats": {
-    "totalDirectories": 1177,
+    "totalDirectories": 1178,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1177.0,
-    "totalListings": 10949,
-    "aiEnhancedDirectories": 1177
+    "avgDirectoriesPerRepo": 1178.0,
+    "totalListings": 10959,
+    "aiEnhancedDirectories": 1178
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15309,12 +15309,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-criminal-defense-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:43:59.344088+00:00Z",
+      "lastUpdated": "2025-11-10T21:43:59.344088+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1177,
+      "directoryCount": 1178,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:23:15.010114+00:00Z",
+  "lastUpdated": "2025-11-10T09:23:30.342345+00:00Z",
   "stats": {
-    "totalDirectories": 301,
+    "totalDirectories": 302,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 301.0,
-    "totalListings": 2912,
-    "aiEnhancedDirectories": 301
+    "avgDirectoriesPerRepo": 302.0,
+    "totalListings": 2922,
+    "aiEnhancedDirectories": 302
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3921,12 +3921,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-low-vision-services-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:23:30.342345+00:00Z",
+      "lastUpdated": "2025-11-10T09:23:30.342345+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 301,
+      "directoryCount": 302,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

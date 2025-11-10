@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:43:00.074708+00:00Z",
+  "lastUpdated": "2025-11-10T01:45:58.503636+00:00Z",
   "stats": {
-    "totalDirectories": 1684,
+    "totalDirectories": 1685,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1684.0,
-    "totalListings": 15773,
-    "aiEnhancedDirectories": 1684
+    "avgDirectoriesPerRepo": 1685.0,
+    "totalListings": 15775,
+    "aiEnhancedDirectories": 1685
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21900,12 +21900,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-interstate-moving-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:45:58.503636+00:00Z",
+      "lastUpdated": "2025-11-10T01:45:58.503636+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1684,
+      "directoryCount": 1685,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

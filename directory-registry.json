@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:29:30.154237+00:00Z",
+  "lastUpdated": "2025-11-10T20:30:37.741342+00:00Z",
   "stats": {
-    "totalDirectories": 1081,
+    "totalDirectories": 1082,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1081.0,
-    "totalListings": 10062,
-    "aiEnhancedDirectories": 1081
+    "avgDirectoriesPerRepo": 1082.0,
+    "totalListings": 10072,
+    "aiEnhancedDirectories": 1082
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14061,12 +14061,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-ceramic-coating-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:30:37.741342+00:00Z",
+      "lastUpdated": "2025-11-10T20:30:37.741342+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1081,
+      "directoryCount": 1082,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

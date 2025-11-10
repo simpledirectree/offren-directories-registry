@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:53:32.238579+00:00Z",
+  "lastUpdated": "2025-11-10T00:54:35.585907+00:00Z",
   "stats": {
-    "totalDirectories": 1623,
+    "totalDirectories": 1624,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1623.0,
-    "totalListings": 15231,
-    "aiEnhancedDirectories": 1623
+    "avgDirectoriesPerRepo": 1624.0,
+    "totalListings": 15233,
+    "aiEnhancedDirectories": 1624
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21107,12 +21107,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-on-site-management-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:54:35.585907+00:00Z",
+      "lastUpdated": "2025-11-10T00:54:35.585907+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1623,
+      "directoryCount": 1624,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

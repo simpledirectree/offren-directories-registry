@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:00:36.377337+00:00Z",
+  "lastUpdated": "2025-11-10T12:01:16.760885+00:00Z",
   "stats": {
-    "totalDirectories": 493,
+    "totalDirectories": 494,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 493.0,
-    "totalListings": 4697,
-    "aiEnhancedDirectories": 493
+    "avgDirectoriesPerRepo": 494.0,
+    "totalListings": 4707,
+    "aiEnhancedDirectories": 494
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6417,12 +6417,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-management-training-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:01:16.760885+00:00Z",
+      "lastUpdated": "2025-11-10T12:01:16.760885+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 493,
+      "directoryCount": 494,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

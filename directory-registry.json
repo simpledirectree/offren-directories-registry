@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:22:15.798847+00:00Z",
+  "lastUpdated": "2025-11-10T05:22:32.935414+00:00Z",
   "stats": {
-    "totalDirectories": 2158,
+    "totalDirectories": 2159,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2158.0,
-    "totalListings": 20326,
-    "aiEnhancedDirectories": 2158
+    "avgDirectoriesPerRepo": 2159.0,
+    "totalListings": 20336,
+    "aiEnhancedDirectories": 2159
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28062,12 +28062,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-e-commerce-platforms-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:22:32.935414+00:00Z",
+      "lastUpdated": "2025-11-10T05:22:32.935414+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2158,
+      "directoryCount": 2159,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

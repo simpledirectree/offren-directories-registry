@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:52:13.121758+00:00Z",
+  "lastUpdated": "2025-11-10T04:52:31.030263+00:00Z",
   "stats": {
-    "totalDirectories": 2056,
+    "totalDirectories": 2057,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2056.0,
-    "totalListings": 19321,
-    "aiEnhancedDirectories": 2056
+    "avgDirectoriesPerRepo": 2057.0,
+    "totalListings": 19331,
+    "aiEnhancedDirectories": 2057
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26736,12 +26736,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-football-coaching-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:52:31.030263+00:00Z",
+      "lastUpdated": "2025-11-10T04:52:31.030263+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2056,
+      "directoryCount": 2057,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

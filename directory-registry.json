@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:21:31.722915+00:00Z",
+  "lastUpdated": "2025-11-10T11:22:59.671512+00:00Z",
   "stats": {
-    "totalDirectories": 451,
+    "totalDirectories": 452,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 451.0,
-    "totalListings": 4320,
-    "aiEnhancedDirectories": 451
+    "avgDirectoriesPerRepo": 452.0,
+    "totalListings": 4330,
+    "aiEnhancedDirectories": 452
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5871,12 +5871,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-deep-cleaning-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:22:59.671512+00:00Z",
+      "lastUpdated": "2025-11-10T11:22:59.671512+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 451,
+      "directoryCount": 452,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

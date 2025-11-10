@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:16:15.777464+00:00Z",
+  "lastUpdated": "2025-11-10T12:16:57.697833+00:00Z",
   "stats": {
-    "totalDirectories": 509,
+    "totalDirectories": 510,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 509.0,
-    "totalListings": 4843,
-    "aiEnhancedDirectories": 509
+    "avgDirectoriesPerRepo": 510.0,
+    "totalListings": 4853,
+    "aiEnhancedDirectories": 510
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6625,12 +6625,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-piano-moving-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:16:57.697833+00:00Z",
+      "lastUpdated": "2025-11-10T12:16:57.697833+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 509,
+      "directoryCount": 510,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

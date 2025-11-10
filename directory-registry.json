@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:46:31.060286+00:00Z",
+  "lastUpdated": "2025-11-10T21:48:44.208677+00:00Z",
   "stats": {
-    "totalDirectories": 1181,
+    "totalDirectories": 1182,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1181.0,
-    "totalListings": 10989,
-    "aiEnhancedDirectories": 1181
+    "avgDirectoriesPerRepo": 1182.0,
+    "totalListings": 10999,
+    "aiEnhancedDirectories": 1182
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15361,12 +15361,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-classic-car-restoration-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:48:44.208677+00:00Z",
+      "lastUpdated": "2025-11-10T21:48:44.208677+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1181,
+      "directoryCount": 1182,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

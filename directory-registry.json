@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:28:37.621070+00:00Z",
+  "lastUpdated": "2025-11-10T05:28:54.546551+00:00Z",
   "stats": {
-    "totalDirectories": 2179,
+    "totalDirectories": 2180,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2179.0,
-    "totalListings": 20536,
-    "aiEnhancedDirectories": 2179
+    "avgDirectoriesPerRepo": 2180.0,
+    "totalListings": 20546,
+    "aiEnhancedDirectories": 2180
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28335,12 +28335,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-valuation-services-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:28:54.546551+00:00Z",
+      "lastUpdated": "2025-11-10T05:28:54.546551+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2179,
+      "directoryCount": 2180,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

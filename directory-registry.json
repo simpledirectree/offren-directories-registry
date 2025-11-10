@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:22:06.815521+00:00Z",
+  "lastUpdated": "2025-11-10T17:22:26.828753+00:00Z",
   "stats": {
-    "totalDirectories": 866,
+    "totalDirectories": 867,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 866.0,
-    "totalListings": 8073,
-    "aiEnhancedDirectories": 866
+    "avgDirectoriesPerRepo": 867.0,
+    "totalListings": 8083,
+    "aiEnhancedDirectories": 867
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11266,12 +11266,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-personal-chefs-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:22:26.828753+00:00Z",
+      "lastUpdated": "2025-11-10T17:22:26.828753+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 866,
+      "directoryCount": 867,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

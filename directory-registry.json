@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:09:11.426761+00:00Z",
+  "lastUpdated": "2025-11-10T03:10:16.312475+00:00Z",
   "stats": {
-    "totalDirectories": 1783,
+    "totalDirectories": 1784,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1783.0,
-    "totalListings": 16687,
-    "aiEnhancedDirectories": 1783
+    "avgDirectoriesPerRepo": 1784.0,
+    "totalListings": 16697,
+    "aiEnhancedDirectories": 1784
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23187,12 +23187,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-genetic-testing-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:10:16.312475+00:00Z",
+      "lastUpdated": "2025-11-10T03:10:16.312475+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1783,
+      "directoryCount": 1784,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

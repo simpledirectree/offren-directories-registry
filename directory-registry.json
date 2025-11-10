@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:53:13.142970+00:00Z",
+  "lastUpdated": "2025-11-10T15:53:27.436435+00:00Z",
   "stats": {
-    "totalDirectories": 757,
+    "totalDirectories": 758,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 757.0,
-    "totalListings": 7084,
-    "aiEnhancedDirectories": 757
+    "avgDirectoriesPerRepo": 758.0,
+    "totalListings": 7094,
+    "aiEnhancedDirectories": 758
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9849,12 +9849,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-kung-fu-classes-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:53:27.436435+00:00Z",
+      "lastUpdated": "2025-11-10T15:53:27.436435+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 757,
+      "directoryCount": 758,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

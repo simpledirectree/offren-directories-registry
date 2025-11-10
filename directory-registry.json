@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:28:48.768870+00:00Z",
+  "lastUpdated": "2025-11-10T06:29:07.941708+00:00Z",
   "stats": {
-    "totalDirectories": 2387,
+    "totalDirectories": 2388,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2387.0,
-    "totalListings": 22532,
-    "aiEnhancedDirectories": 2387
+    "avgDirectoriesPerRepo": 2388.0,
+    "totalListings": 22542,
+    "aiEnhancedDirectories": 2388
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31039,12 +31039,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-magento-development-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:29:07.941708+00:00Z",
+      "lastUpdated": "2025-11-10T06:29:07.941708+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2387,
+      "directoryCount": 2388,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

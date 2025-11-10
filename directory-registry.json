@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:43:45.860942+00:00Z",
+  "lastUpdated": "2025-11-10T00:44:27.533892+00:00Z",
   "stats": {
-    "totalDirectories": 1614,
+    "totalDirectories": 1615,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1614.0,
-    "totalListings": 15147,
-    "aiEnhancedDirectories": 1614
+    "avgDirectoriesPerRepo": 1615.0,
+    "totalListings": 15157,
+    "aiEnhancedDirectories": 1615
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20990,12 +20990,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-part-time-nannies-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:44:27.533892+00:00Z",
+      "lastUpdated": "2025-11-10T00:44:27.533892+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1614,
+      "directoryCount": 1615,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

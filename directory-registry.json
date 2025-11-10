@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T23:00:41.032839+00:00Z",
+  "lastUpdated": "2025-11-10T23:05:20.000204+00:00Z",
   "stats": {
-    "totalDirectories": 1259,
+    "totalDirectories": 1260,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1259.0,
-    "totalListings": 11711,
-    "aiEnhancedDirectories": 1259
+    "avgDirectoriesPerRepo": 1260.0,
+    "totalListings": 11721,
+    "aiEnhancedDirectories": 1260
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16375,12 +16375,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-manual-labor-for-projects-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T23:05:20.000204+00:00Z",
+      "lastUpdated": "2025-11-10T23:05:20.000204+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1259,
+      "directoryCount": 1260,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

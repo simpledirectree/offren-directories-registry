@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:15:25.635478+00:00Z",
+  "lastUpdated": "2025-11-10T07:15:39.297612+00:00Z",
   "stats": {
-    "totalDirectories": 78,
+    "totalDirectories": 79,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 78.0,
-    "totalListings": 758,
-    "aiEnhancedDirectories": 78
+    "avgDirectoriesPerRepo": 79.0,
+    "totalListings": 759,
+    "aiEnhancedDirectories": 79
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1022,12 +1022,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-contract-review-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:15:39.297612+00:00Z",
+      "lastUpdated": "2025-11-10T07:15:39.297612+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 78,
+      "directoryCount": 79,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

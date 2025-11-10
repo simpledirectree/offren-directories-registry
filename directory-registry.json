@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:09:03.457891+00:00Z",
+  "lastUpdated": "2025-11-10T04:09:22.658591+00:00Z",
   "stats": {
-    "totalDirectories": 1904,
+    "totalDirectories": 1905,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1904.0,
-    "totalListings": 17845,
-    "aiEnhancedDirectories": 1904
+    "avgDirectoriesPerRepo": 1905.0,
+    "totalListings": 17855,
+    "aiEnhancedDirectories": 1905
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24760,12 +24760,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-application-strategy-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:09:22.658591+00:00Z",
+      "lastUpdated": "2025-11-10T04:09:22.658591+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1904,
+      "directoryCount": 1905,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

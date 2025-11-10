@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:32:35.167957+00:00Z",
+  "lastUpdated": "2025-11-10T14:32:50.733447+00:00Z",
   "stats": {
-    "totalDirectories": 660,
+    "totalDirectories": 661,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 660.0,
-    "totalListings": 6196,
-    "aiEnhancedDirectories": 660
+    "avgDirectoriesPerRepo": 661.0,
+    "totalListings": 6206,
+    "aiEnhancedDirectories": 661
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8588,12 +8588,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-childrens-activities-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:32:50.733447+00:00Z",
+      "lastUpdated": "2025-11-10T14:32:50.733447+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 660,
+      "directoryCount": 661,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

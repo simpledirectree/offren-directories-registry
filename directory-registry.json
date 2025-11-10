@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:40:19.231152+00:00Z",
+  "lastUpdated": "2025-11-10T12:40:37.832272+00:00Z",
   "stats": {
-    "totalDirectories": 533,
+    "totalDirectories": 534,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 533.0,
-    "totalListings": 5074,
-    "aiEnhancedDirectories": 533
+    "avgDirectoriesPerRepo": 534.0,
+    "totalListings": 5084,
+    "aiEnhancedDirectories": 534
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6937,12 +6937,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-airbrush-makeup-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:40:37.832272+00:00Z",
+      "lastUpdated": "2025-11-10T12:40:37.832272+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 533,
+      "directoryCount": 534,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

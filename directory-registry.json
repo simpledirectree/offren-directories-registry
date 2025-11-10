@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:09:38.671602+00:00Z",
+  "lastUpdated": "2025-11-10T06:09:56.418269+00:00Z",
   "stats": {
-    "totalDirectories": 2321,
+    "totalDirectories": 2322,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2321.0,
-    "totalListings": 21897,
-    "aiEnhancedDirectories": 2321
+    "avgDirectoriesPerRepo": 2322.0,
+    "totalListings": 21907,
+    "aiEnhancedDirectories": 2322
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30181,12 +30181,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-auto-insurance-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:09:56.418269+00:00Z",
+      "lastUpdated": "2025-11-10T06:09:56.418269+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2321,
+      "directoryCount": 2322,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

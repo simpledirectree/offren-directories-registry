@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:37:39.292369+00:00Z",
+  "lastUpdated": "2025-11-10T06:37:56.498459+00:00Z",
   "stats": {
-    "totalDirectories": 2418,
+    "totalDirectories": 2419,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2418.0,
-    "totalListings": 22833,
-    "aiEnhancedDirectories": 2418
+    "avgDirectoriesPerRepo": 2419.0,
+    "totalListings": 22843,
+    "aiEnhancedDirectories": 2419
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31442,12 +31442,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-specialty-cuisine-catering-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:37:56.498459+00:00Z",
+      "lastUpdated": "2025-11-10T06:37:56.498459+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2418,
+      "directoryCount": 2419,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

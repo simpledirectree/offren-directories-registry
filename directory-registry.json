@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:10:16.286148+00:00Z",
+  "lastUpdated": "2025-11-10T14:10:58.069753+00:00Z",
   "stats": {
-    "totalDirectories": 637,
+    "totalDirectories": 638,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 637.0,
-    "totalListings": 5990,
-    "aiEnhancedDirectories": 637
+    "avgDirectoriesPerRepo": 638.0,
+    "totalListings": 6000,
+    "aiEnhancedDirectories": 638
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8289,12 +8289,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-psychiatry-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:10:58.069753+00:00Z",
+      "lastUpdated": "2025-11-10T14:10:58.069753+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 637,
+      "directoryCount": 638,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

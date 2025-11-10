@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:12:27.299420+00:00Z",
+  "lastUpdated": "2025-11-10T05:12:43.674936+00:00Z",
   "stats": {
-    "totalDirectories": 2124,
+    "totalDirectories": 2125,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2124.0,
-    "totalListings": 19992,
-    "aiEnhancedDirectories": 2124
+    "avgDirectoriesPerRepo": 2125.0,
+    "totalListings": 20002,
+    "aiEnhancedDirectories": 2125
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27620,12 +27620,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "christian-owned-call-answering-services-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:12:43.674936+00:00Z",
+      "lastUpdated": "2025-11-10T05:12:43.674936+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2124,
+      "directoryCount": 2125,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

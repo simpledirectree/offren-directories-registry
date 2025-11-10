@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:52:51.281709+00:00Z",
+  "lastUpdated": "2025-11-10T16:53:57.138730+00:00Z",
   "stats": {
-    "totalDirectories": 835,
+    "totalDirectories": 836,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 835.0,
-    "totalListings": 7782,
-    "aiEnhancedDirectories": 835
+    "avgDirectoriesPerRepo": 836.0,
+    "totalListings": 7792,
+    "aiEnhancedDirectories": 836
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10863,12 +10863,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-cabinet-refinishing-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:53:57.138730+00:00Z",
+      "lastUpdated": "2025-11-10T16:53:57.138730+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 835,
+      "directoryCount": 836,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

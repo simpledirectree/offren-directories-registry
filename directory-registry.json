@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:32:02.346639+00:00Z",
+  "lastUpdated": "2025-11-10T14:32:18.510162+00:00Z",
   "stats": {
-    "totalDirectories": 658,
+    "totalDirectories": 659,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 658.0,
-    "totalListings": 6176,
-    "aiEnhancedDirectories": 658
+    "avgDirectoriesPerRepo": 659.0,
+    "totalListings": 6186,
+    "aiEnhancedDirectories": 659
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8562,12 +8562,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-windshield-repair-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:32:18.510162+00:00Z",
+      "lastUpdated": "2025-11-10T14:32:18.510162+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 658,
+      "directoryCount": 659,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

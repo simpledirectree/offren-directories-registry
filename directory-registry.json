@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:42:06.884452+00:00Z",
+  "lastUpdated": "2025-11-10T10:45:34.488669+00:00Z",
   "stats": {
-    "totalDirectories": 404,
+    "totalDirectories": 405,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 404.0,
-    "totalListings": 3881,
-    "aiEnhancedDirectories": 404
+    "avgDirectoriesPerRepo": 405.0,
+    "totalListings": 3891,
+    "aiEnhancedDirectories": 405
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5260,12 +5260,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-coding-classes-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:45:34.488669+00:00Z",
+      "lastUpdated": "2025-11-10T10:45:34.488669+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 404,
+      "directoryCount": 405,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

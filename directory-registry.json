@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:15:28.896197+00:00Z",
+  "lastUpdated": "2025-11-10T01:16:09.486760+00:00Z",
   "stats": {
-    "totalDirectories": 1646,
+    "totalDirectories": 1647,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1646.0,
-    "totalListings": 15428,
-    "aiEnhancedDirectories": 1646
+    "avgDirectoriesPerRepo": 1647.0,
+    "totalListings": 15438,
+    "aiEnhancedDirectories": 1647
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21406,12 +21406,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-moving-supply-rental-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:16:09.486760+00:00Z",
+      "lastUpdated": "2025-11-10T01:16:09.486760+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1646,
+      "directoryCount": 1647,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:31:24.393082+00:00Z",
+  "lastUpdated": "2025-11-10T07:31:42.407978+00:00Z",
   "stats": {
-    "totalDirectories": 135,
+    "totalDirectories": 136,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 135.0,
-    "totalListings": 1306,
-    "aiEnhancedDirectories": 135
+    "avgDirectoriesPerRepo": 136.0,
+    "totalListings": 1316,
+    "aiEnhancedDirectories": 136
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1763,12 +1763,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-hvac-installation-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:31:42.407978+00:00Z",
+      "lastUpdated": "2025-11-10T07:31:42.407978+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 135,
+      "directoryCount": 136,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:06:29.762311+00:00Z",
+  "lastUpdated": "2025-11-10T05:06:47.399308+00:00Z",
   "stats": {
-    "totalDirectories": 2105,
+    "totalDirectories": 2106,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2105.0,
-    "totalListings": 19802,
-    "aiEnhancedDirectories": 2105
+    "avgDirectoriesPerRepo": 2106.0,
+    "totalListings": 19812,
+    "aiEnhancedDirectories": 2106
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27373,12 +27373,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-general-home-repairs-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:06:47.399308+00:00Z",
+      "lastUpdated": "2025-11-10T05:06:47.399308+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2105,
+      "directoryCount": 2106,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

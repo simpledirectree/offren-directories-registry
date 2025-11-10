@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:23:33.408852+00:00Z",
+  "lastUpdated": "2025-11-10T15:25:55.818051+00:00Z",
   "stats": {
-    "totalDirectories": 712,
+    "totalDirectories": 713,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 712.0,
-    "totalListings": 6668,
-    "aiEnhancedDirectories": 712
+    "avgDirectoriesPerRepo": 713.0,
+    "totalListings": 6678,
+    "aiEnhancedDirectories": 713
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9264,12 +9264,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-fiduciary-services-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:25:55.818051+00:00Z",
+      "lastUpdated": "2025-11-10T15:25:55.818051+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 712,
+      "directoryCount": 713,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

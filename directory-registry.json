@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:47:21.564577+00:00Z",
+  "lastUpdated": "2025-11-10T05:47:38.394247+00:00Z",
   "stats": {
-    "totalDirectories": 2246,
+    "totalDirectories": 2247,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2246.0,
-    "totalListings": 21169,
-    "aiEnhancedDirectories": 2246
+    "avgDirectoriesPerRepo": 2247.0,
+    "totalListings": 21179,
+    "aiEnhancedDirectories": 2247
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29206,12 +29206,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-plant-purchasing-assistance-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:47:38.394247+00:00Z",
+      "lastUpdated": "2025-11-10T05:47:38.394247+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2246,
+      "directoryCount": 2247,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

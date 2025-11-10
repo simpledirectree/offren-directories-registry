@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:58:38.444726+00:00Z",
+  "lastUpdated": "2025-11-10T01:58:58.229509+00:00Z",
   "stats": {
-    "totalDirectories": 1701,
+    "totalDirectories": 1702,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1701.0,
-    "totalListings": 15928,
-    "aiEnhancedDirectories": 1701
+    "avgDirectoriesPerRepo": 1702.0,
+    "totalListings": 15938,
+    "aiEnhancedDirectories": 1702
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22121,12 +22121,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-reconstructive-surgery-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:58:58.229509+00:00Z",
+      "lastUpdated": "2025-11-10T01:58:58.229509+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1701,
+      "directoryCount": 1702,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

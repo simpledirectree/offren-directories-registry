@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:59:25.985124+00:00Z",
+  "lastUpdated": "2025-11-10T03:59:41.748737+00:00Z",
   "stats": {
-    "totalDirectories": 1870,
+    "totalDirectories": 1871,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1870.0,
-    "totalListings": 17519,
-    "aiEnhancedDirectories": 1870
+    "avgDirectoriesPerRepo": 1871.0,
+    "totalListings": 17529,
+    "aiEnhancedDirectories": 1871
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24318,12 +24318,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-yin-yoga-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:59:41.748737+00:00Z",
+      "lastUpdated": "2025-11-10T03:59:41.748737+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1870,
+      "directoryCount": 1871,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

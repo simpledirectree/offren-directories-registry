@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:52:27.109767+00:00Z",
+  "lastUpdated": "2025-11-10T03:52:43.412032+00:00Z",
   "stats": {
-    "totalDirectories": 1846,
+    "totalDirectories": 1847,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1846.0,
-    "totalListings": 17279,
-    "aiEnhancedDirectories": 1846
+    "avgDirectoriesPerRepo": 1847.0,
+    "totalListings": 17289,
+    "aiEnhancedDirectories": 1847
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24006,12 +24006,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-salt-therapy-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:52:43.412032+00:00Z",
+      "lastUpdated": "2025-11-10T03:52:43.412032+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1846,
+      "directoryCount": 1847,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

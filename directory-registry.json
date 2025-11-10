@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:22:27.884057+00:00Z",
+  "lastUpdated": "2025-11-10T18:22:43.607863+00:00Z",
   "stats": {
-    "totalDirectories": 936,
+    "totalDirectories": 937,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 936.0,
-    "totalListings": 8715,
-    "aiEnhancedDirectories": 936
+    "avgDirectoriesPerRepo": 937.0,
+    "totalListings": 8725,
+    "aiEnhancedDirectories": 937
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12176,12 +12176,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-self-storage-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:22:43.607863+00:00Z",
+      "lastUpdated": "2025-11-10T18:22:43.607863+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 936,
+      "directoryCount": 937,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

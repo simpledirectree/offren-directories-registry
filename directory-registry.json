@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:13:50.360041+00:00Z",
+  "lastUpdated": "2025-11-10T12:15:20.514963+00:00Z",
   "stats": {
-    "totalDirectories": 506,
+    "totalDirectories": 507,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 506.0,
-    "totalListings": 4813,
-    "aiEnhancedDirectories": 506
+    "avgDirectoriesPerRepo": 507.0,
+    "totalListings": 4823,
+    "aiEnhancedDirectories": 507
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6586,12 +6586,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-sat-prep-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:15:20.514963+00:00Z",
+      "lastUpdated": "2025-11-10T12:15:20.514963+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 506,
+      "directoryCount": 507,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:55:40.771199+00:00Z",
+  "lastUpdated": "2025-11-10T04:55:55.880926+00:00Z",
   "stats": {
-    "totalDirectories": 2068,
+    "totalDirectories": 2069,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2068.0,
-    "totalListings": 19441,
-    "aiEnhancedDirectories": 2068
+    "avgDirectoriesPerRepo": 2069.0,
+    "totalListings": 19451,
+    "aiEnhancedDirectories": 2069
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26892,12 +26892,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-landscape-installation-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:55:55.880926+00:00Z",
+      "lastUpdated": "2025-11-10T04:55:55.880926+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2068,
+      "directoryCount": 2069,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

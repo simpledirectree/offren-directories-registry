@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:07:39.462044+00:00Z",
+  "lastUpdated": "2025-11-10T04:07:55.700301+00:00Z",
   "stats": {
-    "totalDirectories": 1899,
+    "totalDirectories": 1900,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1899.0,
-    "totalListings": 17800,
-    "aiEnhancedDirectories": 1899
+    "avgDirectoriesPerRepo": 1900.0,
+    "totalListings": 17810,
+    "aiEnhancedDirectories": 1900
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24695,12 +24695,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-pulmonologists-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:07:55.700301+00:00Z",
+      "lastUpdated": "2025-11-10T04:07:55.700301+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1899,
+      "directoryCount": 1900,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

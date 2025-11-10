@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:51:40.535747+00:00Z",
+  "lastUpdated": "2025-11-10T03:51:55.838069+00:00Z",
   "stats": {
-    "totalDirectories": 1843,
+    "totalDirectories": 1844,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1843.0,
-    "totalListings": 17249,
-    "aiEnhancedDirectories": 1843
+    "avgDirectoriesPerRepo": 1844.0,
+    "totalListings": 17259,
+    "aiEnhancedDirectories": 1844
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23967,12 +23967,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-composition-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:51:55.838069+00:00Z",
+      "lastUpdated": "2025-11-10T03:51:55.838069+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1843,
+      "directoryCount": 1844,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

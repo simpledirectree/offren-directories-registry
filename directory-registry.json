@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:49:38.115935+00:00Z",
+  "lastUpdated": "2025-11-10T17:51:22.114402+00:00Z",
   "stats": {
-    "totalDirectories": 895,
+    "totalDirectories": 896,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 895.0,
-    "totalListings": 8354,
-    "aiEnhancedDirectories": 895
+    "avgDirectoriesPerRepo": 896.0,
+    "totalListings": 8364,
+    "aiEnhancedDirectories": 896
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11643,12 +11643,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-controller-services-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:51:22.114402+00:00Z",
+      "lastUpdated": "2025-11-10T17:51:22.114402+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 895,
+      "directoryCount": 896,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

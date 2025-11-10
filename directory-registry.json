@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:07:06.548415+00:00Z",
+  "lastUpdated": "2025-11-10T06:07:19.895407+00:00Z",
   "stats": {
-    "totalDirectories": 2312,
+    "totalDirectories": 2313,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2312.0,
-    "totalListings": 21813,
-    "aiEnhancedDirectories": 2312
+    "avgDirectoriesPerRepo": 2313.0,
+    "totalListings": 21817,
+    "aiEnhancedDirectories": 2313
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30064,12 +30064,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-patent-law-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:07:19.895407+00:00Z",
+      "lastUpdated": "2025-11-10T06:07:19.895407+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2312,
+      "directoryCount": 2313,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

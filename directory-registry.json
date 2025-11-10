@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:51:07.893084+00:00Z",
+  "lastUpdated": "2025-11-10T03:51:25.712193+00:00Z",
   "stats": {
-    "totalDirectories": 1841,
+    "totalDirectories": 1842,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1841.0,
-    "totalListings": 17229,
-    "aiEnhancedDirectories": 1841
+    "avgDirectoriesPerRepo": 1842.0,
+    "totalListings": 17239,
+    "aiEnhancedDirectories": 1842
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23941,12 +23941,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-xeriscaping-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:51:25.712193+00:00Z",
+      "lastUpdated": "2025-11-10T03:51:25.712193+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1841,
+      "directoryCount": 1842,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:29:26.288548+00:00Z",
+  "lastUpdated": "2025-11-10T09:29:40.991628+00:00Z",
   "stats": {
-    "totalDirectories": 309,
+    "totalDirectories": 310,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 309.0,
-    "totalListings": 2992,
-    "aiEnhancedDirectories": 309
+    "avgDirectoriesPerRepo": 310.0,
+    "totalListings": 3002,
+    "aiEnhancedDirectories": 310
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4025,12 +4025,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-chemical-peels-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:29:40.991628+00:00Z",
+      "lastUpdated": "2025-11-10T09:29:40.991628+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 309,
+      "directoryCount": 310,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

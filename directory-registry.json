@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:30:37.741342+00:00Z",
+  "lastUpdated": "2025-11-10T20:30:54.256342+00:00Z",
   "stats": {
-    "totalDirectories": 1082,
+    "totalDirectories": 1083,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1082.0,
-    "totalListings": 10072,
-    "aiEnhancedDirectories": 1082
+    "avgDirectoriesPerRepo": 1083.0,
+    "totalListings": 10082,
+    "aiEnhancedDirectories": 1083
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14074,12 +14074,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-security-audits-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:30:54.256342+00:00Z",
+      "lastUpdated": "2025-11-10T20:30:54.256342+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1082,
+      "directoryCount": 1083,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

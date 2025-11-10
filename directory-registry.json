@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:13:42.277946+00:00Z",
+  "lastUpdated": "2025-11-10T04:13:58.201120+00:00Z",
   "stats": {
-    "totalDirectories": 1920,
+    "totalDirectories": 1921,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1920.0,
-    "totalListings": 17997,
-    "aiEnhancedDirectories": 1920
+    "avgDirectoriesPerRepo": 1921.0,
+    "totalListings": 18007,
+    "aiEnhancedDirectories": 1921
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24968,12 +24968,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-dent-repair-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:13:58.201120+00:00Z",
+      "lastUpdated": "2025-11-10T04:13:58.201120+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1920,
+      "directoryCount": 1921,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

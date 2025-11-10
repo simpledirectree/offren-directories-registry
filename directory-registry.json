@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:46:31.434089+00:00Z",
+  "lastUpdated": "2025-11-10T03:46:47.476372+00:00Z",
   "stats": {
-    "totalDirectories": 1825,
+    "totalDirectories": 1826,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1825.0,
-    "totalListings": 17078,
-    "aiEnhancedDirectories": 1825
+    "avgDirectoriesPerRepo": 1826.0,
+    "totalListings": 17088,
+    "aiEnhancedDirectories": 1826
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23733,12 +23733,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-pet-sitting-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:46:47.476372+00:00Z",
+      "lastUpdated": "2025-11-10T03:46:47.476372+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1825,
+      "directoryCount": 1826,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

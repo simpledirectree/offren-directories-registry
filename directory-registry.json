@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:44:12.000239+00:00Z",
+  "lastUpdated": "2025-11-10T05:44:30.124954+00:00Z",
   "stats": {
-    "totalDirectories": 2235,
+    "totalDirectories": 2236,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2235.0,
-    "totalListings": 21059,
-    "aiEnhancedDirectories": 2235
+    "avgDirectoriesPerRepo": 2236.0,
+    "totalListings": 21069,
+    "aiEnhancedDirectories": 2236
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29063,12 +29063,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-application-strategy-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:44:30.124954+00:00Z",
+      "lastUpdated": "2025-11-10T05:44:30.124954+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2235,
+      "directoryCount": 2236,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

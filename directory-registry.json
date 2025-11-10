@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:00:24.189719+00:00Z",
+  "lastUpdated": "2025-11-10T17:01:56.771465+00:00Z",
   "stats": {
-    "totalDirectories": 843,
+    "totalDirectories": 844,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 843.0,
-    "totalListings": 7853,
-    "aiEnhancedDirectories": 843
+    "avgDirectoriesPerRepo": 844.0,
+    "totalListings": 7863,
+    "aiEnhancedDirectories": 844
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10967,12 +10967,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-mobile-app-development-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:01:56.771465+00:00Z",
+      "lastUpdated": "2025-11-10T17:01:56.771465+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 843,
+      "directoryCount": 844,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

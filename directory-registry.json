@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:22:10.533740+00:00Z",
+  "lastUpdated": "2025-11-10T07:22:24.760558+00:00Z",
   "stats": {
-    "totalDirectories": 103,
+    "totalDirectories": 104,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 103.0,
-    "totalListings": 999,
-    "aiEnhancedDirectories": 103
+    "avgDirectoriesPerRepo": 104.0,
+    "totalListings": 1009,
+    "aiEnhancedDirectories": 104
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1347,12 +1347,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-welding-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:22:24.760558+00:00Z",
+      "lastUpdated": "2025-11-10T07:22:24.760558+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 103,
+      "directoryCount": 104,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

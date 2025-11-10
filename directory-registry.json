@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:09:51.247577+00:00Z",
+  "lastUpdated": "2025-11-10T04:10:11.450723+00:00Z",
   "stats": {
-    "totalDirectories": 1907,
+    "totalDirectories": 1908,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1907.0,
-    "totalListings": 17867,
-    "aiEnhancedDirectories": 1907
+    "avgDirectoriesPerRepo": 1908.0,
+    "totalListings": 17877,
+    "aiEnhancedDirectories": 1908
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24799,12 +24799,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-technology-training-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:10:11.450723+00:00Z",
+      "lastUpdated": "2025-11-10T04:10:11.450723+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1907,
+      "directoryCount": 1908,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:56:19.576943+00:00Z",
+  "lastUpdated": "2025-11-10T06:56:35.066798+00:00Z",
   "stats": {
-    "totalDirectories": 9,
+    "totalDirectories": 10,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 9.0,
-    "totalListings": 90,
-    "aiEnhancedDirectories": 9
+    "avgDirectoriesPerRepo": 10.0,
+    "totalListings": 100,
+    "aiEnhancedDirectories": 10
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -125,12 +125,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-loading-services-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:56:35.066798+00:00Z",
+      "lastUpdated": "2025-11-10T06:56:35.066798+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 9,
+      "directoryCount": 10,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

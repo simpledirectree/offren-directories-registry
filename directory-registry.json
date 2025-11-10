@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:33:23.644457+00:00Z",
+  "lastUpdated": "2025-11-10T04:33:38.741201+00:00Z",
   "stats": {
-    "totalDirectories": 1989,
+    "totalDirectories": 1990,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1989.0,
-    "totalListings": 18671,
-    "aiEnhancedDirectories": 1989
+    "avgDirectoriesPerRepo": 1990.0,
+    "totalListings": 18681,
+    "aiEnhancedDirectories": 1990
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25865,12 +25865,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-safety-training-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:33:38.741201+00:00Z",
+      "lastUpdated": "2025-11-10T04:33:38.741201+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1989,
+      "directoryCount": 1990,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

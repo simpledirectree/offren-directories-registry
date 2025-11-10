@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:37:59.144297+00:00Z",
+  "lastUpdated": "2025-11-10T07:38:17.953786+00:00Z",
   "stats": {
-    "totalDirectories": 158,
+    "totalDirectories": 159,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 158.0,
-    "totalListings": 1536,
-    "aiEnhancedDirectories": 158
+    "avgDirectoriesPerRepo": 159.0,
+    "totalListings": 1546,
+    "aiEnhancedDirectories": 159
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2062,12 +2062,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-remote-work-technology-solutions-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:38:17.953786+00:00Z",
+      "lastUpdated": "2025-11-10T07:38:17.953786+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 158,
+      "directoryCount": 159,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

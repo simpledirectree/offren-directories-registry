@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:48:29.160502+00:00Z",
+  "lastUpdated": "2025-11-10T01:49:16.918014+00:00Z",
   "stats": {
-    "totalDirectories": 1688,
+    "totalDirectories": 1689,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1688.0,
-    "totalListings": 15805,
-    "aiEnhancedDirectories": 1688
+    "avgDirectoriesPerRepo": 1689.0,
+    "totalListings": 15815,
+    "aiEnhancedDirectories": 1689
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21952,12 +21952,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-violin-lessons-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:49:16.918014+00:00Z",
+      "lastUpdated": "2025-11-10T01:49:16.918014+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1688,
+      "directoryCount": 1689,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

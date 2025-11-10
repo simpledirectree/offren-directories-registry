@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:07:21.545412+00:00Z",
+  "lastUpdated": "2025-11-10T04:07:39.462044+00:00Z",
   "stats": {
-    "totalDirectories": 1898,
+    "totalDirectories": 1899,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1898.0,
-    "totalListings": 17790,
-    "aiEnhancedDirectories": 1898
+    "avgDirectoriesPerRepo": 1899.0,
+    "totalListings": 17800,
+    "aiEnhancedDirectories": 1899
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24682,12 +24682,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-kung-fu-classes-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:07:39.462044+00:00Z",
+      "lastUpdated": "2025-11-10T04:07:39.462044+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1898,
+      "directoryCount": 1899,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

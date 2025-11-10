@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:31:22.007021+00:00Z",
+  "lastUpdated": "2025-11-10T05:31:35.041277+00:00Z",
   "stats": {
-    "totalDirectories": 2189,
+    "totalDirectories": 2190,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2189.0,
-    "totalListings": 20618,
-    "aiEnhancedDirectories": 2189
+    "avgDirectoriesPerRepo": 2190.0,
+    "totalListings": 20619,
+    "aiEnhancedDirectories": 2190
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28465,12 +28465,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-beard-styling-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:31:35.041277+00:00Z",
+      "lastUpdated": "2025-11-10T05:31:35.041277+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2189,
+      "directoryCount": 2190,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

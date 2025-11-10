@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:21:41.673145+00:00Z",
+  "lastUpdated": "2025-11-10T12:22:46.165315+00:00Z",
   "stats": {
-    "totalDirectories": 514,
+    "totalDirectories": 515,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 514.0,
-    "totalListings": 4888,
-    "aiEnhancedDirectories": 514
+    "avgDirectoriesPerRepo": 515.0,
+    "totalListings": 4898,
+    "aiEnhancedDirectories": 515
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6690,12 +6690,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-roofing-installation-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:22:46.165315+00:00Z",
+      "lastUpdated": "2025-11-10T12:22:46.165315+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 514,
+      "directoryCount": 515,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

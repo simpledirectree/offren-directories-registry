@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T23:57:07.199423+00:00Z",
+  "lastUpdated": "2025-11-10T23:57:26.239191+00:00Z",
   "stats": {
-    "totalDirectories": 1314,
+    "totalDirectories": 1315,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1314.0,
-    "totalListings": 12230,
-    "aiEnhancedDirectories": 1314
+    "avgDirectoriesPerRepo": 1315.0,
+    "totalListings": 12240,
+    "aiEnhancedDirectories": 1315
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17090,12 +17090,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-pet-transportation-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T23:57:26.239191+00:00Z",
+      "lastUpdated": "2025-11-10T23:57:26.239191+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1314,
+      "directoryCount": 1315,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

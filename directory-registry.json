@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:02:30.834258+00:00Z",
+  "lastUpdated": "2025-11-10T09:03:10.725349+00:00Z",
   "stats": {
-    "totalDirectories": 272,
+    "totalDirectories": 273,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 272.0,
-    "totalListings": 2641,
-    "aiEnhancedDirectories": 272
+    "avgDirectoriesPerRepo": 273.0,
+    "totalListings": 2651,
+    "aiEnhancedDirectories": 273
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3544,12 +3544,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-slate-roofing-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:03:10.725349+00:00Z",
+      "lastUpdated": "2025-11-10T09:03:10.725349+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 272,
+      "directoryCount": 273,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

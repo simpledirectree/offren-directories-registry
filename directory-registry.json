@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:47:46.543688+00:00Z",
+  "lastUpdated": "2025-11-10T06:48:04.945163+00:00Z",
   "stats": {
-    "totalDirectories": 2452,
+    "totalDirectories": 2453,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2452.0,
-    "totalListings": 23173,
-    "aiEnhancedDirectories": 2452
+    "avgDirectoriesPerRepo": 2453.0,
+    "totalListings": 23183,
+    "aiEnhancedDirectories": 2453
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31884,12 +31884,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-waxing-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:48:04.945163+00:00Z",
+      "lastUpdated": "2025-11-10T06:48:04.945163+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2452,
+      "directoryCount": 2453,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

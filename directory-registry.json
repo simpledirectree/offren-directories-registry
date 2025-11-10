@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:01:16.760885+00:00Z",
+  "lastUpdated": "2025-11-10T12:01:36.332921+00:00Z",
   "stats": {
-    "totalDirectories": 494,
+    "totalDirectories": 495,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 494.0,
-    "totalListings": 4707,
-    "aiEnhancedDirectories": 494
+    "avgDirectoriesPerRepo": 495.0,
+    "totalListings": 4717,
+    "aiEnhancedDirectories": 495
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6430,12 +6430,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-temporary-staffing-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:01:36.332921+00:00Z",
+      "lastUpdated": "2025-11-10T12:01:36.332921+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 494,
+      "directoryCount": 495,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

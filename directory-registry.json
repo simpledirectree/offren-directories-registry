@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:38:12.682572+00:00Z",
+  "lastUpdated": "2025-11-10T04:38:27.789414+00:00Z",
   "stats": {
-    "totalDirectories": 2006,
+    "totalDirectories": 2007,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2006.0,
-    "totalListings": 18841,
-    "aiEnhancedDirectories": 2006
+    "avgDirectoriesPerRepo": 2007.0,
+    "totalListings": 18851,
+    "aiEnhancedDirectories": 2007
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26086,12 +26086,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-commercial-driver-training-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:38:27.789414+00:00Z",
+      "lastUpdated": "2025-11-10T04:38:27.789414+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2006,
+      "directoryCount": 2007,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:32:44.974262+00:00Z",
+  "lastUpdated": "2025-11-10T05:33:06.368567+00:00Z",
   "stats": {
-    "totalDirectories": 2194,
+    "totalDirectories": 2195,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2194.0,
-    "totalListings": 20659,
-    "aiEnhancedDirectories": 2194
+    "avgDirectoriesPerRepo": 2195.0,
+    "totalListings": 20669,
+    "aiEnhancedDirectories": 2195
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28530,12 +28530,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-geriatric-care-management-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:33:06.368567+00:00Z",
+      "lastUpdated": "2025-11-10T05:33:06.368567+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2194,
+      "directoryCount": 2195,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

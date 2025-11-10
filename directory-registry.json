@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:42:50.864530+00:00Z",
+  "lastUpdated": "2025-11-10T19:43:08.265097+00:00Z",
   "stats": {
-    "totalDirectories": 1030,
+    "totalDirectories": 1031,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1030.0,
-    "totalListings": 9586,
-    "aiEnhancedDirectories": 1030
+    "avgDirectoriesPerRepo": 1031.0,
+    "totalListings": 9596,
+    "aiEnhancedDirectories": 1031
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13398,12 +13398,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-franchise-tax-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:43:08.265097+00:00Z",
+      "lastUpdated": "2025-11-10T19:43:08.265097+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1030,
+      "directoryCount": 1031,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

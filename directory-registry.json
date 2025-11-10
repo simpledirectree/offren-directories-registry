@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:34:43.421977+00:00Z",
+  "lastUpdated": "2025-11-10T06:35:01.089044+00:00Z",
   "stats": {
-    "totalDirectories": 2408,
+    "totalDirectories": 2409,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2408.0,
-    "totalListings": 22733,
-    "aiEnhancedDirectories": 2408
+    "avgDirectoriesPerRepo": 2409.0,
+    "totalListings": 22743,
+    "aiEnhancedDirectories": 2409
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31312,12 +31312,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-respite-care-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:35:01.089044+00:00Z",
+      "lastUpdated": "2025-11-10T06:35:01.089044+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2408,
+      "directoryCount": 2409,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

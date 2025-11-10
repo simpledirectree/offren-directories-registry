@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:43:36.194412+00:00Z",
+  "lastUpdated": "2025-11-10T04:43:51.621331+00:00Z",
   "stats": {
-    "totalDirectories": 2025,
+    "totalDirectories": 2026,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2025.0,
-    "totalListings": 19026,
-    "aiEnhancedDirectories": 2025
+    "avgDirectoriesPerRepo": 2026.0,
+    "totalListings": 19036,
+    "aiEnhancedDirectories": 2026
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26333,12 +26333,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-home-health-aides-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:43:51.621331+00:00Z",
+      "lastUpdated": "2025-11-10T04:43:51.621331+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2025,
+      "directoryCount": 2026,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

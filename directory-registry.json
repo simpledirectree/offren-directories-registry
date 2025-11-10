@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:08:47.654310+00:00Z",
+  "lastUpdated": "2025-11-10T04:09:03.457891+00:00Z",
   "stats": {
-    "totalDirectories": 1903,
+    "totalDirectories": 1904,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1903.0,
-    "totalListings": 17835,
-    "aiEnhancedDirectories": 1903
+    "avgDirectoriesPerRepo": 1904.0,
+    "totalListings": 17845,
+    "aiEnhancedDirectories": 1904
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24747,12 +24747,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-after-school-care-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:09:03.457891+00:00Z",
+      "lastUpdated": "2025-11-10T04:09:03.457891+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1903,
+      "directoryCount": 1904,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

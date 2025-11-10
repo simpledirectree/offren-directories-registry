@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:42:43.196413+00:00Z",
+  "lastUpdated": "2025-11-10T12:43:22.913051+00:00Z",
   "stats": {
-    "totalDirectories": 539,
+    "totalDirectories": 540,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 539.0,
-    "totalListings": 5130,
-    "aiEnhancedDirectories": 539
+    "avgDirectoriesPerRepo": 540.0,
+    "totalListings": 5140,
+    "aiEnhancedDirectories": 540
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7015,12 +7015,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-identity-and-access-management-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:43:22.913051+00:00Z",
+      "lastUpdated": "2025-11-10T12:43:22.913051+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 539,
+      "directoryCount": 540,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

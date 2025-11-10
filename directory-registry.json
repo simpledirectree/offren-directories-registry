@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:10:39.283191+00:00Z",
+  "lastUpdated": "2025-11-10T10:13:20.120687+00:00Z",
   "stats": {
-    "totalDirectories": 360,
+    "totalDirectories": 361,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 360.0,
-    "totalListings": 3468,
-    "aiEnhancedDirectories": 360
+    "avgDirectoriesPerRepo": 361.0,
+    "totalListings": 3478,
+    "aiEnhancedDirectories": 361
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4688,12 +4688,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-virtual-assistants-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:13:20.120687+00:00Z",
+      "lastUpdated": "2025-11-10T10:13:20.120687+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 360,
+      "directoryCount": 361,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

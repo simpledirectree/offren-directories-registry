@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:32:38.595519+00:00Z",
+  "lastUpdated": "2025-11-10T06:32:56.981693+00:00Z",
   "stats": {
-    "totalDirectories": 2401,
+    "totalDirectories": 2402,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2401.0,
-    "totalListings": 22663,
-    "aiEnhancedDirectories": 2401
+    "avgDirectoriesPerRepo": 2402.0,
+    "totalListings": 22673,
+    "aiEnhancedDirectories": 2402
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31221,12 +31221,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-aca-plans-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:32:56.981693+00:00Z",
+      "lastUpdated": "2025-11-10T06:32:56.981693+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2401,
+      "directoryCount": 2402,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

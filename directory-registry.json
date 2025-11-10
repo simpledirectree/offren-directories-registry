@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:31:29.455244+00:00Z",
+  "lastUpdated": "2025-11-10T16:31:43.735162+00:00Z",
   "stats": {
-    "totalDirectories": 805,
+    "totalDirectories": 806,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 805.0,
-    "totalListings": 7518,
-    "aiEnhancedDirectories": 805
+    "avgDirectoriesPerRepo": 806.0,
+    "totalListings": 7522,
+    "aiEnhancedDirectories": 806
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10473,12 +10473,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-video-production-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:31:43.735162+00:00Z",
+      "lastUpdated": "2025-11-10T16:31:43.735162+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 805,
+      "directoryCount": 806,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

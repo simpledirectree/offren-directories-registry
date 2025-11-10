@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:11:37.148971+00:00Z",
+  "lastUpdated": "2025-11-10T12:12:17.837757+00:00Z",
   "stats": {
-    "totalDirectories": 503,
+    "totalDirectories": 504,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 503.0,
-    "totalListings": 4797,
-    "aiEnhancedDirectories": 503
+    "avgDirectoriesPerRepo": 504.0,
+    "totalListings": 4807,
+    "aiEnhancedDirectories": 504
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6547,12 +6547,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-steam-rooms-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:12:17.837757+00:00Z",
+      "lastUpdated": "2025-11-10T12:12:17.837757+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 503,
+      "directoryCount": 504,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

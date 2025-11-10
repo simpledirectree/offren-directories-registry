@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:09:18.055580+00:00Z",
+  "lastUpdated": "2025-11-10T05:09:35.417875+00:00Z",
   "stats": {
-    "totalDirectories": 2114,
+    "totalDirectories": 2115,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2114.0,
-    "totalListings": 19892,
-    "aiEnhancedDirectories": 2114
+    "avgDirectoriesPerRepo": 2115.0,
+    "totalListings": 19902,
+    "aiEnhancedDirectories": 2115
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27490,12 +27490,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-environmental-law-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:09:35.417875+00:00Z",
+      "lastUpdated": "2025-11-10T05:09:35.417875+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2114,
+      "directoryCount": 2115,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

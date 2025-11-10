@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:18:35.828221+00:00Z",
+  "lastUpdated": "2025-11-10T04:18:53.328703+00:00Z",
   "stats": {
-    "totalDirectories": 1937,
+    "totalDirectories": 1938,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1937.0,
-    "totalListings": 18167,
-    "aiEnhancedDirectories": 1937
+    "avgDirectoriesPerRepo": 1938.0,
+    "totalListings": 18177,
+    "aiEnhancedDirectories": 1938
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25189,12 +25189,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-patio-builders-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:18:53.328703+00:00Z",
+      "lastUpdated": "2025-11-10T04:18:53.328703+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1937,
+      "directoryCount": 1938,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

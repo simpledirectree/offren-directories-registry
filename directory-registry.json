@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:52:32.922136+00:00Z",
+  "lastUpdated": "2025-11-10T06:52:47.118072+00:00Z",
   "stats": {
-    "totalDirectories": 2468,
+    "totalDirectories": 2469,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2468.0,
-    "totalListings": 23328,
-    "aiEnhancedDirectories": 2468
+    "avgDirectoriesPerRepo": 2469.0,
+    "totalListings": 23338,
+    "aiEnhancedDirectories": 2469
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -32092,12 +32092,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-gel-nails-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:52:47.118072+00:00Z",
+      "lastUpdated": "2025-11-10T06:52:47.118072+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2468,
+      "directoryCount": 2469,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

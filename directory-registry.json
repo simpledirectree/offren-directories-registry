@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:18:48.518071+00:00Z",
+  "lastUpdated": "2025-11-10T06:19:06.661911+00:00Z",
   "stats": {
-    "totalDirectories": 2353,
+    "totalDirectories": 2354,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2353.0,
-    "totalListings": 22215,
-    "aiEnhancedDirectories": 2353
+    "avgDirectoriesPerRepo": 2354.0,
+    "totalListings": 22225,
+    "aiEnhancedDirectories": 2354
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30597,12 +30597,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-garden-photography-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:19:06.661911+00:00Z",
+      "lastUpdated": "2025-11-10T06:19:06.661911+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2353,
+      "directoryCount": 2354,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

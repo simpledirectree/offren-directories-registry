@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:02:34.515561+00:00Z",
+  "lastUpdated": "2025-11-10T07:02:51.415725+00:00Z",
   "stats": {
-    "totalDirectories": 32,
+    "totalDirectories": 33,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 32.0,
-    "totalListings": 315,
-    "aiEnhancedDirectories": 32
+    "avgDirectoriesPerRepo": 33.0,
+    "totalListings": 325,
+    "aiEnhancedDirectories": 33
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -424,12 +424,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-style-coaching-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:02:51.415725+00:00Z",
+      "lastUpdated": "2025-11-10T07:02:51.415725+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 32,
+      "directoryCount": 33,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

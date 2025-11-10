@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:58:08.841274+00:00Z",
+  "lastUpdated": "2025-11-10T10:00:18.012174+00:00Z",
   "stats": {
-    "totalDirectories": 345,
+    "totalDirectories": 346,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 345.0,
-    "totalListings": 3325,
-    "aiEnhancedDirectories": 345
+    "avgDirectoriesPerRepo": 346.0,
+    "totalListings": 3335,
+    "aiEnhancedDirectories": 346
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4493,12 +4493,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-skin-care-facilities-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:00:18.012174+00:00Z",
+      "lastUpdated": "2025-11-10T10:00:18.012174+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 345,
+      "directoryCount": 346,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

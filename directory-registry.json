@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:21:08.144203+00:00Z",
+  "lastUpdated": "2025-11-10T07:21:23.598090+00:00Z",
   "stats": {
-    "totalDirectories": 99,
+    "totalDirectories": 100,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 99.0,
-    "totalListings": 959,
-    "aiEnhancedDirectories": 99
+    "avgDirectoriesPerRepo": 100.0,
+    "totalListings": 969,
+    "aiEnhancedDirectories": 100
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1295,12 +1295,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-air-duct-cleaning-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:21:23.598090+00:00Z",
+      "lastUpdated": "2025-11-10T07:21:23.598090+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 99,
+      "directoryCount": 100,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:43:42.381772+00:00Z",
+  "lastUpdated": "2025-11-10T20:43:57.727779+00:00Z",
   "stats": {
-    "totalDirectories": 1095,
+    "totalDirectories": 1096,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1095.0,
-    "totalListings": 10202,
-    "aiEnhancedDirectories": 1095
+    "avgDirectoriesPerRepo": 1096.0,
+    "totalListings": 10212,
+    "aiEnhancedDirectories": 1096
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14243,12 +14243,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-concrete-work-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:43:57.727779+00:00Z",
+      "lastUpdated": "2025-11-10T20:43:57.727779+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1095,
+      "directoryCount": 1096,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

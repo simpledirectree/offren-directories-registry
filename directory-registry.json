@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:27:14.382613+00:00Z",
+  "lastUpdated": "2025-11-10T04:27:32.299048+00:00Z",
   "stats": {
-    "totalDirectories": 1967,
+    "totalDirectories": 1968,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1967.0,
-    "totalListings": 18451,
-    "aiEnhancedDirectories": 1967
+    "avgDirectoriesPerRepo": 1968.0,
+    "totalListings": 18461,
+    "aiEnhancedDirectories": 1968
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25579,12 +25579,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-quick-service-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:27:32.299048+00:00Z",
+      "lastUpdated": "2025-11-10T04:27:32.299048+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1967,
+      "directoryCount": 1968,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:21:07.729872+00:00Z",
+  "lastUpdated": "2025-11-10T04:21:25.854180+00:00Z",
   "stats": {
-    "totalDirectories": 1946,
+    "totalDirectories": 1947,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1946.0,
-    "totalListings": 18250,
-    "aiEnhancedDirectories": 1946
+    "avgDirectoriesPerRepo": 1947.0,
+    "totalListings": 18260,
+    "aiEnhancedDirectories": 1947
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25306,12 +25306,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-flower-bed-maintenance-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:21:25.854180+00:00Z",
+      "lastUpdated": "2025-11-10T04:21:25.854180+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1946,
+      "directoryCount": 1947,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:45:26.418989+00:00Z",
+  "lastUpdated": "2025-11-10T15:46:55.827791+00:00Z",
   "stats": {
-    "totalDirectories": 744,
+    "totalDirectories": 745,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 744.0,
-    "totalListings": 6954,
-    "aiEnhancedDirectories": 744
+    "avgDirectoriesPerRepo": 745.0,
+    "totalListings": 6964,
+    "aiEnhancedDirectories": 745
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9680,12 +9680,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-bed-liner-installation-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:46:55.827791+00:00Z",
+      "lastUpdated": "2025-11-10T15:46:55.827791+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 744,
+      "directoryCount": 745,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:37:30.238969+00:00Z",
+  "lastUpdated": "2025-11-10T02:37:44.240922+00:00Z",
   "stats": {
-    "totalDirectories": 1745,
+    "totalDirectories": 1746,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1745.0,
-    "totalListings": 16341,
-    "aiEnhancedDirectories": 1745
+    "avgDirectoriesPerRepo": 1746.0,
+    "totalListings": 16346,
+    "aiEnhancedDirectories": 1746
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22693,12 +22693,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-accounts-payable-management-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:37:44.240922+00:00Z",
+      "lastUpdated": "2025-11-10T02:37:44.240922+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1745,
+      "directoryCount": 1746,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

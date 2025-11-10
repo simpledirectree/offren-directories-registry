@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:18:13.256883+00:00Z",
+  "lastUpdated": "2025-11-10T07:18:29.406984+00:00Z",
   "stats": {
-    "totalDirectories": 88,
+    "totalDirectories": 89,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 88.0,
-    "totalListings": 849,
-    "aiEnhancedDirectories": 88
+    "avgDirectoriesPerRepo": 89.0,
+    "totalListings": 859,
+    "aiEnhancedDirectories": 89
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1152,12 +1152,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-dog-walking-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:18:29.406984+00:00Z",
+      "lastUpdated": "2025-11-10T07:18:29.406984+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 88,
+      "directoryCount": 89,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:02:33.896119+00:00Z",
+  "lastUpdated": "2025-11-10T11:02:46.753112+00:00Z",
   "stats": {
-    "totalDirectories": 422,
+    "totalDirectories": 423,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 422.0,
-    "totalListings": 4061,
-    "aiEnhancedDirectories": 422
+    "avgDirectoriesPerRepo": 423.0,
+    "totalListings": 4070,
+    "aiEnhancedDirectories": 423
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5494,12 +5494,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-trust-services-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:02:46.753112+00:00Z",
+      "lastUpdated": "2025-11-10T11:02:46.753112+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 422,
+      "directoryCount": 423,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

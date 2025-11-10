@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:11:03.451236+00:00Z",
+  "lastUpdated": "2025-11-10T21:11:20.296768+00:00Z",
   "stats": {
-    "totalDirectories": 1133,
+    "totalDirectories": 1134,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1133.0,
-    "totalListings": 10563,
-    "aiEnhancedDirectories": 1133
+    "avgDirectoriesPerRepo": 1134.0,
+    "totalListings": 10573,
+    "aiEnhancedDirectories": 1134
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14737,12 +14737,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-vegan-catering-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:11:20.296768+00:00Z",
+      "lastUpdated": "2025-11-10T21:11:20.296768+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1133,
+      "directoryCount": 1134,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

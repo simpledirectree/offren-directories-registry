@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:42:32.279201+00:00Z",
+  "lastUpdated": "2025-11-10T05:42:50.828761+00:00Z",
   "stats": {
-    "totalDirectories": 2229,
+    "totalDirectories": 2230,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2229.0,
-    "totalListings": 21007,
-    "aiEnhancedDirectories": 2229
+    "avgDirectoriesPerRepo": 2230.0,
+    "totalListings": 21017,
+    "aiEnhancedDirectories": 2230
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28985,12 +28985,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-financial-statement-preparation-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:42:50.828761+00:00Z",
+      "lastUpdated": "2025-11-10T05:42:50.828761+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2229,
+      "directoryCount": 2230,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

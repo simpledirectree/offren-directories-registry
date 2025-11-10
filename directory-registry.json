@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:48:50.725080+00:00Z",
+  "lastUpdated": "2025-11-10T03:49:09.099702+00:00Z",
   "stats": {
-    "totalDirectories": 1833,
+    "totalDirectories": 1834,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1833.0,
-    "totalListings": 17158,
-    "aiEnhancedDirectories": 1833
+    "avgDirectoriesPerRepo": 1834.0,
+    "totalListings": 17168,
+    "aiEnhancedDirectories": 1834
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23837,12 +23837,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-hiring-support-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:49:09.099702+00:00Z",
+      "lastUpdated": "2025-11-10T03:49:09.099702+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1833,
+      "directoryCount": 1834,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

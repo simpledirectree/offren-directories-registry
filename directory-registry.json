@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T23:40:44.376760+00:00Z",
+  "lastUpdated": "2025-11-10T23:40:58.680843+00:00Z",
   "stats": {
-    "totalDirectories": 1295,
+    "totalDirectories": 1296,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1295.0,
-    "totalListings": 12055,
-    "aiEnhancedDirectories": 1295
+    "avgDirectoriesPerRepo": 1296.0,
+    "totalListings": 12065,
+    "aiEnhancedDirectories": 1296
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16843,12 +16843,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-snow-removal-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T23:40:58.680843+00:00Z",
+      "lastUpdated": "2025-11-10T23:40:58.680843+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1295,
+      "directoryCount": 1296,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:13:36.123448+00:00Z",
+  "lastUpdated": "2025-11-10T09:14:17.111933+00:00Z",
   "stats": {
-    "totalDirectories": 287,
+    "totalDirectories": 288,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 287.0,
-    "totalListings": 2783,
-    "aiEnhancedDirectories": 287
+    "avgDirectoriesPerRepo": 288.0,
+    "totalListings": 2790,
+    "aiEnhancedDirectories": 288
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3739,12 +3739,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-invoice-factoring-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:14:17.111933+00:00Z",
+      "lastUpdated": "2025-11-10T09:14:17.111933+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 287,
+      "directoryCount": 288,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

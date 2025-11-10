@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:27:39.068798+00:00Z",
+  "lastUpdated": "2025-11-10T16:27:52.988257+00:00Z",
   "stats": {
-    "totalDirectories": 800,
+    "totalDirectories": 801,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 800.0,
-    "totalListings": 7475,
-    "aiEnhancedDirectories": 800
+    "avgDirectoriesPerRepo": 801.0,
+    "totalListings": 7480,
+    "aiEnhancedDirectories": 801
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10408,12 +10408,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-nail-art-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:27:52.988257+00:00Z",
+      "lastUpdated": "2025-11-10T16:27:52.988257+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 800,
+      "directoryCount": 801,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

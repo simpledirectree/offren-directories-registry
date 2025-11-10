@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:41:07.890908+00:00Z",
+  "lastUpdated": "2025-11-10T07:41:25.053499+00:00Z",
   "stats": {
-    "totalDirectories": 169,
+    "totalDirectories": 170,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 169.0,
-    "totalListings": 1646,
-    "aiEnhancedDirectories": 169
+    "avgDirectoriesPerRepo": 170.0,
+    "totalListings": 1656,
+    "aiEnhancedDirectories": 170
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2205,12 +2205,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-medicaid-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:41:25.053499+00:00Z",
+      "lastUpdated": "2025-11-10T07:41:25.053499+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 169,
+      "directoryCount": 170,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

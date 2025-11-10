@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:51:28.241607+00:00Z",
+  "lastUpdated": "2025-11-10T16:52:35.128408+00:00Z",
   "stats": {
-    "totalDirectories": 833,
+    "totalDirectories": 834,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 833.0,
-    "totalListings": 7764,
-    "aiEnhancedDirectories": 833
+    "avgDirectoriesPerRepo": 834.0,
+    "totalListings": 7772,
+    "aiEnhancedDirectories": 834
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10837,12 +10837,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-veterinarians-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:52:35.128408+00:00Z",
+      "lastUpdated": "2025-11-10T16:52:35.128408+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 833,
+      "directoryCount": 834,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

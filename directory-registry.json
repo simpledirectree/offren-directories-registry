@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:10:41.471851+00:00Z",
+  "lastUpdated": "2025-11-10T07:10:56.412489+00:00Z",
   "stats": {
-    "totalDirectories": 61,
+    "totalDirectories": 62,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 61.0,
-    "totalListings": 593,
-    "aiEnhancedDirectories": 61
+    "avgDirectoriesPerRepo": 62.0,
+    "totalListings": 603,
+    "aiEnhancedDirectories": 62
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -801,12 +801,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-efl-instruction-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:10:56.412489+00:00Z",
+      "lastUpdated": "2025-11-10T07:10:56.412489+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 61,
+      "directoryCount": 62,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

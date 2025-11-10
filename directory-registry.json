@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:40:01.765001+00:00Z",
+  "lastUpdated": "2025-11-10T15:40:16.817621+00:00Z",
   "stats": {
-    "totalDirectories": 735,
+    "totalDirectories": 736,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 735.0,
-    "totalListings": 6888,
-    "aiEnhancedDirectories": 735
+    "avgDirectoriesPerRepo": 736.0,
+    "totalListings": 6891,
+    "aiEnhancedDirectories": 736
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9563,12 +9563,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-cardiologists-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:40:16.817621+00:00Z",
+      "lastUpdated": "2025-11-10T15:40:16.817621+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 735,
+      "directoryCount": 736,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

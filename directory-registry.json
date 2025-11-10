@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:54:40.891990+00:00Z",
+  "lastUpdated": "2025-11-10T02:56:16.723278+00:00Z",
   "stats": {
-    "totalDirectories": 1768,
+    "totalDirectories": 1769,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1768.0,
-    "totalListings": 16552,
-    "aiEnhancedDirectories": 1768
+    "avgDirectoriesPerRepo": 1769.0,
+    "totalListings": 16562,
+    "aiEnhancedDirectories": 1769
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22992,12 +22992,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-halal-catering-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:56:16.723278+00:00Z",
+      "lastUpdated": "2025-11-10T02:56:16.723278+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1768,
+      "directoryCount": 1769,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

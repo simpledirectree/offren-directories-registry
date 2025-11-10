@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:13:44.092606+00:00Z",
+  "lastUpdated": "2025-11-10T15:15:15.825061+00:00Z",
   "stats": {
-    "totalDirectories": 698,
+    "totalDirectories": 699,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 698.0,
-    "totalListings": 6536,
-    "aiEnhancedDirectories": 698
+    "avgDirectoriesPerRepo": 699.0,
+    "totalListings": 6546,
+    "aiEnhancedDirectories": 699
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9082,12 +9082,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-dermatologists-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:15:15.825061+00:00Z",
+      "lastUpdated": "2025-11-10T15:15:15.825061+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 698,
+      "directoryCount": 699,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

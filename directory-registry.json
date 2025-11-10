@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:01:35.760225+00:00Z",
+  "lastUpdated": "2025-11-10T00:01:54.128648+00:00Z",
   "stats": {
-    "totalDirectories": 1564,
+    "totalDirectories": 1565,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1564.0,
-    "totalListings": 14713,
-    "aiEnhancedDirectories": 1564
+    "avgDirectoriesPerRepo": 1565.0,
+    "totalListings": 14718,
+    "aiEnhancedDirectories": 1565
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20340,12 +20340,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-auto-insurance-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:01:54.128648+00:00Z",
+      "lastUpdated": "2025-11-10T00:01:54.128648+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1564,
+      "directoryCount": 1565,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

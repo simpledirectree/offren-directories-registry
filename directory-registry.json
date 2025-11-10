@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:17:48.509922+00:00Z",
+  "lastUpdated": "2025-11-10T16:18:01.559476+00:00Z",
   "stats": {
-    "totalDirectories": 789,
+    "totalDirectories": 790,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 789.0,
-    "totalListings": 7372,
-    "aiEnhancedDirectories": 789
+    "avgDirectoriesPerRepo": 790.0,
+    "totalListings": 7375,
+    "aiEnhancedDirectories": 790
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10265,12 +10265,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-bookkeepers-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:18:01.559476+00:00Z",
+      "lastUpdated": "2025-11-10T16:18:01.559476+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 789,
+      "directoryCount": 790,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

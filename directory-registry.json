@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:45:58.503636+00:00Z",
+  "lastUpdated": "2025-11-10T01:46:40.209158+00:00Z",
   "stats": {
-    "totalDirectories": 1685,
+    "totalDirectories": 1686,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1685.0,
-    "totalListings": 15775,
-    "aiEnhancedDirectories": 1685
+    "avgDirectoriesPerRepo": 1686.0,
+    "totalListings": 15785,
+    "aiEnhancedDirectories": 1686
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21913,12 +21913,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-breath-work-sessions-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:46:40.209158+00:00Z",
+      "lastUpdated": "2025-11-10T01:46:40.209158+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1685,
+      "directoryCount": 1686,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

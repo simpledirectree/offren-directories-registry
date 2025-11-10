@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:37:44.663876+00:00Z",
+  "lastUpdated": "2025-11-10T09:38:24.066596+00:00Z",
   "stats": {
-    "totalDirectories": 324,
+    "totalDirectories": 325,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 324.0,
-    "totalListings": 3123,
-    "aiEnhancedDirectories": 324
+    "avgDirectoriesPerRepo": 325.0,
+    "totalListings": 3133,
+    "aiEnhancedDirectories": 325
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4220,12 +4220,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-state-inspections-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:38:24.066596+00:00Z",
+      "lastUpdated": "2025-11-10T09:38:24.066596+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 324,
+      "directoryCount": 325,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

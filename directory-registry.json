@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:43:37.149866+00:00Z",
+  "lastUpdated": "2025-11-10T05:43:55.054559+00:00Z",
   "stats": {
-    "totalDirectories": 2233,
+    "totalDirectories": 2234,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2233.0,
-    "totalListings": 21039,
-    "aiEnhancedDirectories": 2233
+    "avgDirectoriesPerRepo": 2234.0,
+    "totalListings": 21049,
+    "aiEnhancedDirectories": 2234
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29037,12 +29037,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-wellness-consulting-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:43:55.054559+00:00Z",
+      "lastUpdated": "2025-11-10T05:43:55.054559+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2233,
+      "directoryCount": 2234,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

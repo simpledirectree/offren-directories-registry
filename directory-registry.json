@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:48:48.284761+00:00Z",
+  "lastUpdated": "2025-11-10T00:49:28.658793+00:00Z",
   "stats": {
-    "totalDirectories": 1618,
+    "totalDirectories": 1619,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1618.0,
-    "totalListings": 15187,
-    "aiEnhancedDirectories": 1618
+    "avgDirectoriesPerRepo": 1619.0,
+    "totalListings": 15197,
+    "aiEnhancedDirectories": 1619
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21042,12 +21042,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-dementia-care-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:49:28.658793+00:00Z",
+      "lastUpdated": "2025-11-10T00:49:28.658793+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1618,
+      "directoryCount": 1619,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

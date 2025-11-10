@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:04:24.662762+00:00Z",
+  "lastUpdated": "2025-11-10T14:06:25.248761+00:00Z",
   "stats": {
-    "totalDirectories": 632,
+    "totalDirectories": 633,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 632.0,
-    "totalListings": 5948,
-    "aiEnhancedDirectories": 632
+    "avgDirectoriesPerRepo": 633.0,
+    "totalListings": 5958,
+    "aiEnhancedDirectories": 633
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8224,12 +8224,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-plant-purchasing-assistance-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:06:25.248761+00:00Z",
+      "lastUpdated": "2025-11-10T14:06:25.248761+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 632,
+      "directoryCount": 633,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

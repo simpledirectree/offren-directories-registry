@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:11:20.296768+00:00Z",
+  "lastUpdated": "2025-11-10T21:11:33.308226+00:00Z",
   "stats": {
-    "totalDirectories": 1134,
+    "totalDirectories": 1135,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1134.0,
-    "totalListings": 10573,
-    "aiEnhancedDirectories": 1134
+    "avgDirectoriesPerRepo": 1135.0,
+    "totalListings": 10574,
+    "aiEnhancedDirectories": 1135
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14750,12 +14750,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-2d-animation-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:11:33.308226+00:00Z",
+      "lastUpdated": "2025-11-10T21:11:33.308226+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1134,
+      "directoryCount": 1135,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:08:09.562230+00:00Z",
+  "lastUpdated": "2025-11-10T04:08:29.678461+00:00Z",
   "stats": {
-    "totalDirectories": 1901,
+    "totalDirectories": 1902,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1901.0,
-    "totalListings": 17815,
-    "aiEnhancedDirectories": 1901
+    "avgDirectoriesPerRepo": 1902.0,
+    "totalListings": 17825,
+    "aiEnhancedDirectories": 1902
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24721,12 +24721,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-shopify-development-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:08:29.678461+00:00Z",
+      "lastUpdated": "2025-11-10T04:08:29.678461+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1901,
+      "directoryCount": 1902,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

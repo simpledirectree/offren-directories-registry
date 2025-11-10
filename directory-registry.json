@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:56:18.463994+00:00Z",
+  "lastUpdated": "2025-11-10T01:57:25.305205+00:00Z",
   "stats": {
-    "totalDirectories": 1697,
+    "totalDirectories": 1698,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1697.0,
-    "totalListings": 15888,
-    "aiEnhancedDirectories": 1697
+    "avgDirectoriesPerRepo": 1698.0,
+    "totalListings": 15898,
+    "aiEnhancedDirectories": 1698
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22069,12 +22069,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-permanent-staffing-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:57:25.305205+00:00Z",
+      "lastUpdated": "2025-11-10T01:57:25.305205+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1697,
+      "directoryCount": 1698,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

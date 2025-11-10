@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:43:22.913051+00:00Z",
+  "lastUpdated": "2025-11-10T12:44:05.538415+00:00Z",
   "stats": {
-    "totalDirectories": 540,
+    "totalDirectories": 541,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 540.0,
-    "totalListings": 5140,
-    "aiEnhancedDirectories": 540
+    "avgDirectoriesPerRepo": 541.0,
+    "totalListings": 5150,
+    "aiEnhancedDirectories": 541
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7028,12 +7028,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-clinical-social-work-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:44:05.538415+00:00Z",
+      "lastUpdated": "2025-11-10T12:44:05.538415+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 540,
+      "directoryCount": 541,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

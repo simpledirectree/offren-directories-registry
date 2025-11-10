@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:58:24.364300+00:00Z",
+  "lastUpdated": "2025-11-10T13:59:06.534766+00:00Z",
   "stats": {
-    "totalDirectories": 621,
+    "totalDirectories": 622,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 621.0,
-    "totalListings": 5844,
-    "aiEnhancedDirectories": 621
+    "avgDirectoriesPerRepo": 622.0,
+    "totalListings": 5853,
+    "aiEnhancedDirectories": 622
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8081,12 +8081,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-general-house-cleaning-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:59:06.534766+00:00Z",
+      "lastUpdated": "2025-11-10T13:59:06.534766+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 621,
+      "directoryCount": 622,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:34:48.577455+00:00Z",
+  "lastUpdated": "2025-11-10T09:35:03.930346+00:00Z",
   "stats": {
-    "totalDirectories": 317,
+    "totalDirectories": 318,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 317.0,
-    "totalListings": 3058,
-    "aiEnhancedDirectories": 317
+    "avgDirectoriesPerRepo": 318.0,
+    "totalListings": 3068,
+    "aiEnhancedDirectories": 318
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4129,12 +4129,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-pet-scan-services-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:35:03.930346+00:00Z",
+      "lastUpdated": "2025-11-10T09:35:03.930346+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 317,
+      "directoryCount": 318,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

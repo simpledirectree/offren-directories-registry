@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:14:09.478513+00:00Z",
+  "lastUpdated": "2025-11-10T22:14:49.031245+00:00Z",
   "stats": {
-    "totalDirectories": 1211,
+    "totalDirectories": 1212,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1211.0,
-    "totalListings": 11279,
-    "aiEnhancedDirectories": 1211
+    "avgDirectoriesPerRepo": 1212.0,
+    "totalListings": 11284,
+    "aiEnhancedDirectories": 1212
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15751,12 +15751,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-homeopathy-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:14:49.031245+00:00Z",
+      "lastUpdated": "2025-11-10T22:14:49.031245+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1211,
+      "directoryCount": 1212,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

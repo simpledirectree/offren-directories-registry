@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:46:16.689899+00:00Z",
+  "lastUpdated": "2025-11-10T04:46:35.313604+00:00Z",
   "stats": {
-    "totalDirectories": 2035,
+    "totalDirectories": 2036,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2035.0,
-    "totalListings": 19126,
-    "aiEnhancedDirectories": 2035
+    "avgDirectoriesPerRepo": 2036.0,
+    "totalListings": 19136,
+    "aiEnhancedDirectories": 2036
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26463,12 +26463,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-renters-insurance-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:46:35.313604+00:00Z",
+      "lastUpdated": "2025-11-10T04:46:35.313604+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2035,
+      "directoryCount": 2036,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

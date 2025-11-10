@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:02:02.047700+00:00Z",
+  "lastUpdated": "2025-11-10T05:02:16.691791+00:00Z",
   "stats": {
-    "totalDirectories": 2090,
+    "totalDirectories": 2091,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2090.0,
-    "totalListings": 19652,
-    "aiEnhancedDirectories": 2090
+    "avgDirectoriesPerRepo": 2091.0,
+    "totalListings": 19662,
+    "aiEnhancedDirectories": 2091
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27178,12 +27178,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-weekly-meal-preparation-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:02:16.691791+00:00Z",
+      "lastUpdated": "2025-11-10T05:02:16.691791+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2090,
+      "directoryCount": 2091,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

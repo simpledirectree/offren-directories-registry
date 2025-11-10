@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:33:42.470695+00:00Z",
+  "lastUpdated": "2025-11-10T22:34:23.637741+00:00Z",
   "stats": {
-    "totalDirectories": 1237,
+    "totalDirectories": 1238,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1237.0,
-    "totalListings": 11508,
-    "aiEnhancedDirectories": 1237
+    "avgDirectoriesPerRepo": 1238.0,
+    "totalListings": 11518,
+    "aiEnhancedDirectories": 1238
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16089,12 +16089,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-language-instruction-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:34:23.637741+00:00Z",
+      "lastUpdated": "2025-11-10T22:34:23.637741+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1237,
+      "directoryCount": 1238,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

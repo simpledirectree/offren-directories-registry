@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:14:09.801729+00:00Z",
+  "lastUpdated": "2025-11-10T02:14:24.481987+00:00Z",
   "stats": {
-    "totalDirectories": 1719,
+    "totalDirectories": 1720,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1719.0,
-    "totalListings": 16090,
-    "aiEnhancedDirectories": 1719
+    "avgDirectoriesPerRepo": 1720.0,
+    "totalListings": 16100,
+    "aiEnhancedDirectories": 1720
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22355,12 +22355,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-energy-healing-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:14:24.481987+00:00Z",
+      "lastUpdated": "2025-11-10T02:14:24.481987+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1719,
+      "directoryCount": 1720,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

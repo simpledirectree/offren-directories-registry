@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:31:19.372524+00:00Z",
+  "lastUpdated": "2025-11-10T06:31:37.088843+00:00Z",
   "stats": {
-    "totalDirectories": 2396,
+    "totalDirectories": 2397,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2396.0,
-    "totalListings": 22622,
-    "aiEnhancedDirectories": 2396
+    "avgDirectoriesPerRepo": 2397.0,
+    "totalListings": 22632,
+    "aiEnhancedDirectories": 2397
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31156,12 +31156,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-crm-setup-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:31:37.088843+00:00Z",
+      "lastUpdated": "2025-11-10T06:31:37.088843+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2396,
+      "directoryCount": 2397,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

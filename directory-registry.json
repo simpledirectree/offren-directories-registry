@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:51:09.723608+00:00Z",
+  "lastUpdated": "2025-11-10T05:51:28.082550+00:00Z",
   "stats": {
-    "totalDirectories": 2259,
+    "totalDirectories": 2260,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2259.0,
-    "totalListings": 21297,
-    "aiEnhancedDirectories": 2259
+    "avgDirectoriesPerRepo": 2260.0,
+    "totalListings": 21307,
+    "aiEnhancedDirectories": 2260
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29375,12 +29375,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-monthly-closes-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:51:28.082550+00:00Z",
+      "lastUpdated": "2025-11-10T05:51:28.082550+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2259,
+      "directoryCount": 2260,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

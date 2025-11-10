@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:30:40.516049+00:00Z",
+  "lastUpdated": "2025-11-10T18:31:18.269662+00:00Z",
   "stats": {
-    "totalDirectories": 945,
+    "totalDirectories": 946,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 945.0,
-    "totalListings": 8804,
-    "aiEnhancedDirectories": 945
+    "avgDirectoriesPerRepo": 946.0,
+    "totalListings": 8814,
+    "aiEnhancedDirectories": 946
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12293,12 +12293,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-irs-audit-representation-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:31:18.269662+00:00Z",
+      "lastUpdated": "2025-11-10T18:31:18.269662+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 945,
+      "directoryCount": 946,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

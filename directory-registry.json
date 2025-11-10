@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:19:38.591300+00:00Z",
+  "lastUpdated": "2025-11-10T03:20:20.738354+00:00Z",
   "stats": {
-    "totalDirectories": 1792,
+    "totalDirectories": 1793,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1792.0,
-    "totalListings": 16768,
-    "aiEnhancedDirectories": 1792
+    "avgDirectoriesPerRepo": 1793.0,
+    "totalListings": 16777,
+    "aiEnhancedDirectories": 1793
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23304,12 +23304,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-business-transformation-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:20:20.738354+00:00Z",
+      "lastUpdated": "2025-11-10T03:20:20.738354+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1792,
+      "directoryCount": 1793,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

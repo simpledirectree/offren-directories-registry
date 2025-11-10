@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:39:20.800182+00:00Z",
+  "lastUpdated": "2025-11-10T04:39:42.070994+00:00Z",
   "stats": {
-    "totalDirectories": 2010,
+    "totalDirectories": 2011,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2010.0,
-    "totalListings": 18881,
-    "aiEnhancedDirectories": 2010
+    "avgDirectoriesPerRepo": 2011.0,
+    "totalListings": 18891,
+    "aiEnhancedDirectories": 2011
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26138,12 +26138,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-music-instruction-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:39:42.070994+00:00Z",
+      "lastUpdated": "2025-11-10T04:39:42.070994+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2010,
+      "directoryCount": 2011,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

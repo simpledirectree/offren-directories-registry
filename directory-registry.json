@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:50:12.293467+00:00Z",
+  "lastUpdated": "2025-11-10T10:50:54.496917+00:00Z",
   "stats": {
-    "totalDirectories": 411,
+    "totalDirectories": 412,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 411.0,
-    "totalListings": 3951,
-    "aiEnhancedDirectories": 411
+    "avgDirectoriesPerRepo": 412.0,
+    "totalListings": 3961,
+    "aiEnhancedDirectories": 412
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5351,12 +5351,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-loading-services-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:50:54.496917+00:00Z",
+      "lastUpdated": "2025-11-10T10:50:54.496917+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 411,
+      "directoryCount": 412,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

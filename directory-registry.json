@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:45:06.979514+00:00Z",
+  "lastUpdated": "2025-11-10T06:45:24.442607+00:00Z",
   "stats": {
-    "totalDirectories": 2443,
+    "totalDirectories": 2444,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2443.0,
-    "totalListings": 23083,
-    "aiEnhancedDirectories": 2443
+    "avgDirectoriesPerRepo": 2444.0,
+    "totalListings": 23093,
+    "aiEnhancedDirectories": 2444
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31767,12 +31767,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-rock-climbing-instruction-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:45:24.442607+00:00Z",
+      "lastUpdated": "2025-11-10T06:45:24.442607+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2443,
+      "directoryCount": 2444,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

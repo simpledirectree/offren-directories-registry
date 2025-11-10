@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:17:31.553711+00:00Z",
+  "lastUpdated": "2025-11-10T13:17:44.498154+00:00Z",
   "stats": {
-    "totalDirectories": 575,
+    "totalDirectories": 576,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 575.0,
-    "totalListings": 5450,
-    "aiEnhancedDirectories": 575
+    "avgDirectoriesPerRepo": 576.0,
+    "totalListings": 5455,
+    "aiEnhancedDirectories": 576
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7483,12 +7483,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-landscape-design-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:17:44.498154+00:00Z",
+      "lastUpdated": "2025-11-10T13:17:44.498154+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 575,
+      "directoryCount": 576,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

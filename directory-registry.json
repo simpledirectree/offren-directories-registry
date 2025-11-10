@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:50:14.351249+00:00Z",
+  "lastUpdated": "2025-11-10T02:51:56.649225+00:00Z",
   "stats": {
-    "totalDirectories": 1763,
+    "totalDirectories": 1764,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1763.0,
-    "totalListings": 16502,
-    "aiEnhancedDirectories": 1763
+    "avgDirectoriesPerRepo": 1764.0,
+    "totalListings": 16512,
+    "aiEnhancedDirectories": 1764
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22927,12 +22927,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-flower-bed-design-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:51:56.649225+00:00Z",
+      "lastUpdated": "2025-11-10T02:51:56.649225+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1763,
+      "directoryCount": 1764,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

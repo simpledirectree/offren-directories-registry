@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:01:45.576042+00:00Z",
+  "lastUpdated": "2025-11-10T07:01:59.723320+00:00Z",
   "stats": {
-    "totalDirectories": 29,
+    "totalDirectories": 30,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 29.0,
-    "totalListings": 285,
-    "aiEnhancedDirectories": 29
+    "avgDirectoriesPerRepo": 30.0,
+    "totalListings": 295,
+    "aiEnhancedDirectories": 30
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -385,12 +385,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-fast-casual-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:01:59.723320+00:00Z",
+      "lastUpdated": "2025-11-10T07:01:59.723320+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 29,
+      "directoryCount": 30,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

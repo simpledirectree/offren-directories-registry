@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:00:32.901431+00:00Z",
+  "lastUpdated": "2025-11-10T14:00:51.433484+00:00Z",
   "stats": {
-    "totalDirectories": 624,
+    "totalDirectories": 625,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 624.0,
-    "totalListings": 5873,
-    "aiEnhancedDirectories": 624
+    "avgDirectoriesPerRepo": 625.0,
+    "totalListings": 5883,
+    "aiEnhancedDirectories": 625
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8120,12 +8120,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-soil-analysis-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:00:51.433484+00:00Z",
+      "lastUpdated": "2025-11-10T14:00:51.433484+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 624,
+      "directoryCount": 625,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

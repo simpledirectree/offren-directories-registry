@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:48:57.458216+00:00Z",
+  "lastUpdated": "2025-11-10T07:49:16.605434+00:00Z",
   "stats": {
-    "totalDirectories": 196,
+    "totalDirectories": 197,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 196.0,
-    "totalListings": 1912,
-    "aiEnhancedDirectories": 196
+    "avgDirectoriesPerRepo": 197.0,
+    "totalListings": 1922,
+    "aiEnhancedDirectories": 197
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2556,12 +2556,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-influencer-marketing-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:49:16.605434+00:00Z",
+      "lastUpdated": "2025-11-10T07:49:16.605434+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 196,
+      "directoryCount": 197,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

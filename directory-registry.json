@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:52:25.346213+00:00Z",
+  "lastUpdated": "2025-11-10T19:53:07.055759+00:00Z",
   "stats": {
-    "totalDirectories": 1045,
+    "totalDirectories": 1046,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1045.0,
-    "totalListings": 9729,
-    "aiEnhancedDirectories": 1045
+    "avgDirectoriesPerRepo": 1046.0,
+    "totalListings": 9739,
+    "aiEnhancedDirectories": 1046
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13593,12 +13593,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-vacation-rental-turnover-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:53:07.055759+00:00Z",
+      "lastUpdated": "2025-11-10T19:53:07.055759+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1045,
+      "directoryCount": 1046,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

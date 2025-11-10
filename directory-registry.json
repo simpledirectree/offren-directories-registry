@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:57:37.861606+00:00Z",
+  "lastUpdated": "2025-11-10T06:57:55.122180+00:00Z",
   "stats": {
-    "totalDirectories": 14,
+    "totalDirectories": 15,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 14.0,
-    "totalListings": 140,
-    "aiEnhancedDirectories": 14
+    "avgDirectoriesPerRepo": 15.0,
+    "totalListings": 150,
+    "aiEnhancedDirectories": 15
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -190,12 +190,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-self-defense-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:57:55.122180+00:00Z",
+      "lastUpdated": "2025-11-10T06:57:55.122180+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 14,
+      "directoryCount": 15,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

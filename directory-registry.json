@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:24:45.490233+00:00Z",
+  "lastUpdated": "2025-11-10T18:25:24.935020+00:00Z",
   "stats": {
-    "totalDirectories": 940,
+    "totalDirectories": 941,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 940.0,
-    "totalListings": 8755,
-    "aiEnhancedDirectories": 940
+    "avgDirectoriesPerRepo": 941.0,
+    "totalListings": 8765,
+    "aiEnhancedDirectories": 941
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12228,12 +12228,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-solo-musicians-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:25:24.935020+00:00Z",
+      "lastUpdated": "2025-11-10T18:25:24.935020+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 940,
+      "directoryCount": 941,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

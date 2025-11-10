@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:01:04.715802+00:00Z",
+  "lastUpdated": "2025-11-10T11:02:33.896119+00:00Z",
   "stats": {
-    "totalDirectories": 421,
+    "totalDirectories": 422,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 421.0,
-    "totalListings": 4051,
-    "aiEnhancedDirectories": 421
+    "avgDirectoriesPerRepo": 422.0,
+    "totalListings": 4061,
+    "aiEnhancedDirectories": 422
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5481,12 +5481,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-flower-bed-maintenance-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:02:33.896119+00:00Z",
+      "lastUpdated": "2025-11-10T11:02:33.896119+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 421,
+      "directoryCount": 422,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

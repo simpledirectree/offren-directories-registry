@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:42:19.004932+00:00Z",
+  "lastUpdated": "2025-11-10T07:42:39.401300+00:00Z",
   "stats": {
-    "totalDirectories": 173,
+    "totalDirectories": 174,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 173.0,
-    "totalListings": 1686,
-    "aiEnhancedDirectories": 173
+    "avgDirectoriesPerRepo": 174.0,
+    "totalListings": 1696,
+    "aiEnhancedDirectories": 174
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2257,12 +2257,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-business-language-training-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:42:39.401300+00:00Z",
+      "lastUpdated": "2025-11-10T07:42:39.401300+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 173,
+      "directoryCount": 174,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:56:47.890924+00:00Z",
+  "lastUpdated": "2025-11-10T13:57:30.327846+00:00Z",
   "stats": {
-    "totalDirectories": 618,
+    "totalDirectories": 619,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 618.0,
-    "totalListings": 5823,
-    "aiEnhancedDirectories": 618
+    "avgDirectoriesPerRepo": 619.0,
+    "totalListings": 5833,
+    "aiEnhancedDirectories": 619
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8042,12 +8042,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-office-management-services-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:57:30.327846+00:00Z",
+      "lastUpdated": "2025-11-10T13:57:30.327846+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 618,
+      "directoryCount": 619,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

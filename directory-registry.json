@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:52:17.464019+00:00Z",
+  "lastUpdated": "2025-11-10T06:52:32.922136+00:00Z",
   "stats": {
-    "totalDirectories": 2467,
+    "totalDirectories": 2468,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2467.0,
-    "totalListings": 23323,
-    "aiEnhancedDirectories": 2467
+    "avgDirectoriesPerRepo": 2468.0,
+    "totalListings": 23328,
+    "aiEnhancedDirectories": 2468
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -32079,12 +32079,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-college-tutoring-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:52:32.922136+00:00Z",
+      "lastUpdated": "2025-11-10T06:52:32.922136+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2467,
+      "directoryCount": 2468,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

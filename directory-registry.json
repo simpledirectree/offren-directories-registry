@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:07:26.122056+00:00Z",
+  "lastUpdated": "2025-11-10T17:07:43.017575+00:00Z",
   "stats": {
-    "totalDirectories": 852,
+    "totalDirectories": 853,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 852.0,
-    "totalListings": 7939,
-    "aiEnhancedDirectories": 852
+    "avgDirectoriesPerRepo": 853.0,
+    "totalListings": 7949,
+    "aiEnhancedDirectories": 853
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11084,12 +11084,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-x-ray-services-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:07:43.017575+00:00Z",
+      "lastUpdated": "2025-11-10T17:07:43.017575+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 852,
+      "directoryCount": 853,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

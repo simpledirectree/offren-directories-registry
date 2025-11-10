@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:59:39.120140+00:00Z",
+  "lastUpdated": "2025-11-10T04:59:56.087598+00:00Z",
   "stats": {
-    "totalDirectories": 2082,
+    "totalDirectories": 2083,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2082.0,
-    "totalListings": 19579,
-    "aiEnhancedDirectories": 2082
+    "avgDirectoriesPerRepo": 2083.0,
+    "totalListings": 19589,
+    "aiEnhancedDirectories": 2083
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27074,12 +27074,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-licensing-assistance-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:59:56.087598+00:00Z",
+      "lastUpdated": "2025-11-10T04:59:56.087598+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2082,
+      "directoryCount": 2083,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

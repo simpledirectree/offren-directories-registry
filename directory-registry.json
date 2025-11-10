@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:46:13.580910+00:00Z",
+  "lastUpdated": "2025-11-10T03:46:31.434089+00:00Z",
   "stats": {
-    "totalDirectories": 1824,
+    "totalDirectories": 1825,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1824.0,
-    "totalListings": 17068,
-    "aiEnhancedDirectories": 1824
+    "avgDirectoriesPerRepo": 1825.0,
+    "totalListings": 17078,
+    "aiEnhancedDirectories": 1825
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23720,12 +23720,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-employee-engagement-surveys-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:46:31.434089+00:00Z",
+      "lastUpdated": "2025-11-10T03:46:31.434089+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1824,
+      "directoryCount": 1825,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

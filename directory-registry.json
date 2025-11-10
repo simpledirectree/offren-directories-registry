@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:52:13.274426+00:00Z",
+  "lastUpdated": "2025-11-10T07:52:26.768786+00:00Z",
   "stats": {
-    "totalDirectories": 202,
+    "totalDirectories": 203,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 202.0,
-    "totalListings": 1972,
-    "aiEnhancedDirectories": 202
+    "avgDirectoriesPerRepo": 203.0,
+    "totalListings": 1982,
+    "aiEnhancedDirectories": 203
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2634,12 +2634,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-venue-selection-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:52:26.768786+00:00Z",
+      "lastUpdated": "2025-11-10T07:52:26.768786+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 202,
+      "directoryCount": 203,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

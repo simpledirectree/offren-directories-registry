@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:26:51.515980+00:00Z",
+  "lastUpdated": "2025-11-10T15:27:07.197462+00:00Z",
   "stats": {
-    "totalDirectories": 715,
+    "totalDirectories": 716,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 715.0,
-    "totalListings": 6698,
-    "aiEnhancedDirectories": 715
+    "avgDirectoriesPerRepo": 716.0,
+    "totalListings": 6708,
+    "aiEnhancedDirectories": 716
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9303,12 +9303,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-budget-management-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:27:07.197462+00:00Z",
+      "lastUpdated": "2025-11-10T15:27:07.197462+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 715,
+      "directoryCount": 716,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

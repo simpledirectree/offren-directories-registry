@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:13:19.766140+00:00Z",
+  "lastUpdated": "2025-11-10T17:14:24.305576+00:00Z",
   "stats": {
-    "totalDirectories": 858,
+    "totalDirectories": 859,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 858.0,
-    "totalListings": 7999,
-    "aiEnhancedDirectories": 858
+    "avgDirectoriesPerRepo": 859.0,
+    "totalListings": 8004,
+    "aiEnhancedDirectories": 859
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11162,12 +11162,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-managed-security-services-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:14:24.305576+00:00Z",
+      "lastUpdated": "2025-11-10T17:14:24.305576+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 858,
+      "directoryCount": 859,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

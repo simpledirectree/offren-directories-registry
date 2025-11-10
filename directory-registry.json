@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T23:55:30.890531+00:00Z",
+  "lastUpdated": "2025-11-10T23:56:12.165510+00:00Z",
   "stats": {
-    "totalDirectories": 1311,
+    "totalDirectories": 1312,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1311.0,
-    "totalListings": 12200,
-    "aiEnhancedDirectories": 1311
+    "avgDirectoriesPerRepo": 1312.0,
+    "totalListings": 12210,
+    "aiEnhancedDirectories": 1312
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17051,12 +17051,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-auto-glass-repair-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T23:56:12.165510+00:00Z",
+      "lastUpdated": "2025-11-10T23:56:12.165510+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1311,
+      "directoryCount": 1312,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

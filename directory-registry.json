@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:52:17.368677+00:00Z",
+  "lastUpdated": "2025-11-10T05:52:35.584854+00:00Z",
   "stats": {
-    "totalDirectories": 2263,
+    "totalDirectories": 2264,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2263.0,
-    "totalListings": 21337,
-    "aiEnhancedDirectories": 2263
+    "avgDirectoriesPerRepo": 2264.0,
+    "totalListings": 21347,
+    "aiEnhancedDirectories": 2264
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29427,12 +29427,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-community-garden-management-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:52:35.584854+00:00Z",
+      "lastUpdated": "2025-11-10T05:52:35.584854+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2263,
+      "directoryCount": 2264,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

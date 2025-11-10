@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:43:51.621331+00:00Z",
+  "lastUpdated": "2025-11-10T04:44:11.737438+00:00Z",
   "stats": {
-    "totalDirectories": 2026,
+    "totalDirectories": 2027,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2026.0,
-    "totalListings": 19036,
-    "aiEnhancedDirectories": 2026
+    "avgDirectoriesPerRepo": 2027.0,
+    "totalListings": 19046,
+    "aiEnhancedDirectories": 2027
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26346,12 +26346,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-state-inspections-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:44:11.737438+00:00Z",
+      "lastUpdated": "2025-11-10T04:44:11.737438+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2026,
+      "directoryCount": 2027,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

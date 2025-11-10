@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T23:26:00.883308+00:00Z",
+  "lastUpdated": "2025-11-10T23:27:05.794429+00:00Z",
   "stats": {
-    "totalDirectories": 1282,
+    "totalDirectories": 1283,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1282.0,
-    "totalListings": 11941,
-    "aiEnhancedDirectories": 1282
+    "avgDirectoriesPerRepo": 1283.0,
+    "totalListings": 11946,
+    "aiEnhancedDirectories": 1283
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16674,12 +16674,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-personal-training-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T23:27:05.794429+00:00Z",
+      "lastUpdated": "2025-11-10T23:27:05.794429+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1282,
+      "directoryCount": 1283,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

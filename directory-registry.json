@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:44:17.053133+00:00Z",
+  "lastUpdated": "2025-11-10T21:45:48.291401+00:00Z",
   "stats": {
-    "totalDirectories": 1179,
+    "totalDirectories": 1180,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1179.0,
-    "totalListings": 10969,
-    "aiEnhancedDirectories": 1179
+    "avgDirectoriesPerRepo": 1180.0,
+    "totalListings": 10979,
+    "aiEnhancedDirectories": 1180
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15335,12 +15335,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-financial-statement-preparation-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:45:48.291401+00:00Z",
+      "lastUpdated": "2025-11-10T21:45:48.291401+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1179,
+      "directoryCount": 1180,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

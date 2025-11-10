@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:59:56.813503+00:00Z",
+  "lastUpdated": "2025-11-10T06:00:15.567327+00:00Z",
   "stats": {
-    "totalDirectories": 2289,
+    "totalDirectories": 2290,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2289.0,
-    "totalListings": 21595,
-    "aiEnhancedDirectories": 2289
+    "avgDirectoriesPerRepo": 2290.0,
+    "totalListings": 21605,
+    "aiEnhancedDirectories": 2290
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29765,12 +29765,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-weed-control-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:00:15.567327+00:00Z",
+      "lastUpdated": "2025-11-10T06:00:15.567327+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2289,
+      "directoryCount": 2290,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

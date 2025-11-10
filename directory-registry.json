@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:49:12.779033+00:00Z",
+  "lastUpdated": "2025-11-10T14:50:18.742602+00:00Z",
   "stats": {
-    "totalDirectories": 679,
+    "totalDirectories": 680,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 679.0,
-    "totalListings": 6368,
-    "aiEnhancedDirectories": 679
+    "avgDirectoriesPerRepo": 680.0,
+    "totalListings": 6375,
+    "aiEnhancedDirectories": 680
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8835,12 +8835,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-24-7-monitoring-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:50:18.742602+00:00Z",
+      "lastUpdated": "2025-11-10T14:50:18.742602+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 679,
+      "directoryCount": 680,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

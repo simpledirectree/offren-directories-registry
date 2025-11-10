@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:37:58.691652+00:00Z",
+  "lastUpdated": "2025-11-10T02:38:14.946296+00:00Z",
   "stats": {
-    "totalDirectories": 1747,
+    "totalDirectories": 1748,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1747.0,
-    "totalListings": 16356,
-    "aiEnhancedDirectories": 1747
+    "avgDirectoriesPerRepo": 1748.0,
+    "totalListings": 16366,
+    "aiEnhancedDirectories": 1748
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22719,12 +22719,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-mediation-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:38:14.946296+00:00Z",
+      "lastUpdated": "2025-11-10T02:38:14.946296+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1747,
+      "directoryCount": 1748,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

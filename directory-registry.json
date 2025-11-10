@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:38:03.189038+00:00Z",
+  "lastUpdated": "2025-11-10T18:38:18.227972+00:00Z",
   "stats": {
-    "totalDirectories": 956,
+    "totalDirectories": 957,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 956.0,
-    "totalListings": 8914,
-    "aiEnhancedDirectories": 956
+    "avgDirectoriesPerRepo": 957.0,
+    "totalListings": 8924,
+    "aiEnhancedDirectories": 957
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12436,12 +12436,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-magento-development-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:38:18.227972+00:00Z",
+      "lastUpdated": "2025-11-10T18:38:18.227972+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 956,
+      "directoryCount": 957,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

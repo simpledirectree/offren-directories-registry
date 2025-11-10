@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:16:04.402593+00:00Z",
+  "lastUpdated": "2025-11-10T10:16:47.740969+00:00Z",
   "stats": {
-    "totalDirectories": 365,
+    "totalDirectories": 366,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 365.0,
-    "totalListings": 3516,
-    "aiEnhancedDirectories": 365
+    "avgDirectoriesPerRepo": 366.0,
+    "totalListings": 3526,
+    "aiEnhancedDirectories": 366
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4753,12 +4753,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-home-health-aides-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:16:47.740969+00:00Z",
+      "lastUpdated": "2025-11-10T10:16:47.740969+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 365,
+      "directoryCount": 366,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

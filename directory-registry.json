@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:51:25.712193+00:00Z",
+  "lastUpdated": "2025-11-10T03:51:40.535747+00:00Z",
   "stats": {
-    "totalDirectories": 1842,
+    "totalDirectories": 1843,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1842.0,
-    "totalListings": 17239,
-    "aiEnhancedDirectories": 1842
+    "avgDirectoriesPerRepo": 1843.0,
+    "totalListings": 17249,
+    "aiEnhancedDirectories": 1843
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23954,12 +23954,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-hair-styling-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:51:40.535747+00:00Z",
+      "lastUpdated": "2025-11-10T03:51:40.535747+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1842,
+      "directoryCount": 1843,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

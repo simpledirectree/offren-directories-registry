@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:17:05.175924+00:00Z",
+  "lastUpdated": "2025-11-10T07:17:21.357838+00:00Z",
   "stats": {
-    "totalDirectories": 84,
+    "totalDirectories": 85,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 84.0,
-    "totalListings": 809,
-    "aiEnhancedDirectories": 84
+    "avgDirectoriesPerRepo": 85.0,
+    "totalListings": 819,
+    "aiEnhancedDirectories": 85
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1100,12 +1100,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-electrical-wiring-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:17:21.357838+00:00Z",
+      "lastUpdated": "2025-11-10T07:17:21.357838+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 84,
+      "directoryCount": 85,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

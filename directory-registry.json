@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:43:55.054559+00:00Z",
+  "lastUpdated": "2025-11-10T05:44:12.000239+00:00Z",
   "stats": {
-    "totalDirectories": 2234,
+    "totalDirectories": 2235,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2234.0,
-    "totalListings": 21049,
-    "aiEnhancedDirectories": 2234
+    "avgDirectoriesPerRepo": 2235.0,
+    "totalListings": 21059,
+    "aiEnhancedDirectories": 2235
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29050,12 +29050,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-hitch-installation-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:44:12.000239+00:00Z",
+      "lastUpdated": "2025-11-10T05:44:12.000239+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2234,
+      "directoryCount": 2235,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

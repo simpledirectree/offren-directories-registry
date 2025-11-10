@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:33:48.445018+00:00Z",
+  "lastUpdated": "2025-11-10T06:34:04.558651+00:00Z",
   "stats": {
-    "totalDirectories": 2405,
+    "totalDirectories": 2406,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2405.0,
-    "totalListings": 22703,
-    "aiEnhancedDirectories": 2405
+    "avgDirectoriesPerRepo": 2406.0,
+    "totalListings": 22713,
+    "aiEnhancedDirectories": 2406
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31273,12 +31273,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-window-washing-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:34:04.558651+00:00Z",
+      "lastUpdated": "2025-11-10T06:34:04.558651+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2405,
+      "directoryCount": 2406,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

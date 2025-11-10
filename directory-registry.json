@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:07:33.016522+00:00Z",
+  "lastUpdated": "2025-11-10T09:09:00.467672+00:00Z",
   "stats": {
-    "totalDirectories": 279,
+    "totalDirectories": 280,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 279.0,
-    "totalListings": 2707,
-    "aiEnhancedDirectories": 279
+    "avgDirectoriesPerRepo": 280.0,
+    "totalListings": 2717,
+    "aiEnhancedDirectories": 280
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3635,12 +3635,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-martial-arts-coaching-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:09:00.467672+00:00Z",
+      "lastUpdated": "2025-11-10T09:09:00.467672+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 279,
+      "directoryCount": 280,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:50:02.793511+00:00Z",
+  "lastUpdated": "2025-11-10T12:51:35.689988+00:00Z",
   "stats": {
-    "totalDirectories": 548,
+    "totalDirectories": 549,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 548.0,
-    "totalListings": 5220,
-    "aiEnhancedDirectories": 548
+    "avgDirectoriesPerRepo": 549.0,
+    "totalListings": 5230,
+    "aiEnhancedDirectories": 549
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7132,12 +7132,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-wellness-consulting-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:51:35.689988+00:00Z",
+      "lastUpdated": "2025-11-10T12:51:35.689988+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 548,
+      "directoryCount": 549,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

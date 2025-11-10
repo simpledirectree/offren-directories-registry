@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:51:54.686584+00:00Z",
+  "lastUpdated": "2025-11-10T18:52:37.369276+00:00Z",
   "stats": {
-    "totalDirectories": 975,
+    "totalDirectories": 976,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 975.0,
-    "totalListings": 9094,
-    "aiEnhancedDirectories": 975
+    "avgDirectoriesPerRepo": 976.0,
+    "totalListings": 9099,
+    "aiEnhancedDirectories": 976
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12683,12 +12683,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-blog-writing-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:52:37.369276+00:00Z",
+      "lastUpdated": "2025-11-10T18:52:37.369276+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 975,
+      "directoryCount": 976,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

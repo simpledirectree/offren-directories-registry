@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:27:10.449568+00:00Z",
+  "lastUpdated": "2025-11-10T17:28:17.370192+00:00Z",
   "stats": {
-    "totalDirectories": 874,
+    "totalDirectories": 875,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 874.0,
-    "totalListings": 8144,
-    "aiEnhancedDirectories": 874
+    "avgDirectoriesPerRepo": 875.0,
+    "totalListings": 8154,
+    "aiEnhancedDirectories": 875
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11370,12 +11370,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-mri-services-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:28:17.370192+00:00Z",
+      "lastUpdated": "2025-11-10T17:28:17.370192+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 874,
+      "directoryCount": 875,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

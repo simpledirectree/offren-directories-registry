@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:02:44.607173+00:00Z",
+  "lastUpdated": "2025-11-10T15:03:01.944615+00:00Z",
   "stats": {
-    "totalDirectories": 689,
+    "totalDirectories": 690,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 689.0,
-    "totalListings": 6449,
-    "aiEnhancedDirectories": 689
+    "avgDirectoriesPerRepo": 690.0,
+    "totalListings": 6459,
+    "aiEnhancedDirectories": 690
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8965,12 +8965,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-voice-lessons-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:03:01.944615+00:00Z",
+      "lastUpdated": "2025-11-10T15:03:01.944615+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 689,
+      "directoryCount": 690,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

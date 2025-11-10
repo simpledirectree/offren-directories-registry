@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:05:29.006131+00:00Z",
+  "lastUpdated": "2025-11-10T16:06:17.411077+00:00Z",
   "stats": {
-    "totalDirectories": 772,
+    "totalDirectories": 773,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 772.0,
-    "totalListings": 7219,
-    "aiEnhancedDirectories": 772
+    "avgDirectoriesPerRepo": 773.0,
+    "totalListings": 7222,
+    "aiEnhancedDirectories": 773
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10044,12 +10044,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-content-creation-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:06:17.411077+00:00Z",
+      "lastUpdated": "2025-11-10T16:06:17.411077+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 772,
+      "directoryCount": 773,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

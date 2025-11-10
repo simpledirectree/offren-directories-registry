@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:49:50.532874+00:00Z",
+  "lastUpdated": "2025-11-10T07:50:06.839300+00:00Z",
   "stats": {
-    "totalDirectories": 199,
+    "totalDirectories": 200,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 199.0,
-    "totalListings": 1942,
-    "aiEnhancedDirectories": 199
+    "avgDirectoriesPerRepo": 200.0,
+    "totalListings": 1952,
+    "aiEnhancedDirectories": 200
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2595,12 +2595,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-assisted-living-facilities-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:50:06.839300+00:00Z",
+      "lastUpdated": "2025-11-10T07:50:06.839300+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 199,
+      "directoryCount": 200,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

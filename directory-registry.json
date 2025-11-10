@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:31:07.950949+00:00Z",
+  "lastUpdated": "2025-11-10T07:31:24.393082+00:00Z",
   "stats": {
-    "totalDirectories": 134,
+    "totalDirectories": 135,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 134.0,
-    "totalListings": 1296,
-    "aiEnhancedDirectories": 134
+    "avgDirectoriesPerRepo": 135.0,
+    "totalListings": 1306,
+    "aiEnhancedDirectories": 135
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1750,12 +1750,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-dermatologists-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:31:24.393082+00:00Z",
+      "lastUpdated": "2025-11-10T07:31:24.393082+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 134,
+      "directoryCount": 135,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

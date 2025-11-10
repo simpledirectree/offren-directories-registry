@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:27:33.808314+00:00Z",
+  "lastUpdated": "2025-11-10T19:27:49.415555+00:00Z",
   "stats": {
-    "totalDirectories": 1016,
+    "totalDirectories": 1017,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1016.0,
-    "totalListings": 9463,
-    "aiEnhancedDirectories": 1016
+    "avgDirectoriesPerRepo": 1017.0,
+    "totalListings": 9473,
+    "aiEnhancedDirectories": 1017
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13216,12 +13216,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-day-of-event-management-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:27:49.415555+00:00Z",
+      "lastUpdated": "2025-11-10T19:27:49.415555+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1016,
+      "directoryCount": 1017,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

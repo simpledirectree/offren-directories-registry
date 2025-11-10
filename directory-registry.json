@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:21:28.024795+00:00Z",
+  "lastUpdated": "2025-11-10T22:21:43.622420+00:00Z",
   "stats": {
-    "totalDirectories": 1221,
+    "totalDirectories": 1222,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1221.0,
-    "totalListings": 11358,
-    "aiEnhancedDirectories": 1221
+    "avgDirectoriesPerRepo": 1222.0,
+    "totalListings": 11368,
+    "aiEnhancedDirectories": 1222
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15881,12 +15881,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-international-moving-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:21:43.622420+00:00Z",
+      "lastUpdated": "2025-11-10T22:21:43.622420+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1221,
+      "directoryCount": 1222,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

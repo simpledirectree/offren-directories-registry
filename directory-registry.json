@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:24:48.408448+00:00Z",
+  "lastUpdated": "2025-11-10T05:25:05.506185+00:00Z",
   "stats": {
-    "totalDirectories": 2167,
+    "totalDirectories": 2168,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2167.0,
-    "totalListings": 20416,
-    "aiEnhancedDirectories": 2167
+    "avgDirectoriesPerRepo": 2168.0,
+    "totalListings": 20426,
+    "aiEnhancedDirectories": 2168
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28179,12 +28179,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-operational-efficiency-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:25:05.506185+00:00Z",
+      "lastUpdated": "2025-11-10T05:25:05.506185+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2167,
+      "directoryCount": 2168,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

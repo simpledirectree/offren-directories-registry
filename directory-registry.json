@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:44:26.409941+00:00Z",
+  "lastUpdated": "2025-11-10T04:44:44.261622+00:00Z",
   "stats": {
-    "totalDirectories": 2028,
+    "totalDirectories": 2029,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2028.0,
-    "totalListings": 19056,
-    "aiEnhancedDirectories": 2028
+    "avgDirectoriesPerRepo": 2029.0,
+    "totalListings": 19066,
+    "aiEnhancedDirectories": 2029
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26372,12 +26372,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-abs-repair-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:44:44.261622+00:00Z",
+      "lastUpdated": "2025-11-10T04:44:44.261622+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2028,
+      "directoryCount": 2029,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

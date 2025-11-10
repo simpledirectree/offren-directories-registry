@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:30:27.597221+00:00Z",
+  "lastUpdated": "2025-11-10T03:31:07.390956+00:00Z",
   "stats": {
-    "totalDirectories": 1799,
+    "totalDirectories": 1800,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1799.0,
-    "totalListings": 16832,
-    "aiEnhancedDirectories": 1799
+    "avgDirectoriesPerRepo": 1800.0,
+    "totalListings": 16842,
+    "aiEnhancedDirectories": 1800
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23395,12 +23395,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-equipment-leasing-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:31:07.390956+00:00Z",
+      "lastUpdated": "2025-11-10T03:31:07.390956+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1799,
+      "directoryCount": 1800,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

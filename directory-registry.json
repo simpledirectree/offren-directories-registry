@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:04:45.963862+00:00Z",
+  "lastUpdated": "2025-11-10T07:05:04.699571+00:00Z",
   "stats": {
-    "totalDirectories": 40,
+    "totalDirectories": 41,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 40.0,
-    "totalListings": 388,
-    "aiEnhancedDirectories": 40
+    "avgDirectoriesPerRepo": 41.0,
+    "totalListings": 398,
+    "aiEnhancedDirectories": 41
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -528,12 +528,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-art-moving-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:05:04.699571+00:00Z",
+      "lastUpdated": "2025-11-10T07:05:04.699571+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 40,
+      "directoryCount": 41,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:46:45.896113+00:00Z",
+  "lastUpdated": "2025-11-10T05:47:03.513898+00:00Z",
   "stats": {
-    "totalDirectories": 2244,
+    "totalDirectories": 2245,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2244.0,
-    "totalListings": 21149,
-    "aiEnhancedDirectories": 2244
+    "avgDirectoriesPerRepo": 2245.0,
+    "totalListings": 21159,
+    "aiEnhancedDirectories": 2245
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29180,12 +29180,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-pet-cremation-services-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:47:03.513898+00:00Z",
+      "lastUpdated": "2025-11-10T05:47:03.513898+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2244,
+      "directoryCount": 2245,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:14:03.102469+00:00Z",
+  "lastUpdated": "2025-11-10T06:14:22.301535+00:00Z",
   "stats": {
-    "totalDirectories": 2336,
+    "totalDirectories": 2337,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2336.0,
-    "totalListings": 22047,
-    "aiEnhancedDirectories": 2336
+    "avgDirectoriesPerRepo": 2337.0,
+    "totalListings": 22057,
+    "aiEnhancedDirectories": 2337
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30376,12 +30376,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-construction-helpers-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:14:22.301535+00:00Z",
+      "lastUpdated": "2025-11-10T06:14:22.301535+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2336,
+      "directoryCount": 2337,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:29:57.253255+00:00Z",
+  "lastUpdated": "2025-11-10T15:30:38.632421+00:00Z",
   "stats": {
-    "totalDirectories": 720,
+    "totalDirectories": 721,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 720.0,
-    "totalListings": 6738,
-    "aiEnhancedDirectories": 720
+    "avgDirectoriesPerRepo": 721.0,
+    "totalListings": 6748,
+    "aiEnhancedDirectories": 721
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9368,12 +9368,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-janitorial-staff-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:30:38.632421+00:00Z",
+      "lastUpdated": "2025-11-10T15:30:38.632421+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 720,
+      "directoryCount": 721,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

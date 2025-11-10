@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:35:37.252985+00:00Z",
+  "lastUpdated": "2025-11-10T06:35:54.932834+00:00Z",
   "stats": {
-    "totalDirectories": 2411,
+    "totalDirectories": 2412,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2411.0,
-    "totalListings": 22763,
-    "aiEnhancedDirectories": 2411
+    "avgDirectoriesPerRepo": 2412.0,
+    "totalListings": 22773,
+    "aiEnhancedDirectories": 2412
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31351,12 +31351,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-franchise-consulting-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:35:54.932834+00:00Z",
+      "lastUpdated": "2025-11-10T06:35:54.932834+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2411,
+      "directoryCount": 2412,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

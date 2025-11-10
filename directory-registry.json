@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:00:54.174713+00:00Z",
+  "lastUpdated": "2025-11-10T07:01:13.191485+00:00Z",
   "stats": {
-    "totalDirectories": 26,
+    "totalDirectories": 27,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 26.0,
-    "totalListings": 255,
-    "aiEnhancedDirectories": 26
+    "avgDirectoriesPerRepo": 27.0,
+    "totalListings": 265,
+    "aiEnhancedDirectories": 27
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -346,12 +346,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-lasik-surgery-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:01:13.191485+00:00Z",
+      "lastUpdated": "2025-11-10T07:01:13.191485+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 26,
+      "directoryCount": 27,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

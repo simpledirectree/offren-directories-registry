@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:51:49.091084+00:00Z",
+  "lastUpdated": "2025-11-10T21:52:05.789819+00:00Z",
   "stats": {
-    "totalDirectories": 1184,
+    "totalDirectories": 1185,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1184.0,
-    "totalListings": 11017,
-    "aiEnhancedDirectories": 1184
+    "avgDirectoriesPerRepo": 1185.0,
+    "totalListings": 11027,
+    "aiEnhancedDirectories": 1185
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15400,12 +15400,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-on-site-copier-repair-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:52:05.789819+00:00Z",
+      "lastUpdated": "2025-11-10T21:52:05.789819+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1184,
+      "directoryCount": 1185,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

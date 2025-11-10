@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:39:14.635584+00:00Z",
+  "lastUpdated": "2025-11-10T05:39:30.087012+00:00Z",
   "stats": {
-    "totalDirectories": 2217,
+    "totalDirectories": 2218,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2217.0,
-    "totalListings": 20889,
-    "aiEnhancedDirectories": 2217
+    "avgDirectoriesPerRepo": 2218.0,
+    "totalListings": 20899,
+    "aiEnhancedDirectories": 2218
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28829,12 +28829,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-drywall-installation-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:39:30.087012+00:00Z",
+      "lastUpdated": "2025-11-10T05:39:30.087012+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2217,
+      "directoryCount": 2218,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

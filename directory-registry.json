@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:21:39.162807+00:00Z",
+  "lastUpdated": "2025-11-10T01:21:52.136207+00:00Z",
   "stats": {
-    "totalDirectories": 1652,
+    "totalDirectories": 1653,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1652.0,
-    "totalListings": 15488,
-    "aiEnhancedDirectories": 1652
+    "avgDirectoriesPerRepo": 1653.0,
+    "totalListings": 15491,
+    "aiEnhancedDirectories": 1653
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21484,12 +21484,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-cybersecurity-services-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:21:52.136207+00:00Z",
+      "lastUpdated": "2025-11-10T01:21:52.136207+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1652,
+      "directoryCount": 1653,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

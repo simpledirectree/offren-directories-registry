@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:24:37.344089+00:00Z",
+  "lastUpdated": "2025-11-10T04:24:55.170835+00:00Z",
   "stats": {
-    "totalDirectories": 1958,
+    "totalDirectories": 1959,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1958.0,
-    "totalListings": 18361,
-    "aiEnhancedDirectories": 1958
+    "avgDirectoriesPerRepo": 1959.0,
+    "totalListings": 18371,
+    "aiEnhancedDirectories": 1959
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25462,12 +25462,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-self-paced-courses-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:24:55.170835+00:00Z",
+      "lastUpdated": "2025-11-10T04:24:55.170835+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1958,
+      "directoryCount": 1959,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

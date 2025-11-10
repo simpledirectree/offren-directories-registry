@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:00:37.175802+00:00Z",
+  "lastUpdated": "2025-11-10T19:00:53.027256+00:00Z",
   "stats": {
-    "totalDirectories": 990,
+    "totalDirectories": 991,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 990.0,
-    "totalListings": 9216,
-    "aiEnhancedDirectories": 990
+    "avgDirectoriesPerRepo": 991.0,
+    "totalListings": 9226,
+    "aiEnhancedDirectories": 991
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12878,12 +12878,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-casualty-insurance-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:00:53.027256+00:00Z",
+      "lastUpdated": "2025-11-10T19:00:53.027256+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 990,
+      "directoryCount": 991,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:02:16.691791+00:00Z",
+  "lastUpdated": "2025-11-10T05:02:32.268707+00:00Z",
   "stats": {
-    "totalDirectories": 2091,
+    "totalDirectories": 2092,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2091.0,
-    "totalListings": 19662,
-    "aiEnhancedDirectories": 2091
+    "avgDirectoriesPerRepo": 2092.0,
+    "totalListings": 19672,
+    "aiEnhancedDirectories": 2092
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27191,12 +27191,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-sales-training-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:02:32.268707+00:00Z",
+      "lastUpdated": "2025-11-10T05:02:32.268707+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2091,
+      "directoryCount": 2092,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

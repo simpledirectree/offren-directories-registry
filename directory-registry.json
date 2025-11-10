@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T23:09:24.036372+00:00Z",
+  "lastUpdated": "2025-11-10T23:11:29.649742+00:00Z",
   "stats": {
-    "totalDirectories": 1264,
+    "totalDirectories": 1265,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1264.0,
-    "totalListings": 11761,
-    "aiEnhancedDirectories": 1264
+    "avgDirectoriesPerRepo": 1265.0,
+    "totalListings": 11771,
+    "aiEnhancedDirectories": 1265
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16440,12 +16440,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-sales-training-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T23:11:29.649742+00:00Z",
+      "lastUpdated": "2025-11-10T23:11:29.649742+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1264,
+      "directoryCount": 1265,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

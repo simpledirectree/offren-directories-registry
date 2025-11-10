@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:49:03.041767+00:00Z",
+  "lastUpdated": "2025-11-10T16:49:16.258613+00:00Z",
   "stats": {
-    "totalDirectories": 828,
+    "totalDirectories": 829,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 828.0,
-    "totalListings": 7724,
-    "aiEnhancedDirectories": 828
+    "avgDirectoriesPerRepo": 829.0,
+    "totalListings": 7728,
+    "aiEnhancedDirectories": 829
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10772,12 +10772,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-hot-towel-shaves-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:49:16.258613+00:00Z",
+      "lastUpdated": "2025-11-10T16:49:16.258613+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 828,
+      "directoryCount": 829,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

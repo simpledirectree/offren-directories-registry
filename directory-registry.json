@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:18:29.406984+00:00Z",
+  "lastUpdated": "2025-11-10T07:18:44.139420+00:00Z",
   "stats": {
-    "totalDirectories": 89,
+    "totalDirectories": 90,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 89.0,
-    "totalListings": 859,
-    "aiEnhancedDirectories": 89
+    "avgDirectoriesPerRepo": 90.0,
+    "totalListings": 869,
+    "aiEnhancedDirectories": 90
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1165,12 +1165,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-minimally-invasive-procedures-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:18:44.139420+00:00Z",
+      "lastUpdated": "2025-11-10T07:18:44.139420+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 89,
+      "directoryCount": 90,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

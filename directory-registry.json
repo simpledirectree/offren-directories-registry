@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:39:41.864701+00:00Z",
+  "lastUpdated": "2025-11-10T02:41:26.792763+00:00Z",
   "stats": {
-    "totalDirectories": 1751,
+    "totalDirectories": 1752,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1751.0,
-    "totalListings": 16396,
-    "aiEnhancedDirectories": 1751
+    "avgDirectoriesPerRepo": 1752.0,
+    "totalListings": 16406,
+    "aiEnhancedDirectories": 1752
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22771,12 +22771,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-alternative-health-practitioners-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:41:26.792763+00:00Z",
+      "lastUpdated": "2025-11-10T02:41:26.792763+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1751,
+      "directoryCount": 1752,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

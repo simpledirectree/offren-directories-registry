@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:41:25.040963+00:00Z",
+  "lastUpdated": "2025-11-10T06:41:43.349898+00:00Z",
   "stats": {
-    "totalDirectories": 2431,
+    "totalDirectories": 2432,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2431.0,
-    "totalListings": 22963,
-    "aiEnhancedDirectories": 2431
+    "avgDirectoriesPerRepo": 2432.0,
+    "totalListings": 22973,
+    "aiEnhancedDirectories": 2432
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31611,12 +31611,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-disease-management-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:41:43.349898+00:00Z",
+      "lastUpdated": "2025-11-10T06:41:43.349898+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2431,
+      "directoryCount": 2432,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

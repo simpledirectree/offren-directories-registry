@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:37:43.270399+00:00Z",
+  "lastUpdated": "2025-11-10T07:37:59.144297+00:00Z",
   "stats": {
-    "totalDirectories": 157,
+    "totalDirectories": 158,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 157.0,
-    "totalListings": 1526,
-    "aiEnhancedDirectories": 157
+    "avgDirectoriesPerRepo": 158.0,
+    "totalListings": 1536,
+    "aiEnhancedDirectories": 158
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2049,12 +2049,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-pipe-repair-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:37:59.144297+00:00Z",
+      "lastUpdated": "2025-11-10T07:37:59.144297+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 157,
+      "directoryCount": 158,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

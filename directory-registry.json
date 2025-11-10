@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:41:43.938438+00:00Z",
+  "lastUpdated": "2025-11-10T00:42:50.891817+00:00Z",
   "stats": {
-    "totalDirectories": 1611,
+    "totalDirectories": 1612,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1611.0,
-    "totalListings": 15121,
-    "aiEnhancedDirectories": 1611
+    "avgDirectoriesPerRepo": 1612.0,
+    "totalListings": 15131,
+    "aiEnhancedDirectories": 1612
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20951,12 +20951,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-style-coaching-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:42:50.891817+00:00Z",
+      "lastUpdated": "2025-11-10T00:42:50.891817+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1611,
+      "directoryCount": 1612,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:01:28.878038+00:00Z",
+  "lastUpdated": "2025-11-10T02:02:34.614789+00:00Z",
   "stats": {
-    "totalDirectories": 1705,
+    "totalDirectories": 1706,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1705.0,
-    "totalListings": 15968,
-    "aiEnhancedDirectories": 1705
+    "avgDirectoriesPerRepo": 1706.0,
+    "totalListings": 15978,
+    "aiEnhancedDirectories": 1706
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22173,12 +22173,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-gymnastics-coaching-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:02:34.614789+00:00Z",
+      "lastUpdated": "2025-11-10T02:02:34.614789+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1705,
+      "directoryCount": 1706,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

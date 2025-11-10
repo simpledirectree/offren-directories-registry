@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:46:55.827791+00:00Z",
+  "lastUpdated": "2025-11-10T15:47:45.093255+00:00Z",
   "stats": {
-    "totalDirectories": 745,
+    "totalDirectories": 746,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 745.0,
-    "totalListings": 6964,
-    "aiEnhancedDirectories": 745
+    "avgDirectoriesPerRepo": 746.0,
+    "totalListings": 6974,
+    "aiEnhancedDirectories": 746
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9693,12 +9693,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-24-7-monitoring-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:47:45.093255+00:00Z",
+      "lastUpdated": "2025-11-10T15:47:45.093255+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 745,
+      "directoryCount": 746,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:29:07.941708+00:00Z",
+  "lastUpdated": "2025-11-10T06:29:24.797836+00:00Z",
   "stats": {
-    "totalDirectories": 2388,
+    "totalDirectories": 2389,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2388.0,
-    "totalListings": 22542,
-    "aiEnhancedDirectories": 2388
+    "avgDirectoriesPerRepo": 2389.0,
+    "totalListings": 22552,
+    "aiEnhancedDirectories": 2389
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31052,12 +31052,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-valuation-services-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:29:24.797836+00:00Z",
+      "lastUpdated": "2025-11-10T06:29:24.797836+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2388,
+      "directoryCount": 2389,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

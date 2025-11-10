@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:24:15.913683+00:00Z",
+  "lastUpdated": "2025-11-10T05:24:30.368476+00:00Z",
   "stats": {
-    "totalDirectories": 2165,
+    "totalDirectories": 2166,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2165.0,
-    "totalListings": 20396,
-    "aiEnhancedDirectories": 2165
+    "avgDirectoriesPerRepo": 2166.0,
+    "totalListings": 20406,
+    "aiEnhancedDirectories": 2166
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28153,12 +28153,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-dialectical-behavior-therapy-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:24:30.368476+00:00Z",
+      "lastUpdated": "2025-11-10T05:24:30.368476+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2165,
+      "directoryCount": 2166,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

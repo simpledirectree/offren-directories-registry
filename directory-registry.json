@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:59:56.087598+00:00Z",
+  "lastUpdated": "2025-11-10T05:00:10.672171+00:00Z",
   "stats": {
-    "totalDirectories": 2083,
+    "totalDirectories": 2084,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2083.0,
-    "totalListings": 19589,
-    "aiEnhancedDirectories": 2083
+    "avgDirectoriesPerRepo": 2084.0,
+    "totalListings": 19592,
+    "aiEnhancedDirectories": 2084
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27087,12 +27087,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-ghost-kitchens-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:00:10.672171+00:00Z",
+      "lastUpdated": "2025-11-10T05:00:10.672171+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2083,
+      "directoryCount": 2084,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

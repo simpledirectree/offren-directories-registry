@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:11:01.802353+00:00Z",
+  "lastUpdated": "2025-11-10T05:11:28.894846+00:00Z",
   "stats": {
-    "totalDirectories": 2120,
+    "totalDirectories": 2121,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2120.0,
-    "totalListings": 19952,
-    "aiEnhancedDirectories": 2120
+    "avgDirectoriesPerRepo": 2121.0,
+    "totalListings": 19962,
+    "aiEnhancedDirectories": 2121
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27568,12 +27568,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-training-program-development-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:11:28.894846+00:00Z",
+      "lastUpdated": "2025-11-10T05:11:28.894846+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2120,
+      "directoryCount": 2121,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

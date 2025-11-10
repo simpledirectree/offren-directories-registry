@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:04:29.126943+00:00Z",
+  "lastUpdated": "2025-11-10T12:04:44.494674+00:00Z",
   "stats": {
-    "totalDirectories": 498,
+    "totalDirectories": 499,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 498.0,
-    "totalListings": 4747,
-    "aiEnhancedDirectories": 498
+    "avgDirectoriesPerRepo": 499.0,
+    "totalListings": 4757,
+    "aiEnhancedDirectories": 499
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6482,12 +6482,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-cash-flow-management-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:04:44.494674+00:00Z",
+      "lastUpdated": "2025-11-10T12:04:44.494674+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 498,
+      "directoryCount": 499,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

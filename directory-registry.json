@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:30:00.146732+00:00Z",
+  "lastUpdated": "2025-11-10T05:30:13.817242+00:00Z",
   "stats": {
-    "totalDirectories": 2184,
+    "totalDirectories": 2185,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2184.0,
-    "totalListings": 20581,
-    "aiEnhancedDirectories": 2184
+    "avgDirectoriesPerRepo": 2185.0,
+    "totalListings": 20583,
+    "aiEnhancedDirectories": 2185
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28400,12 +28400,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-risk-management-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:30:13.817242+00:00Z",
+      "lastUpdated": "2025-11-10T05:30:13.817242+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2184,
+      "directoryCount": 2185,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

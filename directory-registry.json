@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:52:49.322086+00:00Z",
+  "lastUpdated": "2025-11-10T01:55:07.605957+00:00Z",
   "stats": {
-    "totalDirectories": 1693,
+    "totalDirectories": 1694,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1693.0,
-    "totalListings": 15855,
-    "aiEnhancedDirectories": 1693
+    "avgDirectoriesPerRepo": 1694.0,
+    "totalListings": 15865,
+    "aiEnhancedDirectories": 1694
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22017,12 +22017,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-guest-management-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:55:07.605957+00:00Z",
+      "lastUpdated": "2025-11-10T01:55:07.605957+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1693,
+      "directoryCount": 1694,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

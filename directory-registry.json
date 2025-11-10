@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:37:22.559412+00:00Z",
+  "lastUpdated": "2025-11-10T04:37:38.493341+00:00Z",
   "stats": {
-    "totalDirectories": 2003,
+    "totalDirectories": 2004,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2003.0,
-    "totalListings": 18811,
-    "aiEnhancedDirectories": 2003
+    "avgDirectoriesPerRepo": 2004.0,
+    "totalListings": 18821,
+    "aiEnhancedDirectories": 2004
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26047,12 +26047,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-party-djs-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:37:38.493341+00:00Z",
+      "lastUpdated": "2025-11-10T04:37:38.493341+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2003,
+      "directoryCount": 2004,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

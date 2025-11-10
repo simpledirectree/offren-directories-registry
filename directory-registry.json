@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:00:02.952127+00:00Z",
+  "lastUpdated": "2025-11-10T21:00:18.090445+00:00Z",
   "stats": {
-    "totalDirectories": 1121,
+    "totalDirectories": 1122,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1121.0,
-    "totalListings": 10454,
-    "aiEnhancedDirectories": 1121
+    "avgDirectoriesPerRepo": 1122.0,
+    "totalListings": 10464,
+    "aiEnhancedDirectories": 1122
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14581,12 +14581,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-event-breakdown-crews-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:00:18.090445+00:00Z",
+      "lastUpdated": "2025-11-10T21:00:18.090445+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1121,
+      "directoryCount": 1122,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:06:23.477398+00:00Z",
+  "lastUpdated": "2025-11-10T10:07:01.535482+00:00Z",
   "stats": {
-    "totalDirectories": 356,
+    "totalDirectories": 357,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 356.0,
-    "totalListings": 3428,
-    "aiEnhancedDirectories": 356
+    "avgDirectoriesPerRepo": 357.0,
+    "totalListings": 3438,
+    "aiEnhancedDirectories": 357
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4636,12 +4636,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-keratin-treatments-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:07:01.535482+00:00Z",
+      "lastUpdated": "2025-11-10T10:07:01.535482+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 356,
+      "directoryCount": 357,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

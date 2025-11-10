@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:45:27.959261+00:00Z",
+  "lastUpdated": "2025-11-10T11:46:07.411712+00:00Z",
   "stats": {
-    "totalDirectories": 479,
+    "totalDirectories": 480,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 479.0,
-    "totalListings": 4576,
-    "aiEnhancedDirectories": 479
+    "avgDirectoriesPerRepo": 480.0,
+    "totalListings": 4581,
+    "aiEnhancedDirectories": 480
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6235,12 +6235,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-therapists-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:46:07.411712+00:00Z",
+      "lastUpdated": "2025-11-10T11:46:07.411712+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 479,
+      "directoryCount": 480,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

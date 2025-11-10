@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:37:46.461565+00:00Z",
+  "lastUpdated": "2025-11-10T15:38:01.746035+00:00Z",
   "stats": {
-    "totalDirectories": 728,
+    "totalDirectories": 729,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 728.0,
-    "totalListings": 6818,
-    "aiEnhancedDirectories": 728
+    "avgDirectoriesPerRepo": 729.0,
+    "totalListings": 6828,
+    "aiEnhancedDirectories": 729
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9472,12 +9472,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-professional-development-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:38:01.746035+00:00Z",
+      "lastUpdated": "2025-11-10T15:38:01.746035+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 728,
+      "directoryCount": 729,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

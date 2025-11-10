@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:14:04.715557+00:00Z",
+  "lastUpdated": "2025-11-10T14:14:43.104314+00:00Z",
   "stats": {
-    "totalDirectories": 642,
+    "totalDirectories": 643,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 642.0,
-    "totalListings": 6040,
-    "aiEnhancedDirectories": 642
+    "avgDirectoriesPerRepo": 643.0,
+    "totalListings": 6044,
+    "aiEnhancedDirectories": 643
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8354,12 +8354,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-garden-consultation-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:14:43.104314+00:00Z",
+      "lastUpdated": "2025-11-10T14:14:43.104314+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 642,
+      "directoryCount": 643,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:52:26.768786+00:00Z",
+  "lastUpdated": "2025-11-10T07:53:54.708096+00:00Z",
   "stats": {
-    "totalDirectories": 203,
+    "totalDirectories": 204,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 203.0,
-    "totalListings": 1982,
-    "aiEnhancedDirectories": 203
+    "avgDirectoriesPerRepo": 204.0,
+    "totalListings": 1992,
+    "aiEnhancedDirectories": 204
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2647,12 +2647,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-wine-bars-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:53:54.708096+00:00Z",
+      "lastUpdated": "2025-11-10T07:53:54.708096+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 203,
+      "directoryCount": 204,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

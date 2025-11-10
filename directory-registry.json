@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:53:04.132849+00:00Z",
+  "lastUpdated": "2025-11-10T20:53:19.512269+00:00Z",
   "stats": {
-    "totalDirectories": 1109,
+    "totalDirectories": 1110,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1109.0,
-    "totalListings": 10337,
-    "aiEnhancedDirectories": 1109
+    "avgDirectoriesPerRepo": 1110.0,
+    "totalListings": 10347,
+    "aiEnhancedDirectories": 1110
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14425,12 +14425,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-payroll-tax-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:53:19.512269+00:00Z",
+      "lastUpdated": "2025-11-10T20:53:19.512269+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1109,
+      "directoryCount": 1110,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

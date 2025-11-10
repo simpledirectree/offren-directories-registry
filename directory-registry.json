@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:44:20.773100+00:00Z",
+  "lastUpdated": "2025-11-10T13:44:35.389831+00:00Z",
   "stats": {
-    "totalDirectories": 600,
+    "totalDirectories": 601,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 600.0,
-    "totalListings": 5665,
-    "aiEnhancedDirectories": 600
+    "avgDirectoriesPerRepo": 601.0,
+    "totalListings": 5675,
+    "aiEnhancedDirectories": 601
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7808,12 +7808,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-wedding-djs-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:44:35.389831+00:00Z",
+      "lastUpdated": "2025-11-10T13:44:35.389831+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 600,
+      "directoryCount": 601,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

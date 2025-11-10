@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:49:16.258613+00:00Z",
+  "lastUpdated": "2025-11-10T16:49:33.071796+00:00Z",
   "stats": {
-    "totalDirectories": 829,
+    "totalDirectories": 830,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 829.0,
-    "totalListings": 7728,
-    "aiEnhancedDirectories": 829
+    "avgDirectoriesPerRepo": 830.0,
+    "totalListings": 7738,
+    "aiEnhancedDirectories": 830
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10785,12 +10785,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-exit-planning-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:49:33.071796+00:00Z",
+      "lastUpdated": "2025-11-10T16:49:33.071796+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 829,
+      "directoryCount": 830,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

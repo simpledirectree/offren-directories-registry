@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:03:21.348722+00:00Z",
+  "lastUpdated": "2025-11-10T06:03:37.872509+00:00Z",
   "stats": {
-    "totalDirectories": 2300,
+    "totalDirectories": 2301,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2300.0,
-    "totalListings": 21705,
-    "aiEnhancedDirectories": 2300
+    "avgDirectoriesPerRepo": 2301.0,
+    "totalListings": 21708,
+    "aiEnhancedDirectories": 2301
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29908,12 +29908,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-acting-instruction-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:03:37.872509+00:00Z",
+      "lastUpdated": "2025-11-10T06:03:37.872509+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2300,
+      "directoryCount": 2301,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

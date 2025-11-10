@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:45:59.406037+00:00Z",
+  "lastUpdated": "2025-11-10T06:46:16.765700+00:00Z",
   "stats": {
-    "totalDirectories": 2446,
+    "totalDirectories": 2447,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2446.0,
-    "totalListings": 23113,
-    "aiEnhancedDirectories": 2446
+    "avgDirectoriesPerRepo": 2447.0,
+    "totalListings": 23123,
+    "aiEnhancedDirectories": 2447
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31806,12 +31806,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-performance-improvement-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:46:16.765700+00:00Z",
+      "lastUpdated": "2025-11-10T06:46:16.765700+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2446,
+      "directoryCount": 2447,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

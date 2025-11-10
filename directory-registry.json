@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:30:35.561991+00:00Z",
+  "lastUpdated": "2025-11-10T07:30:49.819299+00:00Z",
   "stats": {
-    "totalDirectories": 132,
+    "totalDirectories": 133,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 132.0,
-    "totalListings": 1276,
-    "aiEnhancedDirectories": 132
+    "avgDirectoriesPerRepo": 133.0,
+    "totalListings": 1286,
+    "aiEnhancedDirectories": 133
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1724,12 +1724,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-insulation-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:30:49.819299+00:00Z",
+      "lastUpdated": "2025-11-10T07:30:49.819299+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 132,
+      "directoryCount": 133,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

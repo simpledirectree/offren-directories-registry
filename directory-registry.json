@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:47:19.088962+00:00Z",
+  "lastUpdated": "2025-11-10T10:47:33.788367+00:00Z",
   "stats": {
-    "totalDirectories": 407,
+    "totalDirectories": 408,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 407.0,
-    "totalListings": 3911,
-    "aiEnhancedDirectories": 407
+    "avgDirectoriesPerRepo": 408.0,
+    "totalListings": 3921,
+    "aiEnhancedDirectories": 408
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5299,12 +5299,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-vegan-catering-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:47:33.788367+00:00Z",
+      "lastUpdated": "2025-11-10T10:47:33.788367+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 407,
+      "directoryCount": 408,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

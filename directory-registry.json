@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:19:09.477686+00:00Z",
+  "lastUpdated": "2025-11-10T05:19:26.763340+00:00Z",
   "stats": {
-    "totalDirectories": 2147,
+    "totalDirectories": 2148,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2147.0,
-    "totalListings": 20216,
-    "aiEnhancedDirectories": 2147
+    "avgDirectoriesPerRepo": 2148.0,
+    "totalListings": 20226,
+    "aiEnhancedDirectories": 2148
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27919,12 +27919,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-medical-imaging-services-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:19:26.763340+00:00Z",
+      "lastUpdated": "2025-11-10T05:19:26.763340+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2147,
+      "directoryCount": 2148,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

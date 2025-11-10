@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:45:26.552355+00:00Z",
+  "lastUpdated": "2025-11-10T12:47:23.650170+00:00Z",
   "stats": {
-    "totalDirectories": 543,
+    "totalDirectories": 544,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 543.0,
-    "totalListings": 5170,
-    "aiEnhancedDirectories": 543
+    "avgDirectoriesPerRepo": 544.0,
+    "totalListings": 5180,
+    "aiEnhancedDirectories": 544
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7067,12 +7067,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-data-recovery-solutions-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:47:23.650170+00:00Z",
+      "lastUpdated": "2025-11-10T12:47:23.650170+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 543,
+      "directoryCount": 544,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

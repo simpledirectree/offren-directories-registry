@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:01:54.128648+00:00Z",
+  "lastUpdated": "2025-11-10T00:02:09.163164+00:00Z",
   "stats": {
-    "totalDirectories": 1565,
+    "totalDirectories": 1566,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1565.0,
-    "totalListings": 14718,
-    "aiEnhancedDirectories": 1565
+    "avgDirectoriesPerRepo": 1566.0,
+    "totalListings": 14723,
+    "aiEnhancedDirectories": 1566
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20353,12 +20353,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-reputation-management-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:02:09.163164+00:00Z",
+      "lastUpdated": "2025-11-10T00:02:09.163164+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1565,
+      "directoryCount": 1566,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

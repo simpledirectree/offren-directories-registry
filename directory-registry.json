@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:02:30.247196+00:00Z",
+  "lastUpdated": "2025-11-10T15:02:44.607173+00:00Z",
   "stats": {
-    "totalDirectories": 688,
+    "totalDirectories": 689,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 688.0,
-    "totalListings": 6448,
-    "aiEnhancedDirectories": 688
+    "avgDirectoriesPerRepo": 689.0,
+    "totalListings": 6449,
+    "aiEnhancedDirectories": 689
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8952,12 +8952,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-liability-insurance-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:02:44.607173+00:00Z",
+      "lastUpdated": "2025-11-10T15:02:44.607173+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 688,
+      "directoryCount": 689,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

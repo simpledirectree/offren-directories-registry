@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:01:06.843176+00:00Z",
+  "lastUpdated": "2025-11-10T05:01:25.360551+00:00Z",
   "stats": {
-    "totalDirectories": 2087,
+    "totalDirectories": 2088,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2087.0,
-    "totalListings": 19622,
-    "aiEnhancedDirectories": 2087
+    "avgDirectoriesPerRepo": 2088.0,
+    "totalListings": 19632,
+    "aiEnhancedDirectories": 2088
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27139,12 +27139,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-class-action-law-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:01:25.360551+00:00Z",
+      "lastUpdated": "2025-11-10T05:01:25.360551+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2087,
+      "directoryCount": 2088,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

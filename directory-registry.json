@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:49:46.482706+00:00Z",
+  "lastUpdated": "2025-11-10T09:50:02.947135+00:00Z",
   "stats": {
-    "totalDirectories": 338,
+    "totalDirectories": 339,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 338.0,
-    "totalListings": 3256,
-    "aiEnhancedDirectories": 338
+    "avgDirectoriesPerRepo": 339.0,
+    "totalListings": 3266,
+    "aiEnhancedDirectories": 339
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4402,12 +4402,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-minor-gutter-repairs-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:50:02.947135+00:00Z",
+      "lastUpdated": "2025-11-10T09:50:02.947135+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 338,
+      "directoryCount": 339,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

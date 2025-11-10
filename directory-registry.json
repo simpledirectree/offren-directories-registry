@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:33:21.077792+00:00Z",
+  "lastUpdated": "2025-11-10T18:34:03.833204+00:00Z",
   "stats": {
-    "totalDirectories": 950,
+    "totalDirectories": 951,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 950.0,
-    "totalListings": 8854,
-    "aiEnhancedDirectories": 950
+    "avgDirectoriesPerRepo": 951.0,
+    "totalListings": 8864,
+    "aiEnhancedDirectories": 951
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12358,12 +12358,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-pos-system-installation-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:34:03.833204+00:00Z",
+      "lastUpdated": "2025-11-10T18:34:03.833204+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 950,
+      "directoryCount": 951,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

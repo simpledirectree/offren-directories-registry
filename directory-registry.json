@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:03:21.035807+00:00Z",
+  "lastUpdated": "2025-11-10T04:03:37.080653+00:00Z",
   "stats": {
-    "totalDirectories": 1884,
+    "totalDirectories": 1885,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1884.0,
-    "totalListings": 17654,
-    "aiEnhancedDirectories": 1884
+    "avgDirectoriesPerRepo": 1885.0,
+    "totalListings": 17664,
+    "aiEnhancedDirectories": 1885
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24500,12 +24500,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-integrative-medicine-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:03:37.080653+00:00Z",
+      "lastUpdated": "2025-11-10T04:03:37.080653+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1884,
+      "directoryCount": 1885,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

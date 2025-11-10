@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:08:29.678461+00:00Z",
+  "lastUpdated": "2025-11-10T04:08:47.654310+00:00Z",
   "stats": {
-    "totalDirectories": 1902,
+    "totalDirectories": 1903,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1902.0,
-    "totalListings": 17825,
-    "aiEnhancedDirectories": 1902
+    "avgDirectoriesPerRepo": 1903.0,
+    "totalListings": 17835,
+    "aiEnhancedDirectories": 1903
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24734,12 +24734,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-executive-coaching-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:08:47.654310+00:00Z",
+      "lastUpdated": "2025-11-10T04:08:47.654310+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1902,
+      "directoryCount": 1903,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

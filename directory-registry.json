@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:49:30.005111+00:00Z",
+  "lastUpdated": "2025-11-10T05:49:49.280337+00:00Z",
   "stats": {
-    "totalDirectories": 2253,
+    "totalDirectories": 2254,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2253.0,
-    "totalListings": 21239,
-    "aiEnhancedDirectories": 2253
+    "avgDirectoriesPerRepo": 2254.0,
+    "totalListings": 21249,
+    "aiEnhancedDirectories": 2254
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29297,12 +29297,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-ada-compliance-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:49:49.280337+00:00Z",
+      "lastUpdated": "2025-11-10T05:49:49.280337+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2253,
+      "directoryCount": 2254,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

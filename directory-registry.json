@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:37:06.397922+00:00Z",
+  "lastUpdated": "2025-11-10T06:37:24.571556+00:00Z",
   "stats": {
-    "totalDirectories": 2416,
+    "totalDirectories": 2417,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2416.0,
-    "totalListings": 22813,
-    "aiEnhancedDirectories": 2416
+    "avgDirectoriesPerRepo": 2417.0,
+    "totalListings": 22823,
+    "aiEnhancedDirectories": 2417
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31416,12 +31416,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-moving-insurance-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:37:24.571556+00:00Z",
+      "lastUpdated": "2025-11-10T06:37:24.571556+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2416,
+      "directoryCount": 2417,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

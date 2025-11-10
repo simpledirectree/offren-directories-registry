@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:52:05.789819+00:00Z",
+  "lastUpdated": "2025-11-10T21:52:47.454144+00:00Z",
   "stats": {
-    "totalDirectories": 1185,
+    "totalDirectories": 1186,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1185.0,
-    "totalListings": 11027,
-    "aiEnhancedDirectories": 1185
+    "avgDirectoriesPerRepo": 1186.0,
+    "totalListings": 11037,
+    "aiEnhancedDirectories": 1186
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15413,12 +15413,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-night-nannies-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:52:47.454144+00:00Z",
+      "lastUpdated": "2025-11-10T21:52:47.454144+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1185,
+      "directoryCount": 1186,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:11:33.308226+00:00Z",
+  "lastUpdated": "2025-11-10T21:12:39.898667+00:00Z",
   "stats": {
-    "totalDirectories": 1135,
+    "totalDirectories": 1136,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1135.0,
-    "totalListings": 10574,
-    "aiEnhancedDirectories": 1135
+    "avgDirectoriesPerRepo": 1136.0,
+    "totalListings": 10584,
+    "aiEnhancedDirectories": 1136
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14763,12 +14763,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-brake-repair-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:12:39.898667+00:00Z",
+      "lastUpdated": "2025-11-10T21:12:39.898667+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1135,
+      "directoryCount": 1136,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

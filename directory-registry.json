@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:16:03.268292+00:00Z",
+  "lastUpdated": "2025-11-10T04:16:23.279856+00:00Z",
   "stats": {
-    "totalDirectories": 1928,
+    "totalDirectories": 1929,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1928.0,
-    "totalListings": 18077,
-    "aiEnhancedDirectories": 1928
+    "avgDirectoriesPerRepo": 1929.0,
+    "totalListings": 18087,
+    "aiEnhancedDirectories": 1929
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25072,12 +25072,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-brand-identity-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:16:23.279856+00:00Z",
+      "lastUpdated": "2025-11-10T04:16:23.279856+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1928,
+      "directoryCount": 1929,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

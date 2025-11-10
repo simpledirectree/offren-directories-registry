@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:15:56.673054+00:00Z",
+  "lastUpdated": "2025-11-10T11:16:11.920979+00:00Z",
   "stats": {
-    "totalDirectories": 443,
+    "totalDirectories": 444,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 443.0,
-    "totalListings": 4240,
-    "aiEnhancedDirectories": 443
+    "avgDirectoriesPerRepo": 444.0,
+    "totalListings": 4250,
+    "aiEnhancedDirectories": 444
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5767,12 +5767,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-24-7-monitoring-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:16:11.920979+00:00Z",
+      "lastUpdated": "2025-11-10T11:16:11.920979+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 443,
+      "directoryCount": 444,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

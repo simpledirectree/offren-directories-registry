@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:02:32.268707+00:00Z",
+  "lastUpdated": "2025-11-10T05:02:52.701473+00:00Z",
   "stats": {
-    "totalDirectories": 2092,
+    "totalDirectories": 2093,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2092.0,
-    "totalListings": 19672,
-    "aiEnhancedDirectories": 2092
+    "avgDirectoriesPerRepo": 2093.0,
+    "totalListings": 19682,
+    "aiEnhancedDirectories": 2093
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27204,12 +27204,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-dropshipping-setup-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:02:52.701473+00:00Z",
+      "lastUpdated": "2025-11-10T05:02:52.701473+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2092,
+      "directoryCount": 2093,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:29:06.489632+00:00Z",
+  "lastUpdated": "2025-11-10T07:29:24.788672+00:00Z",
   "stats": {
-    "totalDirectories": 127,
+    "totalDirectories": 128,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 127.0,
-    "totalListings": 1229,
-    "aiEnhancedDirectories": 127
+    "avgDirectoriesPerRepo": 128.0,
+    "totalListings": 1239,
+    "aiEnhancedDirectories": 128
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1659,12 +1659,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-construction-labor-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:29:24.788672+00:00Z",
+      "lastUpdated": "2025-11-10T07:29:24.788672+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 127,
+      "directoryCount": 128,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

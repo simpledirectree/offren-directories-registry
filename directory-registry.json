@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:04:46.572444+00:00Z",
+  "lastUpdated": "2025-11-10T04:05:01.450872+00:00Z",
   "stats": {
-    "totalDirectories": 1889,
+    "totalDirectories": 1890,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1889.0,
-    "totalListings": 17704,
-    "aiEnhancedDirectories": 1889
+    "avgDirectoriesPerRepo": 1890.0,
+    "totalListings": 17714,
+    "aiEnhancedDirectories": 1890
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24565,12 +24565,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-crm-development-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:05:01.450872+00:00Z",
+      "lastUpdated": "2025-11-10T04:05:01.450872+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1889,
+      "directoryCount": 1890,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

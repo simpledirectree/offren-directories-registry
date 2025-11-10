@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:04:59.700790+00:00Z",
+  "lastUpdated": "2025-11-10T02:05:14.629152+00:00Z",
   "stats": {
-    "totalDirectories": 1709,
+    "totalDirectories": 1710,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1709.0,
-    "totalListings": 15994,
-    "aiEnhancedDirectories": 1709
+    "avgDirectoriesPerRepo": 1710.0,
+    "totalListings": 16003,
+    "aiEnhancedDirectories": 1710
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22225,12 +22225,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-shopify-development-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:05:14.629152+00:00Z",
+      "lastUpdated": "2025-11-10T02:05:14.629152+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1709,
+      "directoryCount": 1710,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

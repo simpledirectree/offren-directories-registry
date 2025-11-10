@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:30:14.790513+00:00Z",
+  "lastUpdated": "2025-11-10T06:30:32.306951+00:00Z",
   "stats": {
-    "totalDirectories": 2392,
+    "totalDirectories": 2393,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2392.0,
-    "totalListings": 22582,
-    "aiEnhancedDirectories": 2392
+    "avgDirectoriesPerRepo": 2393.0,
+    "totalListings": 22592,
+    "aiEnhancedDirectories": 2393
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31104,12 +31104,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-sewer-lines-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:30:32.306951+00:00Z",
+      "lastUpdated": "2025-11-10T06:30:32.306951+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2392,
+      "directoryCount": 2393,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

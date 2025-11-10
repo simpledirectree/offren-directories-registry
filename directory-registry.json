@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:01:06.519784+00:00Z",
+  "lastUpdated": "2025-11-10T04:01:24.278110+00:00Z",
   "stats": {
-    "totalDirectories": 1876,
+    "totalDirectories": 1877,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1876.0,
-    "totalListings": 17574,
-    "aiEnhancedDirectories": 1876
+    "avgDirectoriesPerRepo": 1877.0,
+    "totalListings": 17584,
+    "aiEnhancedDirectories": 1877
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24396,12 +24396,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-escrow-services-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:01:24.278110+00:00Z",
+      "lastUpdated": "2025-11-10T04:01:24.278110+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1876,
+      "directoryCount": 1877,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

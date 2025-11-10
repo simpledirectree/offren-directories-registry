@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:48:59.729003+00:00Z",
+  "lastUpdated": "2025-11-10T06:49:16.015246+00:00Z",
   "stats": {
-    "totalDirectories": 2456,
+    "totalDirectories": 2457,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2456.0,
-    "totalListings": 23213,
-    "aiEnhancedDirectories": 2456
+    "avgDirectoriesPerRepo": 2457.0,
+    "totalListings": 23223,
+    "aiEnhancedDirectories": 2457
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31936,12 +31936,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-alternator-repair-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:49:16.015246+00:00Z",
+      "lastUpdated": "2025-11-10T06:49:16.015246+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2456,
+      "directoryCount": 2457,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

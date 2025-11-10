@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:34:26.724844+00:00Z",
+  "lastUpdated": "2025-11-10T04:34:43.639864+00:00Z",
   "stats": {
-    "totalDirectories": 1993,
+    "totalDirectories": 1994,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1993.0,
-    "totalListings": 18711,
-    "aiEnhancedDirectories": 1993
+    "avgDirectoriesPerRepo": 1994.0,
+    "totalListings": 18721,
+    "aiEnhancedDirectories": 1994
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25917,12 +25917,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-general-surgery-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:34:43.639864+00:00Z",
+      "lastUpdated": "2025-11-10T04:34:43.639864+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1993,
+      "directoryCount": 1994,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:31:43.735162+00:00Z",
+  "lastUpdated": "2025-11-10T16:32:50.515137+00:00Z",
   "stats": {
-    "totalDirectories": 806,
+    "totalDirectories": 807,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 806.0,
-    "totalListings": 7522,
-    "aiEnhancedDirectories": 806
+    "avgDirectoriesPerRepo": 807.0,
+    "totalListings": 7532,
+    "aiEnhancedDirectories": 807
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10486,12 +10486,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-search-engine-optimization-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:32:50.515137+00:00Z",
+      "lastUpdated": "2025-11-10T16:32:50.515137+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 806,
+      "directoryCount": 807,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

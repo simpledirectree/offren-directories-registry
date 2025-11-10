@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:56:46.723238+00:00Z",
+  "lastUpdated": "2025-11-10T07:57:01.594806+00:00Z",
   "stats": {
-    "totalDirectories": 207,
+    "totalDirectories": 208,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 207.0,
-    "totalListings": 2020,
-    "aiEnhancedDirectories": 207
+    "avgDirectoriesPerRepo": 208.0,
+    "totalListings": 2030,
+    "aiEnhancedDirectories": 208
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2699,12 +2699,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-workplace-policy-development-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:57:01.594806+00:00Z",
+      "lastUpdated": "2025-11-10T07:57:01.594806+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 207,
+      "directoryCount": 208,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

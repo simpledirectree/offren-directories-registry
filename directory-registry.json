@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T08:40:24.739630+00:00Z",
+  "lastUpdated": "2025-11-10T08:41:02.548598+00:00Z",
   "stats": {
-    "totalDirectories": 247,
+    "totalDirectories": 248,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 247.0,
-    "totalListings": 2403,
-    "aiEnhancedDirectories": 247
+    "avgDirectoriesPerRepo": 248.0,
+    "totalListings": 2413,
+    "aiEnhancedDirectories": 248
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3219,12 +3219,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-mobile-rv-repair-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:41:02.548598+00:00Z",
+      "lastUpdated": "2025-11-10T08:41:02.548598+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 247,
+      "directoryCount": 248,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

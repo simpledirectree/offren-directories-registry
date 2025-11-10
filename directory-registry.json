@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:44:17.711290+00:00Z",
+  "lastUpdated": "2025-11-10T07:44:35.720012+00:00Z",
   "stats": {
-    "totalDirectories": 180,
+    "totalDirectories": 181,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 180.0,
-    "totalListings": 1752,
-    "aiEnhancedDirectories": 180
+    "avgDirectoriesPerRepo": 181.0,
+    "totalListings": 1762,
+    "aiEnhancedDirectories": 181
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2348,12 +2348,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-outbuilding-maintenance-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:44:35.720012+00:00Z",
+      "lastUpdated": "2025-11-10T07:44:35.720012+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 180,
+      "directoryCount": 181,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

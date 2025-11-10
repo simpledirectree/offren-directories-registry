@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:29:06.383186+00:00Z",
+  "lastUpdated": "2025-11-10T04:29:24.713839+00:00Z",
   "stats": {
-    "totalDirectories": 1974,
+    "totalDirectories": 1975,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1974.0,
-    "totalListings": 18521,
-    "aiEnhancedDirectories": 1974
+    "avgDirectoriesPerRepo": 1975.0,
+    "totalListings": 18531,
+    "aiEnhancedDirectories": 1975
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25670,12 +25670,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-robotics-instruction-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:29:24.713839+00:00Z",
+      "lastUpdated": "2025-11-10T04:29:24.713839+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1974,
+      "directoryCount": 1975,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

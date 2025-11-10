@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:52:15.658912+00:00Z",
+  "lastUpdated": "2025-11-10T22:53:45.243247+00:00Z",
   "stats": {
-    "totalDirectories": 1254,
+    "totalDirectories": 1255,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1254.0,
-    "totalListings": 11670,
-    "aiEnhancedDirectories": 1254
+    "avgDirectoriesPerRepo": 1255.0,
+    "totalListings": 11680,
+    "aiEnhancedDirectories": 1255
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16310,12 +16310,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-event-marketing-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:53:45.243247+00:00Z",
+      "lastUpdated": "2025-11-10T22:53:45.243247+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1254,
+      "directoryCount": 1255,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

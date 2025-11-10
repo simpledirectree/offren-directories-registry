@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:41:39.105216+00:00Z",
+  "lastUpdated": "2025-11-10T20:43:10.846822+00:00Z",
   "stats": {
-    "totalDirectories": 1092,
+    "totalDirectories": 1093,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1092.0,
-    "totalListings": 10172,
-    "aiEnhancedDirectories": 1092
+    "avgDirectoriesPerRepo": 1093.0,
+    "totalListings": 10182,
+    "aiEnhancedDirectories": 1093
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14204,12 +14204,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-guest-management-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:43:10.846822+00:00Z",
+      "lastUpdated": "2025-11-10T20:43:10.846822+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1092,
+      "directoryCount": 1093,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

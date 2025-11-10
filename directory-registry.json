@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:41:10.305555+00:00Z",
+  "lastUpdated": "2025-11-10T04:41:23.623000+00:00Z",
   "stats": {
-    "totalDirectories": 2016,
+    "totalDirectories": 2017,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2016.0,
-    "totalListings": 18941,
-    "aiEnhancedDirectories": 2016
+    "avgDirectoriesPerRepo": 2017.0,
+    "totalListings": 18946,
+    "aiEnhancedDirectories": 2017
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26216,12 +26216,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-boilers-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:41:23.623000+00:00Z",
+      "lastUpdated": "2025-11-10T04:41:23.623000+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2016,
+      "directoryCount": 2017,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

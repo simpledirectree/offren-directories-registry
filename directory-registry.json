@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:19:39.628801+00:00Z",
+  "lastUpdated": "2025-11-10T04:19:57.495489+00:00Z",
   "stats": {
-    "totalDirectories": 1941,
+    "totalDirectories": 1942,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1941.0,
-    "totalListings": 18200,
-    "aiEnhancedDirectories": 1941
+    "avgDirectoriesPerRepo": 1942.0,
+    "totalListings": 18210,
+    "aiEnhancedDirectories": 1942
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25241,12 +25241,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-test-automation-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:19:57.495489+00:00Z",
+      "lastUpdated": "2025-11-10T04:19:57.495489+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1941,
+      "directoryCount": 1942,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

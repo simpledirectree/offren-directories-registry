@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:56:35.066798+00:00Z",
+  "lastUpdated": "2025-11-10T06:56:50.907050+00:00Z",
   "stats": {
-    "totalDirectories": 10,
+    "totalDirectories": 11,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 10.0,
-    "totalListings": 100,
-    "aiEnhancedDirectories": 10
+    "avgDirectoriesPerRepo": 11.0,
+    "totalListings": 110,
+    "aiEnhancedDirectories": 11
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -138,12 +138,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-dog-training-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:56:50.907050+00:00Z",
+      "lastUpdated": "2025-11-10T06:56:50.907050+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 10,
+      "directoryCount": 11,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

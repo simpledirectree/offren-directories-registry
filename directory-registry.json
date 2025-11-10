@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:21:23.200310+00:00Z",
+  "lastUpdated": "2025-11-10T01:21:39.162807+00:00Z",
   "stats": {
-    "totalDirectories": 1651,
+    "totalDirectories": 1652,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1651.0,
-    "totalListings": 15478,
-    "aiEnhancedDirectories": 1651
+    "avgDirectoriesPerRepo": 1652.0,
+    "totalListings": 15488,
+    "aiEnhancedDirectories": 1652
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21471,12 +21471,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-integrative-medicine-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:21:39.162807+00:00Z",
+      "lastUpdated": "2025-11-10T01:21:39.162807+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1651,
+      "directoryCount": 1652,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

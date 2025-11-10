@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:31:26.600144+00:00Z",
+  "lastUpdated": "2025-11-10T04:31:45.212596+00:00Z",
   "stats": {
-    "totalDirectories": 1982,
+    "totalDirectories": 1983,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1982.0,
-    "totalListings": 18601,
-    "aiEnhancedDirectories": 1982
+    "avgDirectoriesPerRepo": 1983.0,
+    "totalListings": 18611,
+    "aiEnhancedDirectories": 1983
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25774,12 +25774,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-visual-effects-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:31:45.212596+00:00Z",
+      "lastUpdated": "2025-11-10T04:31:45.212596+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1982,
+      "directoryCount": 1983,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

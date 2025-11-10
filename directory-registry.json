@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:35:03.902424+00:00Z",
+  "lastUpdated": "2025-11-10T04:35:19.227646+00:00Z",
   "stats": {
-    "totalDirectories": 1995,
+    "totalDirectories": 1996,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1995.0,
-    "totalListings": 18731,
-    "aiEnhancedDirectories": 1995
+    "avgDirectoriesPerRepo": 1996.0,
+    "totalListings": 18741,
+    "aiEnhancedDirectories": 1996
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25943,12 +25943,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-stump-grinding-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:35:19.227646+00:00Z",
+      "lastUpdated": "2025-11-10T04:35:19.227646+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1995,
+      "directoryCount": 1996,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

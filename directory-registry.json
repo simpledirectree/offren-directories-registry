@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:21:41.969679+00:00Z",
+  "lastUpdated": "2025-11-10T05:22:00.874469+00:00Z",
   "stats": {
-    "totalDirectories": 2156,
+    "totalDirectories": 2157,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2156.0,
-    "totalListings": 20306,
-    "aiEnhancedDirectories": 2156
+    "avgDirectoriesPerRepo": 2157.0,
+    "totalListings": 20316,
+    "aiEnhancedDirectories": 2157
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28036,12 +28036,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-brand-positioning-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:22:00.874469+00:00Z",
+      "lastUpdated": "2025-11-10T05:22:00.874469+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2156,
+      "directoryCount": 2157,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

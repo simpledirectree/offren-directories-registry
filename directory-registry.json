@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:28:48.198480+00:00Z",
+  "lastUpdated": "2025-11-10T07:29:06.489632+00:00Z",
   "stats": {
-    "totalDirectories": 126,
+    "totalDirectories": 127,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 126.0,
-    "totalListings": 1219,
-    "aiEnhancedDirectories": 126
+    "avgDirectoriesPerRepo": 127.0,
+    "totalListings": 1229,
+    "aiEnhancedDirectories": 127
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1646,12 +1646,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-restructuring-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:29:06.489632+00:00Z",
+      "lastUpdated": "2025-11-10T07:29:06.489632+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 126,
+      "directoryCount": 127,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

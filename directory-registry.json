@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:31:15.064900+00:00Z",
+  "lastUpdated": "2025-11-10T21:32:23.517977+00:00Z",
   "stats": {
-    "totalDirectories": 1165,
+    "totalDirectories": 1166,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1165.0,
-    "totalListings": 10848,
-    "aiEnhancedDirectories": 1165
+    "avgDirectoriesPerRepo": 1166.0,
+    "totalListings": 10858,
+    "aiEnhancedDirectories": 1166
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15153,12 +15153,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-photo-retouching-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:32:23.517977+00:00Z",
+      "lastUpdated": "2025-11-10T21:32:23.517977+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1165,
+      "directoryCount": 1166,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

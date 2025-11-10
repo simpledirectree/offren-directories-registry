@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:26:48.872211+00:00Z",
+  "lastUpdated": "2025-11-10T09:28:21.344702+00:00Z",
   "stats": {
-    "totalDirectories": 307,
+    "totalDirectories": 308,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 307.0,
-    "totalListings": 2972,
-    "aiEnhancedDirectories": 307
+    "avgDirectoriesPerRepo": 308.0,
+    "totalListings": 2982,
+    "aiEnhancedDirectories": 308
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3999,12 +3999,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-probate-law-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:28:21.344702+00:00Z",
+      "lastUpdated": "2025-11-10T09:28:21.344702+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 307,
+      "directoryCount": 308,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

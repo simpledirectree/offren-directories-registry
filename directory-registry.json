@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:35:59.201306+00:00Z",
+  "lastUpdated": "2025-11-10T21:36:40.793033+00:00Z",
   "stats": {
-    "totalDirectories": 1167,
+    "totalDirectories": 1168,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1167.0,
-    "totalListings": 10868,
-    "aiEnhancedDirectories": 1167
+    "avgDirectoriesPerRepo": 1168.0,
+    "totalListings": 10878,
+    "aiEnhancedDirectories": 1168
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15179,12 +15179,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-audit-preparation-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:36:40.793033+00:00Z",
+      "lastUpdated": "2025-11-10T21:36:40.793033+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1167,
+      "directoryCount": 1168,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

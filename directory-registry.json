@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:50:21.889309+00:00Z",
+  "lastUpdated": "2025-11-10T05:50:38.608800+00:00Z",
   "stats": {
-    "totalDirectories": 2256,
+    "totalDirectories": 2257,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2256.0,
-    "totalListings": 21269,
-    "aiEnhancedDirectories": 2256
+    "avgDirectoriesPerRepo": 2257.0,
+    "totalListings": 21279,
+    "aiEnhancedDirectories": 2257
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29336,12 +29336,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-barbershops-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:50:38.608800+00:00Z",
+      "lastUpdated": "2025-11-10T05:50:38.608800+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2256,
+      "directoryCount": 2257,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

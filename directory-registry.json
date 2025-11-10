@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:25:23.565050+00:00Z",
+  "lastUpdated": "2025-11-10T02:27:55.574682+00:00Z",
   "stats": {
-    "totalDirectories": 1735,
+    "totalDirectories": 1736,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1735.0,
-    "totalListings": 16241,
-    "aiEnhancedDirectories": 1735
+    "avgDirectoriesPerRepo": 1736.0,
+    "totalListings": 16251,
+    "aiEnhancedDirectories": 1736
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22563,12 +22563,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-emergency-roof-repairs-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:27:55.574682+00:00Z",
+      "lastUpdated": "2025-11-10T02:27:55.574682+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1735,
+      "directoryCount": 1736,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:20:39.167228+00:00Z",
+  "lastUpdated": "2025-11-10T21:20:55.420783+00:00Z",
   "stats": {
-    "totalDirectories": 1148,
+    "totalDirectories": 1149,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1148.0,
-    "totalListings": 10683,
-    "aiEnhancedDirectories": 1148
+    "avgDirectoriesPerRepo": 1149.0,
+    "totalListings": 10693,
+    "aiEnhancedDirectories": 1149
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14932,12 +14932,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-technology-training-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:20:55.420783+00:00Z",
+      "lastUpdated": "2025-11-10T21:20:55.420783+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1148,
+      "directoryCount": 1149,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

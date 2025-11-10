@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:25:04.427074+00:00Z",
+  "lastUpdated": "2025-11-10T16:25:20.574485+00:00Z",
   "stats": {
-    "totalDirectories": 795,
+    "totalDirectories": 796,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 795.0,
-    "totalListings": 7425,
-    "aiEnhancedDirectories": 795
+    "avgDirectoriesPerRepo": 796.0,
+    "totalListings": 7435,
+    "aiEnhancedDirectories": 796
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10343,12 +10343,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-color-analysis-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:25:20.574485+00:00Z",
+      "lastUpdated": "2025-11-10T16:25:20.574485+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 795,
+      "directoryCount": 796,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:04:31.283101+00:00Z",
+  "lastUpdated": "2025-11-10T07:04:45.963862+00:00Z",
   "stats": {
-    "totalDirectories": 39,
+    "totalDirectories": 40,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 39.0,
-    "totalListings": 378,
-    "aiEnhancedDirectories": 39
+    "avgDirectoriesPerRepo": 40.0,
+    "totalListings": 388,
+    "aiEnhancedDirectories": 40
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -515,12 +515,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-stress-management-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:04:45.963862+00:00Z",
+      "lastUpdated": "2025-11-10T07:04:45.963862+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 39,
+      "directoryCount": 40,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

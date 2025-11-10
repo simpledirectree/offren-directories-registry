@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T08:53:22.857534+00:00Z",
+  "lastUpdated": "2025-11-10T08:53:37.703479+00:00Z",
   "stats": {
-    "totalDirectories": 260,
+    "totalDirectories": 261,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 260.0,
-    "totalListings": 2529,
-    "aiEnhancedDirectories": 260
+    "avgDirectoriesPerRepo": 261.0,
+    "totalListings": 2538,
+    "aiEnhancedDirectories": 261
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3388,12 +3388,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-upholstery-cleaning-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:53:37.703479+00:00Z",
+      "lastUpdated": "2025-11-10T08:53:37.703479+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 260,
+      "directoryCount": 261,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

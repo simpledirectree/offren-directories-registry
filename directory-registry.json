@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:54:33.550468+00:00Z",
+  "lastUpdated": "2025-11-10T04:54:51.573789+00:00Z",
   "stats": {
-    "totalDirectories": 2064,
+    "totalDirectories": 2065,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2064.0,
-    "totalListings": 19401,
-    "aiEnhancedDirectories": 2064
+    "avgDirectoriesPerRepo": 2065.0,
+    "totalListings": 19411,
+    "aiEnhancedDirectories": 2065
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26840,12 +26840,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-cleaning-staff-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:54:51.573789+00:00Z",
+      "lastUpdated": "2025-11-10T04:54:51.573789+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2064,
+      "directoryCount": 2065,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

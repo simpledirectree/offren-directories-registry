@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:23:17.772317+00:00Z",
+  "lastUpdated": "2025-11-10T15:23:33.408852+00:00Z",
   "stats": {
-    "totalDirectories": 711,
+    "totalDirectories": 712,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 711.0,
-    "totalListings": 6658,
-    "aiEnhancedDirectories": 711
+    "avgDirectoriesPerRepo": 712.0,
+    "totalListings": 6668,
+    "aiEnhancedDirectories": 712
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9251,12 +9251,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-soil-analysis-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:23:33.408852+00:00Z",
+      "lastUpdated": "2025-11-10T15:23:33.408852+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 711,
+      "directoryCount": 712,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

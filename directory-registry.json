@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:58:05.529880+00:00Z",
+  "lastUpdated": "2025-11-10T18:59:39.397661+00:00Z",
   "stats": {
-    "totalDirectories": 987,
+    "totalDirectories": 988,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 987.0,
-    "totalListings": 9190,
-    "aiEnhancedDirectories": 987
+    "avgDirectoriesPerRepo": 988.0,
+    "totalListings": 9198,
+    "aiEnhancedDirectories": 988
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12839,12 +12839,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-benefits-consulting-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:59:39.397661+00:00Z",
+      "lastUpdated": "2025-11-10T18:59:39.397661+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 987,
+      "directoryCount": 988,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

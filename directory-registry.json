@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:08:19.232310+00:00Z",
+  "lastUpdated": "2025-11-10T07:08:38.955365+00:00Z",
   "stats": {
-    "totalDirectories": 53,
+    "totalDirectories": 54,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 53.0,
-    "totalListings": 513,
-    "aiEnhancedDirectories": 53
+    "avgDirectoriesPerRepo": 54.0,
+    "totalListings": 523,
+    "aiEnhancedDirectories": 54
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -697,12 +697,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-javascript-development-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:08:38.955365+00:00Z",
+      "lastUpdated": "2025-11-10T07:08:38.955365+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 53,
+      "directoryCount": 54,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:08:21.284863+00:00Z",
+  "lastUpdated": "2025-11-10T05:08:38.488776+00:00Z",
   "stats": {
-    "totalDirectories": 2111,
+    "totalDirectories": 2112,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2111.0,
-    "totalListings": 19862,
-    "aiEnhancedDirectories": 2111
+    "avgDirectoriesPerRepo": 2112.0,
+    "totalListings": 19872,
+    "aiEnhancedDirectories": 2112
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27451,12 +27451,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-volleyball-coaching-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:08:38.488776+00:00Z",
+      "lastUpdated": "2025-11-10T05:08:38.488776+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2111,
+      "directoryCount": 2112,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

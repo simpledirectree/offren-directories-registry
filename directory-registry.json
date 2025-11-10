@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:57:25.305205+00:00Z",
+  "lastUpdated": "2025-11-10T01:57:40.907484+00:00Z",
   "stats": {
-    "totalDirectories": 1698,
+    "totalDirectories": 1699,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1698.0,
-    "totalListings": 15898,
-    "aiEnhancedDirectories": 1698
+    "avgDirectoriesPerRepo": 1699.0,
+    "totalListings": 15908,
+    "aiEnhancedDirectories": 1699
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22082,12 +22082,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-event-setup-crews-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:57:40.907484+00:00Z",
+      "lastUpdated": "2025-11-10T01:57:40.907484+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1698,
+      "directoryCount": 1699,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:39:33.773966+00:00Z",
+  "lastUpdated": "2025-11-10T06:39:55.773099+00:00Z",
   "stats": {
-    "totalDirectories": 2425,
+    "totalDirectories": 2426,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2425.0,
-    "totalListings": 22903,
-    "aiEnhancedDirectories": 2425
+    "avgDirectoriesPerRepo": 2426.0,
+    "totalListings": 22913,
+    "aiEnhancedDirectories": 2426
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31533,12 +31533,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-management-accounting-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:39:55.773099+00:00Z",
+      "lastUpdated": "2025-11-10T06:39:55.773099+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2425,
+      "directoryCount": 2426,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

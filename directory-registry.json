@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:53:40.083361+00:00Z",
+  "lastUpdated": "2025-11-10T05:53:56.111120+00:00Z",
   "stats": {
-    "totalDirectories": 2268,
+    "totalDirectories": 2269,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2268.0,
-    "totalListings": 21387,
-    "aiEnhancedDirectories": 2268
+    "avgDirectoriesPerRepo": 2269.0,
+    "totalListings": 21397,
+    "aiEnhancedDirectories": 2269
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29492,12 +29492,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-sales-training-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:53:56.111120+00:00Z",
+      "lastUpdated": "2025-11-10T05:53:56.111120+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2268,
+      "directoryCount": 2269,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

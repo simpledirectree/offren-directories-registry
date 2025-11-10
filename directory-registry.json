@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:41:16.052685+00:00Z",
+  "lastUpdated": "2025-11-10T15:41:58.423651+00:00Z",
   "stats": {
-    "totalDirectories": 738,
+    "totalDirectories": 739,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 738.0,
-    "totalListings": 6911,
-    "aiEnhancedDirectories": 738
+    "avgDirectoriesPerRepo": 739.0,
+    "totalListings": 6921,
+    "aiEnhancedDirectories": 739
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9602,12 +9602,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-real-estate-appraisal-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:41:58.423651+00:00Z",
+      "lastUpdated": "2025-11-10T15:41:58.423651+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 738,
+      "directoryCount": 739,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

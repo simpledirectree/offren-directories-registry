@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:08:39.510253+00:00Z",
+  "lastUpdated": "2025-11-10T02:08:53.747408+00:00Z",
   "stats": {
-    "totalDirectories": 1714,
+    "totalDirectories": 1715,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1714.0,
-    "totalListings": 16043,
-    "aiEnhancedDirectories": 1714
+    "avgDirectoriesPerRepo": 1715.0,
+    "totalListings": 16050,
+    "aiEnhancedDirectories": 1715
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22290,12 +22290,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-skylight-installation-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:08:53.747408+00:00Z",
+      "lastUpdated": "2025-11-10T02:08:53.747408+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1714,
+      "directoryCount": 1715,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

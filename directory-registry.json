@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T08:56:51.729702+00:00Z",
+  "lastUpdated": "2025-11-10T08:57:55.248998+00:00Z",
   "stats": {
-    "totalDirectories": 264,
+    "totalDirectories": 265,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 264.0,
-    "totalListings": 2568,
-    "aiEnhancedDirectories": 264
+    "avgDirectoriesPerRepo": 265.0,
+    "totalListings": 2578,
+    "aiEnhancedDirectories": 265
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3440,12 +3440,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-corporate-djs-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:57:55.248998+00:00Z",
+      "lastUpdated": "2025-11-10T08:57:55.248998+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 264,
+      "directoryCount": 265,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

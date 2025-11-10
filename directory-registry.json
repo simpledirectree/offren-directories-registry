@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:55:07.996666+00:00Z",
+  "lastUpdated": "2025-11-10T16:55:48.498793+00:00Z",
   "stats": {
-    "totalDirectories": 837,
+    "totalDirectories": 838,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 837.0,
-    "totalListings": 7802,
-    "aiEnhancedDirectories": 837
+    "avgDirectoriesPerRepo": 838.0,
+    "totalListings": 7812,
+    "aiEnhancedDirectories": 838
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10889,12 +10889,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-medical-facility-cleaning-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:55:48.498793+00:00Z",
+      "lastUpdated": "2025-11-10T16:55:48.498793+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 837,
+      "directoryCount": 838,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:26:10.057898+00:00Z",
+  "lastUpdated": "2025-11-10T04:26:27.169247+00:00Z",
   "stats": {
-    "totalDirectories": 1963,
+    "totalDirectories": 1964,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1963.0,
-    "totalListings": 18411,
-    "aiEnhancedDirectories": 1963
+    "avgDirectoriesPerRepo": 1964.0,
+    "totalListings": 18421,
+    "aiEnhancedDirectories": 1964
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25527,12 +25527,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-hris-implementation-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:26:27.169247+00:00Z",
+      "lastUpdated": "2025-11-10T04:26:27.169247+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1963,
+      "directoryCount": 1964,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

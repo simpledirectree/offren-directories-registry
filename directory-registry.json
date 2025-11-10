@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:42:32.036112+00:00Z",
+  "lastUpdated": "2025-11-10T03:42:48.275874+00:00Z",
   "stats": {
-    "totalDirectories": 1812,
+    "totalDirectories": 1813,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1812.0,
-    "totalListings": 16962,
-    "aiEnhancedDirectories": 1812
+    "avgDirectoriesPerRepo": 1813.0,
+    "totalListings": 16972,
+    "aiEnhancedDirectories": 1813
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23564,12 +23564,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-liability-insurance-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:42:48.275874+00:00Z",
+      "lastUpdated": "2025-11-10T03:42:48.275874+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1812,
+      "directoryCount": 1813,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

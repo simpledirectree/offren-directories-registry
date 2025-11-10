@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:53:22.262624+00:00Z",
+  "lastUpdated": "2025-11-10T05:53:40.083361+00:00Z",
   "stats": {
-    "totalDirectories": 2267,
+    "totalDirectories": 2268,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2267.0,
-    "totalListings": 21377,
-    "aiEnhancedDirectories": 2267
+    "avgDirectoriesPerRepo": 2268.0,
+    "totalListings": 21387,
+    "aiEnhancedDirectories": 2268
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29479,12 +29479,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-drop-off-catering-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:53:40.083361+00:00Z",
+      "lastUpdated": "2025-11-10T05:53:40.083361+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2267,
+      "directoryCount": 2268,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

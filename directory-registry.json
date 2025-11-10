@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:06:38.033329+00:00Z",
+  "lastUpdated": "2025-11-10T13:06:54.615483+00:00Z",
   "stats": {
-    "totalDirectories": 564,
+    "totalDirectories": 565,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 564.0,
-    "totalListings": 5357,
-    "aiEnhancedDirectories": 564
+    "avgDirectoriesPerRepo": 565.0,
+    "totalListings": 5367,
+    "aiEnhancedDirectories": 565
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7340,12 +7340,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-sports-conditioning-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:06:54.615483+00:00Z",
+      "lastUpdated": "2025-11-10T13:06:54.615483+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 564,
+      "directoryCount": 565,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

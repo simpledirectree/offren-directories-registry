@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:06:58.141518+00:00Z",
+  "lastUpdated": "2025-11-10T16:07:16.589414+00:00Z",
   "stats": {
-    "totalDirectories": 774,
+    "totalDirectories": 775,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 774.0,
-    "totalListings": 7232,
-    "aiEnhancedDirectories": 774
+    "avgDirectoriesPerRepo": 775.0,
+    "totalListings": 7242,
+    "aiEnhancedDirectories": 775
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10070,12 +10070,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-senior-fitness-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:07:16.589414+00:00Z",
+      "lastUpdated": "2025-11-10T16:07:16.589414+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 774,
+      "directoryCount": 775,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

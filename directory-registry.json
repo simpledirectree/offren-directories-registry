@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:11:50.818573+00:00Z",
+  "lastUpdated": "2025-11-10T11:12:28.969650+00:00Z",
   "stats": {
-    "totalDirectories": 437,
+    "totalDirectories": 438,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 437.0,
-    "totalListings": 4189,
-    "aiEnhancedDirectories": 437
+    "avgDirectoriesPerRepo": 438.0,
+    "totalListings": 4199,
+    "aiEnhancedDirectories": 438
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5689,12 +5689,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-errand-services-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:12:28.969650+00:00Z",
+      "lastUpdated": "2025-11-10T11:12:28.969650+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 437,
+      "directoryCount": 438,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:31:29.979075+00:00Z",
+  "lastUpdated": "2025-11-10T11:32:10.741423+00:00Z",
   "stats": {
-    "totalDirectories": 464,
+    "totalDirectories": 465,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 464.0,
-    "totalListings": 4443,
-    "aiEnhancedDirectories": 464
+    "avgDirectoriesPerRepo": 465.0,
+    "totalListings": 4453,
+    "aiEnhancedDirectories": 465
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6040,12 +6040,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-keratin-treatments-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:32:10.741423+00:00Z",
+      "lastUpdated": "2025-11-10T11:32:10.741423+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 464,
+      "directoryCount": 465,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

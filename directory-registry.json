@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:29:20.648439+00:00Z",
+  "lastUpdated": "2025-11-10T13:30:01.452649+00:00Z",
   "stats": {
-    "totalDirectories": 585,
+    "totalDirectories": 586,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 585.0,
-    "totalListings": 5533,
-    "aiEnhancedDirectories": 585
+    "avgDirectoriesPerRepo": 586.0,
+    "totalListings": 5543,
+    "aiEnhancedDirectories": 586
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7613,12 +7613,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-quality-control-procedures-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:30:01.452649+00:00Z",
+      "lastUpdated": "2025-11-10T13:30:01.452649+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 585,
+      "directoryCount": 586,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

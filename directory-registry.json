@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:53:19.512269+00:00Z",
+  "lastUpdated": "2025-11-10T20:54:01.385465+00:00Z",
   "stats": {
-    "totalDirectories": 1110,
+    "totalDirectories": 1111,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1110.0,
-    "totalListings": 10347,
-    "aiEnhancedDirectories": 1110
+    "avgDirectoriesPerRepo": 1111.0,
+    "totalListings": 10357,
+    "aiEnhancedDirectories": 1111
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14438,12 +14438,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-lasik-surgery-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:54:01.385465+00:00Z",
+      "lastUpdated": "2025-11-10T20:54:01.385465+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1110,
+      "directoryCount": 1111,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

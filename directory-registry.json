@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:31:15.346139+00:00Z",
+  "lastUpdated": "2025-11-10T02:31:57.914128+00:00Z",
   "stats": {
-    "totalDirectories": 1742,
+    "totalDirectories": 1743,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1742.0,
-    "totalListings": 16311,
-    "aiEnhancedDirectories": 1742
+    "avgDirectoriesPerRepo": 1743.0,
+    "totalListings": 16321,
+    "aiEnhancedDirectories": 1743
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22654,12 +22654,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-legacy-system-modernization-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:31:57.914128+00:00Z",
+      "lastUpdated": "2025-11-10T02:31:57.914128+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1742,
+      "directoryCount": 1743,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

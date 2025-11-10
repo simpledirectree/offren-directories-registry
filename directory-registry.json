@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T08:41:55.176012+00:00Z",
+  "lastUpdated": "2025-11-10T08:42:33.759350+00:00Z",
   "stats": {
-    "totalDirectories": 250,
+    "totalDirectories": 251,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 250.0,
-    "totalListings": 2433,
-    "aiEnhancedDirectories": 250
+    "avgDirectoriesPerRepo": 251.0,
+    "totalListings": 2443,
+    "aiEnhancedDirectories": 251
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3258,12 +3258,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-test-preparation-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:42:33.759350+00:00Z",
+      "lastUpdated": "2025-11-10T08:42:33.759350+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 250,
+      "directoryCount": 251,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

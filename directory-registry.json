@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:14:52.656167+00:00Z",
+  "lastUpdated": "2025-11-10T18:15:09.115699+00:00Z",
   "stats": {
-    "totalDirectories": 926,
+    "totalDirectories": 927,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 926.0,
-    "totalListings": 8631,
-    "aiEnhancedDirectories": 926
+    "avgDirectoriesPerRepo": 927.0,
+    "totalListings": 8641,
+    "aiEnhancedDirectories": 927
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12046,12 +12046,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-caf-s-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:15:09.115699+00:00Z",
+      "lastUpdated": "2025-11-10T18:15:09.115699+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 926,
+      "directoryCount": 927,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

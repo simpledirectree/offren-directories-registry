@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:42:26.063170+00:00Z",
+  "lastUpdated": "2025-11-10T02:43:07.438457+00:00Z",
   "stats": {
-    "totalDirectories": 1756,
+    "totalDirectories": 1757,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1756.0,
-    "totalListings": 16437,
-    "aiEnhancedDirectories": 1756
+    "avgDirectoriesPerRepo": 1757.0,
+    "totalListings": 16447,
+    "aiEnhancedDirectories": 1757
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22836,12 +22836,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-venture-capital-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:43:07.438457+00:00Z",
+      "lastUpdated": "2025-11-10T02:43:07.438457+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1756,
+      "directoryCount": 1757,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

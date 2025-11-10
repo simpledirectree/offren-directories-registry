@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:14:17.111933+00:00Z",
+  "lastUpdated": "2025-11-10T09:15:25.565748+00:00Z",
   "stats": {
-    "totalDirectories": 288,
+    "totalDirectories": 289,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 288.0,
-    "totalListings": 2790,
-    "aiEnhancedDirectories": 288
+    "avgDirectoriesPerRepo": 289.0,
+    "totalListings": 2798,
+    "aiEnhancedDirectories": 289
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3752,12 +3752,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-septic-systems-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:15:25.565748+00:00Z",
+      "lastUpdated": "2025-11-10T09:15:25.565748+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 288,
+      "directoryCount": 289,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

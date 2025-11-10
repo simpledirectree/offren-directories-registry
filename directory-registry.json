@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:21:55.162596+00:00Z",
+  "lastUpdated": "2025-11-10T07:22:10.533740+00:00Z",
   "stats": {
-    "totalDirectories": 102,
+    "totalDirectories": 103,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 102.0,
-    "totalListings": 989,
-    "aiEnhancedDirectories": 102
+    "avgDirectoriesPerRepo": 103.0,
+    "totalListings": 999,
+    "aiEnhancedDirectories": 103
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1334,12 +1334,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-retail-consulting-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:22:10.533740+00:00Z",
+      "lastUpdated": "2025-11-10T07:22:10.533740+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 102,
+      "directoryCount": 103,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

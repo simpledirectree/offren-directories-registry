@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:54:25.703166+00:00Z",
+  "lastUpdated": "2025-11-10T15:55:07.494487+00:00Z",
   "stats": {
-    "totalDirectories": 760,
+    "totalDirectories": 761,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 760.0,
-    "totalListings": 7109,
-    "aiEnhancedDirectories": 760
+    "avgDirectoriesPerRepo": 761.0,
+    "totalListings": 7119,
+    "aiEnhancedDirectories": 761
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9888,12 +9888,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-essay-coaching-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:55:07.494487+00:00Z",
+      "lastUpdated": "2025-11-10T15:55:07.494487+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 760,
+      "directoryCount": 761,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

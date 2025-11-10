@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:57:55.122180+00:00Z",
+  "lastUpdated": "2025-11-10T06:58:13.249124+00:00Z",
   "stats": {
-    "totalDirectories": 15,
+    "totalDirectories": 16,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 15.0,
-    "totalListings": 150,
-    "aiEnhancedDirectories": 15
+    "avgDirectoriesPerRepo": 16.0,
+    "totalListings": 160,
+    "aiEnhancedDirectories": 16
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -203,12 +203,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-adhd-support-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:58:13.249124+00:00Z",
+      "lastUpdated": "2025-11-10T06:58:13.249124+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 15,
+      "directoryCount": 16,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

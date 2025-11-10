@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:04:47.205816+00:00Z",
+  "lastUpdated": "2025-11-10T22:05:07.621289+00:00Z",
   "stats": {
-    "totalDirectories": 1196,
+    "totalDirectories": 1197,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1196.0,
-    "totalListings": 11135,
-    "aiEnhancedDirectories": 1196
+    "avgDirectoriesPerRepo": 1197.0,
+    "totalListings": 11145,
+    "aiEnhancedDirectories": 1197
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15556,12 +15556,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-endocrinologists-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:05:07.621289+00:00Z",
+      "lastUpdated": "2025-11-10T22:05:07.621289+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1196,
+      "directoryCount": 1197,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

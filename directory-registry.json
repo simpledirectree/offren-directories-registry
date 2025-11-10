@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:16:58.963473+00:00Z",
+  "lastUpdated": "2025-11-10T19:18:05.914363+00:00Z",
   "stats": {
-    "totalDirectories": 1007,
+    "totalDirectories": 1008,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1007.0,
-    "totalListings": 9376,
-    "aiEnhancedDirectories": 1007
+    "avgDirectoriesPerRepo": 1008.0,
+    "totalListings": 9386,
+    "aiEnhancedDirectories": 1008
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13099,12 +13099,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-general-home-repairs-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:18:05.914363+00:00Z",
+      "lastUpdated": "2025-11-10T19:18:05.914363+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1007,
+      "directoryCount": 1008,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

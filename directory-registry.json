@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:22:18.659551+00:00Z",
+  "lastUpdated": "2025-11-10T15:22:34.648809+00:00Z",
   "stats": {
-    "totalDirectories": 709,
+    "totalDirectories": 710,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 709.0,
-    "totalListings": 6638,
-    "aiEnhancedDirectories": 709
+    "avgDirectoriesPerRepo": 710.0,
+    "totalListings": 6648,
+    "aiEnhancedDirectories": 710
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9225,12 +9225,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-link-building-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:22:34.648809+00:00Z",
+      "lastUpdated": "2025-11-10T15:22:34.648809+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 709,
+      "directoryCount": 710,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

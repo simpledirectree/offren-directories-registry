@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:55:07.494487+00:00Z",
+  "lastUpdated": "2025-11-10T15:58:17.507916+00:00Z",
   "stats": {
-    "totalDirectories": 761,
+    "totalDirectories": 762,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 761.0,
-    "totalListings": 7119,
-    "aiEnhancedDirectories": 761
+    "avgDirectoriesPerRepo": 762.0,
+    "totalListings": 7129,
+    "aiEnhancedDirectories": 762
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9901,12 +9901,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-act-prep-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:58:17.507916+00:00Z",
+      "lastUpdated": "2025-11-10T15:58:17.507916+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 761,
+      "directoryCount": 762,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

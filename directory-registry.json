@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:38:24.680066+00:00Z",
+  "lastUpdated": "2025-11-10T05:38:41.572983+00:00Z",
   "stats": {
-    "totalDirectories": 2214,
+    "totalDirectories": 2215,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2214.0,
-    "totalListings": 20859,
-    "aiEnhancedDirectories": 2214
+    "avgDirectoriesPerRepo": 2215.0,
+    "totalListings": 20869,
+    "aiEnhancedDirectories": 2215
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28790,12 +28790,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-debt-collection-services-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:38:41.572983+00:00Z",
+      "lastUpdated": "2025-11-10T05:38:41.572983+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2214,
+      "directoryCount": 2215,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:34:53.552625+00:00Z",
+  "lastUpdated": "2025-11-10T17:36:26.993014+00:00Z",
   "stats": {
-    "totalDirectories": 884,
+    "totalDirectories": 885,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 884.0,
-    "totalListings": 8244,
-    "aiEnhancedDirectories": 884
+    "avgDirectoriesPerRepo": 885.0,
+    "totalListings": 8254,
+    "aiEnhancedDirectories": 885
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11500,12 +11500,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-life-insurance-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:36:26.993014+00:00Z",
+      "lastUpdated": "2025-11-10T17:36:26.993014+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 884,
+      "directoryCount": 885,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

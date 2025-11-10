@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:41:26.194838+00:00Z",
+  "lastUpdated": "2025-11-10T11:42:54.633373+00:00Z",
   "stats": {
-    "totalDirectories": 474,
+    "totalDirectories": 475,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 474.0,
-    "totalListings": 4535,
-    "aiEnhancedDirectories": 474
+    "avgDirectoriesPerRepo": 475.0,
+    "totalListings": 4545,
+    "aiEnhancedDirectories": 475
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6170,12 +6170,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-homeowners-insurance-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:42:54.633373+00:00Z",
+      "lastUpdated": "2025-11-10T11:42:54.633373+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 474,
+      "directoryCount": 475,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

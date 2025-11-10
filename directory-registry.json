@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:18:46.735634+00:00Z",
+  "lastUpdated": "2025-11-10T05:19:09.477686+00:00Z",
   "stats": {
-    "totalDirectories": 2146,
+    "totalDirectories": 2147,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2146.0,
-    "totalListings": 20206,
-    "aiEnhancedDirectories": 2146
+    "avgDirectoriesPerRepo": 2147.0,
+    "totalListings": 20216,
+    "aiEnhancedDirectories": 2147
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27906,12 +27906,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-database-design-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:19:09.477686+00:00Z",
+      "lastUpdated": "2025-11-10T05:19:09.477686+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2146,
+      "directoryCount": 2147,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

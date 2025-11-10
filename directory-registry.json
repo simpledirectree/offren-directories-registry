@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:36:35.163025+00:00Z",
+  "lastUpdated": "2025-11-10T12:37:14.869898+00:00Z",
   "stats": {
-    "totalDirectories": 530,
+    "totalDirectories": 531,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 530.0,
-    "totalListings": 5044,
-    "aiEnhancedDirectories": 530
+    "avgDirectoriesPerRepo": 531.0,
+    "totalListings": 5054,
+    "aiEnhancedDirectories": 531
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6898,12 +6898,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-slate-roofing-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:37:14.869898+00:00Z",
+      "lastUpdated": "2025-11-10T12:37:14.869898+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 530,
+      "directoryCount": 531,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

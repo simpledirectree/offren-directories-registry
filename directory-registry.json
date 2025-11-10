@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:20:49.331905+00:00Z",
+  "lastUpdated": "2025-11-10T00:21:02.799654+00:00Z",
   "stats": {
-    "totalDirectories": 1586,
+    "totalDirectories": 1587,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1586.0,
-    "totalListings": 14906,
-    "aiEnhancedDirectories": 1586
+    "avgDirectoriesPerRepo": 1587.0,
+    "totalListings": 14911,
+    "aiEnhancedDirectories": 1587
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20626,12 +20626,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-workflow-optimization-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:21:02.799654+00:00Z",
+      "lastUpdated": "2025-11-10T00:21:02.799654+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1586,
+      "directoryCount": 1587,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

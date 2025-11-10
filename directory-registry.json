@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:42:43.807412+00:00Z",
+  "lastUpdated": "2025-11-10T14:43:23.491976+00:00Z",
   "stats": {
-    "totalDirectories": 672,
+    "totalDirectories": 673,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 672.0,
-    "totalListings": 6312,
-    "aiEnhancedDirectories": 672
+    "avgDirectoriesPerRepo": 673.0,
+    "totalListings": 6322,
+    "aiEnhancedDirectories": 673
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8744,12 +8744,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-medical-facility-cleaning-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:43:23.491976+00:00Z",
+      "lastUpdated": "2025-11-10T14:43:23.491976+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 672,
+      "directoryCount": 673,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

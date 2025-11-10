@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:32:24.742051+00:00Z",
+  "lastUpdated": "2025-11-10T10:32:38.481233+00:00Z",
   "stats": {
-    "totalDirectories": 387,
+    "totalDirectories": 388,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 387.0,
-    "totalListings": 3714,
-    "aiEnhancedDirectories": 387
+    "avgDirectoriesPerRepo": 388.0,
+    "totalListings": 3724,
+    "aiEnhancedDirectories": 388
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5039,12 +5039,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-trade-show-planning-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:32:38.481233+00:00Z",
+      "lastUpdated": "2025-11-10T10:32:38.481233+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 387,
+      "directoryCount": 388,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

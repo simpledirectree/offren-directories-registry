@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:25:44.293725+00:00Z",
+  "lastUpdated": "2025-11-10T09:26:48.872211+00:00Z",
   "stats": {
-    "totalDirectories": 306,
+    "totalDirectories": 307,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 306.0,
-    "totalListings": 2962,
-    "aiEnhancedDirectories": 306
+    "avgDirectoriesPerRepo": 307.0,
+    "totalListings": 2972,
+    "aiEnhancedDirectories": 307
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3986,12 +3986,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-psychology-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:26:48.872211+00:00Z",
+      "lastUpdated": "2025-11-10T09:26:48.872211+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 306,
+      "directoryCount": 307,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

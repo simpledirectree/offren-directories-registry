@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:38:12.573330+00:00Z",
+  "lastUpdated": "2025-11-10T21:38:53.964757+00:00Z",
   "stats": {
-    "totalDirectories": 1169,
+    "totalDirectories": 1170,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1169.0,
-    "totalListings": 10888,
-    "aiEnhancedDirectories": 1169
+    "avgDirectoriesPerRepo": 1170.0,
+    "totalListings": 10898,
+    "aiEnhancedDirectories": 1170
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15205,12 +15205,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-memory-care-units-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:38:53.964757+00:00Z",
+      "lastUpdated": "2025-11-10T21:38:53.964757+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1169,
+      "directoryCount": 1170,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

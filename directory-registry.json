@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:21:16.588362+00:00Z",
+  "lastUpdated": "2025-11-10T21:22:47.963056+00:00Z",
   "stats": {
-    "totalDirectories": 1150,
+    "totalDirectories": 1151,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1150.0,
-    "totalListings": 10703,
-    "aiEnhancedDirectories": 1150
+    "avgDirectoriesPerRepo": 1151.0,
+    "totalListings": 10713,
+    "aiEnhancedDirectories": 1151
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14958,12 +14958,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-breakfast-restaurants-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:22:47.963056+00:00Z",
+      "lastUpdated": "2025-11-10T21:22:47.963056+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1150,
+      "directoryCount": 1151,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

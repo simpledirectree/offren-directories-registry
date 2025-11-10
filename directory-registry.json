@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:07:41.714068+00:00Z",
+  "lastUpdated": "2025-11-10T20:07:56.396420+00:00Z",
   "stats": {
-    "totalDirectories": 1058,
+    "totalDirectories": 1059,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1058.0,
-    "totalListings": 9848,
-    "aiEnhancedDirectories": 1058
+    "avgDirectoriesPerRepo": 1059.0,
+    "totalListings": 9858,
+    "aiEnhancedDirectories": 1059
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13762,12 +13762,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-wrestling-classes-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:07:56.396420+00:00Z",
+      "lastUpdated": "2025-11-10T20:07:56.396420+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1058,
+      "directoryCount": 1059,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:52:51.157792+00:00Z",
+  "lastUpdated": "2025-11-10T05:53:06.684721+00:00Z",
   "stats": {
-    "totalDirectories": 2265,
+    "totalDirectories": 2266,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2265.0,
-    "totalListings": 21357,
-    "aiEnhancedDirectories": 2265
+    "avgDirectoriesPerRepo": 2266.0,
+    "totalListings": 21367,
+    "aiEnhancedDirectories": 2266
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29453,12 +29453,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-skin-tightening-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:53:06.684721+00:00Z",
+      "lastUpdated": "2025-11-10T05:53:06.684721+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2265,
+      "directoryCount": 2266,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

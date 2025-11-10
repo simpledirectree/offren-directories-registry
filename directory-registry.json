@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:12:57.769053+00:00Z",
+  "lastUpdated": "2025-11-10T07:13:11.819714+00:00Z",
   "stats": {
-    "totalDirectories": 69,
+    "totalDirectories": 70,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 69.0,
-    "totalListings": 673,
-    "aiEnhancedDirectories": 69
+    "avgDirectoriesPerRepo": 70.0,
+    "totalListings": 683,
+    "aiEnhancedDirectories": 70
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -905,12 +905,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-illusionists-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:13:11.819714+00:00Z",
+      "lastUpdated": "2025-11-10T07:13:11.819714+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 69,
+      "directoryCount": 70,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

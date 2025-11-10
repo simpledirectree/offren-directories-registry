@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:52:00.077865+00:00Z",
+  "lastUpdated": "2025-11-10T05:52:17.368677+00:00Z",
   "stats": {
-    "totalDirectories": 2262,
+    "totalDirectories": 2263,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2262.0,
-    "totalListings": 21327,
-    "aiEnhancedDirectories": 2262
+    "avgDirectoriesPerRepo": 2263.0,
+    "totalListings": 21337,
+    "aiEnhancedDirectories": 2263
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29414,12 +29414,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-auto-insurance-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:52:17.368677+00:00Z",
+      "lastUpdated": "2025-11-10T05:52:17.368677+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2262,
+      "directoryCount": 2263,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

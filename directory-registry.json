@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:35:25.974549+00:00Z",
+  "lastUpdated": "2025-11-10T16:35:42.284508+00:00Z",
   "stats": {
-    "totalDirectories": 812,
+    "totalDirectories": 813,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 812.0,
-    "totalListings": 7579,
-    "aiEnhancedDirectories": 812
+    "avgDirectoriesPerRepo": 813.0,
+    "totalListings": 7589,
+    "aiEnhancedDirectories": 813
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10564,12 +10564,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-temporary-staffing-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:35:42.284508+00:00Z",
+      "lastUpdated": "2025-11-10T16:35:42.284508+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 812,
+      "directoryCount": 813,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

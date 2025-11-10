@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:05:44.067963+00:00Z",
+  "lastUpdated": "2025-11-10T06:06:00.747900+00:00Z",
   "stats": {
-    "totalDirectories": 2307,
+    "totalDirectories": 2308,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2307.0,
-    "totalListings": 21768,
-    "aiEnhancedDirectories": 2307
+    "avgDirectoriesPerRepo": 2308.0,
+    "totalListings": 21778,
+    "aiEnhancedDirectories": 2308
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29999,12 +29999,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-brand-positioning-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:06:00.747900+00:00Z",
+      "lastUpdated": "2025-11-10T06:06:00.747900+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2307,
+      "directoryCount": 2308,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

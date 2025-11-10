@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:17:26.218137+00:00Z",
+  "lastUpdated": "2025-11-10T04:17:41.502281+00:00Z",
   "stats": {
-    "totalDirectories": 1933,
+    "totalDirectories": 1934,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1933.0,
-    "totalListings": 18127,
-    "aiEnhancedDirectories": 1933
+    "avgDirectoriesPerRepo": 1934.0,
+    "totalListings": 18137,
+    "aiEnhancedDirectories": 1934
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25137,12 +25137,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-cosmetic-dentistry-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:17:41.502281+00:00Z",
+      "lastUpdated": "2025-11-10T04:17:41.502281+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1933,
+      "directoryCount": 1934,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

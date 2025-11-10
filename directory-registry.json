@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:16:08.297074+00:00Z",
+  "lastUpdated": "2025-11-10T05:16:28.390705+00:00Z",
   "stats": {
-    "totalDirectories": 2137,
+    "totalDirectories": 2138,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2137.0,
-    "totalListings": 20116,
-    "aiEnhancedDirectories": 2137
+    "avgDirectoriesPerRepo": 2138.0,
+    "totalListings": 20126,
+    "aiEnhancedDirectories": 2138
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27789,12 +27789,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-machine-learning-development-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:16:28.390705+00:00Z",
+      "lastUpdated": "2025-11-10T05:16:28.390705+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2137,
+      "directoryCount": 2138,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

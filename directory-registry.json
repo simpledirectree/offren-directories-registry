@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:41:10.203126+00:00Z",
+  "lastUpdated": "2025-11-10T10:41:26.003372+00:00Z",
   "stats": {
-    "totalDirectories": 402,
+    "totalDirectories": 403,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 402.0,
-    "totalListings": 3861,
-    "aiEnhancedDirectories": 402
+    "avgDirectoriesPerRepo": 403.0,
+    "totalListings": 3871,
+    "aiEnhancedDirectories": 403
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5234,12 +5234,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-eyelash-extensions-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:41:26.003372+00:00Z",
+      "lastUpdated": "2025-11-10T10:41:26.003372+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 402,
+      "directoryCount": 403,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

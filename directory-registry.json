@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:29:18.760992+00:00Z",
+  "lastUpdated": "2025-11-10T15:29:57.253255+00:00Z",
   "stats": {
-    "totalDirectories": 719,
+    "totalDirectories": 720,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 719.0,
-    "totalListings": 6733,
-    "aiEnhancedDirectories": 719
+    "avgDirectoriesPerRepo": 720.0,
+    "totalListings": 6738,
+    "aiEnhancedDirectories": 720
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9355,12 +9355,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-meeting-space-rentals-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:29:57.253255+00:00Z",
+      "lastUpdated": "2025-11-10T15:29:57.253255+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 719,
+      "directoryCount": 720,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

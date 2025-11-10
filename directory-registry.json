@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:31:57.914128+00:00Z",
+  "lastUpdated": "2025-11-10T02:35:58.388942+00:00Z",
   "stats": {
-    "totalDirectories": 1743,
+    "totalDirectories": 1744,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1743.0,
-    "totalListings": 16321,
-    "aiEnhancedDirectories": 1743
+    "avgDirectoriesPerRepo": 1744.0,
+    "totalListings": 16331,
+    "aiEnhancedDirectories": 1744
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22667,12 +22667,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-foundation-repair-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:35:58.388942+00:00Z",
+      "lastUpdated": "2025-11-10T02:35:58.388942+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1743,
+      "directoryCount": 1744,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

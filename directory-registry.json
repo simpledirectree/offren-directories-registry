@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:36:48.296825+00:00Z",
+  "lastUpdated": "2025-11-10T05:37:03.544104+00:00Z",
   "stats": {
-    "totalDirectories": 2208,
+    "totalDirectories": 2209,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2208.0,
-    "totalListings": 20799,
-    "aiEnhancedDirectories": 2208
+    "avgDirectoriesPerRepo": 2209.0,
+    "totalListings": 20809,
+    "aiEnhancedDirectories": 2209
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28712,12 +28712,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-mobile-workspaces-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:37:03.544104+00:00Z",
+      "lastUpdated": "2025-11-10T05:37:03.544104+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2208,
+      "directoryCount": 2209,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

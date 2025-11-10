@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:38:27.789414+00:00Z",
+  "lastUpdated": "2025-11-10T04:38:43.487195+00:00Z",
   "stats": {
-    "totalDirectories": 2007,
+    "totalDirectories": 2008,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2007.0,
-    "totalListings": 18851,
-    "aiEnhancedDirectories": 2007
+    "avgDirectoriesPerRepo": 2008.0,
+    "totalListings": 18861,
+    "aiEnhancedDirectories": 2008
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26099,12 +26099,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-brand-development-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:38:43.487195+00:00Z",
+      "lastUpdated": "2025-11-10T04:38:43.487195+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2007,
+      "directoryCount": 2008,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

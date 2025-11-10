@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:11:31.529468+00:00Z",
+  "lastUpdated": "2025-11-10T20:12:39.501080+00:00Z",
   "stats": {
-    "totalDirectories": 1063,
+    "totalDirectories": 1064,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1063.0,
-    "totalListings": 9897,
-    "aiEnhancedDirectories": 1063
+    "avgDirectoriesPerRepo": 1064.0,
+    "totalListings": 9907,
+    "aiEnhancedDirectories": 1064
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13827,12 +13827,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-bathroom-design-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:12:39.501080+00:00Z",
+      "lastUpdated": "2025-11-10T20:12:39.501080+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1063,
+      "directoryCount": 1064,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

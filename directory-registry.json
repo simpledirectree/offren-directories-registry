@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:44:30.046337+00:00Z",
+  "lastUpdated": "2025-11-10T18:44:46.778205+00:00Z",
   "stats": {
-    "totalDirectories": 966,
+    "totalDirectories": 967,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 966.0,
-    "totalListings": 9012,
-    "aiEnhancedDirectories": 966
+    "avgDirectoriesPerRepo": 967.0,
+    "totalListings": 9022,
+    "aiEnhancedDirectories": 967
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12566,12 +12566,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-tax-controversy-resolution-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:44:46.778205+00:00Z",
+      "lastUpdated": "2025-11-10T18:44:46.778205+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 966,
+      "directoryCount": 967,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

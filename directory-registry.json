@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:35:54.182107+00:00Z",
+  "lastUpdated": "2025-11-10T12:36:35.163025+00:00Z",
   "stats": {
-    "totalDirectories": 529,
+    "totalDirectories": 530,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 529.0,
-    "totalListings": 5034,
-    "aiEnhancedDirectories": 529
+    "avgDirectoriesPerRepo": 530.0,
+    "totalListings": 5044,
+    "aiEnhancedDirectories": 530
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6885,12 +6885,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-karate-classes-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:36:35.163025+00:00Z",
+      "lastUpdated": "2025-11-10T12:36:35.163025+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 529,
+      "directoryCount": 530,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

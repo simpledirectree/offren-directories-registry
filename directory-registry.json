@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:06:45.543755+00:00Z",
+  "lastUpdated": "2025-11-10T07:07:03.355785+00:00Z",
   "stats": {
-    "totalDirectories": 47,
+    "totalDirectories": 48,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 47.0,
-    "totalListings": 458,
-    "aiEnhancedDirectories": 47
+    "avgDirectoriesPerRepo": 48.0,
+    "totalListings": 468,
+    "aiEnhancedDirectories": 48
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -619,12 +619,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-android-development-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:07:03.355785+00:00Z",
+      "lastUpdated": "2025-11-10T07:07:03.355785+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 47,
+      "directoryCount": 48,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

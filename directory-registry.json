@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:44:46.185229+00:00Z",
+  "lastUpdated": "2025-11-10T17:45:02.030124+00:00Z",
   "stats": {
-    "totalDirectories": 890,
+    "totalDirectories": 891,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 890.0,
-    "totalListings": 8304,
-    "aiEnhancedDirectories": 890
+    "avgDirectoriesPerRepo": 891.0,
+    "totalListings": 8314,
+    "aiEnhancedDirectories": 891
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11578,12 +11578,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-media-relations-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:45:02.030124+00:00Z",
+      "lastUpdated": "2025-11-10T17:45:02.030124+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 890,
+      "directoryCount": 891,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

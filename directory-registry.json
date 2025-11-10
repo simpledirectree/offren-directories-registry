@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:39:42.070994+00:00Z",
+  "lastUpdated": "2025-11-10T04:39:57.046804+00:00Z",
   "stats": {
-    "totalDirectories": 2011,
+    "totalDirectories": 2012,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2011.0,
-    "totalListings": 18891,
-    "aiEnhancedDirectories": 2011
+    "avgDirectoriesPerRepo": 2012.0,
+    "totalListings": 18901,
+    "aiEnhancedDirectories": 2012
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26151,12 +26151,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-irrigation-system-installation-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:39:57.046804+00:00Z",
+      "lastUpdated": "2025-11-10T04:39:57.046804+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2011,
+      "directoryCount": 2012,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

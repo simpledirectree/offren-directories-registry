@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:45:02.030124+00:00Z",
+  "lastUpdated": "2025-11-10T17:47:05.586654+00:00Z",
   "stats": {
-    "totalDirectories": 891,
+    "totalDirectories": 892,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 891.0,
-    "totalListings": 8314,
-    "aiEnhancedDirectories": 891
+    "avgDirectoriesPerRepo": 892.0,
+    "totalListings": 8324,
+    "aiEnhancedDirectories": 892
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11591,12 +11591,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-bikram-yoga-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:47:05.586654+00:00Z",
+      "lastUpdated": "2025-11-10T17:47:05.586654+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 891,
+      "directoryCount": 892,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

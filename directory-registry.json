@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:51:40.315570+00:00Z",
+  "lastUpdated": "2025-11-10T17:51:55.594008+00:00Z",
   "stats": {
-    "totalDirectories": 897,
+    "totalDirectories": 898,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 897.0,
-    "totalListings": 8374,
-    "aiEnhancedDirectories": 897
+    "avgDirectoriesPerRepo": 898.0,
+    "totalListings": 8384,
+    "aiEnhancedDirectories": 898
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11669,12 +11669,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-soil-testing-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:51:55.594008+00:00Z",
+      "lastUpdated": "2025-11-10T17:51:55.594008+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 897,
+      "directoryCount": 898,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

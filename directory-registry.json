@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:59:35.215375+00:00Z",
+  "lastUpdated": "2025-11-10T11:01:04.715802+00:00Z",
   "stats": {
-    "totalDirectories": 420,
+    "totalDirectories": 421,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 420.0,
-    "totalListings": 4041,
-    "aiEnhancedDirectories": 420
+    "avgDirectoriesPerRepo": 421.0,
+    "totalListings": 4051,
+    "aiEnhancedDirectories": 421
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5468,12 +5468,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-social-celebration-planning-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:01:04.715802+00:00Z",
+      "lastUpdated": "2025-11-10T11:01:04.715802+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 420,
+      "directoryCount": 421,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

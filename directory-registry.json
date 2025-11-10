@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:56:50.257370+00:00Z",
+  "lastUpdated": "2025-11-10T03:57:05.803504+00:00Z",
   "stats": {
-    "totalDirectories": 1861,
+    "totalDirectories": 1862,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1861.0,
-    "totalListings": 17429,
-    "aiEnhancedDirectories": 1861
+    "avgDirectoriesPerRepo": 1862.0,
+    "totalListings": 17439,
+    "aiEnhancedDirectories": 1862
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24201,12 +24201,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-mobile-locksmith-services-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:57:05.803504+00:00Z",
+      "lastUpdated": "2025-11-10T03:57:05.803504+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1861,
+      "directoryCount": 1862,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

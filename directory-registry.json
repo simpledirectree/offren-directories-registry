@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:23:15.572361+00:00Z",
+  "lastUpdated": "2025-11-10T14:24:43.958031+00:00Z",
   "stats": {
-    "totalDirectories": 650,
+    "totalDirectories": 651,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 650.0,
-    "totalListings": 6108,
-    "aiEnhancedDirectories": 650
+    "avgDirectoriesPerRepo": 651.0,
+    "totalListings": 6113,
+    "aiEnhancedDirectories": 651
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8458,12 +8458,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-home-inspection-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:24:43.958031+00:00Z",
+      "lastUpdated": "2025-11-10T14:24:43.958031+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 650,
+      "directoryCount": 651,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

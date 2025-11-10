@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:45:07.139248+00:00Z",
+  "lastUpdated": "2025-11-10T07:45:24.676671+00:00Z",
   "stats": {
-    "totalDirectories": 183,
+    "totalDirectories": 184,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 183.0,
-    "totalListings": 1782,
-    "aiEnhancedDirectories": 183
+    "avgDirectoriesPerRepo": 184.0,
+    "totalListings": 1792,
+    "aiEnhancedDirectories": 184
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2387,12 +2387,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-drainage-solutions-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:45:24.676671+00:00Z",
+      "lastUpdated": "2025-11-10T07:45:24.676671+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 183,
+      "directoryCount": 184,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:18:38.600525+00:00Z",
+  "lastUpdated": "2025-11-10T01:21:23.200310+00:00Z",
   "stats": {
-    "totalDirectories": 1650,
+    "totalDirectories": 1651,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1650.0,
-    "totalListings": 15468,
-    "aiEnhancedDirectories": 1650
+    "avgDirectoriesPerRepo": 1651.0,
+    "totalListings": 15478,
+    "aiEnhancedDirectories": 1651
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21458,12 +21458,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-design-system-creation-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:21:23.200310+00:00Z",
+      "lastUpdated": "2025-11-10T01:21:23.200310+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1650,
+      "directoryCount": 1651,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

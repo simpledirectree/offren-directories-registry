@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:22:24.760558+00:00Z",
+  "lastUpdated": "2025-11-10T07:22:41.491270+00:00Z",
   "stats": {
-    "totalDirectories": 104,
+    "totalDirectories": 105,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 104.0,
-    "totalListings": 1009,
-    "aiEnhancedDirectories": 104
+    "avgDirectoriesPerRepo": 105.0,
+    "totalListings": 1019,
+    "aiEnhancedDirectories": 105
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1360,12 +1360,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-drain-cleaning-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:22:41.491270+00:00Z",
+      "lastUpdated": "2025-11-10T07:22:41.491270+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 104,
+      "directoryCount": 105,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

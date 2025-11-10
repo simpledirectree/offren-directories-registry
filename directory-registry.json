@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:55:48.498793+00:00Z",
+  "lastUpdated": "2025-11-10T16:56:25.886617+00:00Z",
   "stats": {
-    "totalDirectories": 838,
+    "totalDirectories": 839,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 838.0,
-    "totalListings": 7812,
-    "aiEnhancedDirectories": 838
+    "avgDirectoriesPerRepo": 839.0,
+    "totalListings": 7813,
+    "aiEnhancedDirectories": 839
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10902,12 +10902,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-customer-service-process-development-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:56:25.886617+00:00Z",
+      "lastUpdated": "2025-11-10T16:56:25.886617+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 838,
+      "directoryCount": 839,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

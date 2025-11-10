@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:14:07.324536+00:00Z",
+  "lastUpdated": "2025-11-10T16:15:43.671457+00:00Z",
   "stats": {
-    "totalDirectories": 785,
+    "totalDirectories": 786,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 785.0,
-    "totalListings": 7332,
-    "aiEnhancedDirectories": 785
+    "avgDirectoriesPerRepo": 786.0,
+    "totalListings": 7342,
+    "aiEnhancedDirectories": 786
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10213,12 +10213,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-eyebrow-tinting-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:15:43.671457+00:00Z",
+      "lastUpdated": "2025-11-10T16:15:43.671457+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 785,
+      "directoryCount": 786,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:38:51.248656+00:00Z",
+  "lastUpdated": "2025-11-10T07:39:09.060091+00:00Z",
   "stats": {
-    "totalDirectories": 161,
+    "totalDirectories": 162,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 161.0,
-    "totalListings": 1566,
-    "aiEnhancedDirectories": 161
+    "avgDirectoriesPerRepo": 162.0,
+    "totalListings": 1576,
+    "aiEnhancedDirectories": 162
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2101,12 +2101,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-vendor-sourcing-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:39:09.060091+00:00Z",
+      "lastUpdated": "2025-11-10T07:39:09.060091+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 161,
+      "directoryCount": 162,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:31:35.680565+00:00Z",
+  "lastUpdated": "2025-11-10T18:32:46.326758+00:00Z",
   "stats": {
-    "totalDirectories": 947,
+    "totalDirectories": 948,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 947.0,
-    "totalListings": 8824,
-    "aiEnhancedDirectories": 947
+    "avgDirectoriesPerRepo": 948.0,
+    "totalListings": 8834,
+    "aiEnhancedDirectories": 948
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12319,12 +12319,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-master-data-management-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:32:46.326758+00:00Z",
+      "lastUpdated": "2025-11-10T18:32:46.326758+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 947,
+      "directoryCount": 948,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

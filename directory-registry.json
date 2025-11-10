@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:43:32.084044+00:00Z",
+  "lastUpdated": "2025-11-10T15:44:13.158099+00:00Z",
   "stats": {
-    "totalDirectories": 740,
+    "totalDirectories": 741,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 740.0,
-    "totalListings": 6926,
-    "aiEnhancedDirectories": 740
+    "avgDirectoriesPerRepo": 741.0,
+    "totalListings": 6931,
+    "aiEnhancedDirectories": 741
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9628,12 +9628,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-aerial-yoga-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:44:13.158099+00:00Z",
+      "lastUpdated": "2025-11-10T15:44:13.158099+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 740,
+      "directoryCount": 741,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

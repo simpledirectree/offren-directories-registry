@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:29:11.599476+00:00Z",
+  "lastUpdated": "2025-11-10T11:29:27.619300+00:00Z",
   "stats": {
-    "totalDirectories": 460,
+    "totalDirectories": 461,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 460.0,
-    "totalListings": 4405,
-    "aiEnhancedDirectories": 460
+    "avgDirectoriesPerRepo": 461.0,
+    "totalListings": 4413,
+    "aiEnhancedDirectories": 461
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5988,12 +5988,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-reiki-practitioner-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:29:27.619300+00:00Z",
+      "lastUpdated": "2025-11-10T11:29:27.619300+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 460,
+      "directoryCount": 461,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

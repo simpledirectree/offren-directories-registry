@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:36:49.759969+00:00Z",
+  "lastUpdated": "2025-11-10T11:37:30.566345+00:00Z",
   "stats": {
-    "totalDirectories": 470,
+    "totalDirectories": 471,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 470.0,
-    "totalListings": 4495,
-    "aiEnhancedDirectories": 470
+    "avgDirectoriesPerRepo": 471.0,
+    "totalListings": 4505,
+    "aiEnhancedDirectories": 471
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6118,12 +6118,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-industry-specific-compliance-consulting-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:37:30.566345+00:00Z",
+      "lastUpdated": "2025-11-10T11:37:30.566345+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 470,
+      "directoryCount": 471,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

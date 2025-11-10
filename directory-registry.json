@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:53:02.521926+00:00Z",
+  "lastUpdated": "2025-11-10T03:53:22.775851+00:00Z",
   "stats": {
-    "totalDirectories": 1848,
+    "totalDirectories": 1849,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1848.0,
-    "totalListings": 17299,
-    "aiEnhancedDirectories": 1848
+    "avgDirectoriesPerRepo": 1849.0,
+    "totalListings": 17309,
+    "aiEnhancedDirectories": 1849
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24032,12 +24032,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-ccpa-compliance-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:53:22.775851+00:00Z",
+      "lastUpdated": "2025-11-10T03:53:22.775851+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1848,
+      "directoryCount": 1849,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

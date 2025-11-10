@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:24:55.170835+00:00Z",
+  "lastUpdated": "2025-11-10T04:25:13.752969+00:00Z",
   "stats": {
-    "totalDirectories": 1959,
+    "totalDirectories": 1960,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1959.0,
-    "totalListings": 18371,
-    "aiEnhancedDirectories": 1959
+    "avgDirectoriesPerRepo": 1960.0,
+    "totalListings": 18381,
+    "aiEnhancedDirectories": 1960
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25475,12 +25475,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-invoice-processing-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:25:13.752969+00:00Z",
+      "lastUpdated": "2025-11-10T04:25:13.752969+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1959,
+      "directoryCount": 1960,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:40:39.328752+00:00Z",
+  "lastUpdated": "2025-11-10T22:42:10.390061+00:00Z",
   "stats": {
-    "totalDirectories": 1244,
+    "totalDirectories": 1245,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1244.0,
-    "totalListings": 11570,
-    "aiEnhancedDirectories": 1244
+    "avgDirectoriesPerRepo": 1245.0,
+    "totalListings": 11580,
+    "aiEnhancedDirectories": 1245
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16180,12 +16180,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-bed-liner-installation-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:42:10.390061+00:00Z",
+      "lastUpdated": "2025-11-10T22:42:10.390061+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1244,
+      "directoryCount": 1245,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

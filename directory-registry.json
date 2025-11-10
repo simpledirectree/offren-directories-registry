@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:39:55.773099+00:00Z",
+  "lastUpdated": "2025-11-10T06:40:14.280211+00:00Z",
   "stats": {
-    "totalDirectories": 2426,
+    "totalDirectories": 2427,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2426.0,
-    "totalListings": 22913,
-    "aiEnhancedDirectories": 2426
+    "avgDirectoriesPerRepo": 2427.0,
+    "totalListings": 22923,
+    "aiEnhancedDirectories": 2427
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31546,12 +31546,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-invoice-processing-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:40:14.280211+00:00Z",
+      "lastUpdated": "2025-11-10T06:40:14.280211+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2426,
+      "directoryCount": 2427,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

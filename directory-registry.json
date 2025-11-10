@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:00:53.027256+00:00Z",
+  "lastUpdated": "2025-11-10T19:02:47.844487+00:00Z",
   "stats": {
-    "totalDirectories": 991,
+    "totalDirectories": 992,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 991.0,
-    "totalListings": 9226,
-    "aiEnhancedDirectories": 991
+    "avgDirectoriesPerRepo": 992.0,
+    "totalListings": 9236,
+    "aiEnhancedDirectories": 992
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12891,12 +12891,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-workflow-optimization-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:02:47.844487+00:00Z",
+      "lastUpdated": "2025-11-10T19:02:47.844487+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 991,
+      "directoryCount": 992,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

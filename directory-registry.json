@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:21:12.465798+00:00Z",
+  "lastUpdated": "2025-11-10T20:23:58.362106+00:00Z",
   "stats": {
-    "totalDirectories": 1073,
+    "totalDirectories": 1074,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1073.0,
-    "totalListings": 9982,
-    "aiEnhancedDirectories": 1073
+    "avgDirectoriesPerRepo": 1074.0,
+    "totalListings": 9992,
+    "aiEnhancedDirectories": 1074
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13957,12 +13957,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-desktop-support-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:23:58.362106+00:00Z",
+      "lastUpdated": "2025-11-10T20:23:58.362106+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1073,
+      "directoryCount": 1074,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

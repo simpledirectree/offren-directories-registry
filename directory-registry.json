@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T23:12:59.156610+00:00Z",
+  "lastUpdated": "2025-11-10T23:15:38.286228+00:00Z",
   "stats": {
-    "totalDirectories": 1269,
+    "totalDirectories": 1270,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1269.0,
-    "totalListings": 11811,
-    "aiEnhancedDirectories": 1269
+    "avgDirectoriesPerRepo": 1270.0,
+    "totalListings": 11821,
+    "aiEnhancedDirectories": 1270
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16505,12 +16505,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-baling-services-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T23:15:38.286228+00:00Z",
+      "lastUpdated": "2025-11-10T23:15:38.286228+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1269,
+      "directoryCount": 1270,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

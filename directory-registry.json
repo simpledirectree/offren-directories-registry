@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:26:41.563824+00:00Z",
+  "lastUpdated": "2025-11-10T04:26:56.900250+00:00Z",
   "stats": {
-    "totalDirectories": 1965,
+    "totalDirectories": 1966,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1965.0,
-    "totalListings": 18431,
-    "aiEnhancedDirectories": 1965
+    "avgDirectoriesPerRepo": 1966.0,
+    "totalListings": 18441,
+    "aiEnhancedDirectories": 1966
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25553,12 +25553,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-writing-tutoring-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:26:56.900250+00:00Z",
+      "lastUpdated": "2025-11-10T04:26:56.900250+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1965,
+      "directoryCount": 1966,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

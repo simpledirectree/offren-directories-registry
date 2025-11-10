@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:41:04.374700+00:00Z",
+  "lastUpdated": "2025-11-10T01:41:19.106005+00:00Z",
   "stats": {
-    "totalDirectories": 1678,
+    "totalDirectories": 1679,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1678.0,
-    "totalListings": 15713,
-    "aiEnhancedDirectories": 1678
+    "avgDirectoriesPerRepo": 1679.0,
+    "totalListings": 15723,
+    "aiEnhancedDirectories": 1679
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21822,12 +21822,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-garden-tool-maintenance-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:41:19.106005+00:00Z",
+      "lastUpdated": "2025-11-10T01:41:19.106005+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1678,
+      "directoryCount": 1679,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

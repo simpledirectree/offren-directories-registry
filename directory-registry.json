@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T23:19:22.605119+00:00Z",
+  "lastUpdated": "2025-11-10T23:19:39.256400+00:00Z",
   "stats": {
-    "totalDirectories": 1273,
+    "totalDirectories": 1274,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1273.0,
-    "totalListings": 11851,
-    "aiEnhancedDirectories": 1273
+    "avgDirectoriesPerRepo": 1274.0,
+    "totalListings": 11861,
+    "aiEnhancedDirectories": 1274
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16557,12 +16557,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-window-repair-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T23:19:39.256400+00:00Z",
+      "lastUpdated": "2025-11-10T23:19:39.256400+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1273,
+      "directoryCount": 1274,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

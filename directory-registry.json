@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:47:50.635366+00:00Z",
+  "lastUpdated": "2025-11-10T07:48:08.370176+00:00Z",
   "stats": {
-    "totalDirectories": 192,
+    "totalDirectories": 193,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 192.0,
-    "totalListings": 1872,
-    "aiEnhancedDirectories": 192
+    "avgDirectoriesPerRepo": 193.0,
+    "totalListings": 1882,
+    "aiEnhancedDirectories": 193
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2504,12 +2504,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-learning-management-systems-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:48:08.370176+00:00Z",
+      "lastUpdated": "2025-11-10T07:48:08.370176+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 192,
+      "directoryCount": 193,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

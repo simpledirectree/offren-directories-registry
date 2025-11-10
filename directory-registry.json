@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:38:01.065394+00:00Z",
+  "lastUpdated": "2025-11-10T13:39:06.763020+00:00Z",
   "stats": {
-    "totalDirectories": 595,
+    "totalDirectories": 596,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 595.0,
-    "totalListings": 5615,
-    "aiEnhancedDirectories": 595
+    "avgDirectoriesPerRepo": 596.0,
+    "totalListings": 5625,
+    "aiEnhancedDirectories": 596
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7743,12 +7743,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-vendor-agreement-review-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:39:06.763020+00:00Z",
+      "lastUpdated": "2025-11-10T13:39:06.763020+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 595,
+      "directoryCount": 596,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

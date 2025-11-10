@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:25:00.193098+00:00Z",
+  "lastUpdated": "2025-11-10T14:26:51.324055+00:00Z",
   "stats": {
-    "totalDirectories": 652,
+    "totalDirectories": 653,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 652.0,
-    "totalListings": 6123,
-    "aiEnhancedDirectories": 652
+    "avgDirectoriesPerRepo": 653.0,
+    "totalListings": 6133,
+    "aiEnhancedDirectories": 653
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8484,12 +8484,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-personal-chefs-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:26:51.324055+00:00Z",
+      "lastUpdated": "2025-11-10T14:26:51.324055+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 652,
+      "directoryCount": 653,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

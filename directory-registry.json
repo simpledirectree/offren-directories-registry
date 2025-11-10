@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:00:31.989580+00:00Z",
+  "lastUpdated": "2025-11-10T04:00:50.463404+00:00Z",
   "stats": {
-    "totalDirectories": 1874,
+    "totalDirectories": 1875,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1874.0,
-    "totalListings": 17559,
-    "aiEnhancedDirectories": 1874
+    "avgDirectoriesPerRepo": 1875.0,
+    "totalListings": 17569,
+    "aiEnhancedDirectories": 1875
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24370,12 +24370,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-seasonal-garden-cleanup-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:00:50.463404+00:00Z",
+      "lastUpdated": "2025-11-10T04:00:50.463404+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1874,
+      "directoryCount": 1875,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

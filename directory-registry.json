@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:55:07.605957+00:00Z",
+  "lastUpdated": "2025-11-10T01:55:20.974228+00:00Z",
   "stats": {
-    "totalDirectories": 1694,
+    "totalDirectories": 1695,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1694.0,
-    "totalListings": 15865,
-    "aiEnhancedDirectories": 1694
+    "avgDirectoriesPerRepo": 1695.0,
+    "totalListings": 15868,
+    "aiEnhancedDirectories": 1695
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22030,12 +22030,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-cognitive-behavioral-therapy-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:55:20.974228+00:00Z",
+      "lastUpdated": "2025-11-10T01:55:20.974228+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1694,
+      "directoryCount": 1695,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:15:20.514963+00:00Z",
+  "lastUpdated": "2025-11-10T12:15:59.200008+00:00Z",
   "stats": {
-    "totalDirectories": 507,
+    "totalDirectories": 508,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 507.0,
-    "totalListings": 4823,
-    "aiEnhancedDirectories": 507
+    "avgDirectoriesPerRepo": 508.0,
+    "totalListings": 4833,
+    "aiEnhancedDirectories": 508
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6599,12 +6599,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-technical-writing-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:15:59.200008+00:00Z",
+      "lastUpdated": "2025-11-10T12:15:59.200008+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 507,
+      "directoryCount": 508,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

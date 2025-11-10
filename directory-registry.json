@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:10:21.172372+00:00Z",
+  "lastUpdated": "2025-11-10T00:11:22.907884+00:00Z",
   "stats": {
-    "totalDirectories": 1572,
+    "totalDirectories": 1573,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1572.0,
-    "totalListings": 14778,
-    "aiEnhancedDirectories": 1572
+    "avgDirectoriesPerRepo": 1573.0,
+    "totalListings": 14788,
+    "aiEnhancedDirectories": 1573
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20444,12 +20444,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-trademark-registration-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:11:22.907884+00:00Z",
+      "lastUpdated": "2025-11-10T00:11:22.907884+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1572,
+      "directoryCount": 1573,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

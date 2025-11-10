@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:05:04.699571+00:00Z",
+  "lastUpdated": "2025-11-10T07:05:19.216241+00:00Z",
   "stats": {
-    "totalDirectories": 41,
+    "totalDirectories": 42,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 41.0,
-    "totalListings": 398,
-    "aiEnhancedDirectories": 41
+    "avgDirectoriesPerRepo": 42.0,
+    "totalListings": 408,
+    "aiEnhancedDirectories": 42
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -541,12 +541,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-google-ads-management-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:05:19.216241+00:00Z",
+      "lastUpdated": "2025-11-10T07:05:19.216241+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 41,
+      "directoryCount": 42,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

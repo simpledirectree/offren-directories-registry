@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:55:29.400640+00:00Z",
+  "lastUpdated": "2025-11-10T05:55:55.672622+00:00Z",
   "stats": {
-    "totalDirectories": 2274,
+    "totalDirectories": 2275,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2274.0,
-    "totalListings": 21447,
-    "aiEnhancedDirectories": 2274
+    "avgDirectoriesPerRepo": 2275.0,
+    "totalListings": 21457,
+    "aiEnhancedDirectories": 2275
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29570,12 +29570,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-daycare-centers-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:55:55.672622+00:00Z",
+      "lastUpdated": "2025-11-10T05:55:55.672622+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2274,
+      "directoryCount": 2275,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

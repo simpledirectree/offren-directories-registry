@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:20:04.693468+00:00Z",
+  "lastUpdated": "2025-11-10T07:20:22.826645+00:00Z",
   "stats": {
-    "totalDirectories": 95,
+    "totalDirectories": 96,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 95.0,
-    "totalListings": 919,
-    "aiEnhancedDirectories": 95
+    "avgDirectoriesPerRepo": 96.0,
+    "totalListings": 929,
+    "aiEnhancedDirectories": 96
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1243,12 +1243,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-personal-chef-services-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:20:22.826645+00:00Z",
+      "lastUpdated": "2025-11-10T07:20:22.826645+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 95,
+      "directoryCount": 96,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:23:30.342345+00:00Z",
+  "lastUpdated": "2025-11-10T09:23:46.292688+00:00Z",
   "stats": {
-    "totalDirectories": 302,
+    "totalDirectories": 303,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 302.0,
-    "totalListings": 2922,
-    "aiEnhancedDirectories": 302
+    "avgDirectoriesPerRepo": 303.0,
+    "totalListings": 2932,
+    "aiEnhancedDirectories": 303
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3934,12 +3934,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-body-contouring-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:23:46.292688+00:00Z",
+      "lastUpdated": "2025-11-10T09:23:46.292688+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 302,
+      "directoryCount": 303,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

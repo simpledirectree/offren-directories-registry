@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:57:34.187509+00:00Z",
+  "lastUpdated": "2025-11-10T16:59:28.754283+00:00Z",
   "stats": {
-    "totalDirectories": 840,
+    "totalDirectories": 841,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 840.0,
-    "totalListings": 7823,
-    "aiEnhancedDirectories": 840
+    "avgDirectoriesPerRepo": 841.0,
+    "totalListings": 7833,
+    "aiEnhancedDirectories": 841
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10928,12 +10928,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-financial-aid-consulting-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:59:28.754283+00:00Z",
+      "lastUpdated": "2025-11-10T16:59:28.754283+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 840,
+      "directoryCount": 841,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

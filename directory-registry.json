@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:47:36.472189+00:00Z",
+  "lastUpdated": "2025-11-10T13:47:51.914036+00:00Z",
   "stats": {
-    "totalDirectories": 606,
+    "totalDirectories": 607,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 606.0,
-    "totalListings": 5718,
-    "aiEnhancedDirectories": 606
+    "avgDirectoriesPerRepo": 607.0,
+    "totalListings": 5728,
+    "aiEnhancedDirectories": 607
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7886,12 +7886,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-landsacpe-edging-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:47:51.914036+00:00Z",
+      "lastUpdated": "2025-11-10T13:47:51.914036+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 606,
+      "directoryCount": 607,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

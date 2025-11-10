@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:37:10.615722+00:00Z",
+  "lastUpdated": "2025-11-10T17:37:54.684280+00:00Z",
   "stats": {
-    "totalDirectories": 886,
+    "totalDirectories": 887,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 886.0,
-    "totalListings": 8264,
-    "aiEnhancedDirectories": 886
+    "avgDirectoriesPerRepo": 887.0,
+    "totalListings": 8274,
+    "aiEnhancedDirectories": 887
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11526,12 +11526,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-commercial-driver-training-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:37:54.684280+00:00Z",
+      "lastUpdated": "2025-11-10T17:37:54.684280+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 886,
+      "directoryCount": 887,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

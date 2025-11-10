@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:52:06.549190+00:00Z",
+  "lastUpdated": "2025-11-10T00:53:16.091093+00:00Z",
   "stats": {
-    "totalDirectories": 1621,
+    "totalDirectories": 1622,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1621.0,
-    "totalListings": 15211,
-    "aiEnhancedDirectories": 1621
+    "avgDirectoriesPerRepo": 1622.0,
+    "totalListings": 15221,
+    "aiEnhancedDirectories": 1622
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21081,12 +21081,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-document-preparation-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:53:16.091093+00:00Z",
+      "lastUpdated": "2025-11-10T00:53:16.091093+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1621,
+      "directoryCount": 1622,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

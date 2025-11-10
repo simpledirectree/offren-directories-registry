@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:06:22.529574+00:00Z",
+  "lastUpdated": "2025-11-10T22:06:37.331878+00:00Z",
   "stats": {
-    "totalDirectories": 1200,
+    "totalDirectories": 1201,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1200.0,
-    "totalListings": 11175,
-    "aiEnhancedDirectories": 1200
+    "avgDirectoriesPerRepo": 1201.0,
+    "totalListings": 11184,
+    "aiEnhancedDirectories": 1201
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15608,12 +15608,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-medical-facility-cleaning-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:06:37.331878+00:00Z",
+      "lastUpdated": "2025-11-10T22:06:37.331878+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1200,
+      "directoryCount": 1201,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:05:37.157294+00:00Z",
+  "lastUpdated": "2025-11-10T21:06:43.494031+00:00Z",
   "stats": {
-    "totalDirectories": 1128,
+    "totalDirectories": 1129,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1128.0,
-    "totalListings": 10519,
-    "aiEnhancedDirectories": 1128
+    "avgDirectoriesPerRepo": 1129.0,
+    "totalListings": 10529,
+    "aiEnhancedDirectories": 1129
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14672,12 +14672,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-due-diligence-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:06:43.494031+00:00Z",
+      "lastUpdated": "2025-11-10T21:06:43.494031+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1128,
+      "directoryCount": 1129,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

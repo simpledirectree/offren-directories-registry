@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:24:19.331744+00:00Z",
+  "lastUpdated": "2025-11-10T21:25:25.925863+00:00Z",
   "stats": {
-    "totalDirectories": 1155,
+    "totalDirectories": 1156,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1155.0,
-    "totalListings": 10753,
-    "aiEnhancedDirectories": 1155
+    "avgDirectoriesPerRepo": 1156.0,
+    "totalListings": 10763,
+    "aiEnhancedDirectories": 1156
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15023,12 +15023,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-functional-medicine-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:25:25.925863+00:00Z",
+      "lastUpdated": "2025-11-10T21:25:25.925863+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1155,
+      "directoryCount": 1156,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

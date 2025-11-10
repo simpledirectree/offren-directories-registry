@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:01:04.797828+00:00Z",
+  "lastUpdated": "2025-11-10T20:04:17.661925+00:00Z",
   "stats": {
-    "totalDirectories": 1051,
+    "totalDirectories": 1052,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1051.0,
-    "totalListings": 9783,
-    "aiEnhancedDirectories": 1051
+    "avgDirectoriesPerRepo": 1052.0,
+    "totalListings": 9793,
+    "aiEnhancedDirectories": 1052
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13671,12 +13671,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-paleo-meal-prep-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:04:17.661925+00:00Z",
+      "lastUpdated": "2025-11-10T20:04:17.661925+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1051,
+      "directoryCount": 1052,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

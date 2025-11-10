@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:56:00.879589+00:00Z",
+  "lastUpdated": "2025-11-10T09:56:39.398217+00:00Z",
   "stats": {
-    "totalDirectories": 343,
+    "totalDirectories": 344,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 343.0,
-    "totalListings": 3305,
-    "aiEnhancedDirectories": 343
+    "avgDirectoriesPerRepo": 344.0,
+    "totalListings": 3315,
+    "aiEnhancedDirectories": 344
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4467,12 +4467,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-valuation-services-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:56:39.398217+00:00Z",
+      "lastUpdated": "2025-11-10T09:56:39.398217+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 343,
+      "directoryCount": 344,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:06:43.494031+00:00Z",
+  "lastUpdated": "2025-11-10T21:07:25.093407+00:00Z",
   "stats": {
-    "totalDirectories": 1129,
+    "totalDirectories": 1130,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1129.0,
-    "totalListings": 10529,
-    "aiEnhancedDirectories": 1129
+    "avgDirectoriesPerRepo": 1130.0,
+    "totalListings": 10539,
+    "aiEnhancedDirectories": 1130
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14685,12 +14685,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-corporate-catering-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:07:25.093407+00:00Z",
+      "lastUpdated": "2025-11-10T21:07:25.093407+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1129,
+      "directoryCount": 1130,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

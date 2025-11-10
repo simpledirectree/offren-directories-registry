@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:27:26.522518+00:00Z",
+  "lastUpdated": "2025-11-10T07:27:41.901626+00:00Z",
   "stats": {
-    "totalDirectories": 122,
+    "totalDirectories": 123,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 122.0,
-    "totalListings": 1179,
-    "aiEnhancedDirectories": 122
+    "avgDirectoriesPerRepo": 123.0,
+    "totalListings": 1189,
+    "aiEnhancedDirectories": 123
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1594,12 +1594,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-moving-insurance-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:27:41.901626+00:00Z",
+      "lastUpdated": "2025-11-10T07:27:41.901626+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 122,
+      "directoryCount": 123,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

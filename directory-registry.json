@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:16:52.111516+00:00Z",
+  "lastUpdated": "2025-11-10T04:17:10.602099+00:00Z",
   "stats": {
-    "totalDirectories": 1931,
+    "totalDirectories": 1932,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1931.0,
-    "totalListings": 18107,
-    "aiEnhancedDirectories": 1931
+    "avgDirectoriesPerRepo": 1932.0,
+    "totalListings": 18117,
+    "aiEnhancedDirectories": 1932
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25111,12 +25111,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-safety-program-development-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:17:10.602099+00:00Z",
+      "lastUpdated": "2025-11-10T04:17:10.602099+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1931,
+      "directoryCount": 1932,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

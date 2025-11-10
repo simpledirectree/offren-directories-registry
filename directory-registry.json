@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:56:29.671253+00:00Z",
+  "lastUpdated": "2025-11-10T04:56:44.258773+00:00Z",
   "stats": {
-    "totalDirectories": 2071,
+    "totalDirectories": 2072,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2071.0,
-    "totalListings": 19471,
-    "aiEnhancedDirectories": 2071
+    "avgDirectoriesPerRepo": 2072.0,
+    "totalListings": 19481,
+    "aiEnhancedDirectories": 2072
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26931,12 +26931,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-keyword-research-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:56:44.258773+00:00Z",
+      "lastUpdated": "2025-11-10T04:56:44.258773+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2071,
+      "directoryCount": 2072,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

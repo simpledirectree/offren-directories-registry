@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:31:52.939248+00:00Z",
+  "lastUpdated": "2025-11-10T06:32:08.786941+00:00Z",
   "stats": {
-    "totalDirectories": 2398,
+    "totalDirectories": 2399,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2398.0,
-    "totalListings": 22642,
-    "aiEnhancedDirectories": 2398
+    "avgDirectoriesPerRepo": 2399.0,
+    "totalListings": 22648,
+    "aiEnhancedDirectories": 2399
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31182,12 +31182,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-car-wash-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:32:08.786941+00:00Z",
+      "lastUpdated": "2025-11-10T06:32:08.786941+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2398,
+      "directoryCount": 2399,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

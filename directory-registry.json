@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:51:35.760769+00:00Z",
+  "lastUpdated": "2025-11-10T04:51:52.652653+00:00Z",
   "stats": {
-    "totalDirectories": 2054,
+    "totalDirectories": 2055,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2054.0,
-    "totalListings": 19301,
-    "aiEnhancedDirectories": 2054
+    "avgDirectoriesPerRepo": 2055.0,
+    "totalListings": 19311,
+    "aiEnhancedDirectories": 2055
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26710,12 +26710,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-college-tutoring-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:51:52.652653+00:00Z",
+      "lastUpdated": "2025-11-10T04:51:52.652653+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2054,
+      "directoryCount": 2055,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

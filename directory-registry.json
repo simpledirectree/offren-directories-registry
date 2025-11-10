@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:31:58.060281+00:00Z",
+  "lastUpdated": "2025-11-10T07:32:15.840887+00:00Z",
   "stats": {
-    "totalDirectories": 137,
+    "totalDirectories": 138,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 137.0,
-    "totalListings": 1326,
-    "aiEnhancedDirectories": 137
+    "avgDirectoriesPerRepo": 138.0,
+    "totalListings": 1336,
+    "aiEnhancedDirectories": 138
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1789,12 +1789,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-athletic-conditioning-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:32:15.840887+00:00Z",
+      "lastUpdated": "2025-11-10T07:32:15.840887+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 137,
+      "directoryCount": 138,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

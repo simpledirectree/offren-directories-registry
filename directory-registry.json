@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:33:54.164716+00:00Z",
+  "lastUpdated": "2025-11-10T04:34:08.275933+00:00Z",
   "stats": {
-    "totalDirectories": 1991,
+    "totalDirectories": 1992,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1991.0,
-    "totalListings": 18691,
-    "aiEnhancedDirectories": 1991
+    "avgDirectoriesPerRepo": 1992.0,
+    "totalListings": 18701,
+    "aiEnhancedDirectories": 1992
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25891,12 +25891,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-magicians-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:34:08.275933+00:00Z",
+      "lastUpdated": "2025-11-10T04:34:08.275933+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1991,
+      "directoryCount": 1992,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:34:02.698724+00:00Z",
+  "lastUpdated": "2025-11-10T16:34:18.480920+00:00Z",
   "stats": {
-    "totalDirectories": 810,
+    "totalDirectories": 811,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 810.0,
-    "totalListings": 7560,
-    "aiEnhancedDirectories": 810
+    "avgDirectoriesPerRepo": 811.0,
+    "totalListings": 7570,
+    "aiEnhancedDirectories": 811
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10538,12 +10538,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-credit-analysis-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:34:18.480920+00:00Z",
+      "lastUpdated": "2025-11-10T16:34:18.480920+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 810,
+      "directoryCount": 811,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

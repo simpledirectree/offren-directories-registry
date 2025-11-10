@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:41:42.092772+00:00Z",
+  "lastUpdated": "2025-11-10T02:41:57.793979+00:00Z",
   "stats": {
-    "totalDirectories": 1753,
+    "totalDirectories": 1754,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1753.0,
-    "totalListings": 16416,
-    "aiEnhancedDirectories": 1753
+    "avgDirectoriesPerRepo": 1754.0,
+    "totalListings": 16426,
+    "aiEnhancedDirectories": 1754
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22797,12 +22797,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-grief-counseling-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:41:57.793979+00:00Z",
+      "lastUpdated": "2025-11-10T02:41:57.793979+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1753,
+      "directoryCount": 1754,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:36:46.280055+00:00Z",
+  "lastUpdated": "2025-11-10T04:37:01.597706+00:00Z",
   "stats": {
-    "totalDirectories": 2001,
+    "totalDirectories": 2002,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2001.0,
-    "totalListings": 18791,
-    "aiEnhancedDirectories": 2001
+    "avgDirectoriesPerRepo": 2002.0,
+    "totalListings": 18801,
+    "aiEnhancedDirectories": 2002
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26021,12 +26021,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-environmental-compliance-consulting-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:37:01.597706+00:00Z",
+      "lastUpdated": "2025-11-10T04:37:01.597706+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2001,
+      "directoryCount": 2002,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

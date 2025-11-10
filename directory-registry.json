@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:17:35.531449+00:00Z",
+  "lastUpdated": "2025-11-10T20:18:42.129680+00:00Z",
   "stats": {
-    "totalDirectories": 1071,
+    "totalDirectories": 1072,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1071.0,
-    "totalListings": 9962,
-    "aiEnhancedDirectories": 1071
+    "avgDirectoriesPerRepo": 1072.0,
+    "totalListings": 9972,
+    "aiEnhancedDirectories": 1072
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13931,12 +13931,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-piano-moving-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:18:42.129680+00:00Z",
+      "lastUpdated": "2025-11-10T20:18:42.129680+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1071,
+      "directoryCount": 1072,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

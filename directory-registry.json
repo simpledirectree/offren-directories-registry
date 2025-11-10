@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:44:44.261622+00:00Z",
+  "lastUpdated": "2025-11-10T04:45:00.138798+00:00Z",
   "stats": {
-    "totalDirectories": 2029,
+    "totalDirectories": 2030,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2029.0,
-    "totalListings": 19066,
-    "aiEnhancedDirectories": 2029
+    "avgDirectoriesPerRepo": 2030.0,
+    "totalListings": 19076,
+    "aiEnhancedDirectories": 2030
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26385,12 +26385,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-barre-classes-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:45:00.138798+00:00Z",
+      "lastUpdated": "2025-11-10T04:45:00.138798+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2029,
+      "directoryCount": 2030,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

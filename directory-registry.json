@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:08:02.830133+00:00Z",
+  "lastUpdated": "2025-11-10T22:08:21.997258+00:00Z",
   "stats": {
-    "totalDirectories": 1203,
+    "totalDirectories": 1204,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1203.0,
-    "totalListings": 11204,
-    "aiEnhancedDirectories": 1203
+    "avgDirectoriesPerRepo": 1204.0,
+    "totalListings": 11214,
+    "aiEnhancedDirectories": 1204
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15647,12 +15647,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-technical-writing-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:08:21.997258+00:00Z",
+      "lastUpdated": "2025-11-10T22:08:21.997258+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1203,
+      "directoryCount": 1204,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

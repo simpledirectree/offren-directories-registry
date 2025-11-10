@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:28:10.773016+00:00Z",
+  "lastUpdated": "2025-11-10T07:28:29.713457+00:00Z",
   "stats": {
-    "totalDirectories": 124,
+    "totalDirectories": 125,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 124.0,
-    "totalListings": 1199,
-    "aiEnhancedDirectories": 124
+    "avgDirectoriesPerRepo": 125.0,
+    "totalListings": 1209,
+    "aiEnhancedDirectories": 125
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1620,12 +1620,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-node-js-development-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:28:29.713457+00:00Z",
+      "lastUpdated": "2025-11-10T07:28:29.713457+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 124,
+      "directoryCount": 125,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

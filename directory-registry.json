@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:40:52.771058+00:00Z",
+  "lastUpdated": "2025-11-10T12:41:32.094290+00:00Z",
   "stats": {
-    "totalDirectories": 535,
+    "totalDirectories": 536,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 535.0,
-    "totalListings": 5094,
-    "aiEnhancedDirectories": 535
+    "avgDirectoriesPerRepo": 536.0,
+    "totalListings": 5100,
+    "aiEnhancedDirectories": 536
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6963,12 +6963,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-forensic-accounting-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:41:32.094290+00:00Z",
+      "lastUpdated": "2025-11-10T12:41:32.094290+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 535,
+      "directoryCount": 536,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

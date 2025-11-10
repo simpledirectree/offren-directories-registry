@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:02:16.956529+00:00Z",
+  "lastUpdated": "2025-11-10T04:02:33.514034+00:00Z",
   "stats": {
-    "totalDirectories": 1880,
+    "totalDirectories": 1881,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1880.0,
-    "totalListings": 17614,
-    "aiEnhancedDirectories": 1880
+    "avgDirectoriesPerRepo": 1881.0,
+    "totalListings": 17624,
+    "aiEnhancedDirectories": 1881
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24448,12 +24448,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-collision-repair-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:02:33.514034+00:00Z",
+      "lastUpdated": "2025-11-10T04:02:33.514034+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1880,
+      "directoryCount": 1881,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

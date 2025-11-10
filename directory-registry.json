@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:59:39.397661+00:00Z",
+  "lastUpdated": "2025-11-10T18:59:55.264904+00:00Z",
   "stats": {
-    "totalDirectories": 988,
+    "totalDirectories": 989,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 988.0,
-    "totalListings": 9198,
-    "aiEnhancedDirectories": 988
+    "avgDirectoriesPerRepo": 989.0,
+    "totalListings": 9208,
+    "aiEnhancedDirectories": 989
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12852,12 +12852,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-crm-development-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:59:55.264904+00:00Z",
+      "lastUpdated": "2025-11-10T18:59:55.264904+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 988,
+      "directoryCount": 989,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

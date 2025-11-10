@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:00:02.231246+00:00Z",
+  "lastUpdated": "2025-11-10T03:01:32.191803+00:00Z",
   "stats": {
-    "totalDirectories": 1771,
+    "totalDirectories": 1772,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1771.0,
-    "totalListings": 16573,
-    "aiEnhancedDirectories": 1771
+    "avgDirectoriesPerRepo": 1772.0,
+    "totalListings": 16583,
+    "aiEnhancedDirectories": 1772
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23031,12 +23031,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-botox-injections-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:01:32.191803+00:00Z",
+      "lastUpdated": "2025-11-10T03:01:32.191803+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1771,
+      "directoryCount": 1772,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

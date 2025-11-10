@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:17:44.498154+00:00Z",
+  "lastUpdated": "2025-11-10T13:19:55.330762+00:00Z",
   "stats": {
-    "totalDirectories": 576,
+    "totalDirectories": 577,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 576.0,
-    "totalListings": 5455,
-    "aiEnhancedDirectories": 576
+    "avgDirectoriesPerRepo": 577.0,
+    "totalListings": 5465,
+    "aiEnhancedDirectories": 577
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7496,12 +7496,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-coaching-services-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:19:55.330762+00:00Z",
+      "lastUpdated": "2025-11-10T13:19:55.330762+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 576,
+      "directoryCount": 577,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

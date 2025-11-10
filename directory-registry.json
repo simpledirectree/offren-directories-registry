@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:12:28.969650+00:00Z",
+  "lastUpdated": "2025-11-10T11:13:31.073021+00:00Z",
   "stats": {
-    "totalDirectories": 438,
+    "totalDirectories": 439,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 438.0,
-    "totalListings": 4199,
-    "aiEnhancedDirectories": 438
+    "avgDirectoriesPerRepo": 439.0,
+    "totalListings": 4204,
+    "aiEnhancedDirectories": 439
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5702,12 +5702,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-cosmetic-surgery-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:13:31.073021+00:00Z",
+      "lastUpdated": "2025-11-10T11:13:31.073021+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 438,
+      "directoryCount": 439,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:50:05.177373+00:00Z",
+  "lastUpdated": "2025-11-10T20:50:21.722373+00:00Z",
   "stats": {
-    "totalDirectories": 1101,
+    "totalDirectories": 1102,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1101.0,
-    "totalListings": 10257,
-    "aiEnhancedDirectories": 1101
+    "avgDirectoriesPerRepo": 1102.0,
+    "totalListings": 10267,
+    "aiEnhancedDirectories": 1102
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14321,12 +14321,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-psychiatry-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:50:21.722373+00:00Z",
+      "lastUpdated": "2025-11-10T20:50:21.722373+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1101,
+      "directoryCount": 1102,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

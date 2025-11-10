@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:03:14.380257+00:00Z",
+  "lastUpdated": "2025-11-10T01:04:48.551519+00:00Z",
   "stats": {
-    "totalDirectories": 1635,
+    "totalDirectories": 1636,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1635.0,
-    "totalListings": 15343,
-    "aiEnhancedDirectories": 1635
+    "avgDirectoriesPerRepo": 1636.0,
+    "totalListings": 15349,
+    "aiEnhancedDirectories": 1636
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21263,12 +21263,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-tire-rotation-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:04:48.551519+00:00Z",
+      "lastUpdated": "2025-11-10T01:04:48.551519+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1635,
+      "directoryCount": 1636,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

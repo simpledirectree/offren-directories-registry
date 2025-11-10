@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:28:29.747214+00:00Z",
+  "lastUpdated": "2025-11-10T03:30:27.597221+00:00Z",
   "stats": {
-    "totalDirectories": 1798,
+    "totalDirectories": 1799,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1798.0,
-    "totalListings": 16827,
-    "aiEnhancedDirectories": 1798
+    "avgDirectoriesPerRepo": 1799.0,
+    "totalListings": 16832,
+    "aiEnhancedDirectories": 1799
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23382,12 +23382,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-mail-forwarding-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:30:27.597221+00:00Z",
+      "lastUpdated": "2025-11-10T03:30:27.597221+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1798,
+      "directoryCount": 1799,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

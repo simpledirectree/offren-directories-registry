@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:48:20.081504+00:00Z",
+  "lastUpdated": "2025-11-10T05:48:38.251280+00:00Z",
   "stats": {
-    "totalDirectories": 2249,
+    "totalDirectories": 2250,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2249.0,
-    "totalListings": 21199,
-    "aiEnhancedDirectories": 2249
+    "avgDirectoriesPerRepo": 2250.0,
+    "totalListings": 21209,
+    "aiEnhancedDirectories": 2250
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29245,12 +29245,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-computer-vision-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:48:38.251280+00:00Z",
+      "lastUpdated": "2025-11-10T05:48:38.251280+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2249,
+      "directoryCount": 2250,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

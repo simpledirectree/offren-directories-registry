@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:24:59.456934+00:00Z",
+  "lastUpdated": "2025-11-10T11:25:14.277128+00:00Z",
   "stats": {
-    "totalDirectories": 455,
+    "totalDirectories": 456,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 455.0,
-    "totalListings": 4355,
-    "aiEnhancedDirectories": 455
+    "avgDirectoriesPerRepo": 456.0,
+    "totalListings": 4365,
+    "aiEnhancedDirectories": 456
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5923,12 +5923,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-geriatric-care-management-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:25:14.277128+00:00Z",
+      "lastUpdated": "2025-11-10T11:25:14.277128+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 455,
+      "directoryCount": 456,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

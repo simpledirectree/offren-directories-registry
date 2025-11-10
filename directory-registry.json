@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:49:20.110169+00:00Z",
+  "lastUpdated": "2025-11-10T15:49:57.923546+00:00Z",
   "stats": {
-    "totalDirectories": 749,
+    "totalDirectories": 750,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 749.0,
-    "totalListings": 7004,
-    "aiEnhancedDirectories": 749
+    "avgDirectoriesPerRepo": 750.0,
+    "totalListings": 7014,
+    "aiEnhancedDirectories": 750
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9745,12 +9745,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-functional-fitness-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:49:57.923546+00:00Z",
+      "lastUpdated": "2025-11-10T15:49:57.923546+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 749,
+      "directoryCount": 750,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

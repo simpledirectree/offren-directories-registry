@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:15:55.187154+00:00Z",
+  "lastUpdated": "2025-11-10T05:16:08.297074+00:00Z",
   "stats": {
-    "totalDirectories": 2136,
+    "totalDirectories": 2137,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2136.0,
-    "totalListings": 20106,
-    "aiEnhancedDirectories": 2136
+    "avgDirectoriesPerRepo": 2137.0,
+    "totalListings": 20116,
+    "aiEnhancedDirectories": 2137
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27776,12 +27776,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-ghost-kitchen-delivery-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:16:08.297074+00:00Z",
+      "lastUpdated": "2025-11-10T05:16:08.297074+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2136,
+      "directoryCount": 2137,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

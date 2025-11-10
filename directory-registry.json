@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:05:34.554773+00:00Z",
+  "lastUpdated": "2025-11-10T07:05:52.677532+00:00Z",
   "stats": {
-    "totalDirectories": 43,
+    "totalDirectories": 44,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 43.0,
-    "totalListings": 418,
-    "aiEnhancedDirectories": 43
+    "avgDirectoriesPerRepo": 44.0,
+    "totalListings": 428,
+    "aiEnhancedDirectories": 44
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -567,12 +567,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-led-therapy-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:05:52.677532+00:00Z",
+      "lastUpdated": "2025-11-10T07:05:52.677532+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 43,
+      "directoryCount": 44,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

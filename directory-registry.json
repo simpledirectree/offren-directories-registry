@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:44:27.533892+00:00Z",
+  "lastUpdated": "2025-11-10T00:45:22.314236+00:00Z",
   "stats": {
-    "totalDirectories": 1615,
+    "totalDirectories": 1616,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1615.0,
-    "totalListings": 15157,
-    "aiEnhancedDirectories": 1615
+    "avgDirectoriesPerRepo": 1616.0,
+    "totalListings": 15167,
+    "aiEnhancedDirectories": 1616
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21003,12 +21003,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-crystal-healing-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:45:22.314236+00:00Z",
+      "lastUpdated": "2025-11-10T00:45:22.314236+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1615,
+      "directoryCount": 1616,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

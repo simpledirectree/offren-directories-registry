@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:17:21.357838+00:00Z",
+  "lastUpdated": "2025-11-10T07:17:39.018668+00:00Z",
   "stats": {
-    "totalDirectories": 85,
+    "totalDirectories": 86,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 85.0,
-    "totalListings": 819,
-    "aiEnhancedDirectories": 85
+    "avgDirectoriesPerRepo": 86.0,
+    "totalListings": 829,
+    "aiEnhancedDirectories": 86
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1113,12 +1113,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-plumbing-repair-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:17:39.018668+00:00Z",
+      "lastUpdated": "2025-11-10T07:17:39.018668+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 85,
+      "directoryCount": 86,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

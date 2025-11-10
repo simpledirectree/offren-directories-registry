@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:47:03.513898+00:00Z",
+  "lastUpdated": "2025-11-10T05:47:21.564577+00:00Z",
   "stats": {
-    "totalDirectories": 2245,
+    "totalDirectories": 2246,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2245.0,
-    "totalListings": 21159,
-    "aiEnhancedDirectories": 2245
+    "avgDirectoriesPerRepo": 2246.0,
+    "totalListings": 21169,
+    "aiEnhancedDirectories": 2246
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29193,12 +29193,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-payroll-administration-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:47:21.564577+00:00Z",
+      "lastUpdated": "2025-11-10T05:47:21.564577+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2245,
+      "directoryCount": 2246,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:20:18.195175+00:00Z",
+  "lastUpdated": "2025-11-10T05:20:37.784669+00:00Z",
   "stats": {
-    "totalDirectories": 2151,
+    "totalDirectories": 2152,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2151.0,
-    "totalListings": 20256,
-    "aiEnhancedDirectories": 2151
+    "avgDirectoriesPerRepo": 2152.0,
+    "totalListings": 20266,
+    "aiEnhancedDirectories": 2152
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27971,12 +27971,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-laptop-repair-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:20:37.784669+00:00Z",
+      "lastUpdated": "2025-11-10T05:20:37.784669+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2151,
+      "directoryCount": 2152,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

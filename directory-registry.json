@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:53:54.708096+00:00Z",
+  "lastUpdated": "2025-11-10T07:55:21.954978+00:00Z",
   "stats": {
-    "totalDirectories": 204,
+    "totalDirectories": 205,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 204.0,
-    "totalListings": 1992,
-    "aiEnhancedDirectories": 204
+    "avgDirectoriesPerRepo": 205.0,
+    "totalListings": 2000,
+    "aiEnhancedDirectories": 205
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2660,12 +2660,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-reconstructive-surgery-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:55:21.954978+00:00Z",
+      "lastUpdated": "2025-11-10T07:55:21.954978+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 204,
+      "directoryCount": 205,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

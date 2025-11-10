@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:27:24.130587+00:00Z",
+  "lastUpdated": "2025-11-10T05:27:42.599804+00:00Z",
   "stats": {
-    "totalDirectories": 2176,
+    "totalDirectories": 2177,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2176.0,
-    "totalListings": 20506,
-    "aiEnhancedDirectories": 2176
+    "avgDirectoriesPerRepo": 2177.0,
+    "totalListings": 20516,
+    "aiEnhancedDirectories": 2177
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28296,12 +28296,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-voice-lessons-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:27:42.599804+00:00Z",
+      "lastUpdated": "2025-11-10T05:27:42.599804+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2176,
+      "directoryCount": 2177,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:38:10.871506+00:00Z",
+  "lastUpdated": "2025-11-10T06:38:27.877740+00:00Z",
   "stats": {
-    "totalDirectories": 2420,
+    "totalDirectories": 2421,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2420.0,
-    "totalListings": 22853,
-    "aiEnhancedDirectories": 2420
+    "avgDirectoriesPerRepo": 2421.0,
+    "totalListings": 22863,
+    "aiEnhancedDirectories": 2421
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31468,12 +31468,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-craft-services-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:38:27.877740+00:00Z",
+      "lastUpdated": "2025-11-10T06:38:27.877740+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2420,
+      "directoryCount": 2421,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

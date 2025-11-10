@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:35:41.555881+00:00Z",
+  "lastUpdated": "2025-11-10T07:35:59.027746+00:00Z",
   "stats": {
-    "totalDirectories": 150,
+    "totalDirectories": 151,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 150.0,
-    "totalListings": 1456,
-    "aiEnhancedDirectories": 150
+    "avgDirectoriesPerRepo": 151.0,
+    "totalListings": 1466,
+    "aiEnhancedDirectories": 151
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1958,12 +1958,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-educational-app-development-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:35:59.027746+00:00Z",
+      "lastUpdated": "2025-11-10T07:35:59.027746+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 150,
+      "directoryCount": 151,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

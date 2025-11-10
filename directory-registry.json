@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:40:09.590070+00:00Z",
+  "lastUpdated": "2025-11-10T16:40:49.402943+00:00Z",
   "stats": {
-    "totalDirectories": 817,
+    "totalDirectories": 818,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 817.0,
-    "totalListings": 7626,
-    "aiEnhancedDirectories": 817
+    "avgDirectoriesPerRepo": 818.0,
+    "totalListings": 7630,
+    "aiEnhancedDirectories": 818
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10629,12 +10629,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-seo-consultants-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:40:49.402943+00:00Z",
+      "lastUpdated": "2025-11-10T16:40:49.402943+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 817,
+      "directoryCount": 818,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

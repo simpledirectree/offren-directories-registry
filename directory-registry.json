@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:01:32.191803+00:00Z",
+  "lastUpdated": "2025-11-10T03:02:39.169898+00:00Z",
   "stats": {
-    "totalDirectories": 1772,
+    "totalDirectories": 1773,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1772.0,
-    "totalListings": 16583,
-    "aiEnhancedDirectories": 1772
+    "avgDirectoriesPerRepo": 1773.0,
+    "totalListings": 16593,
+    "aiEnhancedDirectories": 1773
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23044,12 +23044,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-crop-planning-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:02:39.169898+00:00Z",
+      "lastUpdated": "2025-11-10T03:02:39.169898+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1772,
+      "directoryCount": 1773,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

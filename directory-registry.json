@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:35:25.232433+00:00Z",
+  "lastUpdated": "2025-11-10T05:35:41.156870+00:00Z",
   "stats": {
-    "totalDirectories": 2203,
+    "totalDirectories": 2204,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2203.0,
-    "totalListings": 20749,
-    "aiEnhancedDirectories": 2203
+    "avgDirectoriesPerRepo": 2204.0,
+    "totalListings": 20759,
+    "aiEnhancedDirectories": 2204
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28647,12 +28647,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-meditation-instruction-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:35:41.156870+00:00Z",
+      "lastUpdated": "2025-11-10T05:35:41.156870+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2203,
+      "directoryCount": 2204,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

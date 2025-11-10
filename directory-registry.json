@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:22:42.582523+00:00Z",
+  "lastUpdated": "2025-11-10T00:22:58.044244+00:00Z",
   "stats": {
-    "totalDirectories": 1589,
+    "totalDirectories": 1590,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1589.0,
-    "totalListings": 14917,
-    "aiEnhancedDirectories": 1589
+    "avgDirectoriesPerRepo": 1590.0,
+    "totalListings": 14927,
+    "aiEnhancedDirectories": 1590
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20665,12 +20665,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-rose-care-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:22:58.044244+00:00Z",
+      "lastUpdated": "2025-11-10T00:22:58.044244+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1589,
+      "directoryCount": 1590,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

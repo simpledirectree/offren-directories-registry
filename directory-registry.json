@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:26:48.230926+00:00Z",
+  "lastUpdated": "2025-11-10T05:27:06.366897+00:00Z",
   "stats": {
-    "totalDirectories": 2174,
+    "totalDirectories": 2175,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2174.0,
-    "totalListings": 20486,
-    "aiEnhancedDirectories": 2174
+    "avgDirectoriesPerRepo": 2175.0,
+    "totalListings": 20496,
+    "aiEnhancedDirectories": 2175
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28270,12 +28270,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-usability-testing-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:27:06.366897+00:00Z",
+      "lastUpdated": "2025-11-10T05:27:06.366897+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2174,
+      "directoryCount": 2175,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:32:10.741423+00:00Z",
+  "lastUpdated": "2025-11-10T11:32:25.505840+00:00Z",
   "stats": {
-    "totalDirectories": 465,
+    "totalDirectories": 466,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 465.0,
-    "totalListings": 4453,
-    "aiEnhancedDirectories": 465
+    "avgDirectoriesPerRepo": 466.0,
+    "totalListings": 4460,
+    "aiEnhancedDirectories": 466
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6053,12 +6053,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-corporate-law-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:32:25.505840+00:00Z",
+      "lastUpdated": "2025-11-10T11:32:25.505840+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 465,
+      "directoryCount": 466,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

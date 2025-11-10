@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T08:23:21.836172+00:00Z",
+  "lastUpdated": "2025-11-10T08:24:02.845134+00:00Z",
   "stats": {
-    "totalDirectories": 237,
+    "totalDirectories": 238,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 237.0,
-    "totalListings": 2310,
-    "aiEnhancedDirectories": 237
+    "avgDirectoriesPerRepo": 238.0,
+    "totalListings": 2318,
+    "aiEnhancedDirectories": 238
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3089,12 +3089,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-project-management-services-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:24:02.845134+00:00Z",
+      "lastUpdated": "2025-11-10T08:24:02.845134+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 237,
+      "directoryCount": 238,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

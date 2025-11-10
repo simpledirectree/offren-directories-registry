@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:44:05.538415+00:00Z",
+  "lastUpdated": "2025-11-10T12:45:10.982160+00:00Z",
   "stats": {
-    "totalDirectories": 541,
+    "totalDirectories": 542,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 541.0,
-    "totalListings": 5150,
-    "aiEnhancedDirectories": 541
+    "avgDirectoriesPerRepo": 542.0,
+    "totalListings": 5160,
+    "aiEnhancedDirectories": 542
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7041,12 +7041,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-interior-cleaning-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:45:10.982160+00:00Z",
+      "lastUpdated": "2025-11-10T12:45:10.982160+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 541,
+      "directoryCount": 542,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

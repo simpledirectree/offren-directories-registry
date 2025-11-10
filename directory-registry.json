@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:17:01.382826+00:00Z",
+  "lastUpdated": "2025-11-10T03:18:08.488312+00:00Z",
   "stats": {
-    "totalDirectories": 1790,
+    "totalDirectories": 1791,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1790.0,
-    "totalListings": 16748,
-    "aiEnhancedDirectories": 1790
+    "avgDirectoriesPerRepo": 1791.0,
+    "totalListings": 16758,
+    "aiEnhancedDirectories": 1791
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23278,12 +23278,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-respiratory-therapy-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:18:08.488312+00:00Z",
+      "lastUpdated": "2025-11-10T03:18:08.488312+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1790,
+      "directoryCount": 1791,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

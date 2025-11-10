@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:51:13.078202+00:00Z",
+  "lastUpdated": "2025-11-10T18:51:54.686584+00:00Z",
   "stats": {
-    "totalDirectories": 974,
+    "totalDirectories": 975,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 974.0,
-    "totalListings": 9084,
-    "aiEnhancedDirectories": 974
+    "avgDirectoriesPerRepo": 975.0,
+    "totalListings": 9094,
+    "aiEnhancedDirectories": 975
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12670,12 +12670,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-craft-services-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:51:54.686584+00:00Z",
+      "lastUpdated": "2025-11-10T18:51:54.686584+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 974,
+      "directoryCount": 975,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

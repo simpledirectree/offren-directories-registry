@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:17:08.702187+00:00Z",
+  "lastUpdated": "2025-11-10T11:17:49.335962+00:00Z",
   "stats": {
-    "totalDirectories": 446,
+    "totalDirectories": 447,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 446.0,
-    "totalListings": 4270,
-    "aiEnhancedDirectories": 446
+    "avgDirectoriesPerRepo": 447.0,
+    "totalListings": 4280,
+    "aiEnhancedDirectories": 447
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5806,12 +5806,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-delivery-only-concepts-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:17:49.335962+00:00Z",
+      "lastUpdated": "2025-11-10T11:17:49.335962+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 446,
+      "directoryCount": 447,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

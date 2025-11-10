@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:02:13.641366+00:00Z",
+  "lastUpdated": "2025-11-10T16:02:28.504206+00:00Z",
   "stats": {
-    "totalDirectories": 767,
+    "totalDirectories": 768,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 767.0,
-    "totalListings": 7179,
-    "aiEnhancedDirectories": 767
+    "avgDirectoriesPerRepo": 768.0,
+    "totalListings": 7189,
+    "aiEnhancedDirectories": 768
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9979,12 +9979,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-employment-law-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:02:28.504206+00:00Z",
+      "lastUpdated": "2025-11-10T16:02:28.504206+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 767,
+      "directoryCount": 768,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

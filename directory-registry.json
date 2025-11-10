@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:42:47.749468+00:00Z",
+  "lastUpdated": "2025-11-10T04:43:05.102511+00:00Z",
   "stats": {
-    "totalDirectories": 2022,
+    "totalDirectories": 2023,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2022.0,
-    "totalListings": 18996,
-    "aiEnhancedDirectories": 2022
+    "avgDirectoriesPerRepo": 2023.0,
+    "totalListings": 19006,
+    "aiEnhancedDirectories": 2023
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26294,12 +26294,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-water-heaters-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:43:05.102511+00:00Z",
+      "lastUpdated": "2025-11-10T04:43:05.102511+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2022,
+      "directoryCount": 2023,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

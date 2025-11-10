@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:52:47.030445+00:00Z",
+  "lastUpdated": "2025-11-10T20:53:04.132849+00:00Z",
   "stats": {
-    "totalDirectories": 1108,
+    "totalDirectories": 1109,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1108.0,
-    "totalListings": 10327,
-    "aiEnhancedDirectories": 1108
+    "avgDirectoriesPerRepo": 1109.0,
+    "totalListings": 10337,
+    "aiEnhancedDirectories": 1109
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14412,12 +14412,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-design-system-creation-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:53:04.132849+00:00Z",
+      "lastUpdated": "2025-11-10T20:53:04.132849+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1108,
+      "directoryCount": 1109,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

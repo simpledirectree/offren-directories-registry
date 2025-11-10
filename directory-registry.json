@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:23:13.220109+00:00Z",
+  "lastUpdated": "2025-11-10T00:23:28.380099+00:00Z",
   "stats": {
-    "totalDirectories": 1591,
+    "totalDirectories": 1592,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1591.0,
-    "totalListings": 14937,
-    "aiEnhancedDirectories": 1591
+    "avgDirectoriesPerRepo": 1592.0,
+    "totalListings": 14947,
+    "aiEnhancedDirectories": 1592
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20691,12 +20691,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-live-online-classes-in-arkansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:23:28.380099+00:00Z",
+      "lastUpdated": "2025-11-10T00:23:28.380099+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1591,
+      "directoryCount": 1592,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

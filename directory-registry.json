@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:37:27.787596+00:00Z",
+  "lastUpdated": "2025-11-10T13:37:43.869796+00:00Z",
   "stats": {
-    "totalDirectories": 593,
+    "totalDirectories": 594,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 593.0,
-    "totalListings": 5595,
-    "aiEnhancedDirectories": 593
+    "avgDirectoriesPerRepo": 594.0,
+    "totalListings": 5605,
+    "aiEnhancedDirectories": 594
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7717,12 +7717,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-cardiac-testing-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:37:43.869796+00:00Z",
+      "lastUpdated": "2025-11-10T13:37:43.869796+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 593,
+      "directoryCount": 594,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

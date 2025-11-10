@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:52:07.405077+00:00Z",
+  "lastUpdated": "2025-11-10T19:52:25.346213+00:00Z",
   "stats": {
-    "totalDirectories": 1044,
+    "totalDirectories": 1045,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1044.0,
-    "totalListings": 9719,
-    "aiEnhancedDirectories": 1044
+    "avgDirectoriesPerRepo": 1045.0,
+    "totalListings": 9729,
+    "aiEnhancedDirectories": 1045
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13580,12 +13580,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-minimally-invasive-procedures-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:52:25.346213+00:00Z",
+      "lastUpdated": "2025-11-10T19:52:25.346213+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1044,
+      "directoryCount": 1045,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:50:43.715476+00:00Z",
+  "lastUpdated": "2025-11-10T19:51:00.204446+00:00Z",
   "stats": {
-    "totalDirectories": 1042,
+    "totalDirectories": 1043,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1042.0,
-    "totalListings": 9699,
-    "aiEnhancedDirectories": 1042
+    "avgDirectoriesPerRepo": 1043.0,
+    "totalListings": 9709,
+    "aiEnhancedDirectories": 1043
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13554,12 +13554,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-international-tax-consulting-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:51:00.204446+00:00Z",
+      "lastUpdated": "2025-11-10T19:51:00.204446+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1042,
+      "directoryCount": 1043,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

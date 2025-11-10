@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:32:25.505840+00:00Z",
+  "lastUpdated": "2025-11-10T11:33:38.069509+00:00Z",
   "stats": {
-    "totalDirectories": 466,
+    "totalDirectories": 467,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 466.0,
-    "totalListings": 4460,
-    "aiEnhancedDirectories": 466
+    "avgDirectoriesPerRepo": 467.0,
+    "totalListings": 4470,
+    "aiEnhancedDirectories": 467
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6066,12 +6066,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-language-instruction-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:33:38.069509+00:00Z",
+      "lastUpdated": "2025-11-10T11:33:38.069509+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 466,
+      "directoryCount": 467,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

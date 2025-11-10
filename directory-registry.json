@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T08:01:06.951045+00:00Z",
+  "lastUpdated": "2025-11-10T08:01:22.855223+00:00Z",
   "stats": {
-    "totalDirectories": 211,
+    "totalDirectories": 212,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 211.0,
-    "totalListings": 2060,
-    "aiEnhancedDirectories": 211
+    "avgDirectoriesPerRepo": 212.0,
+    "totalListings": 2070,
+    "aiEnhancedDirectories": 212
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2751,12 +2751,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-caf-s-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:01:22.855223+00:00Z",
+      "lastUpdated": "2025-11-10T08:01:22.855223+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 211,
+      "directoryCount": 212,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

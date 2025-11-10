@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:53:25.515595+00:00Z",
+  "lastUpdated": "2025-11-10T06:53:42.609643+00:00Z",
   "stats": {
-    "totalDirectories": 2471,
+    "totalDirectories": 2472,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2471.0,
-    "totalListings": 23358,
-    "aiEnhancedDirectories": 2471
+    "avgDirectoriesPerRepo": 2472.0,
+    "totalListings": 23368,
+    "aiEnhancedDirectories": 2472
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -32131,12 +32131,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-computer-repair-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:53:42.609643+00:00Z",
+      "lastUpdated": "2025-11-10T06:53:42.609643+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2471,
+      "directoryCount": 2472,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

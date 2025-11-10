@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:26:35.992879+00:00Z",
+  "lastUpdated": "2025-11-10T10:28:29.217124+00:00Z",
   "stats": {
-    "totalDirectories": 380,
+    "totalDirectories": 381,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 380.0,
-    "totalListings": 3652,
-    "aiEnhancedDirectories": 380
+    "avgDirectoriesPerRepo": 381.0,
+    "totalListings": 3662,
+    "aiEnhancedDirectories": 381
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4948,12 +4948,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-title-services-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:28:29.217124+00:00Z",
+      "lastUpdated": "2025-11-10T10:28:29.217124+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 380,
+      "directoryCount": 381,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

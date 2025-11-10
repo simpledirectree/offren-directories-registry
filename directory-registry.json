@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:57:15.555879+00:00Z",
+  "lastUpdated": "2025-11-10T04:57:34.580792+00:00Z",
   "stats": {
-    "totalDirectories": 2074,
+    "totalDirectories": 2075,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2074.0,
-    "totalListings": 19499,
-    "aiEnhancedDirectories": 2074
+    "avgDirectoriesPerRepo": 2075.0,
+    "totalListings": 19509,
+    "aiEnhancedDirectories": 2075
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26970,12 +26970,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-live-online-classes-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:57:34.580792+00:00Z",
+      "lastUpdated": "2025-11-10T04:57:34.580792+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2074,
+      "directoryCount": 2075,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

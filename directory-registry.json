@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:13:45.343204+00:00Z",
+  "lastUpdated": "2025-11-10T06:14:03.102469+00:00Z",
   "stats": {
-    "totalDirectories": 2335,
+    "totalDirectories": 2336,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2335.0,
-    "totalListings": 22037,
-    "aiEnhancedDirectories": 2335
+    "avgDirectoriesPerRepo": 2336.0,
+    "totalListings": 22047,
+    "aiEnhancedDirectories": 2336
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30363,12 +30363,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-audiology-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:14:03.102469+00:00Z",
+      "lastUpdated": "2025-11-10T06:14:03.102469+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2335,
+      "directoryCount": 2336,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

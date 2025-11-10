@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:40:58.532432+00:00Z",
+  "lastUpdated": "2025-11-10T15:41:16.052685+00:00Z",
   "stats": {
-    "totalDirectories": 737,
+    "totalDirectories": 738,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 737.0,
-    "totalListings": 6901,
-    "aiEnhancedDirectories": 737
+    "avgDirectoriesPerRepo": 738.0,
+    "totalListings": 6911,
+    "aiEnhancedDirectories": 738
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9589,12 +9589,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-plant-based-meal-prep-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:41:16.052685+00:00Z",
+      "lastUpdated": "2025-11-10T15:41:16.052685+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 737,
+      "directoryCount": 738,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

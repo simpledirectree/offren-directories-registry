@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:07:18.292644+00:00Z",
+  "lastUpdated": "2025-11-10T01:07:57.339502+00:00Z",
   "stats": {
-    "totalDirectories": 1639,
+    "totalDirectories": 1640,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1639.0,
-    "totalListings": 15379,
-    "aiEnhancedDirectories": 1639
+    "avgDirectoriesPerRepo": 1640.0,
+    "totalListings": 15386,
+    "aiEnhancedDirectories": 1640
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21315,12 +21315,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-bee-control-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:07:57.339502+00:00Z",
+      "lastUpdated": "2025-11-10T01:07:57.339502+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1639,
+      "directoryCount": 1640,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

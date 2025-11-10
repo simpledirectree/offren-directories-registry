@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:07:35.536069+00:00Z",
+  "lastUpdated": "2025-11-10T07:07:48.918455+00:00Z",
   "stats": {
-    "totalDirectories": 50,
+    "totalDirectories": 51,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 50.0,
-    "totalListings": 488,
-    "aiEnhancedDirectories": 50
+    "avgDirectoriesPerRepo": 51.0,
+    "totalListings": 493,
+    "aiEnhancedDirectories": 51
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -658,12 +658,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-vegan-catering-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:07:48.918455+00:00Z",
+      "lastUpdated": "2025-11-10T07:07:48.918455+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 50,
+      "directoryCount": 51,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

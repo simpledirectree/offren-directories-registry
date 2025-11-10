@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:58:13.505836+00:00Z",
+  "lastUpdated": "2025-11-10T19:59:41.826204+00:00Z",
   "stats": {
-    "totalDirectories": 1048,
+    "totalDirectories": 1049,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1048.0,
-    "totalListings": 9757,
-    "aiEnhancedDirectories": 1048
+    "avgDirectoriesPerRepo": 1049.0,
+    "totalListings": 9767,
+    "aiEnhancedDirectories": 1049
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13632,12 +13632,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-information-architecture-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:59:41.826204+00:00Z",
+      "lastUpdated": "2025-11-10T19:59:41.826204+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1048,
+      "directoryCount": 1049,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

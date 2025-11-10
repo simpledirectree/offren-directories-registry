@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T08:48:52.566932+00:00Z",
+  "lastUpdated": "2025-11-10T08:49:31.097583+00:00Z",
   "stats": {
-    "totalDirectories": 255,
+    "totalDirectories": 256,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 255.0,
-    "totalListings": 2483,
-    "aiEnhancedDirectories": 255
+    "avgDirectoriesPerRepo": 256.0,
+    "totalListings": 2491,
+    "aiEnhancedDirectories": 256
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3323,12 +3323,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-title-services-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:49:31.097583+00:00Z",
+      "lastUpdated": "2025-11-10T08:49:31.097583+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 255,
+      "directoryCount": 256,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

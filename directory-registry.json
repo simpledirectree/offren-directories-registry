@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:58:13.249124+00:00Z",
+  "lastUpdated": "2025-11-10T06:58:31.108539+00:00Z",
   "stats": {
-    "totalDirectories": 16,
+    "totalDirectories": 17,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 16.0,
-    "totalListings": 160,
-    "aiEnhancedDirectories": 16
+    "avgDirectoriesPerRepo": 17.0,
+    "totalListings": 170,
+    "aiEnhancedDirectories": 17
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -216,12 +216,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-pedicures-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:58:31.108539+00:00Z",
+      "lastUpdated": "2025-11-10T06:58:31.108539+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 16,
+      "directoryCount": 17,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

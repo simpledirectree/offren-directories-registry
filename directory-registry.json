@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:40:37.727136+00:00Z",
+  "lastUpdated": "2025-11-10T05:40:50.610365+00:00Z",
   "stats": {
-    "totalDirectories": 2222,
+    "totalDirectories": 2223,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2222.0,
-    "totalListings": 20939,
-    "aiEnhancedDirectories": 2222
+    "avgDirectoriesPerRepo": 2223.0,
+    "totalListings": 20949,
+    "aiEnhancedDirectories": 2223
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28894,12 +28894,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-pilates-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:40:50.610365+00:00Z",
+      "lastUpdated": "2025-11-10T05:40:50.610365+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2222,
+      "directoryCount": 2223,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

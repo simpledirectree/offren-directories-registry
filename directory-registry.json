@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:08:45.777276+00:00Z",
+  "lastUpdated": "2025-11-10T19:09:24.805496+00:00Z",
   "stats": {
-    "totalDirectories": 997,
+    "totalDirectories": 998,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 997.0,
-    "totalListings": 9281,
-    "aiEnhancedDirectories": 997
+    "avgDirectoriesPerRepo": 998.0,
+    "totalListings": 9291,
+    "aiEnhancedDirectories": 998
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12969,12 +12969,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-design-system-creation-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:09:24.805496+00:00Z",
+      "lastUpdated": "2025-11-10T19:09:24.805496+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 997,
+      "directoryCount": 998,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:24:36.040028+00:00Z",
+  "lastUpdated": "2025-11-10T07:24:51.252970+00:00Z",
   "stats": {
-    "totalDirectories": 112,
+    "totalDirectories": 113,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 112.0,
-    "totalListings": 1084,
-    "aiEnhancedDirectories": 112
+    "avgDirectoriesPerRepo": 113.0,
+    "totalListings": 1094,
+    "aiEnhancedDirectories": 113
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1464,12 +1464,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-private-banking-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:24:51.252970+00:00Z",
+      "lastUpdated": "2025-11-10T07:24:51.252970+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 112,
+      "directoryCount": 113,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

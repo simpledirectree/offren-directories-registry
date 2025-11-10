@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:11:14.670006+00:00Z",
+  "lastUpdated": "2025-11-10T20:11:31.529468+00:00Z",
   "stats": {
-    "totalDirectories": 1062,
+    "totalDirectories": 1063,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1062.0,
-    "totalListings": 9887,
-    "aiEnhancedDirectories": 1062
+    "avgDirectoriesPerRepo": 1063.0,
+    "totalListings": 9897,
+    "aiEnhancedDirectories": 1063
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13814,12 +13814,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-wedding-djs-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:11:31.529468+00:00Z",
+      "lastUpdated": "2025-11-10T20:11:31.529468+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1062,
+      "directoryCount": 1063,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

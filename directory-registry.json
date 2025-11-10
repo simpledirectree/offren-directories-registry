@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:06:10.193794+00:00Z",
+  "lastUpdated": "2025-11-10T20:06:53.140633+00:00Z",
   "stats": {
-    "totalDirectories": 1054,
+    "totalDirectories": 1055,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1054.0,
-    "totalListings": 9813,
-    "aiEnhancedDirectories": 1054
+    "avgDirectoriesPerRepo": 1055.0,
+    "totalListings": 9822,
+    "aiEnhancedDirectories": 1055
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13710,12 +13710,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-boxing-classes-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:06:53.140633+00:00Z",
+      "lastUpdated": "2025-11-10T20:06:53.140633+00:00Z",
+      "status": "active",
+      "listingsCount": 9,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1054,
+      "directoryCount": 1055,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

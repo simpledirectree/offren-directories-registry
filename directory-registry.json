@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:56:13.632062+00:00Z",
+  "lastUpdated": "2025-11-10T04:56:29.671253+00:00Z",
   "stats": {
-    "totalDirectories": 2070,
+    "totalDirectories": 2071,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2070.0,
-    "totalListings": 19461,
-    "aiEnhancedDirectories": 2070
+    "avgDirectoriesPerRepo": 2071.0,
+    "totalListings": 19471,
+    "aiEnhancedDirectories": 2071
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26918,12 +26918,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-event-space-rentals-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:56:29.671253+00:00Z",
+      "lastUpdated": "2025-11-10T04:56:29.671253+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2070,
+      "directoryCount": 2071,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:22:26.828753+00:00Z",
+  "lastUpdated": "2025-11-10T17:23:09.151547+00:00Z",
   "stats": {
-    "totalDirectories": 867,
+    "totalDirectories": 868,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 867.0,
-    "totalListings": 8083,
-    "aiEnhancedDirectories": 867
+    "avgDirectoriesPerRepo": 868.0,
+    "totalListings": 8093,
+    "aiEnhancedDirectories": 868
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11279,12 +11279,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-invoice-processing-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:23:09.151547+00:00Z",
+      "lastUpdated": "2025-11-10T17:23:09.151547+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 867,
+      "directoryCount": 868,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:22:03.211334+00:00Z",
+  "lastUpdated": "2025-11-10T04:22:22.269213+00:00Z",
   "stats": {
-    "totalDirectories": 1949,
+    "totalDirectories": 1950,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1949.0,
-    "totalListings": 18280,
-    "aiEnhancedDirectories": 1949
+    "avgDirectoriesPerRepo": 1950.0,
+    "totalListings": 18290,
+    "aiEnhancedDirectories": 1950
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25345,12 +25345,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-anti-money-laundering-compliance-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:22:22.269213+00:00Z",
+      "lastUpdated": "2025-11-10T04:22:22.269213+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1949,
+      "directoryCount": 1950,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

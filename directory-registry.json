@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:58:23.000488+00:00Z",
+  "lastUpdated": "2025-11-10T14:59:26.817949+00:00Z",
   "stats": {
-    "totalDirectories": 685,
+    "totalDirectories": 686,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 685.0,
-    "totalListings": 6425,
-    "aiEnhancedDirectories": 685
+    "avgDirectoriesPerRepo": 686.0,
+    "totalListings": 6428,
+    "aiEnhancedDirectories": 686
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8913,12 +8913,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-bistros-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:59:26.817949+00:00Z",
+      "lastUpdated": "2025-11-10T14:59:26.817949+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 685,
+      "directoryCount": 686,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

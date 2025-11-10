@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:19:52.461265+00:00Z",
+  "lastUpdated": "2025-11-10T19:20:10.464677+00:00Z",
   "stats": {
-    "totalDirectories": 1010,
+    "totalDirectories": 1011,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1010.0,
-    "totalListings": 9406,
-    "aiEnhancedDirectories": 1010
+    "avgDirectoriesPerRepo": 1011.0,
+    "totalListings": 9416,
+    "aiEnhancedDirectories": 1011
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13138,12 +13138,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-college-tutoring-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:20:10.464677+00:00Z",
+      "lastUpdated": "2025-11-10T19:20:10.464677+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1010,
+      "directoryCount": 1011,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

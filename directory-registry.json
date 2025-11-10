@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:52:42.743965+00:00Z",
+  "lastUpdated": "2025-11-10T11:55:52.550752+00:00Z",
   "stats": {
-    "totalDirectories": 488,
+    "totalDirectories": 489,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 488.0,
-    "totalListings": 4652,
-    "aiEnhancedDirectories": 488
+    "avgDirectoriesPerRepo": 489.0,
+    "totalListings": 4657,
+    "aiEnhancedDirectories": 489
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6352,12 +6352,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-meditation-instruction-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:55:52.550752+00:00Z",
+      "lastUpdated": "2025-11-10T11:55:52.550752+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 488,
+      "directoryCount": 489,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

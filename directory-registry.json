@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:51:58.450168+00:00Z",
+  "lastUpdated": "2025-11-10T15:52:42.603809+00:00Z",
   "stats": {
-    "totalDirectories": 754,
+    "totalDirectories": 755,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 754.0,
-    "totalListings": 7054,
-    "aiEnhancedDirectories": 754
+    "avgDirectoriesPerRepo": 755.0,
+    "totalListings": 7064,
+    "aiEnhancedDirectories": 755
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9810,12 +9810,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-garden-center-consultation-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:52:42.603809+00:00Z",
+      "lastUpdated": "2025-11-10T15:52:42.603809+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 754,
+      "directoryCount": 755,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

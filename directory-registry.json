@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:38:05.594264+00:00Z",
+  "lastUpdated": "2025-11-10T05:38:24.680066+00:00Z",
   "stats": {
-    "totalDirectories": 2213,
+    "totalDirectories": 2214,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2213.0,
-    "totalListings": 20849,
-    "aiEnhancedDirectories": 2213
+    "avgDirectoriesPerRepo": 2214.0,
+    "totalListings": 20859,
+    "aiEnhancedDirectories": 2214
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28777,12 +28777,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-personal-concierge-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:38:24.680066+00:00Z",
+      "lastUpdated": "2025-11-10T05:38:24.680066+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2213,
+      "directoryCount": 2214,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

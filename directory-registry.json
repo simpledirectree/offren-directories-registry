@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:17:51.424289+00:00Z",
+  "lastUpdated": "2025-11-10T05:18:12.615346+00:00Z",
   "stats": {
-    "totalDirectories": 2143,
+    "totalDirectories": 2144,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2143.0,
-    "totalListings": 20176,
-    "aiEnhancedDirectories": 2143
+    "avgDirectoriesPerRepo": 2144.0,
+    "totalListings": 20186,
+    "aiEnhancedDirectories": 2144
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27867,12 +27867,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-automated-testing-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:18:12.615346+00:00Z",
+      "lastUpdated": "2025-11-10T05:18:12.615346+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2143,
+      "directoryCount": 2144,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

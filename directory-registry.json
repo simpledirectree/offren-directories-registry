@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:39:46.466333+00:00Z",
+  "lastUpdated": "2025-11-10T15:40:01.765001+00:00Z",
   "stats": {
-    "totalDirectories": 734,
+    "totalDirectories": 735,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 734.0,
-    "totalListings": 6878,
-    "aiEnhancedDirectories": 734
+    "avgDirectoriesPerRepo": 735.0,
+    "totalListings": 6888,
+    "aiEnhancedDirectories": 735
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9550,12 +9550,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-search-engine-marketing-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:40:01.765001+00:00Z",
+      "lastUpdated": "2025-11-10T15:40:01.765001+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 734,
+      "directoryCount": 735,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

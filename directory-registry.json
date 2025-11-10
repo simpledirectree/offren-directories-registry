@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T08:41:41.088733+00:00Z",
+  "lastUpdated": "2025-11-10T08:41:55.176012+00:00Z",
   "stats": {
-    "totalDirectories": 249,
+    "totalDirectories": 250,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 249.0,
-    "totalListings": 2423,
-    "aiEnhancedDirectories": 249
+    "avgDirectoriesPerRepo": 250.0,
+    "totalListings": 2433,
+    "aiEnhancedDirectories": 250
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3245,12 +3245,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-safety-training-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:41:55.176012+00:00Z",
+      "lastUpdated": "2025-11-10T08:41:55.176012+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 249,
+      "directoryCount": 250,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

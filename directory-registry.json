@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T15:18:50.365481+00:00Z",
+  "lastUpdated": "2025-11-10T15:20:58.354701+00:00Z",
   "stats": {
-    "totalDirectories": 706,
+    "totalDirectories": 707,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 706.0,
-    "totalListings": 6608,
-    "aiEnhancedDirectories": 706
+    "avgDirectoriesPerRepo": 707.0,
+    "totalListings": 6618,
+    "aiEnhancedDirectories": 707
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -9186,12 +9186,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-interpretation-services-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T15:20:58.354701+00:00Z",
+      "lastUpdated": "2025-11-10T15:20:58.354701+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 706,
+      "directoryCount": 707,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

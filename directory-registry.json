@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:14:30.694153+00:00Z",
+  "lastUpdated": "2025-11-10T21:14:44.746900+00:00Z",
   "stats": {
-    "totalDirectories": 1138,
+    "totalDirectories": 1139,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1138.0,
-    "totalListings": 10596,
-    "aiEnhancedDirectories": 1138
+    "avgDirectoriesPerRepo": 1139.0,
+    "totalListings": 10601,
+    "aiEnhancedDirectories": 1139
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14802,12 +14802,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-budget-management-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:14:44.746900+00:00Z",
+      "lastUpdated": "2025-11-10T21:14:44.746900+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1138,
+      "directoryCount": 1139,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

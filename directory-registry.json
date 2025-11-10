@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:39:49.904562+00:00Z",
+  "lastUpdated": "2025-11-10T01:40:06.150528+00:00Z",
   "stats": {
-    "totalDirectories": 1675,
+    "totalDirectories": 1676,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1675.0,
-    "totalListings": 15687,
-    "aiEnhancedDirectories": 1675
+    "avgDirectoriesPerRepo": 1676.0,
+    "totalListings": 15697,
+    "aiEnhancedDirectories": 1676
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21783,12 +21783,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-manual-testing-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:40:06.150528+00:00Z",
+      "lastUpdated": "2025-11-10T01:40:06.150528+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1675,
+      "directoryCount": 1676,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

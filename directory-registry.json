@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:33:08.154043+00:00Z",
+  "lastUpdated": "2025-11-10T07:33:27.954201+00:00Z",
   "stats": {
-    "totalDirectories": 141,
+    "totalDirectories": 142,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 141.0,
-    "totalListings": 1366,
-    "aiEnhancedDirectories": 141
+    "avgDirectoriesPerRepo": 142.0,
+    "totalListings": 1376,
+    "aiEnhancedDirectories": 142
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1841,12 +1841,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-move-in-cleaning-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:33:27.954201+00:00Z",
+      "lastUpdated": "2025-11-10T07:33:27.954201+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 141,
+      "directoryCount": 142,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

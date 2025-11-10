@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:24:19.413052+00:00Z",
+  "lastUpdated": "2025-11-10T04:24:37.344089+00:00Z",
   "stats": {
-    "totalDirectories": 1957,
+    "totalDirectories": 1958,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1957.0,
-    "totalListings": 18351,
-    "aiEnhancedDirectories": 1957
+    "avgDirectoriesPerRepo": 1958.0,
+    "totalListings": 18361,
+    "aiEnhancedDirectories": 1958
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25449,12 +25449,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-cardiologists-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:24:37.344089+00:00Z",
+      "lastUpdated": "2025-11-10T04:24:37.344089+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1957,
+      "directoryCount": 1958,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

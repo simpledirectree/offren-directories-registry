@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:04:07.244254+00:00Z",
+  "lastUpdated": "2025-11-10T05:04:26.132993+00:00Z",
   "stats": {
-    "totalDirectories": 2097,
+    "totalDirectories": 2098,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2097.0,
-    "totalListings": 19722,
-    "aiEnhancedDirectories": 2097
+    "avgDirectoriesPerRepo": 2098.0,
+    "totalListings": 19732,
+    "aiEnhancedDirectories": 2098
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27269,12 +27269,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-ruby-development-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:04:26.132993+00:00Z",
+      "lastUpdated": "2025-11-10T05:04:26.132993+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2097,
+      "directoryCount": 2098,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

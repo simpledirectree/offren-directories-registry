@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:05:20.612854+00:00Z",
+  "lastUpdated": "2025-11-10T18:06:50.689131+00:00Z",
   "stats": {
-    "totalDirectories": 912,
+    "totalDirectories": 913,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 912.0,
-    "totalListings": 8504,
-    "aiEnhancedDirectories": 912
+    "avgDirectoriesPerRepo": 913.0,
+    "totalListings": 8514,
+    "aiEnhancedDirectories": 913
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11864,12 +11864,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-livestock-management-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:06:50.689131+00:00Z",
+      "lastUpdated": "2025-11-10T18:06:50.689131+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 912,
+      "directoryCount": 913,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:29:06.703243+00:00Z",
+  "lastUpdated": "2025-11-10T22:30:38.486196+00:00Z",
   "stats": {
-    "totalDirectories": 1234,
+    "totalDirectories": 1235,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1234.0,
-    "totalListings": 11483,
-    "aiEnhancedDirectories": 1234
+    "avgDirectoriesPerRepo": 1235.0,
+    "totalListings": 11493,
+    "aiEnhancedDirectories": 1235
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16050,12 +16050,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-tpms-service-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:30:38.486196+00:00Z",
+      "lastUpdated": "2025-11-10T22:30:38.486196+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1234,
+      "directoryCount": 1235,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:48:13.412287+00:00Z",
+  "lastUpdated": "2025-11-10T04:48:33.081486+00:00Z",
   "stats": {
-    "totalDirectories": 2042,
+    "totalDirectories": 2043,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2042.0,
-    "totalListings": 19187,
-    "aiEnhancedDirectories": 2042
+    "avgDirectoriesPerRepo": 2043.0,
+    "totalListings": 19197,
+    "aiEnhancedDirectories": 2043
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26554,12 +26554,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-mobile-mechanics-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:48:33.081486+00:00Z",
+      "lastUpdated": "2025-11-10T04:48:33.081486+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2042,
+      "directoryCount": 2043,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

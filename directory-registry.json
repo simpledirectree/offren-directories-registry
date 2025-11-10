@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:13:20.120687+00:00Z",
+  "lastUpdated": "2025-11-10T10:13:34.431769+00:00Z",
   "stats": {
-    "totalDirectories": 361,
+    "totalDirectories": 362,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 361.0,
-    "totalListings": 3478,
-    "aiEnhancedDirectories": 361
+    "avgDirectoriesPerRepo": 362.0,
+    "totalListings": 3486,
+    "aiEnhancedDirectories": 362
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4701,12 +4701,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-office-cleaning-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:13:34.431769+00:00Z",
+      "lastUpdated": "2025-11-10T10:13:34.431769+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 361,
+      "directoryCount": 362,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

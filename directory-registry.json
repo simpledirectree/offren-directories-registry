@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:28:29.924584+00:00Z",
+  "lastUpdated": "2025-11-10T06:28:48.768870+00:00Z",
   "stats": {
-    "totalDirectories": 2386,
+    "totalDirectories": 2387,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2386.0,
-    "totalListings": 22522,
-    "aiEnhancedDirectories": 2386
+    "avgDirectoriesPerRepo": 2387.0,
+    "totalListings": 22532,
+    "aiEnhancedDirectories": 2387
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31026,12 +31026,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-paintless-dent-removal-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:28:48.768870+00:00Z",
+      "lastUpdated": "2025-11-10T06:28:48.768870+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2386,
+      "directoryCount": 2387,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

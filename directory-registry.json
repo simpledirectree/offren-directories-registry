@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:48:35.883028+00:00Z",
+  "lastUpdated": "2025-11-10T02:49:42.457428+00:00Z",
   "stats": {
-    "totalDirectories": 1761,
+    "totalDirectories": 1762,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1761.0,
-    "totalListings": 16482,
-    "aiEnhancedDirectories": 1761
+    "avgDirectoriesPerRepo": 1762.0,
+    "totalListings": 16492,
+    "aiEnhancedDirectories": 1762
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22901,12 +22901,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-invitation-design-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:49:42.457428+00:00Z",
+      "lastUpdated": "2025-11-10T02:49:42.457428+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1761,
+      "directoryCount": 1762,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

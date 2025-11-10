@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:41:00.045225+00:00Z",
+  "lastUpdated": "2025-11-10T18:41:41.334271+00:00Z",
   "stats": {
-    "totalDirectories": 959,
+    "totalDirectories": 960,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 959.0,
-    "totalListings": 8944,
-    "aiEnhancedDirectories": 959
+    "avgDirectoriesPerRepo": 960.0,
+    "totalListings": 8954,
+    "aiEnhancedDirectories": 960
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12475,12 +12475,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-data-visualization-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:41:41.334271+00:00Z",
+      "lastUpdated": "2025-11-10T18:41:41.334271+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 959,
+      "directoryCount": 960,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

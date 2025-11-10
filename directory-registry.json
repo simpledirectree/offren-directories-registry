@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T12:48:21.302813+00:00Z",
+  "lastUpdated": "2025-11-10T12:48:50.456847+00:00Z",
   "stats": {
-    "totalDirectories": 546,
+    "totalDirectories": 547,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 546.0,
-    "totalListings": 5200,
-    "aiEnhancedDirectories": 546
+    "avgDirectoriesPerRepo": 547.0,
+    "totalListings": 5210,
+    "aiEnhancedDirectories": 547
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7106,12 +7106,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-outlet-installation-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T12:48:50.456847+00:00Z",
+      "lastUpdated": "2025-11-10T12:48:50.456847+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 546,
+      "directoryCount": 547,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

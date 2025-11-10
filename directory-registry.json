@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:14:45.648167+00:00Z",
+  "lastUpdated": "2025-11-10T00:15:10.965980+00:00Z",
   "stats": {
-    "totalDirectories": 1576,
+    "totalDirectories": 1577,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1576.0,
-    "totalListings": 14818,
-    "aiEnhancedDirectories": 1576
+    "avgDirectoriesPerRepo": 1577.0,
+    "totalListings": 14828,
+    "aiEnhancedDirectories": 1577
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20496,12 +20496,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-financial-planning-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:15:10.965980+00:00Z",
+      "lastUpdated": "2025-11-10T00:15:10.965980+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1576,
+      "directoryCount": 1577,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

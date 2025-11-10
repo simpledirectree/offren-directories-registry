@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:32:08.786941+00:00Z",
+  "lastUpdated": "2025-11-10T06:32:24.444757+00:00Z",
   "stats": {
-    "totalDirectories": 2399,
+    "totalDirectories": 2400,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2399.0,
-    "totalListings": 22648,
-    "aiEnhancedDirectories": 2399
+    "avgDirectoriesPerRepo": 2400.0,
+    "totalListings": 22658,
+    "aiEnhancedDirectories": 2400
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31195,12 +31195,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-sleep-studies-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:32:24.444757+00:00Z",
+      "lastUpdated": "2025-11-10T06:32:24.444757+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2399,
+      "directoryCount": 2400,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

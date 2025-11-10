@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:49:42.954738+00:00Z",
+  "lastUpdated": "2025-11-10T03:49:58.391939+00:00Z",
   "stats": {
-    "totalDirectories": 1836,
+    "totalDirectories": 1837,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1836.0,
-    "totalListings": 17188,
-    "aiEnhancedDirectories": 1836
+    "avgDirectoriesPerRepo": 1837.0,
+    "totalListings": 17198,
+    "aiEnhancedDirectories": 1837
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23876,12 +23876,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-corporate-websites-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:49:58.391939+00:00Z",
+      "lastUpdated": "2025-11-10T03:49:58.391939+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1836,
+      "directoryCount": 1837,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

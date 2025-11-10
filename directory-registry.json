@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:53:34.077569+00:00Z",
+  "lastUpdated": "2025-11-10T18:53:48.151275+00:00Z",
   "stats": {
-    "totalDirectories": 978,
+    "totalDirectories": 979,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 978.0,
-    "totalListings": 9119,
-    "aiEnhancedDirectories": 978
+    "avgDirectoriesPerRepo": 979.0,
+    "totalListings": 9122,
+    "aiEnhancedDirectories": 979
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12722,12 +12722,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-culinary-instruction-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:53:48.151275+00:00Z",
+      "lastUpdated": "2025-11-10T18:53:48.151275+00:00Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 978,
+      "directoryCount": 979,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

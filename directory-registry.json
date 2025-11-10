@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:30:55.824639+00:00Z",
+  "lastUpdated": "2025-11-10T22:33:42.470695+00:00Z",
   "stats": {
-    "totalDirectories": 1236,
+    "totalDirectories": 1237,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1236.0,
-    "totalListings": 11503,
-    "aiEnhancedDirectories": 1236
+    "avgDirectoriesPerRepo": 1237.0,
+    "totalListings": 11508,
+    "aiEnhancedDirectories": 1237
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16076,12 +16076,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-acrobats-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:33:42.470695+00:00Z",
+      "lastUpdated": "2025-11-10T22:33:42.470695+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1236,
+      "directoryCount": 1237,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

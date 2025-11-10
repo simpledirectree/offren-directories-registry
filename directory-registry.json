@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:02:16.742171+00:00Z",
+  "lastUpdated": "2025-11-10T07:02:34.515561+00:00Z",
   "stats": {
-    "totalDirectories": 31,
+    "totalDirectories": 32,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 31.0,
-    "totalListings": 305,
-    "aiEnhancedDirectories": 31
+    "avgDirectoriesPerRepo": 32.0,
+    "totalListings": 315,
+    "aiEnhancedDirectories": 32
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -411,12 +411,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-crm-development-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:02:34.515561+00:00Z",
+      "lastUpdated": "2025-11-10T07:02:34.515561+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 31,
+      "directoryCount": 32,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

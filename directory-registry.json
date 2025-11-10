@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:41:09.988821+00:00Z",
+  "lastUpdated": "2025-11-10T11:41:26.194838+00:00Z",
   "stats": {
-    "totalDirectories": 473,
+    "totalDirectories": 474,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 473.0,
-    "totalListings": 4525,
-    "aiEnhancedDirectories": 473
+    "avgDirectoriesPerRepo": 474.0,
+    "totalListings": 4535,
+    "aiEnhancedDirectories": 474
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -6157,12 +6157,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-legal-support-services-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:41:26.194838+00:00Z",
+      "lastUpdated": "2025-11-10T11:41:26.194838+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 473,
+      "directoryCount": 474,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

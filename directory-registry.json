@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:59:06.332781+00:00Z",
+  "lastUpdated": "2025-11-10T05:59:25.184075+00:00Z",
   "stats": {
-    "totalDirectories": 2286,
+    "totalDirectories": 2287,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2286.0,
-    "totalListings": 21565,
-    "aiEnhancedDirectories": 2286
+    "avgDirectoriesPerRepo": 2287.0,
+    "totalListings": 21575,
+    "aiEnhancedDirectories": 2287
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29726,12 +29726,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-timing-belt-replacement-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:59:25.184075+00:00Z",
+      "lastUpdated": "2025-11-10T05:59:25.184075+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2286,
+      "directoryCount": 2287,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

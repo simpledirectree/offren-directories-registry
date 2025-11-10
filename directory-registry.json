@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:25:03.750027+00:00Z",
+  "lastUpdated": "2025-11-10T00:25:51.349994+00:00Z",
   "stats": {
-    "totalDirectories": 1595,
+    "totalDirectories": 1596,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1595.0,
-    "totalListings": 14972,
-    "aiEnhancedDirectories": 1595
+    "avgDirectoriesPerRepo": 1596.0,
+    "totalListings": 14982,
+    "aiEnhancedDirectories": 1596
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20743,12 +20743,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-thai-massage-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:25:51.349994+00:00Z",
+      "lastUpdated": "2025-11-10T00:25:51.349994+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1595,
+      "directoryCount": 1596,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

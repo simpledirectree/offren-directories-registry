@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:35:06.934233+00:00Z",
+  "lastUpdated": "2025-11-10T05:35:25.232433+00:00Z",
   "stats": {
-    "totalDirectories": 2202,
+    "totalDirectories": 2203,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2202.0,
-    "totalListings": 20739,
-    "aiEnhancedDirectories": 2202
+    "avgDirectoriesPerRepo": 2203.0,
+    "totalListings": 20749,
+    "aiEnhancedDirectories": 2203
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28634,12 +28634,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-switch-installation-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:35:25.232433+00:00Z",
+      "lastUpdated": "2025-11-10T05:35:25.232433+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2202,
+      "directoryCount": 2203,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

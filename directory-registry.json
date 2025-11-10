@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:13:54.347564+00:00Z",
+  "lastUpdated": "2025-11-10T03:16:03.610653+00:00Z",
   "stats": {
-    "totalDirectories": 1787,
+    "totalDirectories": 1788,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1787.0,
-    "totalListings": 16723,
-    "aiEnhancedDirectories": 1787
+    "avgDirectoriesPerRepo": 1788.0,
+    "totalListings": 16728,
+    "aiEnhancedDirectories": 1788
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23239,12 +23239,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-full-time-daycare-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:16:03.610653+00:00Z",
+      "lastUpdated": "2025-11-10T03:16:03.610653+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1787,
+      "directoryCount": 1788,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

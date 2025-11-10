@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:31:00.126882+00:00Z",
+  "lastUpdated": "2025-11-10T00:31:42.076640+00:00Z",
   "stats": {
-    "totalDirectories": 1601,
+    "totalDirectories": 1602,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1601.0,
-    "totalListings": 15027,
-    "aiEnhancedDirectories": 1601
+    "avgDirectoriesPerRepo": 1602.0,
+    "totalListings": 15037,
+    "aiEnhancedDirectories": 1602
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20821,12 +20821,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-auto-diagnostics-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:31:42.076640+00:00Z",
+      "lastUpdated": "2025-11-10T00:31:42.076640+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1601,
+      "directoryCount": 1602,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

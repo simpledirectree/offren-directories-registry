@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T08:04:53.004282+00:00Z",
+  "lastUpdated": "2025-11-10T08:08:20.491746+00:00Z",
   "stats": {
-    "totalDirectories": 219,
+    "totalDirectories": 220,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 219.0,
-    "totalListings": 2135,
-    "aiEnhancedDirectories": 219
+    "avgDirectoriesPerRepo": 220.0,
+    "totalListings": 2145,
+    "aiEnhancedDirectories": 220
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2855,12 +2855,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-flower-bed-maintenance-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:08:20.491746+00:00Z",
+      "lastUpdated": "2025-11-10T08:08:20.491746+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 219,
+      "directoryCount": 220,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

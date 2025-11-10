@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:04:56.861921+00:00Z",
+  "lastUpdated": "2025-11-10T09:05:11.806641+00:00Z",
   "stats": {
-    "totalDirectories": 275,
+    "totalDirectories": 276,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 275.0,
-    "totalListings": 2671,
-    "aiEnhancedDirectories": 275
+    "avgDirectoriesPerRepo": 276.0,
+    "totalListings": 2681,
+    "aiEnhancedDirectories": 276
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3583,12 +3583,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-diversity-training-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:05:11.806641+00:00Z",
+      "lastUpdated": "2025-11-10T09:05:11.806641+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 275,
+      "directoryCount": 276,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

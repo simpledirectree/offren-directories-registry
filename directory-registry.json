@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:05:11.806641+00:00Z",
+  "lastUpdated": "2025-11-10T09:05:51.626183+00:00Z",
   "stats": {
-    "totalDirectories": 276,
+    "totalDirectories": 277,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 276.0,
-    "totalListings": 2681,
-    "aiEnhancedDirectories": 276
+    "avgDirectoriesPerRepo": 277.0,
+    "totalListings": 2691,
+    "aiEnhancedDirectories": 277
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3596,12 +3596,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-swedish-massage-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:05:51.626183+00:00Z",
+      "lastUpdated": "2025-11-10T09:05:51.626183+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 276,
+      "directoryCount": 277,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

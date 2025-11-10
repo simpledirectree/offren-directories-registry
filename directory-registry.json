@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:27:32.299048+00:00Z",
+  "lastUpdated": "2025-11-10T04:27:46.196373+00:00Z",
   "stats": {
-    "totalDirectories": 1968,
+    "totalDirectories": 1969,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1968.0,
-    "totalListings": 18461,
-    "aiEnhancedDirectories": 1968
+    "avgDirectoriesPerRepo": 1969.0,
+    "totalListings": 18471,
+    "aiEnhancedDirectories": 1969
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25592,12 +25592,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-tire-sales-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:27:46.196373+00:00Z",
+      "lastUpdated": "2025-11-10T04:27:46.196373+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1968,
+      "directoryCount": 1969,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

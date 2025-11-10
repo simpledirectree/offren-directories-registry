@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T23:22:41.980837+00:00Z",
+  "lastUpdated": "2025-11-10T23:23:26.204940+00:00Z",
   "stats": {
-    "totalDirectories": 1276,
+    "totalDirectories": 1277,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1276.0,
-    "totalListings": 11881,
-    "aiEnhancedDirectories": 1276
+    "avgDirectoriesPerRepo": 1277.0,
+    "totalListings": 11891,
+    "aiEnhancedDirectories": 1277
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16596,12 +16596,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-nutritionist-developed-meals-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T23:23:26.204940+00:00Z",
+      "lastUpdated": "2025-11-10T23:23:26.204940+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1276,
+      "directoryCount": 1277,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

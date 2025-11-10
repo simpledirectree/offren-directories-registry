@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:08:12.564733+00:00Z",
+  "lastUpdated": "2025-11-10T06:08:30.210963+00:00Z",
   "stats": {
-    "totalDirectories": 2316,
+    "totalDirectories": 2317,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2316.0,
-    "totalListings": 21847,
-    "aiEnhancedDirectories": 2316
+    "avgDirectoriesPerRepo": 2317.0,
+    "totalListings": 21857,
+    "aiEnhancedDirectories": 2317
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30116,12 +30116,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-computer-vision-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:08:30.210963+00:00Z",
+      "lastUpdated": "2025-11-10T06:08:30.210963+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2316,
+      "directoryCount": 2317,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

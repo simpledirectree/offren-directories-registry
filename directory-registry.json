@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:33:33.878447+00:00Z",
+  "lastUpdated": "2025-11-10T14:35:32.159706+00:00Z",
   "stats": {
-    "totalDirectories": 662,
+    "totalDirectories": 663,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 662.0,
-    "totalListings": 6216,
-    "aiEnhancedDirectories": 662
+    "avgDirectoriesPerRepo": 663.0,
+    "totalListings": 6226,
+    "aiEnhancedDirectories": 663
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8614,12 +8614,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-reiki-practitioner-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:35:32.159706+00:00Z",
+      "lastUpdated": "2025-11-10T14:35:32.159706+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 662,
+      "directoryCount": 663,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

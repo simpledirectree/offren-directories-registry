@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:15:29.353821+00:00Z",
+  "lastUpdated": "2025-11-10T04:15:46.051575+00:00Z",
   "stats": {
-    "totalDirectories": 1926,
+    "totalDirectories": 1927,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1926.0,
-    "totalListings": 18057,
-    "aiEnhancedDirectories": 1926
+    "avgDirectoriesPerRepo": 1927.0,
+    "totalListings": 18067,
+    "aiEnhancedDirectories": 1927
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25046,12 +25046,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-personal-shopping-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:15:46.051575+00:00Z",
+      "lastUpdated": "2025-11-10T04:15:46.051575+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1926,
+      "directoryCount": 1927,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

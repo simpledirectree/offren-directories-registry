@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:07:03.355785+00:00Z",
+  "lastUpdated": "2025-11-10T07:07:18.541242+00:00Z",
   "stats": {
-    "totalDirectories": 48,
+    "totalDirectories": 49,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 48.0,
-    "totalListings": 468,
-    "aiEnhancedDirectories": 48
+    "avgDirectoriesPerRepo": 49.0,
+    "totalListings": 478,
+    "aiEnhancedDirectories": 49
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -632,12 +632,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-community-garden-management-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:07:18.541242+00:00Z",
+      "lastUpdated": "2025-11-10T07:07:18.541242+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 48,
+      "directoryCount": 49,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

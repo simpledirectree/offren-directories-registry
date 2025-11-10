@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:38:42.302701+00:00Z",
+  "lastUpdated": "2025-11-10T00:39:23.005416+00:00Z",
   "stats": {
-    "totalDirectories": 1609,
+    "totalDirectories": 1610,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1609.0,
-    "totalListings": 15101,
-    "aiEnhancedDirectories": 1609
+    "avgDirectoriesPerRepo": 1610.0,
+    "totalListings": 15111,
+    "aiEnhancedDirectories": 1610
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -20925,12 +20925,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-investment-banking-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:39:23.005416+00:00Z",
+      "lastUpdated": "2025-11-10T00:39:23.005416+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1609,
+      "directoryCount": 1610,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

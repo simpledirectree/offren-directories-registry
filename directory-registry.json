@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:24:40.044706+00:00Z",
+  "lastUpdated": "2025-11-10T06:25:00.782623+00:00Z",
   "stats": {
-    "totalDirectories": 2373,
+    "totalDirectories": 2374,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2373.0,
-    "totalListings": 22397,
-    "aiEnhancedDirectories": 2373
+    "avgDirectoriesPerRepo": 2374.0,
+    "totalListings": 22407,
+    "aiEnhancedDirectories": 2374
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30857,12 +30857,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-hvac-repair-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:25:00.782623+00:00Z",
+      "lastUpdated": "2025-11-10T06:25:00.782623+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2373,
+      "directoryCount": 2374,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

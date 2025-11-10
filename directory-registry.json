@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T10:48:42.457259+00:00Z",
+  "lastUpdated": "2025-11-10T10:50:12.293467+00:00Z",
   "stats": {
-    "totalDirectories": 410,
+    "totalDirectories": 411,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 410.0,
-    "totalListings": 3941,
-    "aiEnhancedDirectories": 410
+    "avgDirectoriesPerRepo": 411.0,
+    "totalListings": 3951,
+    "aiEnhancedDirectories": 411
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5338,12 +5338,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-meeting-space-rentals-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T10:50:12.293467+00:00Z",
+      "lastUpdated": "2025-11-10T10:50:12.293467+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 410,
+      "directoryCount": 411,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

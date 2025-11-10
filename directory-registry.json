@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:43:13.865646+00:00Z",
+  "lastUpdated": "2025-11-10T07:43:27.487544+00:00Z",
   "stats": {
-    "totalDirectories": 176,
+    "totalDirectories": 177,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 176.0,
-    "totalListings": 1716,
-    "aiEnhancedDirectories": 176
+    "avgDirectoriesPerRepo": 177.0,
+    "totalListings": 1722,
+    "aiEnhancedDirectories": 177
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2296,12 +2296,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-heat-pumps-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:43:27.487544+00:00Z",
+      "lastUpdated": "2025-11-10T07:43:27.487544+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 176,
+      "directoryCount": 177,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

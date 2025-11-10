@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T11:20:03.191694+00:00Z",
+  "lastUpdated": "2025-11-10T11:21:31.722915+00:00Z",
   "stats": {
-    "totalDirectories": 450,
+    "totalDirectories": 451,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 450.0,
-    "totalListings": 4310,
-    "aiEnhancedDirectories": 450
+    "avgDirectoriesPerRepo": 451.0,
+    "totalListings": 4320,
+    "aiEnhancedDirectories": 451
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -5858,12 +5858,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-website-development-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T11:21:31.722915+00:00Z",
+      "lastUpdated": "2025-11-10T11:21:31.722915+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 450,
+      "directoryCount": 451,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

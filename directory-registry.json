@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:30:15.601808+00:00Z",
+  "lastUpdated": "2025-11-10T07:30:35.561991+00:00Z",
   "stats": {
-    "totalDirectories": 131,
+    "totalDirectories": 132,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 131.0,
-    "totalListings": 1269,
-    "aiEnhancedDirectories": 131
+    "avgDirectoriesPerRepo": 132.0,
+    "totalListings": 1276,
+    "aiEnhancedDirectories": 132
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1711,12 +1711,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-notary-services-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:30:35.561991+00:00Z",
+      "lastUpdated": "2025-11-10T07:30:35.561991+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 131,
+      "directoryCount": 132,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

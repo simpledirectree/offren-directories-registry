@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:27:05.241995+00:00Z",
+  "lastUpdated": "2025-11-10T06:27:22.991734+00:00Z",
   "stats": {
-    "totalDirectories": 2381,
+    "totalDirectories": 2382,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2381.0,
-    "totalListings": 22477,
-    "aiEnhancedDirectories": 2381
+    "avgDirectoriesPerRepo": 2382.0,
+    "totalListings": 22487,
+    "aiEnhancedDirectories": 2382
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30961,12 +30961,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-industry-specific-certification-programs-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:27:22.991734+00:00Z",
+      "lastUpdated": "2025-11-10T06:27:22.991734+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2381,
+      "directoryCount": 2382,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

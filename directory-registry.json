@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:49:47.619435+00:00Z",
+  "lastUpdated": "2025-11-10T19:50:29.263106+00:00Z",
   "stats": {
-    "totalDirectories": 1040,
+    "totalDirectories": 1041,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1040.0,
-    "totalListings": 9686,
-    "aiEnhancedDirectories": 1040
+    "avgDirectoriesPerRepo": 1041.0,
+    "totalListings": 9696,
+    "aiEnhancedDirectories": 1041
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13528,12 +13528,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-brand-positioning-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:50:29.263106+00:00Z",
+      "lastUpdated": "2025-11-10T19:50:29.263106+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1040,
+      "directoryCount": 1041,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

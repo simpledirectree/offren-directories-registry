@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:24:01.783518+00:00Z",
+  "lastUpdated": "2025-11-10T04:24:19.413052+00:00Z",
   "stats": {
-    "totalDirectories": 1956,
+    "totalDirectories": 1957,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1956.0,
-    "totalListings": 18341,
-    "aiEnhancedDirectories": 1956
+    "avgDirectoriesPerRepo": 1957.0,
+    "totalListings": 18351,
+    "aiEnhancedDirectories": 1957
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25436,12 +25436,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-heat-pumps-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:24:19.413052+00:00Z",
+      "lastUpdated": "2025-11-10T04:24:19.413052+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1956,
+      "directoryCount": 1957,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

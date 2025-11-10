@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:22:27.635775+00:00Z",
+  "lastUpdated": "2025-11-10T09:22:43.067862+00:00Z",
   "stats": {
-    "totalDirectories": 298,
+    "totalDirectories": 299,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 298.0,
-    "totalListings": 2885,
-    "aiEnhancedDirectories": 298
+    "avgDirectoriesPerRepo": 299.0,
+    "totalListings": 2895,
+    "aiEnhancedDirectories": 299
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3882,12 +3882,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-self-service-grooming-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:22:43.067862+00:00Z",
+      "lastUpdated": "2025-11-10T09:22:43.067862+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 298,
+      "directoryCount": 299,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

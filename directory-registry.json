@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:44:26.756871+00:00Z",
+  "lastUpdated": "2025-11-10T06:44:46.615518+00:00Z",
   "stats": {
-    "totalDirectories": 2441,
+    "totalDirectories": 2442,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2441.0,
-    "totalListings": 23063,
-    "aiEnhancedDirectories": 2441
+    "avgDirectoriesPerRepo": 2442.0,
+    "totalListings": 23073,
+    "aiEnhancedDirectories": 2442
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -31741,12 +31741,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-geriatric-care-management-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:44:46.615518+00:00Z",
+      "lastUpdated": "2025-11-10T06:44:46.615518+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2441,
+      "directoryCount": 2442,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

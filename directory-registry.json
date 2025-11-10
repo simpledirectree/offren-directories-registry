@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:47:11.249690+00:00Z",
+  "lastUpdated": "2025-11-10T04:47:24.476707+00:00Z",
   "stats": {
-    "totalDirectories": 2038,
+    "totalDirectories": 2039,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2038.0,
-    "totalListings": 19156,
-    "aiEnhancedDirectories": 2038
+    "avgDirectoriesPerRepo": 2039.0,
+    "totalListings": 19157,
+    "aiEnhancedDirectories": 2039
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26502,12 +26502,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-office-moving-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:47:24.476707+00:00Z",
+      "lastUpdated": "2025-11-10T04:47:24.476707+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2038,
+      "directoryCount": 2039,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:59:41.826204+00:00Z",
+  "lastUpdated": "2025-11-10T19:59:57.097467+00:00Z",
   "stats": {
-    "totalDirectories": 1049,
+    "totalDirectories": 1050,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1049.0,
-    "totalListings": 9767,
-    "aiEnhancedDirectories": 1049
+    "avgDirectoriesPerRepo": 1050.0,
+    "totalListings": 9773,
+    "aiEnhancedDirectories": 1050
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13645,12 +13645,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-cryotherapy-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:59:57.097467+00:00Z",
+      "lastUpdated": "2025-11-10T19:59:57.097467+00:00Z",
+      "status": "active",
+      "listingsCount": 6,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1049,
+      "directoryCount": 1050,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

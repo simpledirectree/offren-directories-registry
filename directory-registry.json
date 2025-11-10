@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T20:38:53.054804+00:00Z",
+  "lastUpdated": "2025-11-10T20:41:39.105216+00:00Z",
   "stats": {
-    "totalDirectories": 1091,
+    "totalDirectories": 1092,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1091.0,
-    "totalListings": 10162,
-    "aiEnhancedDirectories": 1091
+    "avgDirectoriesPerRepo": 1092.0,
+    "totalListings": 10172,
+    "aiEnhancedDirectories": 1092
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14191,12 +14191,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-pet-sitting-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T20:41:39.105216+00:00Z",
+      "lastUpdated": "2025-11-10T20:41:39.105216+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1091,
+      "directoryCount": 1092,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

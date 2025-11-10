@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:14:25.544944+00:00Z",
+  "lastUpdated": "2025-11-10T05:14:46.220714+00:00Z",
   "stats": {
-    "totalDirectories": 2131,
+    "totalDirectories": 2132,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2131.0,
-    "totalListings": 20062,
-    "aiEnhancedDirectories": 2131
+    "avgDirectoriesPerRepo": 2132.0,
+    "totalListings": 20072,
+    "aiEnhancedDirectories": 2132
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27711,12 +27711,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-anti-money-laundering-compliance-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:14:46.220714+00:00Z",
+      "lastUpdated": "2025-11-10T05:14:46.220714+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2131,
+      "directoryCount": 2132,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:09:10.777349+00:00Z",
+  "lastUpdated": "2025-11-10T02:12:23.934982+00:00Z",
   "stats": {
-    "totalDirectories": 1716,
+    "totalDirectories": 1717,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1716.0,
-    "totalListings": 16060,
-    "aiEnhancedDirectories": 1716
+    "avgDirectoriesPerRepo": 1717.0,
+    "totalListings": 16070,
+    "aiEnhancedDirectories": 1717
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22316,12 +22316,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-commercial-lease-negotiation-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:12:23.934982+00:00Z",
+      "lastUpdated": "2025-11-10T02:12:23.934982+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1716,
+      "directoryCount": 1717,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:15:46.830936+00:00Z",
+  "lastUpdated": "2025-11-10T06:16:05.395843+00:00Z",
   "stats": {
-    "totalDirectories": 2342,
+    "totalDirectories": 2343,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2342.0,
-    "totalListings": 22107,
-    "aiEnhancedDirectories": 2342
+    "avgDirectoriesPerRepo": 2343.0,
+    "totalListings": 22117,
+    "aiEnhancedDirectories": 2343
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30454,12 +30454,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-customer-service-process-development-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:16:05.395843+00:00Z",
+      "lastUpdated": "2025-11-10T06:16:05.395843+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2342,
+      "directoryCount": 2343,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:10:50.132681+00:00Z",
+  "lastUpdated": "2025-11-10T06:11:09.283347+00:00Z",
   "stats": {
-    "totalDirectories": 2325,
+    "totalDirectories": 2326,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2325.0,
-    "totalListings": 21937,
-    "aiEnhancedDirectories": 2325
+    "avgDirectoriesPerRepo": 2326.0,
+    "totalListings": 21947,
+    "aiEnhancedDirectories": 2326
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -30233,12 +30233,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-business-model-development-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:11:09.283347+00:00Z",
+      "lastUpdated": "2025-11-10T06:11:09.283347+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2325,
+      "directoryCount": 2326,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

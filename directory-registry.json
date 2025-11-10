@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:29:15.766992+00:00Z",
+  "lastUpdated": "2025-11-10T16:29:58.506322+00:00Z",
   "stats": {
-    "totalDirectories": 803,
+    "totalDirectories": 804,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 803.0,
-    "totalListings": 7498,
-    "aiEnhancedDirectories": 803
+    "avgDirectoriesPerRepo": 804.0,
+    "totalListings": 7508,
+    "aiEnhancedDirectories": 804
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10447,12 +10447,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-ultrasound-services-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:29:58.506322+00:00Z",
+      "lastUpdated": "2025-11-10T16:29:58.506322+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 803,
+      "directoryCount": 804,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

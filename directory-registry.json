@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:37:50.115436+00:00Z",
+  "lastUpdated": "2025-11-10T05:38:05.594264+00:00Z",
   "stats": {
-    "totalDirectories": 2212,
+    "totalDirectories": 2213,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2212.0,
-    "totalListings": 20839,
-    "aiEnhancedDirectories": 2212
+    "avgDirectoriesPerRepo": 2213.0,
+    "totalListings": 20849,
+    "aiEnhancedDirectories": 2213
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28764,12 +28764,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-piano-moving-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:38:05.594264+00:00Z",
+      "lastUpdated": "2025-11-10T05:38:05.594264+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2212,
+      "directoryCount": 2213,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

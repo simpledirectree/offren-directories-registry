@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:47:21.803566+00:00Z",
+  "lastUpdated": "2025-11-10T01:48:29.160502+00:00Z",
   "stats": {
-    "totalDirectories": 1687,
+    "totalDirectories": 1688,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1687.0,
-    "totalListings": 15795,
-    "aiEnhancedDirectories": 1687
+    "avgDirectoriesPerRepo": 1688.0,
+    "totalListings": 15805,
+    "aiEnhancedDirectories": 1688
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21939,12 +21939,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-commercial-kitchen-rentals-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:48:29.160502+00:00Z",
+      "lastUpdated": "2025-11-10T01:48:29.160502+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1687,
+      "directoryCount": 1688,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T16:52:35.128408+00:00Z",
+  "lastUpdated": "2025-11-10T16:52:51.281709+00:00Z",
   "stats": {
-    "totalDirectories": 834,
+    "totalDirectories": 835,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 834.0,
-    "totalListings": 7772,
-    "aiEnhancedDirectories": 834
+    "avgDirectoriesPerRepo": 835.0,
+    "totalListings": 7782,
+    "aiEnhancedDirectories": 835
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -10850,12 +10850,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-ui-ux-design-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T16:52:51.281709+00:00Z",
+      "lastUpdated": "2025-11-10T16:52:51.281709+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 834,
+      "directoryCount": 835,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

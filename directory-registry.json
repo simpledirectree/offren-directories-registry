@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:29:58.360530+00:00Z",
+  "lastUpdated": "2025-11-10T07:30:15.601808+00:00Z",
   "stats": {
-    "totalDirectories": 130,
+    "totalDirectories": 131,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 130.0,
-    "totalListings": 1259,
-    "aiEnhancedDirectories": 130
+    "avgDirectoriesPerRepo": 131.0,
+    "totalListings": 1269,
+    "aiEnhancedDirectories": 131
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -1698,12 +1698,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-recommendation-engines-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:30:15.601808+00:00Z",
+      "lastUpdated": "2025-11-10T07:30:15.601808+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 130,
+      "directoryCount": 131,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

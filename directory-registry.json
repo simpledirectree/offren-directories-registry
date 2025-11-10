@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:30:37.854679+00:00Z",
+  "lastUpdated": "2025-11-10T04:30:54.797091+00:00Z",
   "stats": {
-    "totalDirectories": 1979,
+    "totalDirectories": 1980,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1979.0,
-    "totalListings": 18571,
-    "aiEnhancedDirectories": 1979
+    "avgDirectoriesPerRepo": 1980.0,
+    "totalListings": 18581,
+    "aiEnhancedDirectories": 1980
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25735,12 +25735,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-tribute-bands-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:30:54.797091+00:00Z",
+      "lastUpdated": "2025-11-10T04:30:54.797091+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1979,
+      "directoryCount": 1980,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:45:17.012306+00:00Z",
+  "lastUpdated": "2025-11-10T04:45:31.760607+00:00Z",
   "stats": {
-    "totalDirectories": 2031,
+    "totalDirectories": 2032,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2031.0,
-    "totalListings": 19086,
-    "aiEnhancedDirectories": 2031
+    "avgDirectoriesPerRepo": 2032.0,
+    "totalListings": 19096,
+    "aiEnhancedDirectories": 2032
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26411,12 +26411,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-hot-stone-massage-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:45:31.760607+00:00Z",
+      "lastUpdated": "2025-11-10T04:45:31.760607+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2031,
+      "directoryCount": 2032,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:53:59.954804+00:00Z",
+  "lastUpdated": "2025-11-10T13:54:19.197639+00:00Z",
   "stats": {
-    "totalDirectories": 612,
+    "totalDirectories": 613,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 612.0,
-    "totalListings": 5768,
-    "aiEnhancedDirectories": 612
+    "avgDirectoriesPerRepo": 613.0,
+    "totalListings": 5778,
+    "aiEnhancedDirectories": 613
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7964,12 +7964,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-auto-body-repair-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:54:19.197639+00:00Z",
+      "lastUpdated": "2025-11-10T13:54:19.197639+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 612,
+      "directoryCount": 613,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

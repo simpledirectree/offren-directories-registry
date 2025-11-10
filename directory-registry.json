@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T22:36:54.863158+00:00Z",
+  "lastUpdated": "2025-11-10T22:38:51.013247+00:00Z",
   "stats": {
-    "totalDirectories": 1241,
+    "totalDirectories": 1242,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1241.0,
-    "totalListings": 11543,
-    "aiEnhancedDirectories": 1241
+    "avgDirectoriesPerRepo": 1242.0,
+    "totalListings": 11553,
+    "aiEnhancedDirectories": 1242
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16141,12 +16141,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-hipaa-compliance-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T22:38:51.013247+00:00Z",
+      "lastUpdated": "2025-11-10T22:38:51.013247+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1241,
+      "directoryCount": 1242,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

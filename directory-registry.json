@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:39:23.931213+00:00Z",
+  "lastUpdated": "2025-11-10T21:39:38.816796+00:00Z",
   "stats": {
-    "totalDirectories": 1172,
+    "totalDirectories": 1173,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1172.0,
-    "totalListings": 10913,
-    "aiEnhancedDirectories": 1172
+    "avgDirectoriesPerRepo": 1173.0,
+    "totalListings": 10914,
+    "aiEnhancedDirectories": 1173
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -15244,12 +15244,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-cardiovascular-surgery-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:39:38.816796+00:00Z",
+      "lastUpdated": "2025-11-10T21:39:38.816796+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1172,
+      "directoryCount": 1173,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

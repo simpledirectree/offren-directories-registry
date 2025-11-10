@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:12:36.407997+00:00Z",
+  "lastUpdated": "2025-11-10T07:12:57.769053+00:00Z",
   "stats": {
-    "totalDirectories": 68,
+    "totalDirectories": 69,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 68.0,
-    "totalListings": 663,
-    "aiEnhancedDirectories": 68
+    "avgDirectoriesPerRepo": 69.0,
+    "totalListings": 673,
+    "aiEnhancedDirectories": 69
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -892,12 +892,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-network-monitoring-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:12:57.769053+00:00Z",
+      "lastUpdated": "2025-11-10T07:12:57.769053+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 68,
+      "directoryCount": 69,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

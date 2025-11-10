@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:46:08.532311+00:00Z",
+  "lastUpdated": "2025-11-10T09:47:12.044100+00:00Z",
   "stats": {
-    "totalDirectories": 333,
+    "totalDirectories": 334,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 333.0,
-    "totalListings": 3213,
-    "aiEnhancedDirectories": 333
+    "avgDirectoriesPerRepo": 334.0,
+    "totalListings": 3223,
+    "aiEnhancedDirectories": 334
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -4337,12 +4337,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-financial-dashboards-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:47:12.044100+00:00Z",
+      "lastUpdated": "2025-11-10T09:47:12.044100+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 333,
+      "directoryCount": 334,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:48:14.117608+00:00Z",
+  "lastUpdated": "2025-11-10T03:48:33.050218+00:00Z",
   "stats": {
-    "totalDirectories": 1831,
+    "totalDirectories": 1832,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1831.0,
-    "totalListings": 17138,
-    "aiEnhancedDirectories": 1831
+    "avgDirectoriesPerRepo": 1832.0,
+    "totalListings": 17148,
+    "aiEnhancedDirectories": 1832
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -23811,12 +23811,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-manufacturing-optimization-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:48:33.050218+00:00Z",
+      "lastUpdated": "2025-11-10T03:48:33.050218+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1831,
+      "directoryCount": 1832,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

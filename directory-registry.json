@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:07:07.830619+00:00Z",
+  "lastUpdated": "2025-11-10T05:07:25.369369+00:00Z",
   "stats": {
-    "totalDirectories": 2107,
+    "totalDirectories": 2108,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2107.0,
-    "totalListings": 19822,
-    "aiEnhancedDirectories": 2107
+    "avgDirectoriesPerRepo": 2108.0,
+    "totalListings": 19832,
+    "aiEnhancedDirectories": 2108
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27399,12 +27399,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-electrical-wiring-in-north-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:07:25.369369+00:00Z",
+      "lastUpdated": "2025-11-10T05:07:25.369369+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2107,
+      "directoryCount": 2108,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:03:56.413139+00:00Z",
+  "lastUpdated": "2025-11-10T07:04:12.812008+00:00Z",
   "stats": {
-    "totalDirectories": 37,
+    "totalDirectories": 38,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 37.0,
-    "totalListings": 358,
-    "aiEnhancedDirectories": 37
+    "avgDirectoriesPerRepo": 38.0,
+    "totalListings": 368,
+    "aiEnhancedDirectories": 38
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -489,12 +489,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-customer-service-process-development-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:04:12.812008+00:00Z",
+      "lastUpdated": "2025-11-10T07:04:12.812008+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 37,
+      "directoryCount": 38,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

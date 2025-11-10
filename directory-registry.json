@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:15:40.953931+00:00Z",
+  "lastUpdated": "2025-11-10T05:15:55.187154+00:00Z",
   "stats": {
-    "totalDirectories": 2135,
+    "totalDirectories": 2136,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2135.0,
-    "totalListings": 20102,
-    "aiEnhancedDirectories": 2135
+    "avgDirectoriesPerRepo": 2136.0,
+    "totalListings": 20106,
+    "aiEnhancedDirectories": 2136
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27763,12 +27763,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-circuit-training-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:15:55.187154+00:00Z",
+      "lastUpdated": "2025-11-10T05:15:55.187154+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2135,
+      "directoryCount": 2136,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

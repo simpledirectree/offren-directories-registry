@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T23:11:46.313718+00:00Z",
+  "lastUpdated": "2025-11-10T23:12:02.235429+00:00Z",
   "stats": {
-    "totalDirectories": 1266,
+    "totalDirectories": 1267,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1266.0,
-    "totalListings": 11781,
-    "aiEnhancedDirectories": 1266
+    "avgDirectoriesPerRepo": 1267.0,
+    "totalListings": 11791,
+    "aiEnhancedDirectories": 1267
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -16466,12 +16466,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-men-s-grooming-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T23:12:02.235429+00:00Z",
+      "lastUpdated": "2025-11-10T23:12:02.235429+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1266,
+      "directoryCount": 1267,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

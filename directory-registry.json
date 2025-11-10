@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T08:02:29.121431+00:00Z",
+  "lastUpdated": "2025-11-10T08:02:42.264109+00:00Z",
   "stats": {
-    "totalDirectories": 213,
+    "totalDirectories": 214,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 213.0,
-    "totalListings": 2080,
-    "aiEnhancedDirectories": 213
+    "avgDirectoriesPerRepo": 214.0,
+    "totalListings": 2090,
+    "aiEnhancedDirectories": 214
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -2777,12 +2777,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-due-diligence-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T08:02:42.264109+00:00Z",
+      "lastUpdated": "2025-11-10T08:02:42.264109+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 213,
+      "directoryCount": 214,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

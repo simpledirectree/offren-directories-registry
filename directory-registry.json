@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T17:57:28.900866+00:00Z",
+  "lastUpdated": "2025-11-10T17:58:33.005547+00:00Z",
   "stats": {
-    "totalDirectories": 904,
+    "totalDirectories": 905,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 904.0,
-    "totalListings": 8444,
-    "aiEnhancedDirectories": 904
+    "avgDirectoriesPerRepo": 905.0,
+    "totalListings": 8446,
+    "aiEnhancedDirectories": 905
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -11760,12 +11760,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-unemployment-claims-management-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T17:58:33.005547+00:00Z",
+      "lastUpdated": "2025-11-10T17:58:33.005547+00:00Z",
+      "status": "active",
+      "listingsCount": 2,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 904,
+      "directoryCount": 905,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

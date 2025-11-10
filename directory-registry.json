@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T00:50:57.888362+00:00Z",
+  "lastUpdated": "2025-11-10T00:52:06.549190+00:00Z",
   "stats": {
-    "totalDirectories": 1620,
+    "totalDirectories": 1621,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1620.0,
-    "totalListings": 15207,
-    "aiEnhancedDirectories": 1620
+    "avgDirectoriesPerRepo": 1621.0,
+    "totalListings": 15211,
+    "aiEnhancedDirectories": 1621
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21068,12 +21068,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-general-home-repairs-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T00:52:06.549190+00:00Z",
+      "lastUpdated": "2025-11-10T00:52:06.549190+00:00Z",
+      "status": "active",
+      "listingsCount": 4,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1620,
+      "directoryCount": 1621,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

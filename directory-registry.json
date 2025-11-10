@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T06:05:10.749873+00:00Z",
+  "lastUpdated": "2025-11-10T06:05:25.801157+00:00Z",
   "stats": {
-    "totalDirectories": 2305,
+    "totalDirectories": 2306,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2305.0,
-    "totalListings": 21748,
-    "aiEnhancedDirectories": 2305
+    "avgDirectoriesPerRepo": 2306.0,
+    "totalListings": 21758,
+    "aiEnhancedDirectories": 2306
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -29973,12 +29973,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-prenatal-massage-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T06:05:25.801157+00:00Z",
+      "lastUpdated": "2025-11-10T06:05:25.801157+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2305,
+      "directoryCount": 2306,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

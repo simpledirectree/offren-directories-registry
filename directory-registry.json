@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:13:53.817953+00:00Z",
+  "lastUpdated": "2025-11-10T02:14:09.801729+00:00Z",
   "stats": {
-    "totalDirectories": 1718,
+    "totalDirectories": 1719,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1718.0,
-    "totalListings": 16080,
-    "aiEnhancedDirectories": 1718
+    "avgDirectoriesPerRepo": 1719.0,
+    "totalListings": 16090,
+    "aiEnhancedDirectories": 1719
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22342,12 +22342,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-laser-hair-removal-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:14:09.801729+00:00Z",
+      "lastUpdated": "2025-11-10T02:14:09.801729+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1718,
+      "directoryCount": 1719,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

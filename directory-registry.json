@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:01:51.155177+00:00Z",
+  "lastUpdated": "2025-11-10T09:02:30.834258+00:00Z",
   "stats": {
-    "totalDirectories": 271,
+    "totalDirectories": 272,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 271.0,
-    "totalListings": 2631,
-    "aiEnhancedDirectories": 271
+    "avgDirectoriesPerRepo": 272.0,
+    "totalListings": 2641,
+    "aiEnhancedDirectories": 272
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3531,12 +3531,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-psychiatry-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:02:30.834258+00:00Z",
+      "lastUpdated": "2025-11-10T09:02:30.834258+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 271,
+      "directoryCount": 272,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

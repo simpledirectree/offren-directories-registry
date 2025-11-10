@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:28:32.387652+00:00Z",
+  "lastUpdated": "2025-11-10T04:28:49.020254+00:00Z",
   "stats": {
-    "totalDirectories": 1972,
+    "totalDirectories": 1973,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1972.0,
-    "totalListings": 18501,
-    "aiEnhancedDirectories": 1972
+    "avgDirectoriesPerRepo": 1973.0,
+    "totalListings": 18511,
+    "aiEnhancedDirectories": 1973
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25644,12 +25644,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-lean-six-sigma-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:28:49.020254+00:00Z",
+      "lastUpdated": "2025-11-10T04:28:49.020254+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1972,
+      "directoryCount": 1973,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

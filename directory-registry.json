@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:10:24.220913+00:00Z",
+  "lastUpdated": "2025-11-10T07:10:41.471851+00:00Z",
   "stats": {
-    "totalDirectories": 60,
+    "totalDirectories": 61,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 60.0,
-    "totalListings": 583,
-    "aiEnhancedDirectories": 60
+    "avgDirectoriesPerRepo": 61.0,
+    "totalListings": 593,
+    "aiEnhancedDirectories": 61
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -788,12 +788,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-tire-rotation-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:10:41.471851+00:00Z",
+      "lastUpdated": "2025-11-10T07:10:41.471851+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 60,
+      "directoryCount": 61,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

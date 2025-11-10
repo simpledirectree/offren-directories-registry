@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T07:05:52.677532+00:00Z",
+  "lastUpdated": "2025-11-10T07:06:08.973999+00:00Z",
   "stats": {
-    "totalDirectories": 44,
+    "totalDirectories": 45,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 44.0,
-    "totalListings": 428,
-    "aiEnhancedDirectories": 44
+    "avgDirectoriesPerRepo": 45.0,
+    "totalListings": 438,
+    "aiEnhancedDirectories": 45
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -580,12 +580,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-art-moving-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T07:06:08.973999+00:00Z",
+      "lastUpdated": "2025-11-10T07:06:08.973999+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 44,
+      "directoryCount": 45,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:19:42.446525+00:00Z",
+  "lastUpdated": "2025-11-10T05:20:01.226918+00:00Z",
   "stats": {
-    "totalDirectories": 2149,
+    "totalDirectories": 2150,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2149.0,
-    "totalListings": 20236,
-    "aiEnhancedDirectories": 2149
+    "avgDirectoriesPerRepo": 2150.0,
+    "totalListings": 20246,
+    "aiEnhancedDirectories": 2150
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -27945,12 +27945,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-corporate-djs-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:20:01.226918+00:00Z",
+      "lastUpdated": "2025-11-10T05:20:01.226918+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2149,
+      "directoryCount": 2150,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

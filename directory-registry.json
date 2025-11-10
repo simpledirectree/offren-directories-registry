@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T09:01:37.099893+00:00Z",
+  "lastUpdated": "2025-11-10T09:01:51.155177+00:00Z",
   "stats": {
-    "totalDirectories": 270,
+    "totalDirectories": 271,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 270.0,
-    "totalListings": 2621,
-    "aiEnhancedDirectories": 270
+    "avgDirectoriesPerRepo": 271.0,
+    "totalListings": 2631,
+    "aiEnhancedDirectories": 271
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -3518,12 +3518,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-suspension-upgrades-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T09:01:51.155177+00:00Z",
+      "lastUpdated": "2025-11-10T09:01:51.155177+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 270,
+      "directoryCount": 271,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

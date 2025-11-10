@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T01:26:41.964874+00:00Z",
+  "lastUpdated": "2025-11-10T01:28:17.872081+00:00Z",
   "stats": {
-    "totalDirectories": 1659,
+    "totalDirectories": 1660,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1659.0,
-    "totalListings": 15546,
-    "aiEnhancedDirectories": 1659
+    "avgDirectoriesPerRepo": 1660.0,
+    "totalListings": 15551,
+    "aiEnhancedDirectories": 1660
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -21575,12 +21575,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-standard-operating-procedure-creation-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T01:28:17.872081+00:00Z",
+      "lastUpdated": "2025-11-10T01:28:17.872081+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1659,
+      "directoryCount": 1660,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

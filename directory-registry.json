@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:02:00.531068+00:00Z",
+  "lastUpdated": "2025-11-10T04:02:16.956529+00:00Z",
   "stats": {
-    "totalDirectories": 1879,
+    "totalDirectories": 1880,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1879.0,
-    "totalListings": 17604,
-    "aiEnhancedDirectories": 1879
+    "avgDirectoriesPerRepo": 1880.0,
+    "totalListings": 17614,
+    "aiEnhancedDirectories": 1880
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24435,12 +24435,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-hitch-installation-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:02:16.956529+00:00Z",
+      "lastUpdated": "2025-11-10T04:02:16.956529+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1879,
+      "directoryCount": 1880,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

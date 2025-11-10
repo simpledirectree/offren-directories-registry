@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:26:56.900250+00:00Z",
+  "lastUpdated": "2025-11-10T04:27:14.382613+00:00Z",
   "stats": {
-    "totalDirectories": 1966,
+    "totalDirectories": 1967,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1966.0,
-    "totalListings": 18441,
-    "aiEnhancedDirectories": 1966
+    "avgDirectoriesPerRepo": 1967.0,
+    "totalListings": 18451,
+    "aiEnhancedDirectories": 1967
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25566,12 +25566,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-print-design-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:27:14.382613+00:00Z",
+      "lastUpdated": "2025-11-10T04:27:14.382613+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1966,
+      "directoryCount": 1967,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

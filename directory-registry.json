@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:03:06.234539+00:00Z",
+  "lastUpdated": "2025-11-10T04:03:21.035807+00:00Z",
   "stats": {
-    "totalDirectories": 1883,
+    "totalDirectories": 1884,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1883.0,
-    "totalListings": 17644,
-    "aiEnhancedDirectories": 1883
+    "avgDirectoriesPerRepo": 1884.0,
+    "totalListings": 17654,
+    "aiEnhancedDirectories": 1884
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24487,12 +24487,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-telecommunications-consulting-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:03:21.035807+00:00Z",
+      "lastUpdated": "2025-11-10T04:03:21.035807+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1883,
+      "directoryCount": 1884,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:57:53.639486+00:00Z",
+  "lastUpdated": "2025-11-10T04:58:13.013493+00:00Z",
   "stats": {
-    "totalDirectories": 2076,
+    "totalDirectories": 2077,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2076.0,
-    "totalListings": 19519,
-    "aiEnhancedDirectories": 2076
+    "avgDirectoriesPerRepo": 2077.0,
+    "totalListings": 19529,
+    "aiEnhancedDirectories": 2077
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26996,12 +26996,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-periodontics-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:58:13.013493+00:00Z",
+      "lastUpdated": "2025-11-10T04:58:13.013493+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2076,
+      "directoryCount": 2077,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

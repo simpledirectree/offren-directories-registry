@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T03:57:22.822521+00:00Z",
+  "lastUpdated": "2025-11-10T03:57:43.633829+00:00Z",
   "stats": {
-    "totalDirectories": 1863,
+    "totalDirectories": 1864,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1863.0,
-    "totalListings": 17449,
-    "aiEnhancedDirectories": 1863
+    "avgDirectoriesPerRepo": 1864.0,
+    "totalListings": 17459,
+    "aiEnhancedDirectories": 1864
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -24227,12 +24227,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-compliance-assessments-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T03:57:43.633829+00:00Z",
+      "lastUpdated": "2025-11-10T03:57:43.633829+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1863,
+      "directoryCount": 1864,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

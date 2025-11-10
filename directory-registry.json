@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T02:44:40.504321+00:00Z",
+  "lastUpdated": "2025-11-10T02:45:52.100495+00:00Z",
   "stats": {
-    "totalDirectories": 1759,
+    "totalDirectories": 1760,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1759.0,
-    "totalListings": 16462,
-    "aiEnhancedDirectories": 1759
+    "avgDirectoriesPerRepo": 1760.0,
+    "totalListings": 16472,
+    "aiEnhancedDirectories": 1760
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -22875,12 +22875,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-hospice-services-in-montana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T02:45:52.100495+00:00Z",
+      "lastUpdated": "2025-11-10T02:45:52.100495+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1759,
+      "directoryCount": 1760,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

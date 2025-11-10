@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:19:55.330762+00:00Z",
+  "lastUpdated": "2025-11-10T13:20:11.252836+00:00Z",
   "stats": {
-    "totalDirectories": 577,
+    "totalDirectories": 578,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 577.0,
-    "totalListings": 5465,
-    "aiEnhancedDirectories": 577
+    "avgDirectoriesPerRepo": 578.0,
+    "totalListings": 5475,
+    "aiEnhancedDirectories": 578
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7509,12 +7509,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-performance-management-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:20:11.252836+00:00Z",
+      "lastUpdated": "2025-11-10T13:20:11.252836+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 577,
+      "directoryCount": 578,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

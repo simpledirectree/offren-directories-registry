@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T14:45:11.773747+00:00Z",
+  "lastUpdated": "2025-11-10T14:46:17.613815+00:00Z",
   "stats": {
-    "totalDirectories": 675,
+    "totalDirectories": 676,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 675.0,
-    "totalListings": 6342,
-    "aiEnhancedDirectories": 675
+    "avgDirectoriesPerRepo": 676.0,
+    "totalListings": 6352,
+    "aiEnhancedDirectories": 676
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -8783,12 +8783,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-cybersecurity-services-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T14:46:17.613815+00:00Z",
+      "lastUpdated": "2025-11-10T14:46:17.613815+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 675,
+      "directoryCount": 676,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:03:35.474947+00:00Z",
+  "lastUpdated": "2025-11-10T21:03:50.799568+00:00Z",
   "stats": {
-    "totalDirectories": 1125,
+    "totalDirectories": 1126,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1125.0,
-    "totalListings": 10489,
-    "aiEnhancedDirectories": 1125
+    "avgDirectoriesPerRepo": 1126.0,
+    "totalListings": 10499,
+    "aiEnhancedDirectories": 1126
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14633,12 +14633,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-entity-selection-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:03:50.799568+00:00Z",
+      "lastUpdated": "2025-11-10T21:03:50.799568+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1125,
+      "directoryCount": 1126,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

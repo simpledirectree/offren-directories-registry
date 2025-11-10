@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T13:53:45.880516+00:00Z",
+  "lastUpdated": "2025-11-10T13:53:59.954804+00:00Z",
   "stats": {
-    "totalDirectories": 611,
+    "totalDirectories": 612,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 611.0,
-    "totalListings": 5763,
-    "aiEnhancedDirectories": 611
+    "avgDirectoriesPerRepo": 612.0,
+    "totalListings": 5768,
+    "aiEnhancedDirectories": 612
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -7951,12 +7951,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-identity-and-access-management-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T13:53:59.954804+00:00Z",
+      "lastUpdated": "2025-11-10T13:53:59.954804+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 611,
+      "directoryCount": 612,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

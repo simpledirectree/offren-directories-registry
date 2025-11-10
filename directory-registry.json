@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:49:21.877233+00:00Z",
+  "lastUpdated": "2025-11-10T04:49:38.716712+00:00Z",
   "stats": {
-    "totalDirectories": 2046,
+    "totalDirectories": 2047,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2046.0,
-    "totalListings": 19227,
-    "aiEnhancedDirectories": 2046
+    "avgDirectoriesPerRepo": 2047.0,
+    "totalListings": 19237,
+    "aiEnhancedDirectories": 2047
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26606,12 +26606,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-cash-management-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:49:38.716712+00:00Z",
+      "lastUpdated": "2025-11-10T04:49:38.716712+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2046,
+      "directoryCount": 2047,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

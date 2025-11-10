@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T19:12:45.712597+00:00Z",
+  "lastUpdated": "2025-11-10T19:13:02.506850+00:00Z",
   "stats": {
-    "totalDirectories": 1002,
+    "totalDirectories": 1003,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1002.0,
-    "totalListings": 9331,
-    "aiEnhancedDirectories": 1002
+    "avgDirectoriesPerRepo": 1003.0,
+    "totalListings": 9341,
+    "aiEnhancedDirectories": 1003
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -13034,12 +13034,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-temporary-staffing-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T19:13:02.506850+00:00Z",
+      "lastUpdated": "2025-11-10T19:13:02.506850+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1002,
+      "directoryCount": 1003,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

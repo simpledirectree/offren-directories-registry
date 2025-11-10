@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T21:12:39.898667+00:00Z",
+  "lastUpdated": "2025-11-10T21:13:24.802019+00:00Z",
   "stats": {
-    "totalDirectories": 1136,
+    "totalDirectories": 1137,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1136.0,
-    "totalListings": 10584,
-    "aiEnhancedDirectories": 1136
+    "avgDirectoriesPerRepo": 1137.0,
+    "totalListings": 10591,
+    "aiEnhancedDirectories": 1137
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -14776,12 +14776,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-martial-arts-studios-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T21:13:24.802019+00:00Z",
+      "lastUpdated": "2025-11-10T21:13:24.802019+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1136,
+      "directoryCount": 1137,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

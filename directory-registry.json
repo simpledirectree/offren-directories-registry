@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T05:38:58.257876+00:00Z",
+  "lastUpdated": "2025-11-10T05:39:14.635584+00:00Z",
   "stats": {
-    "totalDirectories": 2216,
+    "totalDirectories": 2217,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2216.0,
-    "totalListings": 20879,
-    "aiEnhancedDirectories": 2216
+    "avgDirectoriesPerRepo": 2217.0,
+    "totalListings": 20889,
+    "aiEnhancedDirectories": 2217
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -28816,12 +28816,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-buffet-restaurants-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T05:39:14.635584+00:00Z",
+      "lastUpdated": "2025-11-10T05:39:14.635584+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2216,
+      "directoryCount": 2217,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

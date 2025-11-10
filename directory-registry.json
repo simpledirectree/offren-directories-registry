@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:42:13.662000+00:00Z",
+  "lastUpdated": "2025-11-10T04:42:32.022526+00:00Z",
   "stats": {
-    "totalDirectories": 2020,
+    "totalDirectories": 2021,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 2020.0,
-    "totalListings": 18976,
-    "aiEnhancedDirectories": 2020
+    "avgDirectoriesPerRepo": 2021.0,
+    "totalListings": 18986,
+    "aiEnhancedDirectories": 2021
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -26268,12 +26268,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-retained-recruiting-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:42:32.022526+00:00Z",
+      "lastUpdated": "2025-11-10T04:42:32.022526+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 2020,
+      "directoryCount": 2021,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

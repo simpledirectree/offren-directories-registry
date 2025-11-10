@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T18:29:08.803933+00:00Z",
+  "lastUpdated": "2025-11-10T18:30:40.516049+00:00Z",
   "stats": {
-    "totalDirectories": 944,
+    "totalDirectories": 945,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 944.0,
-    "totalListings": 8794,
-    "aiEnhancedDirectories": 944
+    "avgDirectoriesPerRepo": 945.0,
+    "totalListings": 8804,
+    "aiEnhancedDirectories": 945
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -12280,12 +12280,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-contract-review-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T18:30:40.516049+00:00Z",
+      "lastUpdated": "2025-11-10T18:30:40.516049+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 944,
+      "directoryCount": 945,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

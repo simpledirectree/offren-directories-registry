@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T04:34:08.275933+00:00Z",
+  "lastUpdated": "2025-11-10T04:34:26.724844+00:00Z",
   "stats": {
-    "totalDirectories": 1992,
+    "totalDirectories": 1993,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1992.0,
-    "totalListings": 18701,
-    "aiEnhancedDirectories": 1992
+    "avgDirectoriesPerRepo": 1993.0,
+    "totalListings": 18711,
+    "aiEnhancedDirectories": 1993
   },
   "directories": {
     "chinese-american-owned-risk-assessments-in-florida": {
@@ -25904,12 +25904,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-calendar-management-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-10T04:34:26.724844+00:00Z",
+      "lastUpdated": "2025-11-10T04:34:26.724844+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-09T05:19:19.579618+00:00Z",
-      "directoryCount": 1992,
+      "directoryCount": 1993,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

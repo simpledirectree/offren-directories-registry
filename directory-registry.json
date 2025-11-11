@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:47:55.239477+00:00Z",
+  "lastUpdated": "2025-11-11T00:48:37.290469+00:00Z",
   "stats": {
-    "totalDirectories": 1364,
+    "totalDirectories": 1365,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1364.0,
-    "totalListings": 12697,
-    "aiEnhancedDirectories": 1364
+    "avgDirectoriesPerRepo": 1365.0,
+    "totalListings": 12707,
+    "aiEnhancedDirectories": 1365
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17740,12 +17740,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-style-coaching-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:48:37.290469+00:00Z",
+      "lastUpdated": "2025-11-11T00:48:37.290469+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1364,
+      "directoryCount": 1365,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

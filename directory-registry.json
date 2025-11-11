@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:56:04.130641+00:00Z",
+  "lastUpdated": "2025-11-11T02:58:29.869142+00:00Z",
   "stats": {
-    "totalDirectories": 1482,
+    "totalDirectories": 1483,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1482.0,
-    "totalListings": 13798,
-    "aiEnhancedDirectories": 1482
+    "avgDirectoriesPerRepo": 1483.0,
+    "totalListings": 13808,
+    "aiEnhancedDirectories": 1483
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19274,12 +19274,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-acting-instruction-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:58:29.869142+00:00Z",
+      "lastUpdated": "2025-11-11T02:58:29.869142+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1482,
+      "directoryCount": 1483,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

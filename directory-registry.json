@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:03:35.910891+00:00Z",
+  "lastUpdated": "2025-11-11T02:05:08.574082+00:00Z",
   "stats": {
-    "totalDirectories": 1431,
+    "totalDirectories": 1432,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1431.0,
-    "totalListings": 13333,
-    "aiEnhancedDirectories": 1431
+    "avgDirectoriesPerRepo": 1432.0,
+    "totalListings": 13338,
+    "aiEnhancedDirectories": 1432
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18611,12 +18611,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-boutique-fitness-studios-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:05:08.574082+00:00Z",
+      "lastUpdated": "2025-11-11T02:05:08.574082+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1431,
+      "directoryCount": 1432,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

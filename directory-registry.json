@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:28:19.518614+00:00Z",
+  "lastUpdated": "2025-11-11T02:29:54.689813+00:00Z",
   "stats": {
-    "totalDirectories": 1454,
+    "totalDirectories": 1455,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1454.0,
-    "totalListings": 13540,
-    "aiEnhancedDirectories": 1454
+    "avgDirectoriesPerRepo": 1455.0,
+    "totalListings": 13550,
+    "aiEnhancedDirectories": 1455
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18910,12 +18910,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-email-response-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:29:54.689813+00:00Z",
+      "lastUpdated": "2025-11-11T02:29:54.689813+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1454,
+      "directoryCount": 1455,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

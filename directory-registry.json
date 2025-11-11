@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:48:22.199751+00:00Z",
+  "lastUpdated": "2025-11-11T03:48:40.239873+00:00Z",
   "stats": {
-    "totalDirectories": 1551,
+    "totalDirectories": 1552,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1551.0,
-    "totalListings": 14449,
-    "aiEnhancedDirectories": 1551
+    "avgDirectoriesPerRepo": 1552.0,
+    "totalListings": 14459,
+    "aiEnhancedDirectories": 1552
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20171,12 +20171,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-hot-towel-shaves-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:48:40.239873+00:00Z",
+      "lastUpdated": "2025-11-11T03:48:40.239873+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1551,
+      "directoryCount": 1552,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

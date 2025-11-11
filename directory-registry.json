@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:04:28.130402+00:00Z",
+  "lastUpdated": "2025-11-11T04:04:49.141899+00:00Z",
   "stats": {
-    "totalDirectories": 1599,
+    "totalDirectories": 1600,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1599.0,
-    "totalListings": 14926,
-    "aiEnhancedDirectories": 1599
+    "avgDirectoriesPerRepo": 1600.0,
+    "totalListings": 14936,
+    "aiEnhancedDirectories": 1600
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20795,12 +20795,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-ct-scan-services-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:04:49.141899+00:00Z",
+      "lastUpdated": "2025-11-11T04:04:49.141899+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1599,
+      "directoryCount": 1600,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

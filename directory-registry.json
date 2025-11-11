@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:25:00.249151+00:00Z",
+  "lastUpdated": "2025-11-11T00:26:06.194475+00:00Z",
   "stats": {
-    "totalDirectories": 1339,
+    "totalDirectories": 1340,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1339.0,
-    "totalListings": 12460,
-    "aiEnhancedDirectories": 1339
+    "avgDirectoriesPerRepo": 1340.0,
+    "totalListings": 12470,
+    "aiEnhancedDirectories": 1340
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17415,12 +17415,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-sod-installation-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:26:06.194475+00:00Z",
+      "lastUpdated": "2025-11-11T00:26:06.194475+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1339,
+      "directoryCount": 1340,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

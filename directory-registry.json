@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:49:21.589878+00:00Z",
+  "lastUpdated": "2025-11-11T03:49:41.504761+00:00Z",
   "stats": {
-    "totalDirectories": 1554,
+    "totalDirectories": 1555,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1554.0,
-    "totalListings": 14479,
-    "aiEnhancedDirectories": 1554
+    "avgDirectoriesPerRepo": 1555.0,
+    "totalListings": 14489,
+    "aiEnhancedDirectories": 1555
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20210,12 +20210,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-crop-planning-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:49:41.504761+00:00Z",
+      "lastUpdated": "2025-11-11T03:49:41.504761+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1554,
+      "directoryCount": 1555,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

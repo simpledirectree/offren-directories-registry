@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:01:42.699282+00:00Z",
+  "lastUpdated": "2025-11-11T04:02:06.428068+00:00Z",
   "stats": {
-    "totalDirectories": 1591,
+    "totalDirectories": 1592,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1591.0,
-    "totalListings": 14846,
-    "aiEnhancedDirectories": 1591
+    "avgDirectoriesPerRepo": 1592.0,
+    "totalListings": 14856,
+    "aiEnhancedDirectories": 1592
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20691,12 +20691,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-fundraiser-planning-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:02:06.428068+00:00Z",
+      "lastUpdated": "2025-11-11T04:02:06.428068+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1591,
+      "directoryCount": 1592,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

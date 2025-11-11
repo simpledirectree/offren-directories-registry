@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:09:57.741621+00:00Z",
+  "lastUpdated": "2025-11-11T04:10:19.528021+00:00Z",
   "stats": {
-    "totalDirectories": 1614,
+    "totalDirectories": 1615,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1614.0,
-    "totalListings": 15076,
-    "aiEnhancedDirectories": 1614
+    "avgDirectoriesPerRepo": 1615.0,
+    "totalListings": 15086,
+    "aiEnhancedDirectories": 1615
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20990,12 +20990,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-rodent-control-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:10:19.528021+00:00Z",
+      "lastUpdated": "2025-11-11T04:10:19.528021+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1614,
+      "directoryCount": 1615,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

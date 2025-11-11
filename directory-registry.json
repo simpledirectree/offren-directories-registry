@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:40:35.829229+00:00Z",
+  "lastUpdated": "2025-11-11T02:43:05.234880+00:00Z",
   "stats": {
-    "totalDirectories": 1472,
+    "totalDirectories": 1473,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1472.0,
-    "totalListings": 13700,
-    "aiEnhancedDirectories": 1472
+    "avgDirectoriesPerRepo": 1473.0,
+    "totalListings": 13710,
+    "aiEnhancedDirectories": 1473
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19144,12 +19144,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-bodybuilding-coaching-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:43:05.234880+00:00Z",
+      "lastUpdated": "2025-11-11T02:43:05.234880+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1472,
+      "directoryCount": 1473,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

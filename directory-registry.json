@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:16:25.702013+00:00Z",
+  "lastUpdated": "2025-11-11T04:16:48.260943+00:00Z",
   "stats": {
-    "totalDirectories": 1632,
+    "totalDirectories": 1633,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1632.0,
-    "totalListings": 15256,
-    "aiEnhancedDirectories": 1632
+    "avgDirectoriesPerRepo": 1633.0,
+    "totalListings": 15266,
+    "aiEnhancedDirectories": 1633
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21224,12 +21224,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-swimming-coaching-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:16:48.260943+00:00Z",
+      "lastUpdated": "2025-11-11T04:16:48.260943+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1632,
+      "directoryCount": 1633,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

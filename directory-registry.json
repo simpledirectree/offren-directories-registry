@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:18:57.126026+00:00Z",
+  "lastUpdated": "2025-11-11T04:19:20.310482+00:00Z",
   "stats": {
-    "totalDirectories": 1639,
+    "totalDirectories": 1640,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1639.0,
-    "totalListings": 15326,
-    "aiEnhancedDirectories": 1639
+    "avgDirectoriesPerRepo": 1640.0,
+    "totalListings": 15336,
+    "aiEnhancedDirectories": 1640
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21315,12 +21315,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-logistics-coordination-in-wisconsin": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:19:20.310482+00:00Z",
+      "lastUpdated": "2025-11-11T04:19:20.310482+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1639,
+      "directoryCount": 1640,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

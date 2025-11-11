@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:07:20.919498+00:00Z",
+  "lastUpdated": "2025-11-11T04:07:40.186779+00:00Z",
   "stats": {
-    "totalDirectories": 1607,
+    "totalDirectories": 1608,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1607.0,
-    "totalListings": 15006,
-    "aiEnhancedDirectories": 1607
+    "avgDirectoriesPerRepo": 1608.0,
+    "totalListings": 15016,
+    "aiEnhancedDirectories": 1608
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20899,12 +20899,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-accessibility-design-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:07:40.186779+00:00Z",
+      "lastUpdated": "2025-11-11T04:07:40.186779+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1607,
+      "directoryCount": 1608,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:19:20.310482+00:00Z",
+  "lastUpdated": "2025-11-11T04:19:40.728110+00:00Z",
   "stats": {
-    "totalDirectories": 1640,
+    "totalDirectories": 1641,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1640.0,
-    "totalListings": 15336,
-    "aiEnhancedDirectories": 1640
+    "avgDirectoriesPerRepo": 1641.0,
+    "totalListings": 15346,
+    "aiEnhancedDirectories": 1641
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21328,12 +21328,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-event-planning-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:19:40.728110+00:00Z",
+      "lastUpdated": "2025-11-11T04:19:40.728110+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1640,
+      "directoryCount": 1641,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T01:31:21.138821+00:00Z",
+  "lastUpdated": "2025-11-11T01:31:39.677213+00:00Z",
   "stats": {
-    "totalDirectories": 1401,
+    "totalDirectories": 1402,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1401.0,
-    "totalListings": 13053,
-    "aiEnhancedDirectories": 1401
+    "avgDirectoriesPerRepo": 1402.0,
+    "totalListings": 13063,
+    "aiEnhancedDirectories": 1402
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18221,12 +18221,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-drum-lessons-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T01:31:39.677213+00:00Z",
+      "lastUpdated": "2025-11-11T01:31:39.677213+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1401,
+      "directoryCount": 1402,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

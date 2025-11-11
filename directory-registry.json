@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T01:58:46.798921+00:00Z",
+  "lastUpdated": "2025-11-11T02:00:21.172372+00:00Z",
   "stats": {
-    "totalDirectories": 1427,
+    "totalDirectories": 1428,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1427.0,
-    "totalListings": 13293,
-    "aiEnhancedDirectories": 1427
+    "avgDirectoriesPerRepo": 1428.0,
+    "totalListings": 13303,
+    "aiEnhancedDirectories": 1428
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18559,12 +18559,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-endodontics-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:00:21.172372+00:00Z",
+      "lastUpdated": "2025-11-11T02:00:21.172372+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1427,
+      "directoryCount": 1428,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

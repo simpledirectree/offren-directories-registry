@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T01:34:44.850700+00:00Z",
+  "lastUpdated": "2025-11-11T01:35:00.501303+00:00Z",
   "stats": {
-    "totalDirectories": 1406,
+    "totalDirectories": 1407,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1406.0,
-    "totalListings": 13098,
-    "aiEnhancedDirectories": 1406
+    "avgDirectoriesPerRepo": 1407.0,
+    "totalListings": 13108,
+    "aiEnhancedDirectories": 1407
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18286,12 +18286,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-assisted-living-facilities-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T01:35:00.501303+00:00Z",
+      "lastUpdated": "2025-11-11T01:35:00.501303+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1406,
+      "directoryCount": 1407,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

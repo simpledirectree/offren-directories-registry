@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:05:30.768564+00:00Z",
+  "lastUpdated": "2025-11-11T04:05:53.558031+00:00Z",
   "stats": {
-    "totalDirectories": 1602,
+    "totalDirectories": 1603,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1602.0,
-    "totalListings": 14956,
-    "aiEnhancedDirectories": 1602
+    "avgDirectoriesPerRepo": 1603.0,
+    "totalListings": 14966,
+    "aiEnhancedDirectories": 1603
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20834,12 +20834,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-carpet-cleaning-in-idaho": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:05:53.558031+00:00Z",
+      "lastUpdated": "2025-11-11T04:05:53.558031+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1602,
+      "directoryCount": 1603,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

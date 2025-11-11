@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:26:30.627017+00:00Z",
+  "lastUpdated": "2025-11-11T04:26:52.972771+00:00Z",
   "stats": {
-    "totalDirectories": 1659,
+    "totalDirectories": 1660,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1659.0,
-    "totalListings": 15526,
-    "aiEnhancedDirectories": 1659
+    "avgDirectoriesPerRepo": 1660.0,
+    "totalListings": 15536,
+    "aiEnhancedDirectories": 1660
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21575,12 +21575,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-yin-yoga-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:26:52.972771+00:00Z",
+      "lastUpdated": "2025-11-11T04:26:52.972771+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1659,
+      "directoryCount": 1660,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

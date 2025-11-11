@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:46:39.057990+00:00Z",
+  "lastUpdated": "2025-11-11T04:46:56.841542+00:00Z",
   "stats": {
-    "totalDirectories": 1717,
+    "totalDirectories": 1718,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1717.0,
-    "totalListings": 16080,
-    "aiEnhancedDirectories": 1717
+    "avgDirectoriesPerRepo": 1718.0,
+    "totalListings": 16090,
+    "aiEnhancedDirectories": 1718
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -22329,12 +22329,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-health-clubs-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:46:56.841542+00:00Z",
+      "lastUpdated": "2025-11-11T04:46:56.841542+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1717,
+      "directoryCount": 1718,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

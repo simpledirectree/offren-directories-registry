@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:04:07.189331+00:00Z",
+  "lastUpdated": "2025-11-11T04:04:28.130402+00:00Z",
   "stats": {
-    "totalDirectories": 1598,
+    "totalDirectories": 1599,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1598.0,
-    "totalListings": 14916,
-    "aiEnhancedDirectories": 1598
+    "avgDirectoriesPerRepo": 1599.0,
+    "totalListings": 14926,
+    "aiEnhancedDirectories": 1599
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20782,12 +20782,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-breweries-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:04:28.130402+00:00Z",
+      "lastUpdated": "2025-11-11T04:04:28.130402+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1598,
+      "directoryCount": 1599,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

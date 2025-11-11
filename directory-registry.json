@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:27:40.385428+00:00Z",
+  "lastUpdated": "2025-11-11T04:28:02.667859+00:00Z",
   "stats": {
-    "totalDirectories": 1662,
+    "totalDirectories": 1663,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1662.0,
-    "totalListings": 15556,
-    "aiEnhancedDirectories": 1662
+    "avgDirectoriesPerRepo": 1663.0,
+    "totalListings": 15566,
+    "aiEnhancedDirectories": 1663
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21614,12 +21614,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-cleanup-crews-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:28:02.667859+00:00Z",
+      "lastUpdated": "2025-11-11T04:28:02.667859+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1662,
+      "directoryCount": 1663,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

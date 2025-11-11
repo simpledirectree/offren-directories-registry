@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:32:23.140273+00:00Z",
+  "lastUpdated": "2025-11-11T00:32:38.239094+00:00Z",
   "stats": {
-    "totalDirectories": 1346,
+    "totalDirectories": 1347,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1346.0,
-    "totalListings": 12529,
-    "aiEnhancedDirectories": 1346
+    "avgDirectoriesPerRepo": 1347.0,
+    "totalListings": 12539,
+    "aiEnhancedDirectories": 1347
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17506,12 +17506,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-functional-medicine-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:32:38.239094+00:00Z",
+      "lastUpdated": "2025-11-11T00:32:38.239094+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1346,
+      "directoryCount": 1347,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

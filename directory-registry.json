@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:52:46.804700+00:00Z",
+  "lastUpdated": "2025-11-11T03:53:02.822171+00:00Z",
   "stats": {
-    "totalDirectories": 1565,
+    "totalDirectories": 1566,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1565.0,
-    "totalListings": 14589,
-    "aiEnhancedDirectories": 1565
+    "avgDirectoriesPerRepo": 1566.0,
+    "totalListings": 14599,
+    "aiEnhancedDirectories": 1566
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20353,12 +20353,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-herbal-medicine-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:53:02.822171+00:00Z",
+      "lastUpdated": "2025-11-11T03:53:02.822171+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1565,
+      "directoryCount": 1566,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

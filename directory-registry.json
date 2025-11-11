@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:43:26.693854+00:00Z",
+  "lastUpdated": "2025-11-11T03:44:10.828506+00:00Z",
   "stats": {
-    "totalDirectories": 1538,
+    "totalDirectories": 1539,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1538.0,
-    "totalListings": 14319,
-    "aiEnhancedDirectories": 1538
+    "avgDirectoriesPerRepo": 1539.0,
+    "totalListings": 14329,
+    "aiEnhancedDirectories": 1539
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20002,12 +20002,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-ombre-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:44:10.828506+00:00Z",
+      "lastUpdated": "2025-11-11T03:44:10.828506+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1538,
+      "directoryCount": 1539,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

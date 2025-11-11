@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:21:58.739302+00:00Z",
+  "lastUpdated": "2025-11-11T04:22:23.314266+00:00Z",
   "stats": {
-    "totalDirectories": 1647,
+    "totalDirectories": 1648,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1647.0,
-    "totalListings": 15406,
-    "aiEnhancedDirectories": 1647
+    "avgDirectoriesPerRepo": 1648.0,
+    "totalListings": 15416,
+    "aiEnhancedDirectories": 1648
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21419,12 +21419,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-piano-lessons-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:22:23.314266+00:00Z",
+      "lastUpdated": "2025-11-11T04:22:23.314266+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1647,
+      "directoryCount": 1648,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

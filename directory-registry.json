@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T01:49:57.093258+00:00Z",
+  "lastUpdated": "2025-11-11T01:50:40.436686+00:00Z",
   "stats": {
-    "totalDirectories": 1418,
+    "totalDirectories": 1419,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1418.0,
-    "totalListings": 13218,
-    "aiEnhancedDirectories": 1418
+    "avgDirectoriesPerRepo": 1419.0,
+    "totalListings": 13228,
+    "aiEnhancedDirectories": 1419
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18442,12 +18442,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-dental-insurance-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T01:50:40.436686+00:00Z",
+      "lastUpdated": "2025-11-11T01:50:40.436686+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1418,
+      "directoryCount": 1419,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:23:38.023054+00:00Z",
+  "lastUpdated": "2025-11-11T00:24:44.311651+00:00Z",
   "stats": {
-    "totalDirectories": 1337,
+    "totalDirectories": 1338,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1337.0,
-    "totalListings": 12444,
-    "aiEnhancedDirectories": 1337
+    "avgDirectoriesPerRepo": 1338.0,
+    "totalListings": 12454,
+    "aiEnhancedDirectories": 1338
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17389,12 +17389,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-learning-support-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:24:44.311651+00:00Z",
+      "lastUpdated": "2025-11-11T00:24:44.311651+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1337,
+      "directoryCount": 1338,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

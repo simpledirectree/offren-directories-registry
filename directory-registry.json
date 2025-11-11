@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:12:39.293040+00:00Z",
+  "lastUpdated": "2025-11-11T04:13:02.506326+00:00Z",
   "stats": {
-    "totalDirectories": 1622,
+    "totalDirectories": 1623,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1622.0,
-    "totalListings": 15156,
-    "aiEnhancedDirectories": 1622
+    "avgDirectoriesPerRepo": 1623.0,
+    "totalListings": 15166,
+    "aiEnhancedDirectories": 1623
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21094,12 +21094,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-window-repair-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:13:02.506326+00:00Z",
+      "lastUpdated": "2025-11-11T04:13:02.506326+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1622,
+      "directoryCount": 1623,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

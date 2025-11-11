@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:03:05.667603+00:00Z",
+  "lastUpdated": "2025-11-11T00:04:16.361190+00:00Z",
   "stats": {
-    "totalDirectories": 1317,
+    "totalDirectories": 1318,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1317.0,
-    "totalListings": 12257,
-    "aiEnhancedDirectories": 1317
+    "avgDirectoriesPerRepo": 1318.0,
+    "totalListings": 12267,
+    "aiEnhancedDirectories": 1318
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17129,12 +17129,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-mediation-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:04:16.361190+00:00Z",
+      "lastUpdated": "2025-11-11T00:04:16.361190+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1317,
+      "directoryCount": 1318,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

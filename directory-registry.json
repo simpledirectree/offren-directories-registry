@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:31:35.668345+00:00Z",
+  "lastUpdated": "2025-11-11T02:32:17.573687+00:00Z",
   "stats": {
-    "totalDirectories": 1458,
+    "totalDirectories": 1459,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1458.0,
-    "totalListings": 13575,
-    "aiEnhancedDirectories": 1458
+    "avgDirectoriesPerRepo": 1459.0,
+    "totalListings": 13585,
+    "aiEnhancedDirectories": 1459
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18962,12 +18962,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-tax-planning-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:32:17.573687+00:00Z",
+      "lastUpdated": "2025-11-11T02:32:17.573687+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1458,
+      "directoryCount": 1459,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

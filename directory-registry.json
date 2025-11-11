@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:54:13.426202+00:00Z",
+  "lastUpdated": "2025-11-11T03:54:33.279852+00:00Z",
   "stats": {
-    "totalDirectories": 1570,
+    "totalDirectories": 1571,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1570.0,
-    "totalListings": 14636,
-    "aiEnhancedDirectories": 1570
+    "avgDirectoriesPerRepo": 1571.0,
+    "totalListings": 14646,
+    "aiEnhancedDirectories": 1571
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20418,12 +20418,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "christian-owned-business-plan-writing-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:54:33.279852+00:00Z",
+      "lastUpdated": "2025-11-11T03:54:33.279852+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1570,
+      "directoryCount": 1571,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

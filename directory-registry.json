@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:36:23.033201+00:00Z",
+  "lastUpdated": "2025-11-11T04:36:44.531358+00:00Z",
   "stats": {
-    "totalDirectories": 1687,
+    "totalDirectories": 1688,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1687.0,
-    "totalListings": 15798,
-    "aiEnhancedDirectories": 1687
+    "avgDirectoriesPerRepo": 1688.0,
+    "totalListings": 15808,
+    "aiEnhancedDirectories": 1688
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21939,12 +21939,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-hair-treatments-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:36:44.531358+00:00Z",
+      "lastUpdated": "2025-11-11T04:36:44.531358+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1687,
+      "directoryCount": 1688,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

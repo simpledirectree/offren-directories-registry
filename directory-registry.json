@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-10T23:57:26.239191+00:00Z",
+  "lastUpdated": "2025-11-11T00:02:45.476604+00:00Z",
   "stats": {
-    "totalDirectories": 1315,
+    "totalDirectories": 1316,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1315.0,
-    "totalListings": 12240,
-    "aiEnhancedDirectories": 1315
+    "avgDirectoriesPerRepo": 1316.0,
+    "totalListings": 12247,
+    "aiEnhancedDirectories": 1316
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17103,12 +17103,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-teen-driver-education-in-maine": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:02:45.476604+00:00Z",
+      "lastUpdated": "2025-11-11T00:02:45.476604+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1315,
+      "directoryCount": 1316,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

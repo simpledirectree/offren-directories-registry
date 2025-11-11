@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:50:51.362284+00:00Z",
+  "lastUpdated": "2025-11-11T03:51:11.351697+00:00Z",
   "stats": {
-    "totalDirectories": 1559,
+    "totalDirectories": 1560,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1559.0,
-    "totalListings": 14529,
-    "aiEnhancedDirectories": 1559
+    "avgDirectoriesPerRepo": 1560.0,
+    "totalListings": 14539,
+    "aiEnhancedDirectories": 1560
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20275,12 +20275,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-descriptive-analytics-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:51:11.351697+00:00Z",
+      "lastUpdated": "2025-11-11T03:51:11.351697+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1559,
+      "directoryCount": 1560,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

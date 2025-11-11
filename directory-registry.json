@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:14:26.867799+00:00Z",
+  "lastUpdated": "2025-11-11T00:15:12.479318+00:00Z",
   "stats": {
-    "totalDirectories": 1327,
+    "totalDirectories": 1328,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1327.0,
-    "totalListings": 12353,
-    "aiEnhancedDirectories": 1327
+    "avgDirectoriesPerRepo": 1328.0,
+    "totalListings": 12363,
+    "aiEnhancedDirectories": 1328
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17259,12 +17259,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-budget-management-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:15:12.479318+00:00Z",
+      "lastUpdated": "2025-11-11T00:15:12.479318+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1327,
+      "directoryCount": 1328,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

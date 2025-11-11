@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:35:24.162415+00:00Z",
+  "lastUpdated": "2025-11-11T04:35:43.055255+00:00Z",
   "stats": {
-    "totalDirectories": 1684,
+    "totalDirectories": 1685,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1684.0,
-    "totalListings": 15768,
-    "aiEnhancedDirectories": 1684
+    "avgDirectoriesPerRepo": 1685.0,
+    "totalListings": 15778,
+    "aiEnhancedDirectories": 1685
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21900,12 +21900,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-kickboxing-classes-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:35:43.055255+00:00Z",
+      "lastUpdated": "2025-11-11T04:35:43.055255+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1684,
+      "directoryCount": 1685,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

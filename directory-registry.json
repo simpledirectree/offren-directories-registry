@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:06:09.354004+00:00Z",
+  "lastUpdated": "2025-11-11T02:06:27.654866+00:00Z",
   "stats": {
-    "totalDirectories": 1434,
+    "totalDirectories": 1435,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1434.0,
-    "totalListings": 13358,
-    "aiEnhancedDirectories": 1434
+    "avgDirectoriesPerRepo": 1435.0,
+    "totalListings": 13368,
+    "aiEnhancedDirectories": 1435
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18650,12 +18650,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-financial-accounting-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:06:27.654866+00:00Z",
+      "lastUpdated": "2025-11-11T02:06:27.654866+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1434,
+      "directoryCount": 1435,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

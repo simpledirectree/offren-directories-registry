@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:03:08.646954+00:00Z",
+  "lastUpdated": "2025-11-11T04:03:31.882763+00:00Z",
   "stats": {
-    "totalDirectories": 1595,
+    "totalDirectories": 1596,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1595.0,
-    "totalListings": 14886,
-    "aiEnhancedDirectories": 1595
+    "avgDirectoriesPerRepo": 1596.0,
+    "totalListings": 14896,
+    "aiEnhancedDirectories": 1596
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20743,12 +20743,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-garden-center-consultation-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:03:31.882763+00:00Z",
+      "lastUpdated": "2025-11-11T04:03:31.882763+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1595,
+      "directoryCount": 1596,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

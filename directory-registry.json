@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:24:42.842871+00:00Z",
+  "lastUpdated": "2025-11-11T04:25:05.660129+00:00Z",
   "stats": {
-    "totalDirectories": 1654,
+    "totalDirectories": 1655,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1654.0,
-    "totalListings": 15476,
-    "aiEnhancedDirectories": 1654
+    "avgDirectoriesPerRepo": 1655.0,
+    "totalListings": 15486,
+    "aiEnhancedDirectories": 1655
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21510,12 +21510,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-cross-platform-development-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:25:05.660129+00:00Z",
+      "lastUpdated": "2025-11-11T04:25:05.660129+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1654,
+      "directoryCount": 1655,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

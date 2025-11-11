@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:14:47.455103+00:00Z",
+  "lastUpdated": "2025-11-11T02:16:21.147211+00:00Z",
   "stats": {
-    "totalDirectories": 1442,
+    "totalDirectories": 1443,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1442.0,
-    "totalListings": 13431,
-    "aiEnhancedDirectories": 1442
+    "avgDirectoriesPerRepo": 1443.0,
+    "totalListings": 13441,
+    "aiEnhancedDirectories": 1443
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18754,12 +18754,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-online-fitness-coaching-in-nebraska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:16:21.147211+00:00Z",
+      "lastUpdated": "2025-11-11T02:16:21.147211+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1442,
+      "directoryCount": 1443,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

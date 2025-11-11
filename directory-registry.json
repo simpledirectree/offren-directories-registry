@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:19:55.309837+00:00Z",
+  "lastUpdated": "2025-11-11T03:22:07.724878+00:00Z",
   "stats": {
-    "totalDirectories": 1510,
+    "totalDirectories": 1511,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1510.0,
-    "totalListings": 14065,
-    "aiEnhancedDirectories": 1510
+    "avgDirectoriesPerRepo": 1511.0,
+    "totalListings": 14072,
+    "aiEnhancedDirectories": 1511
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19638,12 +19638,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-corporate-wardrobe-consulting-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:22:07.724878+00:00Z",
+      "lastUpdated": "2025-11-11T03:22:07.724878+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1510,
+      "directoryCount": 1511,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:53:22.342440+00:00Z",
+  "lastUpdated": "2025-11-11T03:53:38.822934+00:00Z",
   "stats": {
-    "totalDirectories": 1567,
+    "totalDirectories": 1568,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1567.0,
-    "totalListings": 14609,
-    "aiEnhancedDirectories": 1567
+    "avgDirectoriesPerRepo": 1568.0,
+    "totalListings": 14616,
+    "aiEnhancedDirectories": 1568
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20379,12 +20379,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-grocery-delivery-in-texas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:53:38.822934+00:00Z",
+      "lastUpdated": "2025-11-11T03:53:38.822934+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1567,
+      "directoryCount": 1568,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

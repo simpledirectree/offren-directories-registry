@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:10:39.659526+00:00Z",
+  "lastUpdated": "2025-11-11T04:10:57.819092+00:00Z",
   "stats": {
-    "totalDirectories": 1616,
+    "totalDirectories": 1617,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1616.0,
-    "totalListings": 15096,
-    "aiEnhancedDirectories": 1616
+    "avgDirectoriesPerRepo": 1617.0,
+    "totalListings": 15106,
+    "aiEnhancedDirectories": 1617
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21016,12 +21016,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-shopify-development-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:10:57.819092+00:00Z",
+      "lastUpdated": "2025-11-11T04:10:57.819092+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1616,
+      "directoryCount": 1617,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

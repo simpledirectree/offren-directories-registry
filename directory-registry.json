@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:36:01.616777+00:00Z",
+  "lastUpdated": "2025-11-11T04:36:23.033201+00:00Z",
   "stats": {
-    "totalDirectories": 1686,
+    "totalDirectories": 1687,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1686.0,
-    "totalListings": 15788,
-    "aiEnhancedDirectories": 1686
+    "avgDirectoriesPerRepo": 1687.0,
+    "totalListings": 15798,
+    "aiEnhancedDirectories": 1687
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21926,12 +21926,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-affiliate-marketing-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:36:23.033201+00:00Z",
+      "lastUpdated": "2025-11-11T04:36:23.033201+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1686,
+      "directoryCount": 1687,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

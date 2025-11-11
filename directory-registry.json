@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:30:56.361775+00:00Z",
+  "lastUpdated": "2025-11-11T04:31:18.187071+00:00Z",
   "stats": {
-    "totalDirectories": 1671,
+    "totalDirectories": 1672,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1671.0,
-    "totalListings": 15646,
-    "aiEnhancedDirectories": 1671
+    "avgDirectoriesPerRepo": 1672.0,
+    "totalListings": 15656,
+    "aiEnhancedDirectories": 1672
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21731,12 +21731,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-tree-trimming-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:31:18.187071+00:00Z",
+      "lastUpdated": "2025-11-11T04:31:18.187071+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1671,
+      "directoryCount": 1672,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

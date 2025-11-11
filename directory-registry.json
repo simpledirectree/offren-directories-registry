@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:42:26.253584+00:00Z",
+  "lastUpdated": "2025-11-11T00:42:40.906692+00:00Z",
   "stats": {
-    "totalDirectories": 1355,
+    "totalDirectories": 1356,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1355.0,
-    "totalListings": 12618,
-    "aiEnhancedDirectories": 1355
+    "avgDirectoriesPerRepo": 1356.0,
+    "totalListings": 12628,
+    "aiEnhancedDirectories": 1356
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17623,12 +17623,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-tire-sales-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:42:40.906692+00:00Z",
+      "lastUpdated": "2025-11-11T00:42:40.906692+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1355,
+      "directoryCount": 1356,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

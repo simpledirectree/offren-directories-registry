@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:11:58.593256+00:00Z",
+  "lastUpdated": "2025-11-11T04:12:16.056933+00:00Z",
   "stats": {
-    "totalDirectories": 1620,
+    "totalDirectories": 1621,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1620.0,
-    "totalListings": 15136,
-    "aiEnhancedDirectories": 1620
+    "avgDirectoriesPerRepo": 1621.0,
+    "totalListings": 15146,
+    "aiEnhancedDirectories": 1621
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21068,12 +21068,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-office-relocation-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:12:16.056933+00:00Z",
+      "lastUpdated": "2025-11-11T04:12:16.056933+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1620,
+      "directoryCount": 1621,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

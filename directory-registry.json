@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:34:47.692215+00:00Z",
+  "lastUpdated": "2025-11-11T04:35:05.801638+00:00Z",
   "stats": {
-    "totalDirectories": 1682,
+    "totalDirectories": 1683,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1682.0,
-    "totalListings": 15753,
-    "aiEnhancedDirectories": 1682
+    "avgDirectoriesPerRepo": 1683.0,
+    "totalListings": 15758,
+    "aiEnhancedDirectories": 1683
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21874,12 +21874,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-medicare-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:35:05.801638+00:00Z",
+      "lastUpdated": "2025-11-11T04:35:05.801638+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1682,
+      "directoryCount": 1683,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

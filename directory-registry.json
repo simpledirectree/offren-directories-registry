@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:42:10.546163+00:00Z",
+  "lastUpdated": "2025-11-11T00:42:26.253584+00:00Z",
   "stats": {
-    "totalDirectories": 1354,
+    "totalDirectories": 1355,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1354.0,
-    "totalListings": 12608,
-    "aiEnhancedDirectories": 1354
+    "avgDirectoriesPerRepo": 1355.0,
+    "totalListings": 12618,
+    "aiEnhancedDirectories": 1355
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17610,12 +17610,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-math-tutoring-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:42:26.253584+00:00Z",
+      "lastUpdated": "2025-11-11T00:42:26.253584+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1354,
+      "directoryCount": 1355,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

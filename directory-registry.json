@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:09:09.741242+00:00Z",
+  "lastUpdated": "2025-11-11T04:09:34.080924+00:00Z",
   "stats": {
-    "totalDirectories": 1612,
+    "totalDirectories": 1613,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1612.0,
-    "totalListings": 15056,
-    "aiEnhancedDirectories": 1612
+    "avgDirectoriesPerRepo": 1613.0,
+    "totalListings": 15066,
+    "aiEnhancedDirectories": 1613
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20964,12 +20964,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-financial-statement-preparation-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:09:34.080924+00:00Z",
+      "lastUpdated": "2025-11-11T04:09:34.080924+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1612,
+      "directoryCount": 1613,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:02:25.080482+00:00Z",
+  "lastUpdated": "2025-11-11T04:02:47.107619+00:00Z",
   "stats": {
-    "totalDirectories": 1593,
+    "totalDirectories": 1594,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1593.0,
-    "totalListings": 14866,
-    "aiEnhancedDirectories": 1593
+    "avgDirectoriesPerRepo": 1594.0,
+    "totalListings": 14876,
+    "aiEnhancedDirectories": 1594
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20717,12 +20717,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-skiing-instruction-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:02:47.107619+00:00Z",
+      "lastUpdated": "2025-11-11T04:02:47.107619+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1593,
+      "directoryCount": 1594,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

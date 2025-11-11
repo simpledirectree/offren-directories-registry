@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T01:16:39.206259+00:00Z",
+  "lastUpdated": "2025-11-11T01:17:19.794938+00:00Z",
   "stats": {
-    "totalDirectories": 1386,
+    "totalDirectories": 1387,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1386.0,
-    "totalListings": 12917,
-    "aiEnhancedDirectories": 1386
+    "avgDirectoriesPerRepo": 1387.0,
+    "totalListings": 12927,
+    "aiEnhancedDirectories": 1387
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18026,12 +18026,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-assembly-line-workers-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T01:17:19.794938+00:00Z",
+      "lastUpdated": "2025-11-11T01:17:19.794938+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1386,
+      "directoryCount": 1387,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

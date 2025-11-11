@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:05:53.558031+00:00Z",
+  "lastUpdated": "2025-11-11T04:06:13.992030+00:00Z",
   "stats": {
-    "totalDirectories": 1603,
+    "totalDirectories": 1604,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1603.0,
-    "totalListings": 14966,
-    "aiEnhancedDirectories": 1603
+    "avgDirectoriesPerRepo": 1604.0,
+    "totalListings": 14976,
+    "aiEnhancedDirectories": 1604
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20847,12 +20847,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-auto-glass-repair-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:06:13.992030+00:00Z",
+      "lastUpdated": "2025-11-11T04:06:13.992030+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1603,
+      "directoryCount": 1604,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

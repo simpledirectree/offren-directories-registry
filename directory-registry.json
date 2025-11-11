@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:45:37.458413+00:00Z",
+  "lastUpdated": "2025-11-11T03:45:54.524634+00:00Z",
   "stats": {
-    "totalDirectories": 1542,
+    "totalDirectories": 1543,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1542.0,
-    "totalListings": 14359,
-    "aiEnhancedDirectories": 1542
+    "avgDirectoriesPerRepo": 1543.0,
+    "totalListings": 14369,
+    "aiEnhancedDirectories": 1543
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20054,12 +20054,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-specialty-cuisine-catering-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:45:54.524634+00:00Z",
+      "lastUpdated": "2025-11-11T03:45:54.524634+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1542,
+      "directoryCount": 1543,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

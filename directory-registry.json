@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:41:29.964022+00:00Z",
+  "lastUpdated": "2025-11-11T04:41:52.614693+00:00Z",
   "stats": {
-    "totalDirectories": 1702,
+    "totalDirectories": 1703,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1702.0,
-    "totalListings": 15930,
-    "aiEnhancedDirectories": 1702
+    "avgDirectoriesPerRepo": 1703.0,
+    "totalListings": 15940,
+    "aiEnhancedDirectories": 1703
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -22134,12 +22134,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-dent-repair-in-rhode-island": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:41:52.614693+00:00Z",
+      "lastUpdated": "2025-11-11T04:41:52.614693+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1702,
+      "directoryCount": 1703,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

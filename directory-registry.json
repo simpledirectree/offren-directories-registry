@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:20:25.214804+00:00Z",
+  "lastUpdated": "2025-11-11T02:20:43.884440+00:00Z",
   "stats": {
-    "totalDirectories": 1446,
+    "totalDirectories": 1447,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1446.0,
-    "totalListings": 13462,
-    "aiEnhancedDirectories": 1446
+    "avgDirectoriesPerRepo": 1447.0,
+    "totalListings": 13472,
+    "aiEnhancedDirectories": 1447
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18806,12 +18806,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-immersion-programs-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:20:43.884440+00:00Z",
+      "lastUpdated": "2025-11-11T02:20:43.884440+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1446,
+      "directoryCount": 1447,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

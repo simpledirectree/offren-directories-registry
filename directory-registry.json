@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:36:05.604552+00:00Z",
+  "lastUpdated": "2025-11-11T02:36:50.539497+00:00Z",
   "stats": {
-    "totalDirectories": 1463,
+    "totalDirectories": 1464,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1463.0,
-    "totalListings": 13618,
-    "aiEnhancedDirectories": 1463
+    "avgDirectoriesPerRepo": 1464.0,
+    "totalListings": 13628,
+    "aiEnhancedDirectories": 1464
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19027,12 +19027,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-garden-consultation-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:36:50.539497+00:00Z",
+      "lastUpdated": "2025-11-11T02:36:50.539497+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1463,
+      "directoryCount": 1464,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

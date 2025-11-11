@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:02:47.107619+00:00Z",
+  "lastUpdated": "2025-11-11T04:03:08.646954+00:00Z",
   "stats": {
-    "totalDirectories": 1594,
+    "totalDirectories": 1595,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1594.0,
-    "totalListings": 14876,
-    "aiEnhancedDirectories": 1594
+    "avgDirectoriesPerRepo": 1595.0,
+    "totalListings": 14886,
+    "aiEnhancedDirectories": 1595
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20730,12 +20730,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-taekwondo-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:03:08.646954+00:00Z",
+      "lastUpdated": "2025-11-11T04:03:08.646954+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1594,
+      "directoryCount": 1595,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

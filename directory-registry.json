@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:18:50.469103+00:00Z",
+  "lastUpdated": "2025-11-11T03:19:09.437675+00:00Z",
   "stats": {
-    "totalDirectories": 1508,
+    "totalDirectories": 1509,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1508.0,
-    "totalListings": 14045,
-    "aiEnhancedDirectories": 1508
+    "avgDirectoriesPerRepo": 1509.0,
+    "totalListings": 14055,
+    "aiEnhancedDirectories": 1509
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19612,12 +19612,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-head-shaving-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:19:09.437675+00:00Z",
+      "lastUpdated": "2025-11-11T03:19:09.437675+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1508,
+      "directoryCount": 1509,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

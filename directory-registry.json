@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T01:20:59.225756+00:00Z",
+  "lastUpdated": "2025-11-11T01:21:14.977862+00:00Z",
   "stats": {
-    "totalDirectories": 1390,
+    "totalDirectories": 1391,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1390.0,
-    "totalListings": 12957,
-    "aiEnhancedDirectories": 1390
+    "avgDirectoriesPerRepo": 1391.0,
+    "totalListings": 12967,
+    "aiEnhancedDirectories": 1391
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18078,12 +18078,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-node-js-development-in-iowa": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T01:21:14.977862+00:00Z",
+      "lastUpdated": "2025-11-11T01:21:14.977862+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1390,
+      "directoryCount": 1391,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:37:22.763786+00:00Z",
+  "lastUpdated": "2025-11-11T02:37:37.402702+00:00Z",
   "stats": {
-    "totalDirectories": 1466,
+    "totalDirectories": 1467,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1466.0,
-    "totalListings": 13645,
-    "aiEnhancedDirectories": 1466
+    "avgDirectoriesPerRepo": 1467.0,
+    "totalListings": 13655,
+    "aiEnhancedDirectories": 1467
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19066,12 +19066,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-quickbooks-setup-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:37:37.402702+00:00Z",
+      "lastUpdated": "2025-11-11T02:37:37.402702+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1466,
+      "directoryCount": 1467,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

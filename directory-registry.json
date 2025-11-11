@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:51:34.319965+00:00Z",
+  "lastUpdated": "2025-11-11T03:51:54.380036+00:00Z",
   "stats": {
-    "totalDirectories": 1561,
+    "totalDirectories": 1562,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1561.0,
-    "totalListings": 14549,
-    "aiEnhancedDirectories": 1561
+    "avgDirectoriesPerRepo": 1562.0,
+    "totalListings": 14559,
+    "aiEnhancedDirectories": 1562
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20301,12 +20301,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-college-consulting-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:51:54.380036+00:00Z",
+      "lastUpdated": "2025-11-11T03:51:54.380036+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1561,
+      "directoryCount": 1562,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

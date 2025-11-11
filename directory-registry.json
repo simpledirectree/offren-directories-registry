@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:12:54.751316+00:00Z",
+  "lastUpdated": "2025-11-11T03:13:13.275296+00:00Z",
   "stats": {
-    "totalDirectories": 1500,
+    "totalDirectories": 1501,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1500.0,
-    "totalListings": 13969,
-    "aiEnhancedDirectories": 1500
+    "avgDirectoriesPerRepo": 1501.0,
+    "totalListings": 13979,
+    "aiEnhancedDirectories": 1501
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19508,12 +19508,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-multi-family-management-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:13:13.275296+00:00Z",
+      "lastUpdated": "2025-11-11T03:13:13.275296+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1500,
+      "directoryCount": 1501,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:00:21.172372+00:00Z",
+  "lastUpdated": "2025-11-11T02:02:28.835675+00:00Z",
   "stats": {
-    "totalDirectories": 1428,
+    "totalDirectories": 1429,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1428.0,
-    "totalListings": 13303,
-    "aiEnhancedDirectories": 1428
+    "avgDirectoriesPerRepo": 1429.0,
+    "totalListings": 13313,
+    "aiEnhancedDirectories": 1429
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18572,12 +18572,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-conference-planning-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:02:28.835675+00:00Z",
+      "lastUpdated": "2025-11-11T02:02:28.835675+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1428,
+      "directoryCount": 1429,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:51:54.380036+00:00Z",
+  "lastUpdated": "2025-11-11T03:52:13.608636+00:00Z",
   "stats": {
-    "totalDirectories": 1562,
+    "totalDirectories": 1563,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1562.0,
-    "totalListings": 14559,
-    "aiEnhancedDirectories": 1562
+    "avgDirectoriesPerRepo": 1563.0,
+    "totalListings": 14569,
+    "aiEnhancedDirectories": 1563
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20314,12 +20314,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-american-owned-contract-drafting-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:52:13.608636+00:00Z",
+      "lastUpdated": "2025-11-11T03:52:13.608636+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1562,
+      "directoryCount": 1563,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

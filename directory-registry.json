@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:59:54.099145+00:00Z",
+  "lastUpdated": "2025-11-11T04:00:19.830592+00:00Z",
   "stats": {
-    "totalDirectories": 1586,
+    "totalDirectories": 1587,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1586.0,
-    "totalListings": 14796,
-    "aiEnhancedDirectories": 1586
+    "avgDirectoriesPerRepo": 1587.0,
+    "totalListings": 14806,
+    "aiEnhancedDirectories": 1587
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20626,12 +20626,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-waterproofing-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:00:19.830592+00:00Z",
+      "lastUpdated": "2025-11-11T04:00:19.830592+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1586,
+      "directoryCount": 1587,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

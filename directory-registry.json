@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:43:37.730967+00:00Z",
+  "lastUpdated": "2025-11-11T04:43:55.783273+00:00Z",
   "stats": {
-    "totalDirectories": 1708,
+    "totalDirectories": 1709,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1708.0,
-    "totalListings": 15990,
-    "aiEnhancedDirectories": 1708
+    "avgDirectoriesPerRepo": 1709.0,
+    "totalListings": 16000,
+    "aiEnhancedDirectories": 1709
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -22212,12 +22212,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-bookkeepers-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:43:55.783273+00:00Z",
+      "lastUpdated": "2025-11-11T04:43:55.783273+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1708,
+      "directoryCount": 1709,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

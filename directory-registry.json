@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:37:37.265063+00:00Z",
+  "lastUpdated": "2025-11-11T04:37:55.869258+00:00Z",
   "stats": {
-    "totalDirectories": 1691,
+    "totalDirectories": 1692,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1691.0,
-    "totalListings": 15829,
-    "aiEnhancedDirectories": 1691
+    "avgDirectoriesPerRepo": 1692.0,
+    "totalListings": 15839,
+    "aiEnhancedDirectories": 1692
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21991,12 +21991,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-specialty-event-services-in-oregon": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:37:55.869258+00:00Z",
+      "lastUpdated": "2025-11-11T04:37:55.869258+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1691,
+      "directoryCount": 1692,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

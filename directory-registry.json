@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:10:57.819092+00:00Z",
+  "lastUpdated": "2025-11-11T04:11:17.274008+00:00Z",
   "stats": {
-    "totalDirectories": 1617,
+    "totalDirectories": 1618,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1617.0,
-    "totalListings": 15106,
-    "aiEnhancedDirectories": 1617
+    "avgDirectoriesPerRepo": 1618.0,
+    "totalListings": 15116,
+    "aiEnhancedDirectories": 1618
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21029,12 +21029,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-rodent-control-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:11:17.274008+00:00Z",
+      "lastUpdated": "2025-11-11T04:11:17.274008+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1617,
+      "directoryCount": 1618,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

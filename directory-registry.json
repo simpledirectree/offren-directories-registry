@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T01:05:22.277794+00:00Z",
+  "lastUpdated": "2025-11-11T01:06:06.330656+00:00Z",
   "stats": {
-    "totalDirectories": 1378,
+    "totalDirectories": 1379,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1378.0,
-    "totalListings": 12837,
-    "aiEnhancedDirectories": 1378
+    "avgDirectoriesPerRepo": 1379.0,
+    "totalListings": 12847,
+    "aiEnhancedDirectories": 1379
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17922,12 +17922,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-landscape-renovation-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T01:06:06.330656+00:00Z",
+      "lastUpdated": "2025-11-11T01:06:06.330656+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1378,
+      "directoryCount": 1379,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

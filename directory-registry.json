@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:15:40.509926+00:00Z",
+  "lastUpdated": "2025-11-11T04:16:01.564074+00:00Z",
   "stats": {
-    "totalDirectories": 1630,
+    "totalDirectories": 1631,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1630.0,
-    "totalListings": 15236,
-    "aiEnhancedDirectories": 1630
+    "avgDirectoriesPerRepo": 1631.0,
+    "totalListings": 15246,
+    "aiEnhancedDirectories": 1631
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21198,12 +21198,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-caulking-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:16:01.564074+00:00Z",
+      "lastUpdated": "2025-11-11T04:16:01.564074+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1630,
+      "directoryCount": 1631,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:37:01.914961+00:00Z",
+  "lastUpdated": "2025-11-11T04:37:20.672843+00:00Z",
   "stats": {
-    "totalDirectories": 1689,
+    "totalDirectories": 1690,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1689.0,
-    "totalListings": 15818,
-    "aiEnhancedDirectories": 1689
+    "avgDirectoriesPerRepo": 1690.0,
+    "totalListings": 15828,
+    "aiEnhancedDirectories": 1690
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21965,12 +21965,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-direct-restaurant-delivery-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:37:20.672843+00:00Z",
+      "lastUpdated": "2025-11-11T04:37:20.672843+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1689,
+      "directoryCount": 1690,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

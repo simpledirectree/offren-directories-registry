@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:09:14.401912+00:00Z",
+  "lastUpdated": "2025-11-11T03:12:54.751316+00:00Z",
   "stats": {
-    "totalDirectories": 1499,
+    "totalDirectories": 1500,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1499.0,
-    "totalListings": 13959,
-    "aiEnhancedDirectories": 1499
+    "avgDirectoriesPerRepo": 1500.0,
+    "totalListings": 13969,
+    "aiEnhancedDirectories": 1500
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19495,12 +19495,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-sod-installation-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:12:54.751316+00:00Z",
+      "lastUpdated": "2025-11-11T03:12:54.751316+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1499,
+      "directoryCount": 1500,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

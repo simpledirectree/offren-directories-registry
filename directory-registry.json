@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:42:40.906692+00:00Z",
+  "lastUpdated": "2025-11-11T00:43:22.792137+00:00Z",
   "stats": {
-    "totalDirectories": 1356,
+    "totalDirectories": 1357,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1356.0,
-    "totalListings": 12628,
-    "aiEnhancedDirectories": 1356
+    "avgDirectoriesPerRepo": 1357.0,
+    "totalListings": 12635,
+    "aiEnhancedDirectories": 1357
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17636,12 +17636,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-cloud-migration-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:43:22.792137+00:00Z",
+      "lastUpdated": "2025-11-11T00:43:22.792137+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1356,
+      "directoryCount": 1357,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

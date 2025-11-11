@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:13:56.938941+00:00Z",
+  "lastUpdated": "2025-11-11T03:14:11.774864+00:00Z",
   "stats": {
-    "totalDirectories": 1502,
+    "totalDirectories": 1503,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1502.0,
-    "totalListings": 13989,
-    "aiEnhancedDirectories": 1502
+    "avgDirectoriesPerRepo": 1503.0,
+    "totalListings": 13999,
+    "aiEnhancedDirectories": 1503
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19534,12 +19534,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-night-nannies-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:14:11.774864+00:00Z",
+      "lastUpdated": "2025-11-11T03:14:11.774864+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1502,
+      "directoryCount": 1503,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

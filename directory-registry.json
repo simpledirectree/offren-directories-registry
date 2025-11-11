@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:34:08.136264+00:00Z",
+  "lastUpdated": "2025-11-11T03:34:52.123970+00:00Z",
   "stats": {
-    "totalDirectories": 1529,
+    "totalDirectories": 1530,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1529.0,
-    "totalListings": 14229,
-    "aiEnhancedDirectories": 1529
+    "avgDirectoriesPerRepo": 1530.0,
+    "totalListings": 14239,
+    "aiEnhancedDirectories": 1530
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19885,12 +19885,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-chiropractors-in-west-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:34:52.123970+00:00Z",
+      "lastUpdated": "2025-11-11T03:34:52.123970+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1529,
+      "directoryCount": 1530,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

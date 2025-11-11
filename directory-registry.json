@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:37:53.673533+00:00Z",
+  "lastUpdated": "2025-11-11T03:38:10.140726+00:00Z",
   "stats": {
-    "totalDirectories": 1531,
+    "totalDirectories": 1532,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1531.0,
-    "totalListings": 14249,
-    "aiEnhancedDirectories": 1531
+    "avgDirectoriesPerRepo": 1532.0,
+    "totalListings": 14259,
+    "aiEnhancedDirectories": 1532
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19911,12 +19911,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-crisis-communications-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:38:10.140726+00:00Z",
+      "lastUpdated": "2025-11-11T03:38:10.140726+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1531,
+      "directoryCount": 1532,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:02:06.428068+00:00Z",
+  "lastUpdated": "2025-11-11T04:02:25.080482+00:00Z",
   "stats": {
-    "totalDirectories": 1592,
+    "totalDirectories": 1593,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1592.0,
-    "totalListings": 14856,
-    "aiEnhancedDirectories": 1592
+    "avgDirectoriesPerRepo": 1593.0,
+    "totalListings": 14866,
+    "aiEnhancedDirectories": 1593
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20704,12 +20704,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-workers-compensation-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:02:25.080482+00:00Z",
+      "lastUpdated": "2025-11-11T04:02:25.080482+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1592,
+      "directoryCount": 1593,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

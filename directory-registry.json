@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:48:19.416501+00:00Z",
+  "lastUpdated": "2025-11-11T04:48:41.276673+00:00Z",
   "stats": {
-    "totalDirectories": 1722,
+    "totalDirectories": 1723,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1722.0,
-    "totalListings": 16130,
-    "aiEnhancedDirectories": 1722
+    "avgDirectoriesPerRepo": 1723.0,
+    "totalListings": 16140,
+    "aiEnhancedDirectories": 1723
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -22394,12 +22394,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-panel-upgrades-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:48:41.276673+00:00Z",
+      "lastUpdated": "2025-11-11T04:48:41.276673+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1722,
+      "directoryCount": 1723,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

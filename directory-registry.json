@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:48:58.105352+00:00Z",
+  "lastUpdated": "2025-11-11T04:49:13.030240+00:00Z",
   "stats": {
-    "totalDirectories": 1724,
+    "totalDirectories": 1725,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1724.0,
-    "totalListings": 16150,
-    "aiEnhancedDirectories": 1724
+    "avgDirectoriesPerRepo": 1725.0,
+    "totalListings": 16160,
+    "aiEnhancedDirectories": 1725
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -22420,12 +22420,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-javascript-development-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:49:13.030240+00:00Z",
+      "lastUpdated": "2025-11-11T04:49:13.030240+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1724,
+      "directoryCount": 1725,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

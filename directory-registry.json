@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:08:00.005763+00:00Z",
+  "lastUpdated": "2025-11-11T04:08:19.525439+00:00Z",
   "stats": {
-    "totalDirectories": 1609,
+    "totalDirectories": 1610,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1609.0,
-    "totalListings": 15026,
-    "aiEnhancedDirectories": 1609
+    "avgDirectoriesPerRepo": 1610.0,
+    "totalListings": 15036,
+    "aiEnhancedDirectories": 1610
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20925,12 +20925,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-crossfit-coaching-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:08:19.525439+00:00Z",
+      "lastUpdated": "2025-11-11T04:08:19.525439+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1609,
+      "directoryCount": 1610,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

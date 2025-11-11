@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:44:10.828506+00:00Z",
+  "lastUpdated": "2025-11-11T03:44:55.280723+00:00Z",
   "stats": {
-    "totalDirectories": 1539,
+    "totalDirectories": 1540,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1539.0,
-    "totalListings": 14329,
-    "aiEnhancedDirectories": 1539
+    "avgDirectoriesPerRepo": 1540.0,
+    "totalListings": 14339,
+    "aiEnhancedDirectories": 1540
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20015,12 +20015,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "bengali-speaking-eyebrow-tinting-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:44:55.280723+00:00Z",
+      "lastUpdated": "2025-11-11T03:44:55.280723+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1539,
+      "directoryCount": 1540,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

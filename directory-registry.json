@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:20:33.347838+00:00Z",
+  "lastUpdated": "2025-11-11T00:20:49.486199+00:00Z",
   "stats": {
-    "totalDirectories": 1331,
+    "totalDirectories": 1332,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1331.0,
-    "totalListings": 12393,
-    "aiEnhancedDirectories": 1331
+    "avgDirectoriesPerRepo": 1332.0,
+    "totalListings": 12403,
+    "aiEnhancedDirectories": 1332
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17311,12 +17311,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-user-persona-development-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:20:49.486199+00:00Z",
+      "lastUpdated": "2025-11-11T00:20:49.486199+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1331,
+      "directoryCount": 1332,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

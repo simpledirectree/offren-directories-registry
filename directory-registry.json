@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:33:03.702203+00:00Z",
+  "lastUpdated": "2025-11-11T03:33:20.390183+00:00Z",
   "stats": {
-    "totalDirectories": 1525,
+    "totalDirectories": 1526,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1525.0,
-    "totalListings": 14198,
-    "aiEnhancedDirectories": 1525
+    "avgDirectoriesPerRepo": 1526.0,
+    "totalListings": 14208,
+    "aiEnhancedDirectories": 1526
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19833,12 +19833,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-life-coaching-in-california": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:33:20.390183+00:00Z",
+      "lastUpdated": "2025-11-11T03:33:20.390183+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1525,
+      "directoryCount": 1526,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

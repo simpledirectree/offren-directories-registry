@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:37:07.023543+00:00Z",
+  "lastUpdated": "2025-11-11T02:37:22.763786+00:00Z",
   "stats": {
-    "totalDirectories": 1465,
+    "totalDirectories": 1466,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1465.0,
-    "totalListings": 13638,
-    "aiEnhancedDirectories": 1465
+    "avgDirectoriesPerRepo": 1466.0,
+    "totalListings": 13645,
+    "aiEnhancedDirectories": 1466
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19053,12 +19053,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-concierge-medicine-practices-in-vermont": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:37:22.763786+00:00Z",
+      "lastUpdated": "2025-11-11T02:37:22.763786+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1465,
+      "directoryCount": 1466,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

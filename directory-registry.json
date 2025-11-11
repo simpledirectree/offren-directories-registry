@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:49:58.101782+00:00Z",
+  "lastUpdated": "2025-11-11T03:50:14.990091+00:00Z",
   "stats": {
-    "totalDirectories": 1556,
+    "totalDirectories": 1557,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1556.0,
-    "totalListings": 14499,
-    "aiEnhancedDirectories": 1556
+    "avgDirectoriesPerRepo": 1557.0,
+    "totalListings": 14509,
+    "aiEnhancedDirectories": 1557
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20236,12 +20236,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-smart-home-wiring-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:50:14.990091+00:00Z",
+      "lastUpdated": "2025-11-11T03:50:14.990091+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1556,
+      "directoryCount": 1557,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:19:40.728110+00:00Z",
+  "lastUpdated": "2025-11-11T04:20:03.739087+00:00Z",
   "stats": {
-    "totalDirectories": 1641,
+    "totalDirectories": 1642,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1641.0,
-    "totalListings": 15346,
-    "aiEnhancedDirectories": 1641
+    "avgDirectoriesPerRepo": 1642.0,
+    "totalListings": 15356,
+    "aiEnhancedDirectories": 1642
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21341,12 +21341,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-payroll-administration-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:20:03.739087+00:00Z",
+      "lastUpdated": "2025-11-11T04:20:03.739087+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1641,
+      "directoryCount": 1642,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

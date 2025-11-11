@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:45:19.784469+00:00Z",
+  "lastUpdated": "2025-11-11T04:45:39.721834+00:00Z",
   "stats": {
-    "totalDirectories": 1713,
+    "totalDirectories": 1714,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1713.0,
-    "totalListings": 16040,
-    "aiEnhancedDirectories": 1713
+    "avgDirectoriesPerRepo": 1714.0,
+    "totalListings": 16050,
+    "aiEnhancedDirectories": 1714
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -22277,12 +22277,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-interface-design-in-maryland": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:45:39.721834+00:00Z",
+      "lastUpdated": "2025-11-11T04:45:39.721834+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1713,
+      "directoryCount": 1714,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

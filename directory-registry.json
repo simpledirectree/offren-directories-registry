@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:40:44.714132+00:00Z",
+  "lastUpdated": "2025-11-11T03:41:30.404003+00:00Z",
   "stats": {
-    "totalDirectories": 1535,
+    "totalDirectories": 1536,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1535.0,
-    "totalListings": 14289,
-    "aiEnhancedDirectories": 1535
+    "avgDirectoriesPerRepo": 1536.0,
+    "totalListings": 14299,
+    "aiEnhancedDirectories": 1536
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19963,12 +19963,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-agricultural-documentation-in-virginia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:41:30.404003+00:00Z",
+      "lastUpdated": "2025-11-11T03:41:30.404003+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1535,
+      "directoryCount": 1536,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

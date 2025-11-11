@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:58:00.100975+00:00Z",
+  "lastUpdated": "2025-11-11T03:58:19.633113+00:00Z",
   "stats": {
-    "totalDirectories": 1582,
+    "totalDirectories": 1583,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1582.0,
-    "totalListings": 14756,
-    "aiEnhancedDirectories": 1582
+    "avgDirectoriesPerRepo": 1583.0,
+    "totalListings": 14766,
+    "aiEnhancedDirectories": 1583
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20574,12 +20574,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-hot-yoga-in-georgia": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:58:19.633113+00:00Z",
+      "lastUpdated": "2025-11-11T03:58:19.633113+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1582,
+      "directoryCount": 1583,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:13:04.894309+00:00Z",
+  "lastUpdated": "2025-11-11T00:13:23.976506+00:00Z",
   "stats": {
-    "totalDirectories": 1324,
+    "totalDirectories": 1325,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1324.0,
-    "totalListings": 12323,
-    "aiEnhancedDirectories": 1324
+    "avgDirectoriesPerRepo": 1325.0,
+    "totalListings": 12333,
+    "aiEnhancedDirectories": 1325
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17220,12 +17220,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-infrastructure-optimization-in-south-carolina": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:13:23.976506+00:00Z",
+      "lastUpdated": "2025-11-11T00:13:23.976506+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1324,
+      "directoryCount": 1325,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

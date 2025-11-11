@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:23:10.928114+00:00Z",
+  "lastUpdated": "2025-11-11T04:23:30.301248+00:00Z",
   "stats": {
-    "totalDirectories": 1650,
+    "totalDirectories": 1651,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1650.0,
-    "totalListings": 15436,
-    "aiEnhancedDirectories": 1650
+    "avgDirectoriesPerRepo": 1651.0,
+    "totalListings": 15446,
+    "aiEnhancedDirectories": 1651
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21458,12 +21458,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-pediatric-dentistry-in-florida": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:23:30.301248+00:00Z",
+      "lastUpdated": "2025-11-11T04:23:30.301248+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1650,
+      "directoryCount": 1651,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

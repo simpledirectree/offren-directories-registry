@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:10:19.528021+00:00Z",
+  "lastUpdated": "2025-11-11T04:10:39.659526+00:00Z",
   "stats": {
-    "totalDirectories": 1615,
+    "totalDirectories": 1616,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1615.0,
-    "totalListings": 15086,
-    "aiEnhancedDirectories": 1615
+    "avgDirectoriesPerRepo": 1616.0,
+    "totalListings": 15096,
+    "aiEnhancedDirectories": 1616
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21003,12 +21003,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-sound-healing-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:10:39.659526+00:00Z",
+      "lastUpdated": "2025-11-11T04:10:39.659526+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1615,
+      "directoryCount": 1616,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:55:47.964829+00:00Z",
+  "lastUpdated": "2025-11-11T03:56:07.007047+00:00Z",
   "stats": {
-    "totalDirectories": 1575,
+    "totalDirectories": 1576,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1575.0,
-    "totalListings": 14686,
-    "aiEnhancedDirectories": 1575
+    "avgDirectoriesPerRepo": 1576.0,
+    "totalListings": 14696,
+    "aiEnhancedDirectories": 1576
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20483,12 +20483,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-ceiling-fans-in-new-mexico": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:56:07.007047+00:00Z",
+      "lastUpdated": "2025-11-11T03:56:07.007047+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1575,
+      "directoryCount": 1576,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

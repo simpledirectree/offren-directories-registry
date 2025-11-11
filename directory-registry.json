@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:33:03.952207+00:00Z",
+  "lastUpdated": "2025-11-11T04:33:21.427155+00:00Z",
   "stats": {
-    "totalDirectories": 1677,
+    "totalDirectories": 1678,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1677.0,
-    "totalListings": 15706,
-    "aiEnhancedDirectories": 1677
+    "avgDirectoriesPerRepo": 1678.0,
+    "totalListings": 15713,
+    "aiEnhancedDirectories": 1678
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21809,12 +21809,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-irrigation-system-installation-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:33:21.427155+00:00Z",
+      "lastUpdated": "2025-11-11T04:33:21.427155+00:00Z",
+      "status": "active",
+      "listingsCount": 7,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1677,
+      "directoryCount": 1678,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

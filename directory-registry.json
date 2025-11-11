@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:20:03.739087+00:00Z",
+  "lastUpdated": "2025-11-11T04:20:23.719310+00:00Z",
   "stats": {
-    "totalDirectories": 1642,
+    "totalDirectories": 1643,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1642.0,
-    "totalListings": 15356,
-    "aiEnhancedDirectories": 1642
+    "avgDirectoriesPerRepo": 1643.0,
+    "totalListings": 15366,
+    "aiEnhancedDirectories": 1643
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21354,12 +21354,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-on-site-printer-repair-in-utah": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:20:23.719310+00:00Z",
+      "lastUpdated": "2025-11-11T04:20:23.719310+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1642,
+      "directoryCount": 1643,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

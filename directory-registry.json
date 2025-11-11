@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:13:13.275296+00:00Z",
+  "lastUpdated": "2025-11-11T03:13:56.938941+00:00Z",
   "stats": {
-    "totalDirectories": 1501,
+    "totalDirectories": 1502,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1501.0,
-    "totalListings": 13979,
-    "aiEnhancedDirectories": 1501
+    "avgDirectoriesPerRepo": 1502.0,
+    "totalListings": 13989,
+    "aiEnhancedDirectories": 1502
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19521,12 +19521,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-shipping-services-in-connecticut": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:13:56.938941+00:00Z",
+      "lastUpdated": "2025-11-11T03:13:56.938941+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1501,
+      "directoryCount": 1502,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

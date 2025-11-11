@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:44:16.766825+00:00Z",
+  "lastUpdated": "2025-11-11T04:44:40.197553+00:00Z",
   "stats": {
-    "totalDirectories": 1710,
+    "totalDirectories": 1711,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1710.0,
-    "totalListings": 16010,
-    "aiEnhancedDirectories": 1710
+    "avgDirectoriesPerRepo": 1711.0,
+    "totalListings": 16020,
+    "aiEnhancedDirectories": 1711
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -22238,12 +22238,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-mediation-in-kansas": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:44:40.197553+00:00Z",
+      "lastUpdated": "2025-11-11T04:44:40.197553+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1710,
+      "directoryCount": 1711,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

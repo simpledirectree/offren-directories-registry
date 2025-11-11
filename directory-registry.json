@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:22:51.630485+00:00Z",
+  "lastUpdated": "2025-11-11T04:23:10.928114+00:00Z",
   "stats": {
-    "totalDirectories": 1649,
+    "totalDirectories": 1650,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1649.0,
-    "totalListings": 15426,
-    "aiEnhancedDirectories": 1649
+    "avgDirectoriesPerRepo": 1650.0,
+    "totalListings": 15436,
+    "aiEnhancedDirectories": 1650
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21445,12 +21445,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "american-indian-owned-sports-massage-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:23:10.928114+00:00Z",
+      "lastUpdated": "2025-11-11T04:23:10.928114+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1649,
+      "directoryCount": 1650,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

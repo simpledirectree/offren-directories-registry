@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:15:12.479318+00:00Z",
+  "lastUpdated": "2025-11-11T00:17:51.733341+00:00Z",
   "stats": {
-    "totalDirectories": 1328,
+    "totalDirectories": 1329,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1328.0,
-    "totalListings": 12363,
-    "aiEnhancedDirectories": 1328
+    "avgDirectoriesPerRepo": 1329.0,
+    "totalListings": 12373,
+    "aiEnhancedDirectories": 1329
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17272,12 +17272,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-data-recovery-solutions-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:17:51.733341+00:00Z",
+      "lastUpdated": "2025-11-11T00:17:51.733341+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1328,
+      "directoryCount": 1329,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

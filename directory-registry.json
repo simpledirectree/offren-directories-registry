@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:35:20.123866+00:00Z",
+  "lastUpdated": "2025-11-11T00:36:01.081668+00:00Z",
   "stats": {
-    "totalDirectories": 1351,
+    "totalDirectories": 1352,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1351.0,
-    "totalListings": 12578,
-    "aiEnhancedDirectories": 1351
+    "avgDirectoriesPerRepo": 1352.0,
+    "totalListings": 12588,
+    "aiEnhancedDirectories": 1352
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17571,12 +17571,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-architectural-visualization-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:36:01.081668+00:00Z",
+      "lastUpdated": "2025-11-11T00:36:01.081668+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1351,
+      "directoryCount": 1352,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

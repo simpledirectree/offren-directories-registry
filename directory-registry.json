@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:47:47.285464+00:00Z",
+  "lastUpdated": "2025-11-11T03:48:05.843724+00:00Z",
   "stats": {
-    "totalDirectories": 1549,
+    "totalDirectories": 1550,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1549.0,
-    "totalListings": 14429,
-    "aiEnhancedDirectories": 1549
+    "avgDirectoriesPerRepo": 1550.0,
+    "totalListings": 14439,
+    "aiEnhancedDirectories": 1550
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20145,12 +20145,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-roofing-repair-in-michigan": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:48:05.843724+00:00Z",
+      "lastUpdated": "2025-11-11T03:48:05.843724+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1549,
+      "directoryCount": 1550,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

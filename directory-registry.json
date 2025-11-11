@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:38:32.503877+00:00Z",
+  "lastUpdated": "2025-11-11T02:38:46.120023+00:00Z",
   "stats": {
-    "totalDirectories": 1469,
+    "totalDirectories": 1470,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1469.0,
-    "totalListings": 13675,
-    "aiEnhancedDirectories": 1469
+    "avgDirectoriesPerRepo": 1470.0,
+    "totalListings": 13680,
+    "aiEnhancedDirectories": 1470
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19105,12 +19105,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "black-owned-salt-therapy-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:38:46.120023+00:00Z",
+      "lastUpdated": "2025-11-11T02:38:46.120023+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1469,
+      "directoryCount": 1470,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:45:39.721834+00:00Z",
+  "lastUpdated": "2025-11-11T04:45:59.459978+00:00Z",
   "stats": {
-    "totalDirectories": 1714,
+    "totalDirectories": 1715,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1714.0,
-    "totalListings": 16050,
-    "aiEnhancedDirectories": 1714
+    "avgDirectoriesPerRepo": 1715.0,
+    "totalListings": 16060,
+    "aiEnhancedDirectories": 1715
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -22290,12 +22290,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-insurance-planning-in-alaska": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:45:59.459978+00:00Z",
+      "lastUpdated": "2025-11-11T04:45:59.459978+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1714,
+      "directoryCount": 1715,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T01:21:48.063186+00:00Z",
+  "lastUpdated": "2025-11-11T01:22:03.266782+00:00Z",
   "stats": {
-    "totalDirectories": 1393,
+    "totalDirectories": 1394,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1393.0,
-    "totalListings": 12987,
-    "aiEnhancedDirectories": 1393
+    "avgDirectoriesPerRepo": 1394.0,
+    "totalListings": 12997,
+    "aiEnhancedDirectories": 1394
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18117,12 +18117,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-garden-event-setup-in-illinois": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T01:22:03.266782+00:00Z",
+      "lastUpdated": "2025-11-11T01:22:03.266782+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1393,
+      "directoryCount": 1394,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

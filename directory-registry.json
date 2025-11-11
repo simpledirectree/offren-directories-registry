@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:28:23.945296+00:00Z",
+  "lastUpdated": "2025-11-11T04:28:44.664661+00:00Z",
   "stats": {
-    "totalDirectories": 1664,
+    "totalDirectories": 1665,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1664.0,
-    "totalListings": 15576,
-    "aiEnhancedDirectories": 1664
+    "avgDirectoriesPerRepo": 1665.0,
+    "totalListings": 15586,
+    "aiEnhancedDirectories": 1665
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21640,12 +21640,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-auto-glass-replacement-in-minnesota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:28:44.664661+00:00Z",
+      "lastUpdated": "2025-11-11T04:28:44.664661+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1664,
+      "directoryCount": 1665,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:27:44.338070+00:00Z",
+  "lastUpdated": "2025-11-11T03:28:28.957205+00:00Z",
   "stats": {
-    "totalDirectories": 1517,
+    "totalDirectories": 1518,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1517.0,
-    "totalListings": 14127,
-    "aiEnhancedDirectories": 1517
+    "avgDirectoriesPerRepo": 1518.0,
+    "totalListings": 14137,
+    "aiEnhancedDirectories": 1518
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19729,12 +19729,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-private-dinner-parties-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:28:28.957205+00:00Z",
+      "lastUpdated": "2025-11-11T03:28:28.957205+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1517,
+      "directoryCount": 1518,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:46:56.841542+00:00Z",
+  "lastUpdated": "2025-11-11T04:47:16.855979+00:00Z",
   "stats": {
-    "totalDirectories": 1718,
+    "totalDirectories": 1719,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1718.0,
-    "totalListings": 16090,
-    "aiEnhancedDirectories": 1718
+    "avgDirectoriesPerRepo": 1719.0,
+    "totalListings": 16100,
+    "aiEnhancedDirectories": 1719
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -22342,12 +22342,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-educational-garden-tours-in-new-hampshire": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:47:16.855979+00:00Z",
+      "lastUpdated": "2025-11-11T04:47:16.855979+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1718,
+      "directoryCount": 1719,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:08:19.525439+00:00Z",
+  "lastUpdated": "2025-11-11T04:08:44.563350+00:00Z",
   "stats": {
-    "totalDirectories": 1610,
+    "totalDirectories": 1611,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1610.0,
-    "totalListings": 15036,
-    "aiEnhancedDirectories": 1610
+    "avgDirectoriesPerRepo": 1611.0,
+    "totalListings": 15046,
+    "aiEnhancedDirectories": 1611
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20938,12 +20938,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-golf-coaching-in-arizona": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:08:44.563350+00:00Z",
+      "lastUpdated": "2025-11-11T04:08:44.563350+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1610,
+      "directoryCount": 1611,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

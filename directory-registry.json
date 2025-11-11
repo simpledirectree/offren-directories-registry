@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:32:43.697231+00:00Z",
+  "lastUpdated": "2025-11-11T04:33:03.952207+00:00Z",
   "stats": {
-    "totalDirectories": 1676,
+    "totalDirectories": 1677,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1676.0,
-    "totalListings": 15696,
-    "aiEnhancedDirectories": 1676
+    "avgDirectoriesPerRepo": 1677.0,
+    "totalListings": 15706,
+    "aiEnhancedDirectories": 1677
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21796,12 +21796,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "black-owned-windshield-replacement-in-tennessee": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:33:03.952207+00:00Z",
+      "lastUpdated": "2025-11-11T04:33:03.952207+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1676,
+      "directoryCount": 1677,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

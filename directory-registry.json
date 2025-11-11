@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T01:40:19.023240+00:00Z",
+  "lastUpdated": "2025-11-11T01:40:35.173237+00:00Z",
   "stats": {
-    "totalDirectories": 1410,
+    "totalDirectories": 1411,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1410.0,
-    "totalListings": 13138,
-    "aiEnhancedDirectories": 1410
+    "avgDirectoriesPerRepo": 1411.0,
+    "totalListings": 13148,
+    "aiEnhancedDirectories": 1411
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18338,12 +18338,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-general-surgery-in-hawaii": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T01:40:35.173237+00:00Z",
+      "lastUpdated": "2025-11-11T01:40:35.173237+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1410,
+      "directoryCount": 1411,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

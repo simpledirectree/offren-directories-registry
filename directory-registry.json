@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:24:44.239785+00:00Z",
+  "lastUpdated": "2025-11-11T02:25:26.808455+00:00Z",
   "stats": {
-    "totalDirectories": 1452,
+    "totalDirectories": 1453,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1452.0,
-    "totalListings": 13520,
-    "aiEnhancedDirectories": 1452
+    "avgDirectoriesPerRepo": 1453.0,
+    "totalListings": 13530,
+    "aiEnhancedDirectories": 1453
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18884,12 +18884,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "armenian-speaking-infrastructure-optimization-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:25:26.808455+00:00Z",
+      "lastUpdated": "2025-11-11T02:25:26.808455+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1452,
+      "directoryCount": 1453,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

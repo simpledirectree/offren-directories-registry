@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:17:51.678402+00:00Z",
+  "lastUpdated": "2025-11-11T04:18:11.293274+00:00Z",
   "stats": {
-    "totalDirectories": 1636,
+    "totalDirectories": 1637,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1636.0,
-    "totalListings": 15296,
-    "aiEnhancedDirectories": 1636
+    "avgDirectoriesPerRepo": 1637.0,
+    "totalListings": 15306,
+    "aiEnhancedDirectories": 1637
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -21276,12 +21276,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-corporate-law-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:18:11.293274+00:00Z",
+      "lastUpdated": "2025-11-11T04:18:11.293274+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1636,
+      "directoryCount": 1637,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

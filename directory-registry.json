@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:51:11.351697+00:00Z",
+  "lastUpdated": "2025-11-11T03:51:34.319965+00:00Z",
   "stats": {
-    "totalDirectories": 1560,
+    "totalDirectories": 1561,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1560.0,
-    "totalListings": 14539,
-    "aiEnhancedDirectories": 1560
+    "avgDirectoriesPerRepo": 1561.0,
+    "totalListings": 14549,
+    "aiEnhancedDirectories": 1561
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20288,12 +20288,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-industry-specific-solutions-in-indiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:51:34.319965+00:00Z",
+      "lastUpdated": "2025-11-11T03:51:34.319965+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1560,
+      "directoryCount": 1561,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

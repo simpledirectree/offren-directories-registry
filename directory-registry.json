@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:52:29.519957+00:00Z",
+  "lastUpdated": "2025-11-11T03:52:46.804700+00:00Z",
   "stats": {
-    "totalDirectories": 1564,
+    "totalDirectories": 1565,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1564.0,
-    "totalListings": 14579,
-    "aiEnhancedDirectories": 1564
+    "avgDirectoriesPerRepo": 1565.0,
+    "totalListings": 14589,
+    "aiEnhancedDirectories": 1565
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20340,12 +20340,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-liability-insurance-in-nevada": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:52:46.804700+00:00Z",
+      "lastUpdated": "2025-11-11T03:52:46.804700+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1564,
+      "directoryCount": 1565,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

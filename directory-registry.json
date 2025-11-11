@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:49:41.504761+00:00Z",
+  "lastUpdated": "2025-11-11T03:49:58.101782+00:00Z",
   "stats": {
-    "totalDirectories": 1555,
+    "totalDirectories": 1556,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1555.0,
-    "totalListings": 14489,
-    "aiEnhancedDirectories": 1555
+    "avgDirectoriesPerRepo": 1556.0,
+    "totalListings": 14499,
+    "aiEnhancedDirectories": 1556
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20223,12 +20223,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-transfer-pricing-in-new-jersey": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:49:58.101782+00:00Z",
+      "lastUpdated": "2025-11-11T03:49:58.101782+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1555,
+      "directoryCount": 1556,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

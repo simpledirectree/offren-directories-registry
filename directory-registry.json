@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:50:39.154938+00:00Z",
+  "lastUpdated": "2025-11-11T00:50:53.810811+00:00Z",
   "stats": {
-    "totalDirectories": 1366,
+    "totalDirectories": 1367,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1366.0,
-    "totalListings": 12717,
-    "aiEnhancedDirectories": 1366
+    "avgDirectoriesPerRepo": 1367.0,
+    "totalListings": 12727,
+    "aiEnhancedDirectories": 1367
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17766,12 +17766,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-tire-balancing-in-alabama": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:50:53.810811+00:00Z",
+      "lastUpdated": "2025-11-11T00:50:53.810811+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1366,
+      "directoryCount": 1367,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

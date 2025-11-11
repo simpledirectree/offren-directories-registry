@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T02:08:34.489319+00:00Z",
+  "lastUpdated": "2025-11-11T02:11:02.547803+00:00Z",
   "stats": {
-    "totalDirectories": 1436,
+    "totalDirectories": 1437,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1436.0,
-    "totalListings": 13378,
-    "aiEnhancedDirectories": 1436
+    "avgDirectoriesPerRepo": 1437.0,
+    "totalListings": 13386,
+    "aiEnhancedDirectories": 1437
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -18676,12 +18676,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-theater-instruction-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T02:11:02.547803+00:00Z",
+      "lastUpdated": "2025-11-11T02:11:02.547803+00:00Z",
+      "status": "active",
+      "listingsCount": 8,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1436,
+      "directoryCount": 1437,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

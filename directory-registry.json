@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:40:43.706821+00:00Z",
+  "lastUpdated": "2025-11-11T04:41:08.890017+00:00Z",
   "stats": {
-    "totalDirectories": 1700,
+    "totalDirectories": 1701,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1700.0,
-    "totalListings": 15910,
-    "aiEnhancedDirectories": 1700
+    "avgDirectoriesPerRepo": 1701.0,
+    "totalListings": 15920,
+    "aiEnhancedDirectories": 1701
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -22108,12 +22108,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-accessibility-compliance-in-louisiana": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:41:08.890017+00:00Z",
+      "lastUpdated": "2025-11-11T04:41:08.890017+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1700,
+      "directoryCount": 1701,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

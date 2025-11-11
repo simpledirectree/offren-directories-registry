@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:29:30.760184+00:00Z",
+  "lastUpdated": "2025-11-11T03:29:44.395286+00:00Z",
   "stats": {
-    "totalDirectories": 1520,
+    "totalDirectories": 1521,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1520.0,
-    "totalListings": 14157,
-    "aiEnhancedDirectories": 1520
+    "avgDirectoriesPerRepo": 1521.0,
+    "totalListings": 14158,
+    "aiEnhancedDirectories": 1521
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19768,12 +19768,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "african-american-owned-moving-assistants-in-new-york": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:29:44.395286+00:00Z",
+      "lastUpdated": "2025-11-11T03:29:44.395286+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1520,
+      "directoryCount": 1521,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:47:14.515760+00:00Z",
+  "lastUpdated": "2025-11-11T03:47:30.020902+00:00Z",
   "stats": {
-    "totalDirectories": 1547,
+    "totalDirectories": 1548,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1547.0,
-    "totalListings": 14409,
-    "aiEnhancedDirectories": 1547
+    "avgDirectoriesPerRepo": 1548.0,
+    "totalListings": 14419,
+    "aiEnhancedDirectories": 1548
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20119,12 +20119,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "asian-owned-teeth-whitening-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:47:30.020902+00:00Z",
+      "lastUpdated": "2025-11-11T03:47:30.020902+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1547,
+      "directoryCount": 1548,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:49:13.030240+00:00Z",
+  "lastUpdated": "2025-11-11T04:49:32.272002+00:00Z",
   "stats": {
-    "totalDirectories": 1725,
+    "totalDirectories": 1726,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1725.0,
-    "totalListings": 16160,
-    "aiEnhancedDirectories": 1725
+    "avgDirectoriesPerRepo": 1726.0,
+    "totalListings": 16170,
+    "aiEnhancedDirectories": 1726
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -22433,12 +22433,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "agnostic-owned-commercial-brokerage-in-wyoming": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:49:32.272002+00:00Z",
+      "lastUpdated": "2025-11-11T04:49:32.272002+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1725,
+      "directoryCount": 1726,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

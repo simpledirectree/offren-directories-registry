@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:01:21.583204+00:00Z",
+  "lastUpdated": "2025-11-11T04:01:42.699282+00:00Z",
   "stats": {
-    "totalDirectories": 1590,
+    "totalDirectories": 1591,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1590.0,
-    "totalListings": 14836,
-    "aiEnhancedDirectories": 1590
+    "avgDirectoriesPerRepo": 1591.0,
+    "totalListings": 14846,
+    "aiEnhancedDirectories": 1591
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20678,12 +20678,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-bathroom-design-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:01:42.699282+00:00Z",
+      "lastUpdated": "2025-11-11T04:01:42.699282+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1590,
+      "directoryCount": 1591,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

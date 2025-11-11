@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:46:30.849414+00:00Z",
+  "lastUpdated": "2025-11-11T03:46:51.665547+00:00Z",
   "stats": {
-    "totalDirectories": 1545,
+    "totalDirectories": 1546,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1545.0,
-    "totalListings": 14389,
-    "aiEnhancedDirectories": 1545
+    "avgDirectoriesPerRepo": 1546.0,
+    "totalListings": 14399,
+    "aiEnhancedDirectories": 1546
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20093,12 +20093,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "asian-owned-tablet-repair-in-colorado": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:46:51.665547+00:00Z",
+      "lastUpdated": "2025-11-11T03:46:51.665547+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1545,
+      "directoryCount": 1546,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

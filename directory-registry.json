@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:08:56.975993+00:00Z",
+  "lastUpdated": "2025-11-11T03:09:14.401912+00:00Z",
   "stats": {
-    "totalDirectories": 1498,
+    "totalDirectories": 1499,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1498.0,
-    "totalListings": 13949,
-    "aiEnhancedDirectories": 1498
+    "avgDirectoriesPerRepo": 1499.0,
+    "totalListings": 13959,
+    "aiEnhancedDirectories": 1499
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19482,12 +19482,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "chinese-speaking-tax-law-in-kentucky": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:09:14.401912+00:00Z",
+      "lastUpdated": "2025-11-11T03:09:14.401912+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1498,
+      "directoryCount": 1499,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

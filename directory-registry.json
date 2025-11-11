@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:26:47.039894+00:00Z",
+  "lastUpdated": "2025-11-11T03:27:28.262648+00:00Z",
   "stats": {
-    "totalDirectories": 1515,
+    "totalDirectories": 1516,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1515.0,
-    "totalListings": 14112,
-    "aiEnhancedDirectories": 1515
+    "avgDirectoriesPerRepo": 1516.0,
+    "totalListings": 14117,
+    "aiEnhancedDirectories": 1516
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19703,12 +19703,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-head-shaving-in-north-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:27:28.262648+00:00Z",
+      "lastUpdated": "2025-11-11T03:27:28.262648+00:00Z",
+      "status": "active",
+      "listingsCount": 5,
+      "opportunityScore": 70,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1515,
+      "directoryCount": 1516,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

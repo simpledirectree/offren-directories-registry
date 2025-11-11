@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:23:51.188222+00:00Z",
+  "lastUpdated": "2025-11-11T03:26:47.039894+00:00Z",
   "stats": {
-    "totalDirectories": 1514,
+    "totalDirectories": 1515,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1514.0,
-    "totalListings": 14102,
-    "aiEnhancedDirectories": 1514
+    "avgDirectoriesPerRepo": 1515.0,
+    "totalListings": 14112,
+    "aiEnhancedDirectories": 1515
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19690,12 +19690,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "arabic-speaking-optometry-in-delaware": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:26:47.039894+00:00Z",
+      "lastUpdated": "2025-11-11T03:26:47.039894+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1514,
+      "directoryCount": 1515,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

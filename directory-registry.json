@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:50:53.810811+00:00Z",
+  "lastUpdated": "2025-11-11T00:52:30.424250+00:00Z",
   "stats": {
-    "totalDirectories": 1367,
+    "totalDirectories": 1368,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1367.0,
-    "totalListings": 12727,
-    "aiEnhancedDirectories": 1367
+    "avgDirectoriesPerRepo": 1368.0,
+    "totalListings": 12737,
+    "aiEnhancedDirectories": 1368
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17779,12 +17779,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "atheist-owned-garden-tool-maintenance-in-mississippi": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:52:30.424250+00:00Z",
+      "lastUpdated": "2025-11-11T00:52:30.424250+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1367,
+      "directoryCount": 1368,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

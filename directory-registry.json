@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:33:20.390183+00:00Z",
+  "lastUpdated": "2025-11-11T03:33:33.854512+00:00Z",
   "stats": {
-    "totalDirectories": 1526,
+    "totalDirectories": 1527,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1526.0,
-    "totalListings": 14208,
-    "aiEnhancedDirectories": 1526
+    "avgDirectoriesPerRepo": 1527.0,
+    "totalListings": 14209,
+    "aiEnhancedDirectories": 1527
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -19846,12 +19846,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-management-accounting-in-massachusetts": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:33:33.854512+00:00Z",
+      "lastUpdated": "2025-11-11T03:33:33.854512+00:00Z",
+      "status": "active",
+      "listingsCount": 1,
+      "opportunityScore": 50,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1526,
+      "directoryCount": 1527,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

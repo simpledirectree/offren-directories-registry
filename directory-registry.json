@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:56:26.788814+00:00Z",
+  "lastUpdated": "2025-11-11T03:56:43.593817+00:00Z",
   "stats": {
-    "totalDirectories": 1577,
+    "totalDirectories": 1578,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1577.0,
-    "totalListings": 14706,
-    "aiEnhancedDirectories": 1577
+    "avgDirectoriesPerRepo": 1578.0,
+    "totalListings": 14716,
+    "aiEnhancedDirectories": 1578
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20509,12 +20509,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "alaska-native-owned-garden-party-setup-in-oklahoma": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:56:43.593817+00:00Z",
+      "lastUpdated": "2025-11-11T03:56:43.593817+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1577,
+      "directoryCount": 1578,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

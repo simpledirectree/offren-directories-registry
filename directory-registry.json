@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:31:51.779152+00:00Z",
+  "lastUpdated": "2025-11-11T00:32:06.115907+00:00Z",
   "stats": {
-    "totalDirectories": 1344,
+    "totalDirectories": 1345,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1344.0,
-    "totalListings": 12510,
-    "aiEnhancedDirectories": 1344
+    "avgDirectoriesPerRepo": 1345.0,
+    "totalListings": 12520,
+    "aiEnhancedDirectories": 1345
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17480,12 +17480,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "buddhist-owned-real-estate-appraisal-in-ohio": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:32:06.115907+00:00Z",
+      "lastUpdated": "2025-11-11T00:32:06.115907+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1344,
+      "directoryCount": 1345,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

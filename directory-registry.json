@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T03:48:59.874715+00:00Z",
+  "lastUpdated": "2025-11-11T03:49:21.589878+00:00Z",
   "stats": {
-    "totalDirectories": 1553,
+    "totalDirectories": 1554,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1553.0,
-    "totalListings": 14469,
-    "aiEnhancedDirectories": 1553
+    "avgDirectoriesPerRepo": 1554.0,
+    "totalListings": 14479,
+    "aiEnhancedDirectories": 1554
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20197,12 +20197,25 @@
         "pollinations_failed"
       ],
       "competition": "medium"
+    },
+    "central-american-owned-crisis-intervention-in-missouri": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T03:49:21.589878+00:00Z",
+      "lastUpdated": "2025-11-11T03:49:21.589878+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_failed"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1553,
+      "directoryCount": 1554,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T04:07:40.186779+00:00Z",
+  "lastUpdated": "2025-11-11T04:08:00.005763+00:00Z",
   "stats": {
-    "totalDirectories": 1608,
+    "totalDirectories": 1609,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1608.0,
-    "totalListings": 15016,
-    "aiEnhancedDirectories": 1608
+    "avgDirectoriesPerRepo": 1609.0,
+    "totalListings": 15026,
+    "aiEnhancedDirectories": 1609
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -20912,12 +20912,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "catholic-owned-nutrition-coaching-in-pennsylvania": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T04:08:00.005763+00:00Z",
+      "lastUpdated": "2025-11-11T04:08:00.005763+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1608,
+      "directoryCount": 1609,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

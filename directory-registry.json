@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:44:10.817973+00:00Z",
+  "lastUpdated": "2025-11-11T00:44:53.193569+00:00Z",
   "stats": {
-    "totalDirectories": 1358,
+    "totalDirectories": 1359,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1358.0,
-    "totalListings": 12645,
-    "aiEnhancedDirectories": 1358
+    "avgDirectoriesPerRepo": 1359.0,
+    "totalListings": 12655,
+    "aiEnhancedDirectories": 1359
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17662,12 +17662,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "christian-owned-aromatherapy-in-south-dakota": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:44:53.193569+00:00Z",
+      "lastUpdated": "2025-11-11T00:44:53.193569+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1358,
+      "directoryCount": 1359,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1

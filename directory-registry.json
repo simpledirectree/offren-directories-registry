@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-11-11T00:31:18.866624+00:00Z",
+  "lastUpdated": "2025-11-11T00:31:35.593966+00:00Z",
   "stats": {
-    "totalDirectories": 1342,
+    "totalDirectories": 1343,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 1342.0,
-    "totalListings": 12490,
-    "aiEnhancedDirectories": 1342
+    "avgDirectoriesPerRepo": 1343.0,
+    "totalListings": 12500,
+    "aiEnhancedDirectories": 1343
   },
   "directories": {
     "bengali-speaking-brake-pad-replacement-in-michigan": {
@@ -17454,12 +17454,25 @@
         "pollinations_ai"
       ],
       "competition": "medium"
+    },
+    "baby-boomer-owned-technology-procurement-in-washington": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-11-11T00:31:35.593966+00:00Z",
+      "lastUpdated": "2025-11-11T00:31:35.593966+00:00Z",
+      "status": "active",
+      "listingsCount": 10,
+      "opportunityScore": 80,
+      "aiEnhanced": true,
+      "researchSources": [
+        "pollinations_ai"
+      ],
+      "competition": "medium"
     }
   },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-11-10T06:54:13.147425+00:00Z",
-      "directoryCount": 1342,
+      "directoryCount": 1343,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
